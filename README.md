@@ -1,26 +1,51 @@
-NER_SciBERT/
-│
-├── data/                   # 数据文件夹
-│   ├── raw/                # 原始数据
-│   └── processed/          # 预处理后的数据
-│
-├── src/                    # 源代码文件夹
-│   ├── models/             # 模型定义
-│   ├── data/               # 数据加载和预处理代码
-│   └── utils/              # 辅助功能代码
-│
-├── scripts/                # 脚本文件夹
-│   ├──                     # 预训练模型的脚本
-│   ├── train.py            # 训练模型的脚本
-│   ├── predict.py          # 进行预测的脚本
-│   └── evaluate.py         # 评估模型性能的脚本
-│
-├── models/                 # 训练后的模型和模型权重
-│
-├── logs/                   # 日志文件夹
-│
-├── requirements.txt        # 项目依赖项
-│
-├── setup.py                # 安装脚本
-│
-└── README.md               # 项目的README文件
+# NER_SciBERT
+
+本项目是一个基于 SciBERT 的命名实体识别（NER）系统。它旨在提供一个高效、准确的NER模型，专门针对科学文献。
+
+## 安装
+
+要安装和运行 NER_SciBERT，请按照以下步骤操作：
+
+1. 克隆仓库：`git clone [仓库链接]`
+2. 安装依赖：`pip install -r requirements.txt`
+
+## 使用
+
+要使用 NER_SciBERT，运行以下脚本之一：
+
+- 训练模型：`python scripts/train.py`
+- 进行预测：`python scripts/predict.py`
+- 评估模型：`python scripts/evaluate.py`
+
+## 项目结构
+
+<details>
+<summary>项目结构</summary>
+
+- NER_SciBERT/
+  - data/
+    - raw/
+    - processed/
+  - src/
+    - models/
+    - data/
+    - utils/
+  - scripts/
+    - train.py
+    - predict.py
+    - evaluate.py
+  - models/
+  - logs/
+  - requirements.txt
+  - setup.py
+  - README.md
+
+</details>
+
+## 贡献
+
+我们欢迎任何形式的贡献，无论是新功能、文档还是问题修复。请先提交问题或拉取请求。
+
+## 联系方式
+
+如果您有任何问题或建议，请通过 [您的联系方式] 与我们联系。
