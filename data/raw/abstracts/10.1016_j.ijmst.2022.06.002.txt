@@ -1,0 +1,7 @@
+The constant m
+                     i in the Hoek-Brown (H-B) criterion is a fundamental parameter required for determining the compressive strength of rock. In this paper, drilling parameters provide a new basis for determining the constant m
+                     i. An analytical relationship between the drilling parameters and constant m
+                     i is established in consideration of the contact response between the drilling bit and the cut rock in the crushed zone. New models are developed to predict the triaxial compressive strength (TCS), internal friction angle φ and cohesion c of rock. Drilling tests are carried out on 6 rock types to study the correlation between φ and m
+                     i. A comparison between the predicted values of rock mechanical properties and the measured values from the laboratory is performed to verify the accuracy of the proposed model (yielding an error less than 10%). The TCSs and constant m
+                     i values of fifteen rocks are cited to validate the accuracy of the proposed model. The result shows that the proposed model predicts the TCS and constant m
+                     i within a maximum error of 20%. The method can be conveniently applied to the rock mechanical properties.

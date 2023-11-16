@@ -1,0 +1,8 @@
+Background
+                  Biomolecules have been universally used to direct the synthesis of nanomaterials, but the controllable synthesis of hierarchical structured materials remains a challenge.
+               
+                  Methods
+                  Herein, we show that lecithin can mediate the mineralization process of gold to form nanoparticles featuring a well-defined hierarchical structure.
+               
+                  Finding
+                  This structure is composed of primary gold branches, secondary bunches of gold branches, and tertiary gold nanoparticles hierarchically organized by the previous two basic structures. A molecular dynamics (MD) simulation reveals that the preferential adsorption of lecithin on the Au(111) plane directs the oriented growth and promotes the formation of the gold branch structure, and the hydrophobic force of amphiphilic lecithin leads to the spontaneous assembly of the primary gold branches into hierarchical gold nanoparticles. Specifically, hierarchical gold nanoparticles with tunable particle size from 52.6 to 549.8 nm and branch thickness from 7.4 to 16.4 nm are achieved by regulating the reaction conditions. Furthermore, two-generation HOGNPs with a new layer of gold branches growing on the one-generation HOGNPs are synthesized based on the method. This work represents an effective strategy and open an avenue for the controlled synthesis of hierarchical structured materials.

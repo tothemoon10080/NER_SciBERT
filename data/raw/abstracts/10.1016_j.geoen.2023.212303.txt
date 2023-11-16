@@ -1,0 +1,64 @@
+In complex carbonate reservoirs, it is crucial to understand the connections between reservoir compositions (minerals, facies, and properties). Conventionally, core samples have been used to measure reservoir parameters and identify minerals and facies. However, core samples are limited to certain wells. Therefore, additional techniques are necessary to overcome this limitation comprehensively. This study aims to identify key mineralogical and facies components of the Barra Velha Formation (
+                        
+                           B
+                           V
+                           F
+                        
+                     ) and their relation to reservoir parameters. Dolomite, calcite, quartz, and clay minerals were commonly found using X-ray Diffraction (
+                        
+                           X
+                           R
+                           D
+                        
+                     ). By employing multi-mineral (
+                        
+                           M
+                           M
+                        
+                     ) petrophysical evaluations, we accurately recreated mineral quantities from 
+                        
+                           X
+                           R
+                           D
+                        
+                      and petrophysical properties from core analysis to ensure reliability. Replications of inputs well logs and the mineralogical volume from spectroscopic (
+                        
+                           E
+                           C
+                           S
+                        
+                     ) were used as reliability techniques for validating the 
+                        
+                           M
+                           M
+                        
+                     . A total of 47 wells were analyzed using those methods. In this study, the classification of facies was accomplished through the selection of three prominent supervised artificial intelligence techniques, among which 
+                        
+                           S
+                           O
+                           M
+                        
+                     , a widely employed method for facies estimation, was included. Additionally, the ensemble methods of Random Forest and XGBoost were adopted due to their recognized efficacy in handling tabular data and their track record of success in machine learning and artificial intelligence competitions. Remarkably, the performance evaluation revealed that Random Forest and XGBoost algorithms outperformed 
+                        
+                           S
+                           O
+                           M
+                        
+                     , yielding the most favorable outcomes in this context. An integrated analysis of mineralogical and facies results was conducted, incorporating production data and special profiles such as nuclear magnetic resonance (
+                        
+                           N
+                           M
+                           R
+                        
+                     ) and Wellbore Image (
+                        
+                           W
+                           B
+                           I
+                        
+                     ) to identify vug-containing areas. The dolomitic facies exhibited favorable reservoir qualities, influenced by diagenetic processes represented by vuggy porosity, which enhanced permeability. Shrubstones, spherulites, and reworked facies showed superior petrophysical qualities and were connected with productive regions, leading to elevated dolomite concentrations, and vuggy abundance. The study highlights two major innovations: the use of mineralogical volume from multi-mineral assessments as inputs for 
+                        
+                           A
+                           I
+                        
+                     -based property estimation to improve facies estimates, and the discovery of relationships between facies, minerals, and reservoir properties, compared to production data. This understanding allows for more accurate static model creation, optimal production interval selection, improved hydrocarbon recovery, and better specification of stimulation processes.

@@ -1,0 +1,6 @@
+The asphalt mixture durability and the rutting performance are related to the design parameter called Voids in Mineral Aggregate (VMA). The main objective of this research consists in estimating VMA according to gradation variation thanks to a non-linear packing density model: the Theoretical Packing Density Model (TPDM). The TPDM is derived from the Compressible Packing Model (CPM). Data are from Vavrik’s reference experiments. The TPDM requires only two parameters: the critical cavity size ratio 
+                        
+                           x
+                           0
+                        
+                      which characterizes the size of the voids in the coarse aggregate and the compaction index K. TPDM estimates are compared with those of another model, the linear-mixture packing model, thanks to the correlation coefficient, the mean absolute error, the root mean square error and the mean square error. These four statistical indicators are worth respectively 94%, 1.50%, 0.62%, 0.38% for the TPDM and 90%, 1.68%, 0.88%, 0.77% for the linear-mixture packing model: the TPDM therefore makes it possible to reduce the most significant deviations between measurements and estimates.

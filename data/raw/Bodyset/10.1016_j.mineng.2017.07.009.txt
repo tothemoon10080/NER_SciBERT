@@ -1,0 +1,96 @@
+In the previous study, a mathematical model was proposed to predict retained mass inside a laboratory Knelson Concentrator bowl. In this part, a model is proposed to describe the particle separation performance of the laboratory Knelson Concentrator. The separation model considers the main forces (fluid drag force, 
+                        
+                           
+                              
+                                 F
+                              
+                              
+                                 d
+                              
+                           
+                        
+                     , centrifugal force, 
+                        
+                           
+                              
+                                 F
+                              
+                              
+                                 c
+                              
+                           
+                        
+                     , and buoyancy force, 
+                        
+                           
+                              
+                                 F
+                              
+                              
+                                 b
+                              
+                           
+                        
+                     ) acting on particles inside the concentrating bowl, which are functions of material properties as well as the operating condition parameters. Several materials with different densities including magnetite, zinc, ferromolybdenum, lead, and tungsten were used as valuable components to simulate minerals with the same densities in two-component synthetic feeds with various size fractions. The modelling of component separation in the Knelson Concentrator was performed based on the ratio of 
+                        
+                           
+                              
+                                 F
+                              
+                              
+                                 d
+                              
+                           
+                           /
+                           (
+                           
+                              
+                                 F
+                              
+                              
+                                 c
+                              
+                           
+                           -
+                           
+                              
+                                 F
+                              
+                              
+                                 b
+                              
+                           
+                           )
+                        
+                     . Based on an extensive experimental database, practical and simple models were proposed as predictors of recovered mass of valuable components from tailings and the mass of quartz (as gangue) in the Knelson Concentrator versus the ratio of 
+                        
+                           
+                              
+                                 F
+                              
+                              
+                                 d
+                              
+                           
+                           /
+                           (
+                           
+                              
+                                 F
+                              
+                              
+                                 c
+                              
+                           
+                           -
+                           
+                              
+                                 F
+                              
+                              
+                                 b
+                              
+                           
+                           )
+                        
+                      for quartz.Knelson Concentrators are gravity concentration devices that are commonly used in gold recovery from both alluvial and primary ore deposits (    The use of recovery as a predictor of KC performance is limiting. Recovery is related to the ratio of mass of minerals recovered in the concentrate to the mass of minerals in the feed. The KC operates in a batch mode; hence, at some point, the concentrate rings in the bowl reach their full capacity. Thus, incoming mineral particles bounce off the concentrate bed and leave the unit, leading to a decrease in the recovery. If the recovery is to be used as a predictor, it is important not to over feed the KC. In other words, the fixed volume of the Knelson Concentrator bowl limits the amount of gold collected, constraining the cycle time in batch plant operations ( The partition curve relates to the partition coefficient or partition number, i.e. the percentage of the feed material of a particular density, which reports to either the sink product (generally used for minerals) or the float product (generally used for coal), to density. It is exactly analogous to the classification efficiency curve, in which the partition coefficient is plotted against size rather than density ( Generally, the partition values are the unknown function of the characteristic, which is taken as the separation criterion (  The ideal partition curve reflects a perfect separation in which all particles having a density higher than the cut density report to sinks, and those lighter reports to floats. There is no misplaced material. The partition curve for a real separation shows that efficiency is the highest for particles of density far from the cut density and decreases for particles approaching the cut density. The area between the two curves is called the “error area” and is a measure of the degree of misplacement of particles to the wrong product. Many partition curves give a reasonable straight-line relationship between the partition values of 25% and 75%, and the slope of the line between these distributions is used to show the efficiency of the process ( Many empirical mathematical models of the Tromp curve are now available. These range from the well-known statistical distribution functions, e.g. Gaussian, log-normal, Rosin-Rammler, Gaudin-Schuhmann, to more recent and more complicated functions containing 4 or 5 parameters. As summarized by A mechanistic model was developed by The objective of the present study is the derivation of an empirical model of material separation inside the Knelson Concentrator in terms of particle characteristics (size and density) and operating condition parameters (rotational speed and fluidization water pressure, etc.). This model can be used, firstly, to predict the separation of GRG to marginal-GRG material ranges from gangue. In It has been previously shown that synthetic tungsten/quartz feed can accurately mimic gold ore under gravity test conditions ( In order to separate middling particles or heavy mineral particles with different densities, magnetite (Sangan iron ore mine, Iran), zinc (Cirda Co., China), ferromolybdenum (Zanjan Boronz Co., Iran), copper (Khorasan Powder Metallurgy Co., Iran), lead (National Iranian Lead and Zinc Co, Iran) and tungsten (Eurotungsten Co., France) were used to simulate these particles including gold with the same densities and various size fractions ( Quartz (Silica Sand MFG Co., Iran) was used as the low-density gangue (2.65 All the tests were conducted using a laboratory Knelson Concentrator of Manual Discharge type with a bowl diameter equal to 3 inches (KC-MD3) at the Iran Mineral Processing Research Center (IMPRC). The tests were carried out in order to find the recovery of valuable components using an experimental protocol as defined below: Samples of synthetic feed were prepared by mixing quartz and valuable components with a volume ratio of 4% in each size fraction ( The volume of valuable components in the synthetic feed was 6 The solid and water feed flow rate were kept constant at 300 The tests were done on three size fractions of each valuable component in the fluidizing water flow rates of 15, 10 and 5 To validate the proposed separation model, several tests were done outside the range of previous operating conditions and by using other valuable components such as copper and tungsten with different densities. At the end of each test, the concentrate was collected, dried and weighed, and then prepared for analysis. Since all fractions of the synthetic feed consisted of quartz and magnetite, the concentrate of each test was analyzed using a magnet (with a magnetic field intensity of 1500 As the −180 For the other fractions of synthetic feeds (except the above-mentioned fraction of quartz/zinc synthetic feed), the concentrate of each test was analyzed using a laboratory Mozley shaking table to completely separate the valuable component from the quartz in several steps. All quartz and the valuable component samples were dried after treatment and weighed and their volumes calculated. The centrifugal separation of minerals is subjected to different forces including centrifugal, drag, buoyancy, and inter-particle collisions. Based on Newton’s second law, the movement of a spherical particle in a fluid under the action of centrifugal field and the forces acting on settling can be incorporated in Eq. The external centrifugal force is equal to: In the previous study, In this article, a separation model for recovery of valuable components with different densities and sizes (as concentrate) from quartz (as gangue) by the Knelson Concentrator is proposed. The ratio of The curves for the recovered volumes of quartz and valuable components versus In the previous study, it was shown that, for the Hence, for the purpose of modelling, the data points with the ratio of In the first method, the curve fitting was done on quartz and the valuable component volume versus In the second method, it is considered that, at the beginning of the recovery cycle, the bowl rings are initially filled with the mixture of quartz and valuable component. Then, a layer of valuable component accumulates on the surface of the initial bed of particles inside the rings. In the separation zone, whether a particle is collected at the surface of a ring or rejected to the tailings mainly depends on the competing forces: centrifugal force, drag force, and the fluidization water flow pressure ( Now, using the first method, the volume of the recovered quartz is modelled and the associated valuable component is calculated. The amount of valuable component collected at the surface of the rings was obtained by subtracting the associated valuable component (inside the bed) from the total amount of recovered valuable component in the bowl. The curves of the volume of valuable components deposited on the surface of the rings (outside the bed) versus The total volume of valuable component recovered in the bowl is equal to the sum of the valuable component inside the interior bed and the valuable component within the exterior bed. The curve of valuable component recovered was plotted versus Experiments were done on each synthetic feed and size fraction separately. After conducting 27 experiments for three size fractions of each synthetic feed, the volumes recovered of both valuable components and quartz in the bowl were calculated and plotted versus the ratio of Based on the two methods of data modelling, curve fitting was done after omitting the outlier data points (described in the previous section). A Weibull model was fitted to the data using a least squares approach ( To show repeatability of the experiments, the test for quartz/magnetite synthetic feed (−300 For the modelling of the volume of recovered valuable components in the Knelson Concentrator bowl, the following steps were performed. First, the volumes of all the recovered valuable components in all the tests were plotted versus the ratio of A Weibull model, as described by      Two types of tests were conducted to validate the models. Accordingly, in one type, 12 tests were performed outside the range of operating conditions mentioned earlier. For example, rotational speeds were adjusted lower and higher than that of the previous ranges (1083 and 2041 As for the second type of validation tests, tungsten was also selected as a new material with a density of 18.25  In the previous study, the volume of the retained mass of different materials in the Knelson Concentrator bowl was modelled by defining anew parameter, A database of batch tests was generated using a 3-inch laboratory Knelson Concentrator. This is for synthetic feeds containing valuable components with various densities and particle sizes under different operating conditions. The following conclusions can be drawn based on the experimental work: In The recovered volume of valuable components depends on the recovered volume of quartz in the bowl so that it decreases with an increase in the recovered volume of quartz. As mentioned earlier, the recovered volume of quartz decreases with an increase in the ratio of In this research, a useful and simple regression model was obtained which is proposed as a predictor of the recovered mass (or volume) of materials inside the Knelson Concentrator bowl in terms of particle characteristics and operating conditions. It was found that the Weibull model could provide the best fit to data using a least squares approach. The two different modelling methods show that both derived models are the same. The results from both methods indicate that the concentration rings inside the bowl are filled with the mixture of quartz and valuable component (feed) at the beginning of the recovery cycle. Then, a separation process takes place at the surface of the materials inside the rings. The experimental data and the regression modelling results show that the concentrate volume recovered in the bowl remains constant up to 150 for A comprehensive database was developed, based on a detailed testwork programme using the laboratory Knelson Concentrator. The database included 108 tests, which were used to derive the proposed separation model and 16 tests for its validation. The tests were done on various synthetic feeds under different operating conditions. In conclusion, a Weibull model, Eq. The authors would like to express their sincere thanks to the University of Tehran, Iranian Mines & Mining Industries Development & Renovation (IMIDRO), and the Iran Mineral Processing Research Center (IMPRC) for their financial and in-kind support during this research.

@@ -1,0 +1,4 @@
+The oxidative decolourization and mineralization of three reactive dyes in separately prepared aqueous solutions C.I. Reactive Yellow 3 (RY3), C.I. Reactive Blue 2 (RB2) and C.I. Reactive Violet 2 (RV2) by using homogeneous and heterogeneous Fenton and UV/Fenton processes have been investigated. The effects of H2O2, Fe2+ and Fe0 concentrations, Fe2+/H2O2 and Fe0/H2O2 molar ratios at pH 3 and T
+                     =23±1°C have been studied. Optimal operational conditions for the efficient degradation of all three dye solutions (100mgL−1) were found to be Fe2+/H2O2
+                     =0.5mM/20mM and Fe0/H2O2
+                     =2mM/1mM. The experimental results showed that the homogeneous Fenton process employing UV irradiation was the most effective. By using this process, the high levels of mineralization (78–84%) and decolourization (95–100%) were achieved. Pseudo-first-order degradation rate constants were obtained from the batch experimental data.

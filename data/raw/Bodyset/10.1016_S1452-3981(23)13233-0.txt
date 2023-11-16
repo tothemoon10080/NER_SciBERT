@@ -1,0 +1,8 @@
+The mass transport and potential characterization were carried out in a flow-through porous electrode reactor. Carbon particles of three different sizes were used as porous electrode. Silver electrodeposition from an alkaline ammonia electrolyte is used as a test system. The experimental mass transport characterization (k
+                     
+                        m
+                     
+                     a = bu
+                     
+                        c
+                     ) showed that the value of the coefficient b depends on the magnitude of carbon particle, while c indicates that the flow pattern is a complex function of the carbon particle size. The experimental potential drop in the flow-through porous electrode is also reported. The mass transport and potential characterization have been conducted to identify suitable operating conditions.

@@ -1,0 +1,11 @@
+Purpose
+                  To investigate the feasibility and the optimum condition of human adipose-derived stem cells cultured on the mineralized collagen material; and to further explore the mechanism of osteogenic differentiation of the human Adipose-derived stem cells stimulated by the mineralized collagen material.
+               
+                  Methods
+                  Primary human adipose-derived stem cells (HADSCs) were isolated from human adipose tissue using centrifugal stratification, which had been passed repeatedly to later generations and purified. Human adipose-derived stem cells were cultured on the bone graft material and the optimum concentration was explored by Alamar blue colorimetric method. The rest experiment was conducted according to the result. The experimental groups are shown below: group A (HADSCs + bone graft material); group B (HADSCs). Morphological observation was taken by scanning electronic microscope (SEM). Alkaline phosphatase activities were tested by histochemical method. Calcium deposition was investigated by alizarin red staining. The quantity access of osteogenic-related mRNA: ALP (alkaline phosphatase), BMP2 (bone morphogenetic protein 2) and RUNX2 (runt-related transcription factor 2) were detected using RT-PCR.
+               
+                  Results
+                  The cultured cells grew stably and proliferated rapidly. The optimum condition was 0.5 mg/cm2 bone graft material coated on the bottom of medium. After culturing on the material 14 days, the alizarin red staining showed that more calcium deposition was detected in group A and alkaline phosphatase activities of group A was higher than group B (p ˃ 0.05). Similarly, after culturing for 14 days, the ALP, BMP2 and RUNX2 transcription activity of group A was higher than group B (p ˃ 0.05).
+               
+                  Conclusion
+                  Human adipose-derived stem cells cultured on bone graft material were dominantly differentiated into osteoblast in vitro. Thus it provided a new choice for bone tissue engineering.

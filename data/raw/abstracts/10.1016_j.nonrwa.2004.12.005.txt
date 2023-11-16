@@ -1,0 +1,69 @@
+This work models the dynamics and evolution of carbon (C) and nitrogen (N) related to organic matter in soils by using individual-based simulations. The simulator INDISIM-SOM controls a group of microbial cells at each time step, using a set of time-dependent variables for each microorganism. The space is divided into square cells. In each spatial cell, the amounts of different types of organic compounds are controlled. These are identified as polymerized organic C and N, labile organic C and N, mineral compounds like 
+                        
+                           
+                              N
+                           
+                           
+                              
+                                 
+                                    NH
+                                 
+                                 
+                                    4
+                                 
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              N
+                           
+                           
+                              
+                                 
+                                    NO
+                                 
+                                 
+                                    3
+                                 
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              CO
+                           
+                           
+                              2
+                           
+                        
+                      and 
+                        
+                           
+                              O
+                           
+                           
+                              2
+                           
+                        
+                     . The model takes into account the activity of two prototypes of microbial cells: ammonifier microorganisms and nitrifier bacteria. Different metabolic pathways and sources of C and N they can use are identified. Some state variables and parameters related to soil organic matter and microbial activity: growth and decay of microbial biomass, and temporal evolutions of mineralized intermediate N, mineral N in ammonium and nitrate, 
+                        
+                           
+                              CO
+                           
+                           
+                              2
+                           
+                        
+                      and 
+                        
+                           
+                              O
+                           
+                           
+                              2
+                           
+                        
+                      are studied. The calibration of the simulation model has made use of data from laboratory incubation experiments performed on two different types of Mediterranean soils. Both, conceptual validation during the development of the model and agreement of the simulation results with experimental data of the short-term dynamics of C and N, provide a direct route from the microscopic details of the system to its macroscopic properties.

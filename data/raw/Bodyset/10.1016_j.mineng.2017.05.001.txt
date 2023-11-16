@@ -1,0 +1,61 @@
+In this work, the detailed analysis of HCN volatilization, taking place in tailing storage facilities, was made. Volatilization experiments were performed at conditions typical of gold leaching industrial tailing ponds. The meticulous statistical analysis (including full factorial 33 experimental design) let to determine the variables and their interactions affecting the percentage of HCN volatilization. Volatilization tests were performed in an open, temperature-controlled, continuously-stirred batch reactor. The percentage of HCN volatilization was directly proportional to the temperature and temperature-pH interaction and inversely proportional to the pH, cyanide concentration, and pH-pH and temperature-cyanide concentration interactions. HCN volatilization was promoted at acidic conditions. A first order rate law was used to represent the volatilization rate. The specific rate constant (k) was found to be following function of temperature and pH: 
+                        
+                           k
+                           (
+                           T,pH
+                           )
+                           =
+                           
+                              
+                                 A
+                              
+                              
+                                 0
+                              
+                           
+                           ·
+                           exp
+                           
+                              
+                                 
+                                    
+                                       -
+                                       18760.78
+                                    
+                                    
+                                       T
+                                    
+                                 
+                              
+                           
+                        
+                     , where: 
+                        
+                           ln
+                           (
+                           
+                              
+                                 A
+                              
+                              
+                                 0
+                              
+                           
+                           )
+                           =
+                           (
+                           0.11
+                           ±
+                           0.11
+                           )
+                           ·
+                           pH
+                           +
+                           (
+                           58.08
+                           ±
+                           0.16
+                           )
+                        
+                     . The obtained kinetic model represented properly (R2
+                     =0.90) experimental data in a wide range of industrial conditions: cyanide concentration (300–2000mg·L−1), pH (3–9), and temperature (16–20°C). The increase in temperature, from 16 to 20°C, let to the increase in k, by a factor of ca. 2.5±0.8. The increase in solution pH, from 3 to 9, provoked its decrease, by a factor of ca. 1.9±0.3.The mining industry is one of the most important driving forces in the world’s economy. Among a huge variety of ore, gold is one of the most significant mining products. It can be found in minerals, originated from vein material in bedrock deposits, and/or sand or silt grade material in alluvial deposits. The main objective of gold extraction process is to recover the valuable metal from its ore in the purest possible form and with the highest profitability. It can be made by physical (sluice boxes, jigs, shaking tables, spirals, rotating cones, and bowl concentrators) and/or chemical methods (amalgamation and cyanidation) ( Actually, the cyanidation supports ca. 90% of global gold production ( Various approaches, ranging from natural degradation in tailings impoundment (natural attenuation in surface ponds) to highly sophisticated plant applications, have been developed for cyanide degradation in aqueous solution ( A number of variables such as: nature of cyanide species ( Under aerobic conditions, cyanide can be initially converted to cyanate, Eq. A first order rate law can represent the HCN volatilization rate ( The range of typical values of HCN volatilization rate constant (k In order to satisfy new environmental legislation ( The cyanide-containing wastewater samples were taken directly from the stream of local gold leaching industrial plant, settled in Caldas Department (Colombia, South America). In order to determine representative cyanide concentration, the sampling was performed quarterly, during one year. For sampling, preservation, storage and transportation, the EPA wastewater-monitoring guide ( All reagents were used as received, without any further purification. The synthetic aqueous cyanide solutions were prepared using solid potassium cyanide (KCN, Panreac, 97 The titrimetric (4500-CN Volatilization experiments were performed in a 250 The reaction temperature was controlled using a thermostat water bath (Julabo F12-MC) and measured, with the accuracy of ±0.1 The RSM was implemented to establish the effect of different operating factors (cyanide concentration, temperature and pH) and their interactions on the percentage of HCN volatilization (%Vol). Three different levels (values) were chosen for each of three variables. The range of cyanide concentration was established according to the wastewater sampling results. The analyzed ranges of pH and temperature were similar to these in typical tailing storage facilities. The independent variables and their levels, summarized in The factorial 3 For the RSM, the experimental results were adjusted to a second order multivariable polynomial (Eq. For kinetic studies, the volatilization experiments were performed under following conditions: initial cyanide concentration As stated above, a first order rate law, with respect to free cyanide concentration (Eq. Here, R is the gas constant (8.314 For data regression, a nonlinear least-squares method “ The experimental design together with the obtained data is given in the Notice that %Vol was linear and quadratic with respect to cyanide concentration, temperature and pH. Moreover, it was linear with respect to the following interactions: cyanide concentration – temperature, cyanide concentration – pH and temperature – pH, indicating that they can also affect volatilization process. The analysis of variance, ANOVA, was employed to determine the significant main and interaction effects of factors influencing the percentage of HCN volatilization,%Vol. The ANOVA results are presented in The ANOVA consists of classifying and cross-classifying statistical results. Fisher The quality of the developed model was evaluated basing on the variation coefficient (R The Pareto analysis was used to identify factors that present the greatest cumulative effect on the percentage of HCN volatilization, and to screen out the less significant ones. A Pareto diagram is a series of bars, arranged in descending order of heights from left to right, whose heights reflect the frequency or impact of each factor. Therefore, the factors represented by the tall bars are relatively more significant. Here, the Pareto analysis was also carried out to determine the percentage effect of each factor according to the following equation ( Thus, statistically important factors correspond to all those which values overpass the inner vertical line ( This line corresponds to the The effect of temperature on the percentage of HCN volatilization is presented in Two-film theory, widely accepted for HCN volatilization phenomenon ( Mass transfer of HCN through the liquid film. Mass transfer of HCN across the interface. Mass transfer of HCN through the gas film. In order to define the volatilization rate constant, k, in Eq. Thermodynamic equilibrium reached at gas-liquid interface, Negligible concentration gradients in the bulk liquid and gas phases, and The mass transfer in steady state, according to the Fick diffusion law (HCN as an ideal gas). Thus, the volatilization rate constant, k, can be expressed as follows: The HCN speciation can be affected by the solution pH through the equilibrium presented in Eq. According to the literature ( HCN volatilization is considerably faster at acidic conditions (pH For each experiment, the volatilization rate constant was calculated through the linearization of the solution of Eq. The increase in temperature, from 16 to 20 Once the k values were determined as function of temperature, the kinetic parameters (E/R and A To visualize the goodness of the obtained fit, a parity plot was made ( The careful analysis of A Finally, the comparison of kinetics parameters (k, min Notice that HCN volatilization rate constant significantly depends on volatilization conditions (temperature, pH and cyanide concentration). In general, (i) k increases with an increase in temperature and cyanide concentration, and (ii) k decreases with an increase in pH. The range of typical values of HCN volatilization rate constant determined in this study ((0.32 In this work, the detailed analysis of HCN volatilization, taking place in tailing storage facilities, was made. The volatilization experiments were performed at conditions typical of gold leaching industrial tailing ponds. The meticulous statistical analysis (including full factorial 3 The authors thank to DIMA ( Supplementary data associated with this article can be found, in the online version, at 

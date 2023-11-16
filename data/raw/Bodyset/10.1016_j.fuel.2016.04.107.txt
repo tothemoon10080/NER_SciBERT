@@ -1,0 +1,1 @@
+I have just read an interesting paper by Singh and Javadpour For gas adsorption in solid, there is a significant difference between observed adsorption isotherms (Gibbs excess adsorption isotherms) and true adsorption isotherms (absolute adsorption isotherms) under high pressure conditions, which has been observed and reproduced in adsorption science fields for a very long time

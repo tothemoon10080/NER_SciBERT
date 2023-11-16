@@ -1,0 +1,19 @@
+We introduce a novel approach to simulate Gaussian random fields defined over spheres of 
+                        
+                           
+                              R
+                           
+                           
+                              3
+                           
+                        
+                     . Through continuation we embed the process on the sphere in a nonstationary random field of 
+                        
+                           
+                              R
+                           
+                           
+                              3
+                           
+                        
+                      to use a turning bands method. We also discuss the approximation accuracy.The interest in modeling stochastic processes over spheres with an explicit covariance function is reflected in work in areas as diverse as mathematical analysis, probability theory, spatial point processes, geostatistics and mathematical physics, and the reader is referred to, e.g., There is a wealth of simulation algorithms for Gaussian random fields on However, the natural metric on the sphere is the great circle distance, which describes an arc between any pair of points located over the spherical shell. Covariance functions depending on the great circle distance are called geodesically isotropic in Here, we present an alternative approach based on turning bands, which allows to construct realizations of random fields on spheres with covariance functions depending on the great circle distance. Additionally, the method allows for a reasonable trade-off between computational efficiency and accuracy of the realization. In the case of random fields defined over the Euclidean space  Given a Gaussian process on the unit sphere of The second order properties of the Gaussian field obtained by continuation are then inherited from those of the original Gaussian field on the sphere. In particular, we show how to obtain its nonstationary spectral density; The turning bands method is extended to nonstationary processes of Then, the desired simulations are obtained by restricting the nonstationary turning bands method to the sphere. To our knowledge, our proposal represents the first attempt to adapt turning bands methods on the sphere. The outline of the paper is the following. Section We consider the sphere For By Fourier inversion, we get To illustrate our findings, we introduce the   The proof of this theorem is deferred to the Supplementary Material. Let  A sequence Let A Gaussian random vector A vector A random variable We now define We now provide the first and second order moments of    The last expression shows that there might be a discrepancy between As for the distribution of We now consider the function  Choose Choose We can now evaluate the ratio Accordingly, the square root of the matrix We thus have that As an illustration,  While a formal assessment of the different approximations of the simulation method is beyond the scope of the paper, we close with a discussion about the bias associated with Direct inspection shows that Eq. The error induced by truncating the expansion at From a computational viewpoint, the advantages of the proposed algorithm are twofold. On the one hand, the memory storage requirements are minimal (of order XE and EP acknowledge the support of grant CONICYT/FONDECYT/REGULAR/No. Supplementary material related to this article can be found online at The following is the Supplementary material related to this article.

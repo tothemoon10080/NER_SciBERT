@@ -1,0 +1,16 @@
+Water-rock interaction and groundwater mixing are important phenomena in understanding hydrogeological systems and the stability of rock slopes especially those consisting largely of moderately water-soluble minerals like calcite. In this study, the hydrogeological and geochemical evolutions of groundwater in a limestone quarry composed of three strata: limestone layer (covering), interbedded layer under the covering layer, and slaty greenstone layer (basement) were investigated. Water-rock interaction in the open-pit limestone quarry was evaluated using PHREEQC, while hierarchical cluster analysis (HCA) and principal component analysis (PCA) were used to classify and identify water sources responsible for possible groundwater mixing within rock layers. In addition, Geochemist’s Workbench was applied to estimate the mixing fractions to clarify sensitive zones that may affect rock slope stability. The results showed that the changes in Ca2+ and HCO3
+                     − concentrations of several groundwater samples along the interbedded layer could be attributed to mixing groundwater from the limestone layer and that from slaty greenstone layer. Based on the HCA and PCA results, groundwaters were classified into several types depending on their origin: (1) groundwater from the limestone layer (L
+                     O), (2) mixed groundwater flowing along the interbedded layer (e.g., groundwater samples L-7, L-11, S-3 and S-4), and (3) groundwater originating from the slaty greenstone layer (S
+                     O). The mixing fractions of 41% L
+                     O: 59% S
+                     O, 64% L
+                     O: 36% S
+                     O, 43% L
+                     O: 57% S
+                     O and 25% L
+                     O: 75% S
+                     O on the normal days corresponded to groundwaters L-7, L-11, S-3 and S-4, respectively, while the mixing fractions of groundwaters L-7 and L-11 (61% L
+                     O: 39% S
+                     O and 93% L
+                     O: 7% S
+                     O, respectively) on rainy days became the majority of groundwater originating from the limestone layer. These indicate that groundwater along the interbedded layer significantly affected the stability of rock slopes by enlarging multi-breaking zones in the layer through calcite dissolution and inducing high water pressure, tension cracks and potential sliding plane along this layer particularly during intense rainfall episodes.

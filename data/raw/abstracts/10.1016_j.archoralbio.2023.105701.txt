@@ -1,0 +1,11 @@
+Objective
+                  This study aimed to identify candidate genes for inheritable dentin defects in three Chinese pedigrees and characterize the property of affected teeth.
+               
+                  Design
+                  Clinical and radiological features were recorded for the affected individuals. Genomic DNA obtained from peripheral venous blood or saliva were analyzed by whole-exome sequencing. The density and microhardness of affected dentin was measured. Scanning electron microscopy (SEM) was also performed to obtain the microstructure phenotype.
+               
+                  Results
+                  1) General appearance: the affected dentitions shared yellowish-brown or milky color. Radiographs showed that the pulp cavity and root canals were obliterated in varying degrees or exhibited a pulp aspect in the ‘thistle tube’. Some patients exhibited periapical infections without pulpal exposure, and some affected individuals showed shortened, abnormally thin roots accompanied by severe alveolar bone loss. 2) Genomic analysis: three new frameshift mutations (NM_014208.3: c.2833delA, c.2852delGand c.3239delA) were identified in exon 5 of dentin sialophosphoprotein (DSPP) gene, altering dentin phosphoprotein (DPP) as result. In vitro studies showed that the density and microhardness of affected dentin were decreased, the dentinal tubules were sparse and arranged disorderly, and the dentinal-enamel-junction (DEJ) was abnormal.
+               
+                  Conclusions
+                  In this study, we identified three novel frameshift mutations of dentin sialophosphoprotein gene related to inherited dentin defects. These mutations are speculated to cause abnormal coding of dentin phosphoprotein C-terminus, which affect dentin mineralization. These results expand the spectrum of dentin sialophosphoprotein gene mutations causing inheritable dentin defects and broaden our understanding of the biological mechanisms by which dentin forms.

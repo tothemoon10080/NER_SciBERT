@@ -1,0 +1,38 @@
+Recently, a wide range of studies has been carried out on microwave absorber composites for use in telecommunications, electromagnetic pollution, stealth technology, and other applications. In this study, the microwave absorption properties of polyvinyl butyral (PVB)/polyaniline (PANI) coated-Fe3O4 (COM1) and PVB/Fe3O4 (COM2) nanocomposites with single and double layer were investigated in the 1–14 GHz for different thickness (t
+                     
+                        m
+                     ) of composites. XRD, FT-IR, TEM, and SEM were used to determine the structure properties of the composites. The Coaxial transmission line method was used to obtain permittivity (
+                        
+                           ε
+                           
+                              '
+                              
+                           
+                        
+                        ,
+                        
+                        
+                           ε
+                           
+                              '
+                              '
+                           
+                        
+                        
+                        )
+                      and permeability (
+                        
+                           μ
+                           '
+                        
+                        ,
+                        
+                        
+                           μ
+                           
+                              '
+                              '
+                           
+                        
+                        )
+                      parameters of the composites. The reflection loss of the single and multilayers of different thicknesses was calculated. It was figured out that the higher value of reflection loss (RL) (−51.5 dB at 11.9 GHz) was obtained with COM2 composite. However, using PANI has provided a wider absorption range in COM1 composites. It was found that multilayer composites (COM4) provide broadband absorption compared to COM2 and double-layer design (COM3).Microwave absorbing composites are widely used with different types of dielectric or magnetic fillers to reduce electromagnetic wave reflection from commercial, civil and military applications. Hence, the electromagnetic (EM) wave absorber materials have been developed with strong absorption in thin, light and wide band range [ Among the conducting polymers, Polyaniline (PANI) has drawn special attention because of its high conductivity, good environmental stability and corrosion resistance, light weight, flexibility and dielectric loss ability. However, non-conductive polymer matrices containing PANI show better stability of electromagnetic wave absorption at different frequencies. Hence PANI is an important candidate for use in radar absorbing composites [ Lightweight, flexible polymer nanocomposite materials became the focus of attention for electromagnetic interference microwave absorbing composites [ Nano-ferrite (MFe There is available literature on microwave absorption properties of polyaniline nanocomposite in the literature [ First, polyaniline (PANI) was synthesized according to the method described by some studies [ Here, FTIR spectra of specimens were recorded in the range of 400–4000 cm The XRD result of composites is given in FT-IR spectra of composites are shown in The dispersions of nanoparticles in the PVB matrix are investigated with SEM results.  The real components of complex permittivity of COM2 are higher between 1 and 10 GHz and the high real permittivity of COM2 can be described by the Maxwell–Wegner equation for the interfacial polarization that occurs at lower frequency [  When electromagnetic waves encounter a material the electromagnetic waves can be attenuated by three mechanisms, these are the reflection, absorption, multiple reflections or combination of these mechanisms. However, the multiple reflections are generally neglected when the absorption loss is greater than 9 dB [ The Reflection loss (R Here, The schematic structure of multilayer composites that consists of Here The R The influences of PANI on microwave absorbing performance of composites were investigated. The reflection loss of nanocomposites for different thickness ( It is clearly demonstrated that the COM1 composite display the largest R The R The results indicate that the existence of PANI in composite affects the microwave absorbing performance. Among the 1–14 GHz all composites show very good microwave absorption properties. The minimum value of reflection loss ( This work was supported by The following is the Supplementary data to this article: Supplementary data to this article can be found online at

@@ -1,0 +1,28 @@
+Background
+                  To examine the effect of depressive symptom severity on bone mineral density (BMD) and the potential mediators of the relationship.
+               
+                  Method
+                  This study used data from n = 7273 participants in the Cooper Center Longitudinal Study at the Cooper Clinic in Dallas. Participants were included if they had data for all study variables, including left and right femoral neck (BMD), age, sex, body mass index, smoking status, antidepressant (SSRI/SNRI) use, standard alcoholic drinks consumed per week, and depressive symptom severity as measured with the Center for Epidemiological Studies-Depression (CESD)-10. To evaluate the effect of depressive symptoms on both L/R femur BMD, two multiple linear regression analyses were conducted. To examine effects of vitamin D, high sensitivity C-reactive protein (hs-CRP), and physical activity (MET units) on the relationship between depressive symptom severity and BMD, parallel mediation analyses were conducted.
+               
+                  Results
+                  Depressive symptom severity (CES-D 10 score) significantly predicted both L/R BMD (L: β = −0.048, R: β = −0.047, both p ≤ .001). Only physical activity significantly mediated the relationship between depressive symptom severity and L/R BMD (L: β = −0.008, 95 % CI [−0.011, −0.005]; R: β = −0.007, 95 % CI [−0.010, −0.005]).
+               
+                  Limitations
+                  The sample may not be generalizable to all patient populations.
+               
+                  Conclusion
+                  Depressive symptom severity was inversely related to both L/R femur BMD in a large cohort of relatively healthy adults. Physical activity, but not vitamin D or hs-CRP, mediated this relationship. Future research might examine the effect of physical activity interventions both on depression and BMD.
+               
+                  Impact statement
+                  We certify that this work is both novel and confirmatory of recent clinical research (Lee et al., 2015; Amsterdam and Hooper, 1998; Hlis et al., 2018; Wainstein et al., 2016; Blair et al., 1989; Farrell et al., 2022; Ainsworth et al., 2011). We demonstrated a negative relationship between depression and BMD in a large cohort of adults and expanded on previous findings by demonstrating that physical activity acts as a mediator of this relationship. Physical activity is known to stimulate osteogenesis in osteoporotic patients, and this study further expands on its role in depressive symptoms in this population.
+               
+                  Key points
+                  
+                     
+                        
+                           •
+                           This study of a large cohort of adults adds to the growing body of evidence associating depression severity with low bone mineral density.
+                        
+                        
+                           •
+                           Physical activity acts as a mediator on the negative relationship between bone mineral density and depression.

@@ -1,0 +1,12 @@
+Fe
+                        x
+                     Co1−
+                        x
+                      alloy nanoparticles of spherical (x
+                     =0.25, 0.68, 0.85), hollow spherical (x
+                     =0.60) and sheet like (x
+                     =0.60) shapes were prepared at room temperature by reduction of iron chloride tetrahydrate and cobalt chloride hexahydrate with sodium borohydride, using N-Cetyl-N,N,N-trimethyl ammonium bromide (CTAB)/water/hexanol system as soft template. The size and shapes of nanostructures were found to depend on the concentrations of CTAB and hexanol in water. Composition and shape dependence of magnetic properties of spherical, hollow spherical and sheet like Fe
+                        x
+                     Co1−
+                        x
+                      alloy nanostructures were discussed. The highest saturation magnetization of 235emu/g with a coercivity of 160Oe was obtained for spherical Fe0.68Co0.32 nanoparticles.Iron–cobalt intermetallic compounds are known to exhibit the highest saturation magnetization among the commercial magnetic materials To the best of our knowledge, there is no report on the shape control synthesis of FeCo alloy nanoparticles using CTAB/water/hexanol system as soft template. In this communication we present and discuss the results of size and shape controlled synthesis of iron–cobalt alloy nanoparticles by chemical reduction of metal salts in soft template solution of CTAB/water/hexanol. Further, their magnetic properties are compared according to the size, shape and composition of alloys. Cobalt chloride hexahydrate (CoCl Spherical, hollow spherical and sheet like Fe Structural characterizations were performed by means of X-ray diffraction (XRD) using a Philips, X-Pert powder diffractometer with Cu Kα radiation, transmission electron microscopy (Philips—CM200 TEM) and scanning electron microscopy (S3400N—Hitachi, Japan SEM). Energy dispersive spectroscopy (EDS) attached with the SEM was used for elemental analysis. Magnetic characterizations of the Fe   Hollow spheres were prepared in normal micelles. At particular concentration used in our experiment, surfactant molecules may self associate in the form of double layer around normal micelles Lamellar (D The plot of magnetization versus field is shown in The synthesis of spherical, hollow spherical and sheet like FeCo alloy nanostructures has been achieved in CTAB/water/hexanol soft template by reduction of CoCl The work was supported by the

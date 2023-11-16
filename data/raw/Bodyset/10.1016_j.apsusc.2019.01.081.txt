@@ -1,0 +1,31 @@
+The surface hydration is one of the main reasons for the difficulty of coal slurry water sedimentation and dewatering, the Density functional theory (DFT) and Molecular dynamics (MD) simulations on the surface hydration of kaolinite were investigated in this study. The results indicate that the adsorption of single water molecule on kaolinite (0 0 1) surface and (
+                        
+                           0
+                           
+                           0
+                           
+                           
+                              
+                                 1
+                              
+                              
+                                 ¯
+                              
+                           
+                        
+                     ) surface mainly by forming hydrogen bonds, and the adsorption energies of single water molecule on different initial positions of kaolinite (0 0 1) surface are −72.12 to −19.23 kJ/moL, less than that of kaolinite (
+                        
+                           0
+                           
+                           0
+                           
+                           
+                              
+                                 1
+                              
+                              
+                                 ¯
+                              
+                           
+                        
+                     ) surface with −19.23 to −5.77 kJ/moL, which mean that the water molecule preferentially adsorption on kaolinite (0 0 1) surface. The binding force between kaolinite surfaces and water molecules decreased with the increase of water coverage rate (or the number of water molecules), the hydrogen-bond interaction on kaolinite/water interface gradually weakened, and the water molecules on hydrophilic kaolinite surfaces can be gradually formed 3 layers of water molecules. The hydrated film of kaolinite surface is mainly composed of about 3 layers of water molecules, and its thickness is about 8–10 Å. The hydration mechanism of kaolinite surface is mainly that the water molecules at kaolinite interface are adsorbed on surface with hydrogen bonds, and a hydrated film composed of multiple water molecules is gradually formed on kaolinite surface with the increase of water coverage rate.The clay mineral are mainly composed of kaolinite, montmorillonite and illite, and these clay particles usually exist in fine particles at less than 2 μm in aqueous At present, the ways to study the surface hydration of clay minerals are mainly experimental analysis and molecular simulations. The experimental analyses like wavelength dispersive X-ray fluorescence spectrometry (WD-XRF) Kaolinite is one of the most abundant components in clay minerals DFT calculations of single water molecule on kaolinite (0 0 1) surface and ( The adsorption energy can be represented the stability of adsorbate on the surface, and the negative values mean that the adsorbate can be self-adsorbed on the surface. The adsorption energies of adsorbates on kaolinite surfaces were calculated as: MD simulations were performed in the Forcite plus module of Materials Studio version 8.0 software, and the force field used in this calculation was ClayFF Construction of a (4 × 2 × 1) periodic repeating supercell with using the initial model of the kaolinite phase cell structure after the geometrical optimization with DFT method in In these simulations, the NVT ensemble is used in the three-dimensional periodic boundary condition with a time step of 0.5 fs. And the Nose function is selected for temperature control. The long-range electrostatic interaction and van der Waals interaction were calculated using the Ewald and Atom based methods, respectively, with a cutoff radius of 8.5 Å. The specific simulation was carried out as follows: (1) Geometry optimization for the system was performed using conjugate gradient algorithm to reduce the residual force of each atom; (2) A 300 ps pre-equilibrium simulation was run, and monitoring the convergence curve of energy and temperature over time in the system to ensure that the system reaches equilibrium; (3) The last 100 ps output calculation was used for analysis of relevant properties, and the data was collected every 100 fs. Adsorption forms of single water molecule on the kaolinite (0 0 1) surface and ( The geometrical optimization of the different initial configurations of single water molecule on the kaolinite (0 0 1) and ( According to the calculation results of adsorption energies in  The Mulliken bond populations of the optimal equilibrium configurations K(0 0 1)W and K( The adsorption mechanism of single water molecule on kaolinite surfaces could be clarified by the charge transfer analysis among the adjacent atoms in the H  The Mulliken charge populations     Atomic radial distribution functions between surface-water   Atomic radial distribution functions between water-water The peak width and peak intensity of the atomic radial distribution function between O  According to the self-diffusion coefficient of the interface water, the positional changes of the interface water molecules under different water coverage rates can be understood.  The DFT calculation results show that the adsorption of single water molecule on kaolinite (0 0 1) surface and ( The MD simulation results show that the binding force between different kaolinite surface and water molecules decreased with the increase of water coverage rate from 2/3 ML to 8/3ML, the hydrogen bond gradually weakened, and the water molecules gradually formed 3 layers of water molecules. And at the same water coverage, the interfacial effect between kaolinite ( The surface hydration mechanism of kaolinite particles is mainly that the water molecules closest to kaolinite surface are adsorbed on the surface by forming hydrogen bonds, and a hydrated film composed of multiple layers of water molecules is gradually formed on kaolinite particle surface with the increase of water coverage rate. The financial supports for this work from the

@@ -1,0 +1,14 @@
+Purpose
+                  To test the hypothesis that clinical assessment reliably identifies patients with radiographic changes (including loss of reduction, hardware failure, and hardware migration) at the initial visit following operative repair of distal radius fractures.
+               
+                  Methods
+                  We identified 102 patients undergoing operative repair of distal radius fractures. Radiographs and clinical notes were reviewed.
+               
+                  Results
+                  At the initial postoperative visit, 11 patients had more than normal postoperative pain, 0 had deformity, 0 had crepitus with gentle motion, and 0 had instability at the fracture site on examination. These 11 patients were considered to have positive clinical assessments, but none had radiographic changes on x-rays taken that day. Three patients had negative clinical assessments but had radiographic changes noted at the initial postoperative visit. There were no additional radiographic changes between the series taken at the initial postoperative visit and series taken at later postoperative visits.
+               
+                  Conclusions
+                  These data suggest that for purposes of detecting radiographic changes, radiography at the initial visit is helpful, whereas radiography at subsequent visits may not be. Radiography at subsequent visits may be useful to monitor bony healing, which we did not investigate.
+               
+                  Type of study/level of evidence
+                  Diagnostic IV.

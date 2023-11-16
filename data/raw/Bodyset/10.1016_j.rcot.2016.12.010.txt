@@ -1,0 +1,21 @@
+Introduction
+                  Le diagnostic des fractures de l’acetabulum reste difficile, notamment pour les fractures complexes. Cependant, l’obtention d’un diagnostic exact est primordial pour orienter au mieux la stratégie chirurgicale. Plusieurs méthodes d’apprentissage ont été décrites mais aucune n’était basée sur la classification de Letournel avec démembrement sur la tomodensitométrie. Aussi nous avons mené une étude prospective évaluant une méthode diagnostique tomodensitométrique : 1) en mesurant le taux de diagnostics exacts parmi une population d’orthopédistes avant et après avoir reçu l’enseignement de cette méthode, 2) en comparant le temps nécessaire à l’analyse entre les deux lectures et enfin, 3) en évaluant la répétabilité de la méthode.
+               
+                  Hypothèse
+                  Cette méthode diagnostic améliore de façon significative le taux de diagnostic exact.
+               
+                  Méthode
+                  La méthode diagnostique est basée sur l’analyse de 8 repères anatomiques : les repères antérieurs, les repères postérieurs et les repères du « no man's land ». Trente-cinq fractures de l’acetabulum ont été sélectionnées parmi la base de données institutionnelle (450 cas inclus entre 2007 et 2016) en respectant la distribution des types fracturaires. Dix lecteurs non expérimentés et 3 lecteurs expérimentés ont été soumis à l’analyse de ces dossiers avant (L1) et après enseignement de la méthode diagnostique (L2). Les taux de diagnostics exacts ainsi que le temps d’analyse nécessaire ont été comparés. Une dernière lecture a eu lieu pour évaluer la reproductibilité de la méthode.
+               
+                  Résultats
+                  Dans le groupe des lecteurs non expérimentés, le taux de diagnostics exacts a été amélioré au total de 16,64 % (L1 : 212/350 (60,5 % ; 37–83 %) ; L2 : 270/350 (77,14 % ; 63–86 %) ; p
+                     =0,001) et de 25,9 % pour les fractures complexes (L1 : 90/180 (50 % ; 11–89 %) ; L2 : 114/140 (75,6 % ; 61–90 %) ; p
+                     =0,003). Le temps moyen d’interprétation des 35 dossiers était de 66,1minutes pour les lecteurs non expérimentés et a diminué à 47,6minutes après l’enseignement de la méthode diagnostique (soit une amélioration de 1,22minutes par dossier) (p
+                     =0,001). Dans le groupe des experts, aucune différence significative n’a été mise en évidence sur l’ensemble des variables analysées (p
+                     >0,05). Enfin, un taux de reproductibilité de 0,78 a été observé dans le groupe des lecteurs inexpérimentés.
+               
+                  Conclusion
+                  L’analyse des 8 repères anatomiques décrits, séparés en repères antérieurs, postérieurs et repères du « no man's land », constitue une méthode diagnostique simple et reproductible quel que soit le type de fractures de la classification de Letournel.
+               
+                  Niveau de preuve
+                  III (Étude prospective non randomisée cas-témoins).

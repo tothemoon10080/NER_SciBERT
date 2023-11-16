@@ -1,0 +1,81 @@
+A detailed investigation of the stability in cyanide solutions of native gold and gold ± silver tellurides in a flotation concentrate from the Golden Mile, Kalgoorlie, has been undertaken to assess whether leaching under different conditions can be used to quantify the distribution of Au between native gold and gold ± silver tellurides, as suggested by, for example, Chryssoulis and Cabri (1990).
+                  The leaching was carried out on +20 μm native gold and gold ± silver tellurides separated from a high-grade flotation concentrate and then diluted with barren quartz. The material leached assayed 270 ppm Au and 118 ppm Te. About 77% of the Au was present as native gold (largely liberated) and about 23% was in gold ± silver tellurides (predominantly calaverite with trace petzite and Au-bearing hessite, also largely liberated). The grainsize of the gold-bearing minerals was mainly in the range 20 μm to 100 μm. The leach conditions used were:- 
+                        
+                           1.
+                           Stage 1: Leaching in dilute cyanide (0.1%) at pH 9.5 for 24 hours to dissolve native gold but not gold ± silver tellurides.
+                        
+                        
+                           2.
+                           Stage 2: leaching the residue from Stage 1 in strong cyanide (2%) at pH 12.5 for 96 hours to dissolve gold ± silver tellurides.
+                        
+                     
+                  
+                  Extractions of native gold and gold ± silver tellurides in the two stages of leaching were found to be as follows: 
+                        
+                           
+                              
+                              
+                              
+                              
+                              
+                                 
+                                    Mineral
+                                    % Extracted
+                                    % Extracted in
+                                    Total %
+                                 
+                                 
+                                    
+                                    in
+                                    Stage 2
+                                    extracted
+                                 
+                                 
+                                    
+                                    Stage 1
+                                    
+                                    in Stages 1
+                                 
+                                 
+                                    
+                                    
+                                    
+                                    and 2
+                                 
+                                 
+                                    Native gold
+                                    94
+                                    5
+                                    99
+                                 
+                                 
+                                    Calaverite
+                                    6
+                                    11
+                                    17
+                                 
+                                 
+                                    Au-bearing
+                                    53
+                                    40
+                                    93
+                                 
+                                 
+                                    hessite
+                                    
+                                    
+                                    
+                                 
+                                 
+                                    (and petzite)
+                                    
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+                  The results showed that the bulk of the native gold dissolved in the Stage 1 leach (weak cyanide, moderate pH), along with about half the hessite and petzite but hardly any of the calaverite. The estimate of Au in native gold from the Stage 1 leach corresponded fairly closely to the native gold content as the hessite/petzite concentrations were low. However, although the Stage 2 leach (strong cyanide, high pH) dissolved almost all the remaining hessite/petzite, only a small proportion of the calaverite dissolved.
+                  The main conclusions of the investigations are that calaverite is very refractory to cyanidation, much more so than hessite/petzite, and that the diagnostic leaching procedure studied did not provide a good estimate of Au in gold ± silver tellurides. For the diagnostic leach procedure to be effective, a treatment, such as chlorination, which breaks down calaverite prior to the Stage 2 cyanidation is required.Stage 1: Leaching in dilute cyanide (0.1%) at pH 9.5 for 24 hours to dissolve native gold but not gold ± silver tellurides. Stage 2: leaching the residue from Stage 1 in strong cyanide (2%) at pH 12.5 for 96 hours to dissolve gold ± silver tellurides.

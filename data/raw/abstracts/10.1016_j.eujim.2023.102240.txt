@@ -1,0 +1,12 @@
+Introduction
+                  Medicinal plants have been used in many countries for millennia as therapeutic agents for numerous diseases from diabetes to cancer. Gentiana plants are used in folk medicine to treat various diseases.
+               
+                  Methods
+                  This study mainly focuses on the vital pharmacological properties of ethanol extract of G. septemfida Pallas, including antioxidant, apoptotic, cytotoxic properties (in HT-29, human colorectal cell line) and phenolic compounds. Expression of apoptosis related genes (Bcl-2, Bid, Bax, caspase-3, caspase-7, caspase-8, caspase-9, caspase-10) in the apoptosis pathway were determined for apoptosis inducing activity. Additionally, we also evaluated the mineral composition (P, Ca, Mg, K, Fe, Mn, Zn, B and Cu) of G. septemfida Pallas.
+               
+                  Results
+                  The ethanol extract showed antioxidant activities (phosphomolybdenum, 225.21 ± 6.95 mg/g; DPPH, IC50: 581.7 ± 14 μg/mL; ABTS, IC50: 217.11 ± 2.2 μg/mL) and also exhibited apoptotic and cytotoxic effects on the human colorectal cell line. The major phenolics were identified by HPLC were ferulic, ellagic and 4-hydroxybenzoic acid.
+               
+                  Conclusion
+                  
+                     G. septemfida Pallas is a potential source of anticancer agents for colon cancer treatments, and an alternative source of antioxidant agents for pharmacological applications. However, further research is required before such use could be proposed with confidence.

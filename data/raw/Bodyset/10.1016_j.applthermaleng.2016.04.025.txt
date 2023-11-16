@@ -1,0 +1,57 @@
+The purpose of this paper is to model an Enhanced Geothermal System (EGS) power plant using an Organic Rankine Cycle (ORC) cooled by a Natural Draft Dry Cooling Tower (NDDCT) and to investigate the influence of the variation of performance of the NDDCT due to changing ambient temperature on cycle performance. The ORC used in this work is the supercritical butene recuperated ORC. The EGS heat source conditions used are those found at the Habanero 1MW pilot plant in South Australia, with geothermal brine inlet temperature of 220°C, minimum brine temperature of 80°C, and brine mass flow rate of 35kg/s. A one dimensional NDDCT model was developed and integrated into the cycle model, enabling a novel method of coupled analysis of ORC and NDDCT interdependence, which allows analysis of plant performance for varying ambient temperature. The analysis finds that annual average 
+                        
+                           
+                              
+                                 
+                                    
+                                       W
+                                    
+                                    
+                                       ̇
+                                    
+                                 
+                              
+                              
+                                 net
+                              
+                           
+                        
+                      is 2.82MWe, the typical daily range of 
+                        
+                           
+                              
+                                 
+                                    
+                                       W
+                                    
+                                    
+                                       ̇
+                                    
+                                 
+                              
+                              
+                                 net
+                              
+                           
+                        
+                      is 0.62MWe (±11%), the typical change in 
+                        
+                           
+                              
+                                 
+                                    
+                                       W
+                                    
+                                    
+                                       ̇
+                                    
+                                 
+                              
+                              
+                                 net
+                                 ,
+                                 mean
+                              
+                           
+                        
+                      for consecutive days is 0.07MWe (3%), and the largest is 0.5MWe (20%). The maximum range at any given time throughout the year, based on historical temperature data extremes is ±31%, but the typical expected range ±10%.area (m diameter (m) correction factor (–) friction factor (–) heat transfer coefficient (W/(m height (m) loss coefficient (–) thermal conductivity (W/(m length (m) mass flow rate (kg/s) Nusselt number (–) characteristic heat transfer parameter (m number (–) pressure (Pa) pitch (m) Prandtl number (–) heat flow rate (W) Reynolds number (–) characteristic flow parameter (m temperature (°C) overall heat transfer coefficient (W/(m work flow rate-power (W) temperature difference (°C) surface roughness (m) dynamic viscosity (kg/(m density (kg/m area ambient tube bundle cycle fluid cooling tower cooling tower contraction cooling tower expansion cooling water effective fin frontal fin tip geothermal brine heat exchanger inner inlet net outside outlet pinch point temperature tube tower outlet transverse tower supports Brine Heat Exchanger Enhanced Geothermal Systems High Pressure Cycle Pump High Pressure Turbine Log Mean Temperature Difference Low Pressure Cycle Pump Low Pressure Turbine Mechanical Draft Dry Cooling Tower Natural Draft Dry Cooling Tower Organic Rankine Cycle Population growth, continued industrialisation and the resulting growth in energy consumption, combined with the environmental impacts and depletion of fossil fuel resources and their environmental impacts are the drivers of a global search for renewable and clean energy sources. Enhanced Geothermal Systems (EGS) are a potentially viable source of renewable energy and the Organic Rankine Cycle (ORC) is recognised as the most promising method of energy conversion for low to moderate temperature heat sources such as EGS. EGS resources typically occur in arid areas with no consumable cooling water available. This necessitates the use of air cooling for heat rejection in this application. Mechanical draft cooling systems incur a significant parasitic power consumption, and this leads to interest in Natural Draft Dry Cooling Towers (NDDCT). NDDCTs are of interest to improve efficiency and net power generation of geothermal power plants by reducing parasitic power consumption for condensing the ORC fluid Due to EGS resources typically being several km below the surface of the Earth, the drilling and heat source subsystem cost forms a significant proportion of total plant cost, reported at up to 70% for resources of 2.5–5 Low to moderate temperature power applications, such as EGS, generally have a significantly higher heat rejection ratio (heat rejection load/net power generation) as compared to high temperature applications such as coal-fired thermal power plants due to the lower cycle efficiency Mechanical Draft Air Cooled Towers (MDACT) are commonly used as the condenser in ORCs as they allow for more direct control of the air flow rate through the heat exchanger, via control of the fan speed. However, this comes at the cost of a significant amount of the power generated at the turbine being used by the fans in the MDACT. The parasitic power consumption in forced draft condensing systems can account for 10–12% of gross power, under ideal conditions, and as much as 40–50% for ambient temperatures approaching condensing temperature In the literature, ORC studies commonly assume a fixed condensing temperature by specifying water cooling such as A number of studies have analysed cycle performance with MDACT, such as Ghasemi et al. Walraven et al. No studies have been found which investigate the performance of ORC or geothermal plants in general when cooled by NDDCTs, and this is the gap in the literature that the current work seeks to explore. The EGS conditions used in this study are those found at the Habanero 1 The objective of this study is to investigate the NDDCT performance in varying ambient temperatures and how this affects the net power generation of an EGS ORC power plant on a diurnal and annual basis. The cycle is first analysed at a range of ambient temperatures to map the performance versus ambient temperature. This data is used to investigate the variation of plant performance due to changing ambient temperature on a diurnal, seasonal and annual basis. The recuperated ORC for EGS ( The system modelling in this work was performed using IPSEpro, a process simulation software, which uses fluid properties from REFPROP 9.1. The standard turbine, pump and heat exchanger models from the Enginomix LTP Library were used. A one dimensional NDDCT model was developed in IPSEpro, based on a widely used method by Kröger The cycle and component parameters were optimised at the design point using a genetic algorithm optimisation, further detail is available in A one-dimensional NDDCT model was developed in IPSEpro based on the method presented by Kröger The heat exchanger bundle used in the model is as per This study aims to investigate the performance variation of the plant across a range of ambient temperatures. This necessitates the implementation of off-design models where necessary for components. The turbine(s) and pumps are assumed to perform at constant isentropic efficiency, as it is assumed that the changes resulting from varying condensing temperature will have relatively minor influence on the turbine and pump operating point, and they will remain at near design point operation. A geometrically dependent shell and tube heat exchanger model is used, which calculates the outlet conditions based on the calculated heat transfer coefficients and pressure drops at off-design conditions for the heat exchanger geometry which has been fixed at the design point. Similarly, the NDDCT design is fixed at the design point and so off-design performance is calculated based on the NDDCT geometry. The cycle was evaluated at intervals of 5 The cycle net power generation exhibits an approximately linear dependence on ambient temperature, The heat input to the cycle, The NDDCT performance is dependent on both the ambient conditions and the cooling water conditions at the NDDCT inlet, which is constrained by the minimum pinch point constraint in the condenser. The objective of the cooling system is not to reject as much heat as possible, but rather to reject heat at the rate required by the cycle in order to condense the cycle fluid at the lowest possible temperature in order to give the highest An additional effect to account for is that for constant These two effects result in the non-linear To investigate the influence of seasonal ambient temperature variation on the  The annual plant performance was calculated using daily temperature data for 2012 and is shown in The annual average The largest increase in From The above data is for a specific year so the variation is an example only and not necessarily representative of the maximum range of possible cycle performances. The historical summary temperature data for the period of 1972–1999 was used to plot the maximum and minimum This data shows that there is a much higher potential for plant variation, in the most extreme case An annual performance analysis of an EGS power plant using NDDCT cooling is performed in this paper. A one dimensional NDDCT model was developed and integrated into the ORC model and this was used to investigate the diurnal, seasonal and annual performance variability of the system. For the temperature data of 2012, the annual average Based on the historical temperature data, in the extreme case the maximum plant This study was supported by the The NDDCT model is based on the method presented in Kröger The rate of heat transfer, The characteristic heat transfer parameter, Rearranging The heat transfer coefficient inside the tubes is calculated via the correlation proposed by Gnielinski The friction factor inside the tubes,

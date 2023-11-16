@@ -1,0 +1,11 @@
+The main objective of this study was to determine the desiccation behavior of clay slurries. A clay slurry with high water adsorption capacity (wL
+                     
+                     =180%, wP
+                     
+                     =60%, wS
+                     
+                     =20) was used to determine the soil water characteristic curve (SWCC), shrinkage curve, and hydraulic conductivity. The last parameter was determined similar to the Instantaneous Profile Method using evaporation tests. Results indicated that the clay slurry had an air entry value (AEV) of 1000kPa and a residual suction of 5000kPa that occurred at the plastic limit and the shrinkage limit, respectively. The discrepancy between theoretical and measured shrinkage limit was due to the gradual increase in clay particle contact. Unlike soils, the saturated hydraulic conductivity varied by two orders of magnitude (4×10−10
+                     m/s at 20kPa to 3×10−12
+                     m/s at AEV). The unsaturated k further decreased to 10−14
+                     m/s at 6×104
+                     kPa beyond which vapor flow took place.

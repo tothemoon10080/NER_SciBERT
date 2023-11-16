@@ -1,0 +1,33 @@
+Xenon excimer (
+                        
+                           
+                              
+                                 Xe
+                              
+                              
+                                 2
+                              
+                              
+                                 ∗
+                              
+                           
+                        
+                     ) lamps can be used for the oxidation and mineralization of organic compounds in aqueous solution. This vacuum-ultraviolet (VUV) photochemical method is mainly based on the photochemically initiated homolysis of water that produces hydrogen atoms and hydroxyl radicals. The efficiency of substrate oxidation and mineralization is limited markedly due to the high absorbance of water at the emission maximum of the 
+                        
+                           
+                              
+                                 Xe
+                              
+                              
+                                 2
+                              
+                              
+                                 ∗
+                              
+                           
+                        
+                      lamp (λ
+                     max
+                     =172nm). This photochemical condition generates an extreme heterogeneity between the irradiated volume V
+                     irr and the non-irradiated (“dark”) bulk solution. During VUV-initiated photomineralization of organic substrates, the fast scavenging of hydrogen atoms and of carbon-centered radicals by dissolved molecular oxygen produces a permanent oxygen deficit within V
+                     irr and adjacent compartments. Hence, at a constant photon flux the concentration of dissolved molecular oxygen within the zones of photo and thermal radical reactions limits the rate of mineralization, i.e. the rate of TOC diminution. Thus, a simple and convenient technique is presented that overcomes this limitation by injection of molecular oxygen (or air) into the irradiated volume by use of a ceramic oxygenator (aerator). The tube oxygenator was centered axially within the xenon excimer flow-through lamp. Consequently, the oxygen or air bubbles enhanced the transfer of dissolved molecular oxygen into the VUV-irradiated volume leading to an increased rate of mineralization of organic model compounds, e.g. 1-heptanol, benzoic acid and potassium hydrogen phthalate.Advanced oxidation processes (AOPs) for the treatment of water and air are mainly based on the efficient production of hydroxyl radicals ( In addition to water homolysis, the production of hydrated electrons by VUV photolysis of water occurs according to Eq. The photochemical production of During VUV photolysis of water in the presence of dissolved molecular oxygen and of dissolved organic compounds (RH The penetration depth of VUV radiation into water is limited by the absorption coefficient of water being approximately Due to these special photochemical conditions of VUV irradiation of water the flow of the solution within the cylindrical xenon excimer lamp flow-through reactor is characterized by a non-irradiated oxygen saturated bulk solution and a thin-walled hollow cylindrical irradiated volume The efficiency of TOC diminution could not be increased by hydrodynamic means, for instance by applying static mixers or higher flow rates ( The aim of the current paper is to demonstrate the effectiveness of a simple and convenient set-up that defeats the local oxygen deficit of the irradiated volume The reagents used in this study were commercially available. They were used without further purification: 1-heptanol (C The reactor system used in this study is presented in One liter of stock solution of the individual substrates in de-ionized water was transferred to the reservoir of the reactor system and continuously recirculated through the xenon excimer flow-through lamp with a flow rate between 3.7 and 3.9 Quantitative GC-analyses of 1-heptanol solutions were performed with a Shimadzu GC (model 14A) equipped with an auto injector system (model AOC-17). A fused-silica capillary column Phenomenex ZB-5 (30 TOC measurements were performed by using a Shimadzu TOC (model 5050) with an auto injection system (model ASI 5000). The standard deviation of the TOC values was less than ±5%. Measurements of pH and of conductivity were conducted by using a SenTix 97/T and a TetraCon 325 probe, respectively. The stability of the VUV output of the The stripping of 1-heptanol from its aqueous solutions ([1-C The oxygen deficit in the photoreaction zone can only be surmounted by radial diffusion of molecular oxygen from the “dark” bulk solution into The effects of gas injection on the efficiency of TOC diminution of aqueous solutions of 1-heptanol are demonstrated in The experimental results presented in Conductivity measurements ( Quantitative gas-chromatographic analyses of 1-heptanol concentrations during VUV irradiation of aqueous solutions demonstrated the hydrodynamic effect on the kinetics of substrate oxidation ( Comparing the timeframe of The VUV-initiated TOC diminution curves of aqueous solutions of benzoic acid ( The results presented in this paper concerning the VUV-initiated oxidation and mineralization of dissolved organic compounds in water are consistent with the following statements (cf. The rate of The rate of TOC diminution (−d[TOC]/d The process of VUV-initiated mineralization of organic compounds slowly takes place even under anaerobic conditions, i.e. under N The VUV-induced homolysis of water by irradiation with xenon excimer lamps at Thus, the effectiveness of this simple set-up for the VUV-initiated

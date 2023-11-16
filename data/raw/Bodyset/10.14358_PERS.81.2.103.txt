@@ -1,0 +1,2 @@
+The January 8-9, 2015 Frozen Uas Tour Blows Into Grand Forks, North Dakota
+                  A method for photogrammetric data reduction without the necessity for neither fiducial marks nor initial approximations for inner and outer orientation parameters of the camera has been developed. This approach is particularly suitable for reduction of data from non-metric photography, but has also distinct advantages in its application to metric photography. Preliminary fictitious data tests indicate that the approach is promising. Experiments with real data are underway.

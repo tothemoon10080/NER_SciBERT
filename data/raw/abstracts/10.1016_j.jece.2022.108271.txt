@@ -1,0 +1,129 @@
+The adsorption of naphthalene on montmorillonite (Mon)–humic acid (HA) and chlorite (Chl)–HA complexes often occurs in environments with high concentrations of Fe(III) loading. But the functions of Fe(III) in naphthalene adsorption on Mon-HA and Chl-HA complexes are unclear. In this study, mineral–organic complexes of HA and the common minerals Mon and Chl were prepared for studying the mechanisms and characteristics of naphthalene adsorption on Mon, Chl and HA complexes in the presence of Fe(III). The results showed that
+                        
+                     for Mon–Fe–HA, as organic matter contents (
+                        
+                           
+                              
+                                 f
+                              
+                              
+                                 oc
+                              
+                           
+                           )
+                           in
+                        
+                     creased from 2.77% to 14.63%, 
+                        
+                           
+                              K
+                           
+                           
+                              d
+                           
+                        
+                      increased from 0.29 to 0.80 L·g−1. This indicated that the adsorption capacity of Mon–Fe–HA for naphthalene increased as 
+                        
+                           
+                              f
+                           
+                           
+                              oc
+                           
+                        
+                      increased in the presence of Fe(III). However, at 
+                        
+                           
+                              
+                                 f
+                              
+                              
+                                 oc
+                              
+                           
+                           ≤
+                        
+                      5.41%, the adsorption capacity of Mon–Fe–HA for naphthalene was less than that of Mon–HA; at 
+                        
+                           
+                              
+                                 f
+                              
+                              
+                                 oc
+                              
+                           
+                           >
+                           
+                        
+                     5.41%, the adsorption capacity of Mon–Fe–HA for naphthalene exceeded that of Mon–HA. This suggested that Fe(III) inhibited the adsorption of naphthalene on Mon–Fe–HA at 
+                        
+                           
+                              
+                                 f
+                              
+                              
+                                 oc
+                              
+                           
+                           ≤
+                        
+                      5.41%, and promoted the adsorption at 
+                        
+                           
+                              
+                                 f
+                              
+                              
+                                 oc
+                              
+                           
+                           >
+                           
+                        
+                     5.41%. For Chl–Fe–HA, as 
+                        
+                           
+                              f
+                           
+                           
+                              oc
+                           
+                        
+                      increased from 2.77% to 14.63%, 
+                        
+                           
+                              K
+                           
+                           
+                              d
+                           
+                        
+                      increased from 0.33 to 1.21 L·g−1; the 
+                        
+                           
+                              K
+                           
+                           
+                              d
+                           
+                        
+                      for naphthalene adsorption on Chl–Fe–HA exceeded that for Chl–HA regardless of 
+                        
+                           
+                              f
+                           
+                           
+                              oc
+                           
+                        
+                     , indicating that Fe(III) always promoted the adsorption of naphthalene on Chl–Fe–HA regardless of 
+                        
+                           
+                              f
+                           
+                           
+                              oc
+                           
+                        
+                     . And Fe(III) had different effects on the adsorption of naphthalene on Mon–Fe–HA and Chl–Fe–HA, which is due to the differences in the structure, pore structure and functional groups of Mon and Chl. These findings provide a basis for accurately assessing the adsorption of such pollutants on mineral–organic complexes with minerals.

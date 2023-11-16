@@ -1,0 +1,5 @@
+The selective transport behaviors of metal ions for a ternary ion system through a cation-exchange membrane were studied in a stirred batch dialyzer. Cu+2-Ni+2-Co+2 was chosen for the experiment. Malonic acid, oxalic acid and citric acid were employed as the complexing agent used in the solution in order to increase the discrepancy between transport fluxes of metal ions. The experimental results show that the order of effective complexing agents is citric acid> malonic acid > oxalic acid. The stoichiometric ratio of complexing agent to metal ions and the pH value of the feed solution are the primary factors on the selective transport behavior of metal ions. The optimal results of P
+                     Co-Na:P
+                     Ni-Na: P
+                        Cu_Na
+                      can be attained about 5.40:3.75:0.75. A theoretical model of the system was formulated on the basis of the Nernst-Planck equation and interface equilibrium hypothesis. Theoretical solutions obtained by numerical calculation were in agreement with the results within a 15% deviation.

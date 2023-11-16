@@ -1,0 +1,14 @@
+Purpose
+                  To determine whether there is a measurable and reproducible relationship between the articular surface size of the middle phalanx base and the size of the middle phalanx head and proximal phalanx length of the same finger.
+               
+                  Methods
+                  Size of the articular surface of the middle phalanx base, size of the middle phalanx head, and proximal phalanx length were measured in 84 lateral radiographs by 3 observers.
+               
+                  Results
+                  The ratio of articular surface size of the middle phalanx base to the proximal phalanx length of the same finger was 0.17. The ratio of articular surface size of the middle phalanx base to the size of the middle phalanx head of the same finger was 1.34. The intraclass correlation (ICC) among 3 raters was 0.99 for proximal phalanx length and 0.88 for size of the middle phalanx head.
+               
+                  Conclusions
+                  Knowledge of this relationship and ratios allow for accurate estimation of the percentage of articular surface involvement in a fracture of the middle phalanx base. The ICC was highest for measuring proximal phalanx length, making it the most reliable measurement for estimation of the articular surface size.
+               
+                  Clinical relevance
+                  This quantitative estimate may be useful for clinical research and is applicable to patient care.

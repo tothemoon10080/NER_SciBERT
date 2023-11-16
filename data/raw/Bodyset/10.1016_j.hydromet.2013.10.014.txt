@@ -1,0 +1,48 @@
+Vanadium has been produced from both primary and secondary sources having various compositions. One of the most available sources of vanadium is vanadium pentoxide. In this paper, vanadium pentoxide leaching was investigated using three chemistries. First, vanadium leaching and the solubility of pentavanadyl ion (VO2
+                     +) at different pHs and temperatures were investigated in the sulfuric acid system. It was shown that decreasing pH and temperature as well as increasing sulfate concentration in the solution will increase the solubility and extraction of vanadium. The extraction of vanadium (V) was found to be limited by solubility. To overcome the solubility problem of vanadium (V), the kinetics of vanadium leaching from vanadium pentoxide at mildly basic pHs and reductive leaching in the low acidic pHs were then investigated. The kinetics of leaching was reasonably fast in both cases. Moreover, the progressive-conversion model was applied to model reductive leaching of vanadium using sodium sulfite. The rate of the reaction was reported as:
+                        
+                           
+                              
+                                 rate
+                                 =
+                                 
+                                    k
+                                    *
+                                 
+                                 
+                                    
+                                       
+                                          H
+                                          +
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                K
+                                                e
+                                             
+                                             +
+                                             
+                                                
+                                                   H
+                                                   +
+                                                
+                                             
+                                          
+                                       
+                                       0.5
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          SO
+                                          2
+                                       
+                                    
+                                    total
+                                    0.57
+                                 
+                                 .Vanadium is a valuable rare metal found in over 50 different minerals ( A significant number of reports about vanadium leaching have been published in recent years. Pure vanadium pentoxide (V In the third step, the kinetics of reductive leaching of vanadium (V) using sodium sulfite was also investigated. The effect of pH, temperature, and sulfite concentration on the kinetics was studied. For this part of the project, UV–Visible spectroscopy (made by PerkinElmer; model Lambda 35) was applied to analyze vanadium (IV) concentration in the solution ( The kinetics of V The solubility of The results show that the kinetics of leaching vanadium to As shown, the solubility of this cation is affected significantly by temperature and pH. Considering thermodynamic data and Le Chatelier's principle, it would be expected that by decreasing pH and temperature, solubility of The equilibrium constant (Log β1) for reaction Some techniques have been known to study speciation in the solution. Raman spectroscopy is one of the well-known methods that characterize the speciation in the solution ( As discussed above, acid leaching of vanadium pentoxide suffers from the low solubility of vanadium. However, it was shown that, by increasing the sulfate concentration in the system, the vanadium solubility will increase due to complexation. Two alternate strategies for overcoming the low solubility of vanadium have been investigated. Leaching at higher pHs and reductive leaching have been applied to change the vanadium species in solution in the hopes of increasing solubility. The kinetics of vanadium leaching using mildly acidic or mildly basic solution was investigated. According to vanadium speciation calculations, vanadium (V) can form the decavanadate anion in solution at pH This reaction is highly favorable. The equilibrium solubility of decavanadate in water has been calculated ( Moreover, leaching at higher pH has also been studied. Reactions According to the thermodynamic data, all of these anion species in the solution have high solubility. Therefore, the effect of temperature on the kinetics of vanadium leaching in mildly basic media was investigated. Since vanadium (IV) has higher solubility than vanadium (V) in acidic pH media (  The chemical control model based on Stokes regime for small particles has been applied for describing the kinetic model: By integration of the rate Eq. Using the data obtained at the various temperatures, the apparent activation energy of the reaction using an Arrhenius relationship has been obtained. It can be seen in The particles were studied during leaching by taking intermediate samples and observing using SEM (Hitachi model S-3000N). The fraction reacted versus time plots are shown in  In order to rule out mass transfer as a possible rate control mechanism, the effect of stirring speed variation on vanadium reductive leaching was investigated at 500, 600, and 700 To investigate the effect that reductive additive concentration had on leaching efficiency, 10 The order of dependence of rate on initial sodium sulfite concentration has been investigated by plotting Log k versus Log[SO The effect of pH on leaching is seen in Since pH can have an effect on the leaching reaction and can change the sulfite species as a reductive additive in the solution, it can be considered an independent parameter. Therefore, to investigate the effect pH has on the kinetics of vanadium leaching, both chemistry and electrochemistry have been considered for vanadium reductive leaching. The reduction of V The overall reaction can be represented by two half cell reactions. The cathodic half cell would be the dissolution of V While the anodic half cell may be presented as sodium sulfite oxidation in solution as per any of the following four reactions: In the simplest form, the overall reaction at low pH can be presented by: Eqs. It was assumed that the potential difference is large enough that the backward reaction would be unfavorable and slow and can be neglected. Therefore, cathodic and anodic reactions can be rewritten as below: The net current density is zero at the mixed potential: Then, the exchange current density can be derived by the following relationship: By assuming α Considering Faraday's low, the rate of the overall electrochemistry reaction can be obtained as: On the other hand, SO And the total concentration of SO Combining Eqs. Considering Eqs. Eq. Based on the electrochemical analysis, the following equation shows the rate dependence of vanadium leaching on pH. This equation has been used to compare experimental with predicted theoretical results considering the effect of pH. The reaction constant for dissociation of SO Considering This study has been done in three steps. First, it was found that V Secondly, it was shown that V Thirdly, it was observed that using reductive agents in acidic pH range can increase leaching efficiency significantly. The kinetics of reductive leaching of vanadium pentoxide using sodium sulfite was then studied using a progressive conversion model (PCM). It was shown that the reductive leaching is a chemical control regime by activation energy of 33.47 The authors wish to thank Dr. Robin Stoodley and Paula Parkinson for their assistance in using ICP. We also wish to express our gratitude to Dr. David Dixon for allowing us access to his lab area and equipment during this research.

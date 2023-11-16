@@ -1,0 +1,7 @@
+X-ray diffraction (XRD) and crystal structure analysis were used to study the effects of Mg content and cooling rate on the titanium phase transformation of three types of titanium slag. The results indicate that in the rapid cooling process, the titanium phase is anosovite, whose chemical formula is Mg
+                        n
+                     Ti3–n
+                     O5 (0<n<1). In the slow cooling process, when the Mg content is high, anosovite transforms into karrooite MgTi2O5 structure; when the Mg content is low, karrooite MgTi2O5 and rutile TiO2 both exist. The stability of karrooite MgTi2O5 is better than that of anosovite Mg
+                        n
+                     Ti3–n
+                     O5. Slow cooling contributes to the doping of Mg into the anosovite crystal and stabilises the anosovite crystal structure.

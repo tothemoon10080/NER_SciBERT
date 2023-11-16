@@ -1,0 +1,32 @@
+Stibnite (Sb2S3) is a major mineral of antimony, which occurs as large crystals often with minor encrustations of other minerals. Locally sourced powdered stibnite containing some quartzite (SiO2) and ferrosilite (FeSiO3) has been used in this work as evaporation source for vacuum deposition of thin film solar cells. The added minerals were left as residue in the crucible and did not incorporate into the Sb2S3 thin film. To stibnite powder was added Sb2Se3 powder prepared in our laboratory as chemical precipitate. Source mixtures of different weight – by – weight (w/w) ratios gave thin films of chemical composition Sb2SxSe3−x and optical band gap (E
+                     
+                        g
+                     ) within 1.38eV (Sb2Se3) – 1.88eV (Sb2S3). Solar cells of SnO2:F/CdS (100nm)/Sb2S3(250nm)/C-Ag prepared by using stibnite as evaporation source gave under standard conditions, open circuit voltage (V
+                     
+                        oc
+                     ), 0.668V; short circuit current density (J
+                     
+                        sc
+                     ), 6.95mA/cm2; and conversion efficiency (η), 1.62%. For a 2:1 (w/w) mixture of stibnite:Sb2Se3, solar cell of Sb2S2.14Se0.86 (E
+                     
+                        g
+                      1.61eV) was obtained with V
+                     
+                        oc
+                     , 0.562V; J
+                     
+                        sc
+                     , 13.53mA/cm2 and η, 4.03%. For 1:5 (w/w) mixture, solar cell of Sb2S0.5Se2.5 (E
+                     
+                        g
+                      1.44eV) gave V
+                     
+                        oc
+                     , 0.443V; J
+                     
+                        sc
+                     , 22.31mA/cm2 and η, 4.24%. Electrical conductivity of the Sb2SxSe3−x absorber films in the dark increased from 10−8 to 10−6
+                     Ω−1
+                     cm−1 and their photoconductivity, from 10−6 to 10−5
+                     Ω−1
+                     cm−1 as the composition changed from Sb2S3 to Sb2SxSe3−x and Sb2Se3. Direct use of an abundant mineral as the evaporation source in thin film solar cell technology is a novelty.Production of solar cells directly from an abundant mineral is a very attractive proposition. In this work we consider stibnite mineral with chemical composition Sb Both Sb Among the best conversion efficiency of antimony sulfide-selenide solar cells is 5.79%, reported in 2016 In this work we used a mixture of locally sourced powdered stibnite mineral and Sb Glass slides (Corning) measuring 7.5 Chemical deposition method was reported in 1994 The method to prepare thin film or precipitate of Sb Was obtained from a local supplier for industrial grade chemicals. The assay is normally stated at 95–98% purity ( Thin films and solar cells were prepared from 600  CdS thin film (100 Deposition via vacuum thermal evaporation of a Sb Hand-painted colloidal graphite electrodes (SPI Chem) of 0.8–1 Cell periphery was etched out; colloidal silver-paint (DuPont) was applied on the graphite-paint and multi-strand copper wire was attached on it for measurements. (The streak of light shows the specular reflection from a tubular fluorescent ceiling lamp on the electrode-free area. This part of the layer-structure was used for grazing-incidence X-ray diffraction (GIXRD) and optical measurements.) Film thickness ( Electrical conductivity of the films in the dark and under illumination (850 In  Optical band gap For all the films,  Systematic variation in the optical and electrical properties of Sb It is pertinent to mention that the source and substrate temperatures for vacuum thermal evaporation of thin films and solar cells need to be optimized for each source-mix. In this feasibility study on Sb EQE plots in For comparison, solar cells were made under the same conditions as of cells B – E, but using a laboratory reagent grade Sb We found in these results that the direct use of stibnite mineral with inclusion of encrustations of minerals, which are stable at the temperature of vacuum thermal evaporation of Sb It is possible to use directly powdered stibnite ore-mineral of antimony sulfide as an evaporation source to produce photoconductive thin films and solar cells of Sb We are grateful to María Luisa Ramón García for XRD measurements, Yareli Colín García for optical measurements; José Campos for measurements on solar cells and Oscar Gomez Daza for experimental support. Financial support from

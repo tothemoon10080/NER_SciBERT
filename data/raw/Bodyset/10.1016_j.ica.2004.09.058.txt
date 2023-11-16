@@ -1,0 +1,219 @@
+The 
+                        
+                           
+                              
+                                 Au
+                                 (
+                                 I
+                                 )
+                                 –
+                                 SO
+                              
+                              
+                                 3
+                              
+                              
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                           –
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                              
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      system was studied at 25 °C and at I
+                     =0.1 M NaClO4 using hydrodynamic voltammetry, gold potentiometry, UV–Vis spectrophotometry and Raman spectroscopy. The presence of two mixed-ligand species, Au(S2O3)(SO3)3− and 
+                        
+                           Au
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           )
+                           (
+                           
+                              
+                                 SO
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                              
+                              
+                                 5
+                                 -
+                              
+                           
+                        
+                     , was detected from the Raman experiments and supported by the gold potentiometric experiments. The stepwise formation constant, log
+                     K
+                     11r
+                     , for the reaction 
+                        
+                           Au
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                              
+                              
+                                 3
+                                 -
+                              
+                           
+                           +
+                           
+                              
+                                 r
+                                 SO
+                              
+                              
+                                 3
+                              
+                              
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                           ⇔
+                           Au
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           )
+                           (
+                           
+                              
+                                 SO
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 r
+                              
+                              
+                              
+                              
+                                 -
+                                 (
+                                 2
+                                 r
+                                 +
+                                 1
+                                 )
+                              
+                           
+                           +
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                              
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      was found to be 1.1 (r
+                     =1) and 4.8 (r
+                     =2) from the hydrodynamic voltammetric experiments.Gold(I) complexation with To provide further Solutions were made with calibrated grade A volumetric glassware using high-purity water (Millipore, Milli-Q system). High-purity NaClO Typically, 50 mL of 1 M NaCl and 0.01 M NaOH with ∼0.1 mM Na The hydrodynamic voltammetry (HV) experiments were performed using a voltammetry stand of in-house construction consisting of a rotating Au disc electrode (3 mm diameter) set-up dipping into a double-walled 50 ml electrochemical cell. The cell temperature was maintained at 25 Here, the minimum peak heights are proportional to the limiting current and the relation between the two [Eq. Small (∼0.03 g) weighed quantities of Na Experiments were conducted using 50 mL of 0.1 M NaClO From previous work, it was found that the sensitivity of the Au electrode can be increased in the presence of excess Cl In the presence of excess From previous work Raman studies were conducted semi-quantitatively to examine the two species formed with respect to However, the concentration of the free thiosulfate was not appreciably changed when the second species was formed with the addition of more sulfite. Moreover, upon the addition of sulfite to maintain molar concentration ratios [Na This result did not change with the total gold(I) concentration [Au(I)] Using these results to set up the speciation model, the stepwise formation constants log To further support the above results, the data from UV–Vis spectrophotometric experiments were analysed using SPECFIT Although the formation of Au(S With this increased stability, the possibility of forming crystalline salts of these two species was examined. Colourless solutions which contained Na The authors thank A.J. Parker Cooperative Research Centre for Hydrometallurgy for financial assistance. Figures S1 and S2 are available as supplementary information. Supplementary data associated with this article can be found, in the online version at 

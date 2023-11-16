@@ -1,0 +1,177 @@
+In this study, a thermodynamic-chemical analysis of the fluid-rock equilibrium state of the Cerro Prieto geothermal field (from sector CP-I) was carried out based on the information on the chemical composition of fluids wells. For it, the ionic activities and activity coefficients for the main ionic constituents dissolved in the geothermal waters (Na+, K+, Mg2+, and Ca2+) were calculated. And, from mineral stability diagrams, it was observed that the geothermal fluids of the field tend to equilibrium between the minerals microcline (K-feldspars) and albite (Na-plagioclase) (also observed that the Ca2+ concentration in fluids is government by wairakite mineral). From our results, it was determined that CP-I is in quasi-equilibrium in a metastable state at a temperature of 280 °C, and based on the mineral stability study, new geothermometers developed based on ionic activities and concentration ratios for Na+/K
+                     +, whose temperature estimates present normalized errors of ±5% concerning to the reservoir temperature (BHT), demonstrating a reduction in the uncertainty of the estimates compared to the classical equations. This work proposes that with the development of geothermometers based on the chemical composition of the geothermal field and downhole temperatures (BHT), better control and more effective monitoring in the estimation of reservoir temperatures would be achieved, thus complementing studies geological and geophysical to identify new production areas in the geothermal field in the future.
+                  
+                     
+                        
+                           T
+                           
+                              
+                              ∘
+                           
+                           C
+                           =
+                           
+                              
+                                 496.74
+                                 ±
+                                 98.56
+                              
+                              
+                                 l
+                                 o
+                                 g
+                                 
+                                    (
+                                    
+                                       
+                                          a
+                                          N
+                                          
+                                             
+                                                a
+                                             
+                                             +
+                                          
+                                       
+                                       
+                                          a
+                                          
+                                             
+                                                K
+                                             
+                                             +
+                                          
+                                       
+                                    
+                                    )
+                                 
+                                 −
+                                 
+                                    (
+                                    
+                                       1.08
+                                       ±
+                                       0.118
+                                    
+                                    )
+                                 
+                              
+                           
+                           −
+                           273.15
+                        
+                     
+                  
+                  
+                     
+                        
+                           T
+                           
+                              
+                              ∘
+                           
+                           C
+                           =
+                           
+                              
+                                 612.42
+                                 ±
+                                 32.56
+                              
+                              
+                                 l
+                                 o
+                                 g
+                                 
+                                    (
+                                    
+                                       
+                                          N
+                                          
+                                             
+                                                a
+                                             
+                                             +
+                                          
+                                       
+                                       
+                                          
+                                             K
+                                          
+                                          +
+                                       
+                                    
+                                    )
+                                 
+                                 +
+                                 
+                                    (
+                                    
+                                       0.500
+                                       ±
+                                       0.059
+                                    
+                                    )
+                                 
+                              
+                           
+                           −
+                           273.15
+                        
+                     
+                  
+                  
+                     
+                        
+                           T
+                           
+                              
+                              ∘
+                           
+                           C
+                           =
+                           
+                              
+                                 1269.73
+                                 ±
+                                 27.80
+                              
+                              
+                                 l
+                                 o
+                                 g
+                                 
+                                    (
+                                    
+                                       
+                                          N
+                                          
+                                             
+                                                a
+                                             
+                                             +
+                                          
+                                       
+                                       
+                                          
+                                             K
+                                          
+                                          +
+                                       
+                                    
+                                    )
+                                 
+                                 +
+                                 
+                                    (
+                                    
+                                       1.678
+                                       ±
+                                       0.051
+                                    
+                                    )
+                                 
+                              
+                           
+                           −
+                           273.15

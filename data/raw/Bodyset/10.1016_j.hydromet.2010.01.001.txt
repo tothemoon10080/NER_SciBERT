@@ -1,0 +1,57 @@
+In this paper, the kinetic of leaching rare earth from the weathered crust elution-deposited rare earth ores with ammonium sulfate solution was investigated. The effects of the main leaching parameters such as temperature and ore particle size on leaching process were examined and discussed in order to elucidate the kinetics and mechanism of leaching rare earth. It was found that the higher the leaching temperature or the smaller the ore particle size, the faster the leaching progress. The leaching mechanism was analyzed with different kinetics models. The results show that the leaching process can be described by the shrinking-core model, the leaching rate was controlled by the inner diffusion of reactants and leaching products through mineral porous layer, the leaching process follows the kinetic model 1−2/3α
+                     −(1−
+                     α)2/3
+                     =
+                     kt, the apparent activation energy was 9.24kJ/mol obtained from calculating the experimental data and the order of the ore particle size found to be approximately 2. An empirical equation relating the rare earth leached rate constant with ore particle size and leaching temperature was established as 
+                        
+                           1
+                           –
+                           2
+                           /
+                           3
+                           α
+                           –
+                           
+                              
+                                 (
+                                 
+                                    1
+                                    –
+                                    α
+                                 
+                                 )
+                              
+                              
+                                 2
+                                 /
+                                 3
+                              
+                           
+                           =
+                           1
+                           .
+                           5
+                           0
+                           ⋅
+                           
+                              r
+                              0
+                              
+                                 −
+                                 2
+                              
+                           
+                           ⋅
+                           
+                              e
+                              
+                                 9240
+                                 
+                                    R
+                                    T
+                                 
+                              
+                           
+                           ⋅
+                           t
+                           .The weathered crust elution-deposited rare earth ore is a kind of rich rare earth clay minerals. It only existed and was discovered in China, mainly located in Jiangxi, Fujian, Hunan, Guangdong, Yunnan and Guangxi provinces. This rare earth deposits grades are low. It contains rich medium and heavy rare earth elements and is the main resources of mid and heavy rare earth in the world ( Since the weathered crust elution-deposited rare earth ores in China have been discovered at 1969, the scientists and engineers of China have been engaged in research and development of a series of hydrometallurgy for the special weathered crust elution-deposited rare earth ores in China ( In recent years, with the application and development of the green chemistry of extraction process, especially popularization of the in-situ leaching process, the high selectivity leaching, high performance and low consumption extraction technology becomes more and more important and stringent in industrial design ( The experimental weathered crust elution-deposited rare earth ores sample is original rare earth ores collected from Zudong Rare Earth Mine area located in the Longnan County (LN), Jiangxi province, China, which mainly contains heavy rare earth. The main chemical composition of ore sample is listed in  The existing state of rare earth in the LN rare earth ore was determined with the sequential fractionating extraction methods( The rare earth exists mainly with ion-exchangeable phase, which account for 80.62% from The partitioning of the ion-exchangeable phase from the LN rare earth ore has been determined by Jiangxi Analytical and Testing Center, Nanchang, China with ICP-MS (Inductively Coupled Plasma Mass Spectrometry, SCIEX ELAN 9000 type), the result shows analysis as As shown in The ore sample was sieved using standard sieves, giving different particle size fractions for the kinetics experiments. The leaching kinetics experiments were carried out in a 500mL tri-mouth glass flask partially immersed in a heated water bath and temperature was controlled within ± The leaching tests were conducted in an aforementioned reactor at constant temperature fixed anywhere in the range of room temperature to 95 A total of 250 The rare earth partitioning has been determined by Jiangxi Analytical and Testing Center, Nanchang, China with ICP-MS (Inductively Coupled Plasma Mass Spectrometry, SCIEX ELAN 9000 type) by acidification of the ore samples after being fused with sodium peroxide and sodium hydroxide. The rare earth content of minerals phase and the total rare earth content of the ore has been determined by arsenazo (III) spectrophosphorimetry by acidifying and purifying the ore sample after being fused with sodium peroxide and sodium hydroxide ( The RE The rare earth content of ion-exchangeable phase analytical methods: 500 The rare earth content of colloidal sediment phase analytical methods: 500 Deionized distilled water and reagent grade chemicals were used in all the experiments. The leaching reactions of the LN rare earth ore with ammonium sulfate are as follows ( It shows that the leaching process is a typical noncatalytic heterogeneous reactions in solid–liquid systems ( As seen in If the rare earth ore particles were considered as spherical particles, the leaching process can be described with the shrinking core model and can be divided into four models ( Chemical reaction controls: Outer diffusion controls: Inner diffusion controls: Mixed controls: The kinetics type can be determined by treating of the experimental data. For the kinetics type of outer diffusion or chemical reaction controlling, the plot of 1 Therefore the kinetics equation can be expressed as: It is observed from the plots that the experimental data fit well into the shrinking core model. This suggests that the leaching rate is controlled by inner diffusion of reactants and leaching products through mineral porous layer during the kinetics district ( The According to Arrhenius equation, this is represented as: The apparent activation energy of the leaching process was determined from the slope of the straight line in In order to further confirm that the leaching process is inner diffusion controlled and establish mechanism of leaching rare earth, The LN rare earth ore sample was sieved into four different particle size fractions (1.8–2.1, 2.1–2.8, 2.8–4.0 and 4.0–5.2 The leaching rate increases with the decreasing of particle size of the LN rare earth ore as shown in From the experimental data in The Arrhenius equation can also be expanded and represented as follows: In this equation, The From the line relationship between ln The empirical equation of the leaching kinetics is established as: The rare earth leaching rate increase with increasing leaching temperature and time, during the initial stages of leaching rate was controlled by kinetics. The kinetics tests about the factors of temperature and particle size of the rare earth ore on leaching ratio show that the leaching process followed the shrinking core model. The leaching kinetics is controlled by diffusion of porous solid layer. The apparent activation energy was 9.24 The authors gratefully acknowledge the financial support of the

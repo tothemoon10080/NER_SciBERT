@@ -1,0 +1,32 @@
+We present here the results on the effect of Cu substitution in 
+                        
+                           
+                              DyCo
+                           
+                           
+                              5
+                              -
+                              x
+                           
+                        
+                        
+                           
+                              Cu
+                           
+                           
+                              x
+                           
+                        
+                        
+                        (
+                        x
+                        =
+                        0
+                        ,
+                        1
+                        ,
+                        2
+                        ,
+                        3
+                        )
+                      compounds, studied using structural and magnetization measurements on polycrystalline samples. All the samples are ferrimagnetic in nature and the Curie temperature decreases with increase in Cu concentration. The easy magnetization direction at room temperature lies in the ab-plane, which suggests that there is no considerable increase in the axial anisotropy with Cu substitution.The remarkable hard magnet properties of Methods of sample preparation are reported elsewhere Powder X-ray diffraction (XRD) analysis confirms that all the compounds are single phase and crystallize in the hexagonal Another important feature observed in the magnetization bahaviour is that there is an initial increase in the saturation magnetization at 5 One of the authors (K.G.S.) thanks CSIR, Government of India for financial assistance in the form of sponsored project.

@@ -1,0 +1,43 @@
+In cement production, tube mills having multi-chambers are traditionally used either in open or closed circuit operations. After the introduction of high compression grinding mills (High pressure grinding rolls (HPGR), vertical roller mill (VRM) and Horomill), various circuit configurations have been developed for energy efficient grinding. In this study, in order to evaluate and compare the performances of these cement grinding technologies, industrial scale data were collected from HPGR-ball mill, VRM, Horomill and multi-chamber ball mill closed circuits.
+                  The grind abilities of the raw materials of all circuits were varying in a narrow range of 14–20kWh/t. The specific energy consumptions of the grinding equipment and the standard bond work indexes, used 100μm screen, of raw materials are given below.
+                  
+                     
+                        
+                           
+                              
+                              
+                              
+                              
+                                 
+                                    Circuit
+                                    Bond work index (kWh/t)
+                                    Specific energy consumption (kWh/t)
+                                 
+                              
+                              
+                                 
+                                    HPGR-ball mill
+                                    14.7
+                                    20.0
+                                 
+                                 
+                                    VRM
+                                    19.6
+                                    27.5
+                                 
+                                 
+                                    Horomill
+                                    14.4
+                                    17.5
+                                 
+                                 
+                                    Ball mill
+                                    14.4
+                                    32.5
+                                 
+                              
+                           
+                        
+                     
+                  
+                  The results show that high compression grinding mill circuits are more energy efficient than conventional single stage multi-chamber ball mill circuits. The circulating load ratio around the circuit is much higher compared to conventional ball milling. The reason is less fine and slime production of the high compression technology which prevents the over-grinding.Tube mills having multi-chambers are traditionally used for cement grinding either in open or closed circuit operations. In the first chamber, larger balls (100–60 The High pressure grinding rolls (HPGR) developed by Schönert has been offered as a comminution technology with claims of improved performance relative to conventional grinding technology. In particular, it has been claimed that the advantage of the high pressure grinding roll is its lower specific energy consumption ( In a vertical roller mill the interparticle comminution takes place in a material filled gap between the rotating table and the grinding rollers. The mill feed is charged to the center of the table and moves by centrifugal forces and friction towards the table’s edge. On its way it is nipped by two rollers installed at the outside rim of the table. The rollers are attached to hydraulic cylinders which provide grinding forces for comminution of the material. The ground particles leave the table by an air stream and taken up to the separator incorporated in the casing of the mill. The fine product is taken as the mill discharge and the reject of the separator falls back onto the table as the circulating load. The Horomill consists of a horizontal cylinder supported onslide-shoe bearings and driven through an open gear train. The Horomill can be described as a bed material compression mill, a multi-compression mill and as high capacity mills ( The introduction of high compression grinding technology brought many different applications and circuit layouts using high pressure grinding rolls (HPGR), vertical roller mill (VRM) and Horomills. In this study, in order to evaluate and compare the performances of different cement grinding technologies using the ball milling and high compression technology, industrial scale data were collected from HPGR-ball mill, VRM, Horomill and multi-chamber ball mill closed circuits. The simplified flowsheet of the various circuit configurations are given below. The sampling studies were conducted at a conventional ball mill closed circuit, closed circuit HPGR pre grinding system with a closed circuit ball mill. The other case studies, VRM, Horomill and single stage closed circuit ball mill circuits, do not include any pre grinding systems. During the sampling surveys, all variables measured were recorded at the control room. Size distributions of the samples were determined by using a combination of dry sieving and laser sizing techniques. Mass balancing studies were performed to calculate the adjusted data and the tonnages of all streams in the circuits. To compare the circuits with each other, material characterization achieved by standard bond work indexes of the fresh feeds ( In this configuration, a multi-chamber ball mill was operated as closed circuit with an air classifier ( In this exercise the HPGR operates in closed circuit with an air classifier to prepare ball mill circuit feed. Since HPGR product is in the form of weak agglomerates which are referred to as “cake”, a simple impact type disagglomerator is used before classification. Since the product of the HPGR circuit is rather fine, the cut sizes of both classifiers used in the circuit and the ball size distribution within the ball mill should be optimized. While design parameters of the circuit are presented in In this study, a compact design and partial external recycling type vertical roller mill circuit was sampled. VR mills are widely used in cement industry especially for raw material and coal grinding. Design parameters of the circuit are presented in Horomill is very new grinding process and used for cement and raw grinding in cement industry. Design parameters of the circuit are presented in A comparison of the fresh feed and product size distributions of the circuits is given in The 80% passing sizes for the circuits’ feed and product are given in The specific energy consumptions based on power draws of the grinding equipments and all main equipment are given with standard bond work indexes and operational work indexes ( As it can be seen from the data high compression milling has low energy consumption when it is compared with ball milling technology. The circulating load ratio around the circuit is much higher compared to conventional ball milling ( In this paper, the performance evaluation studies of four different cement grinding circuits containing HPGR, VRM, Horomill and ball mill in different configurations were presented. Results show that high compression milling technology (HPGR, VRM, Horomill) has lower energy consumption than ball milling technology. When all performances of the circuits compared with each other, the performance of the Horomill circuit is the best. Authors would like to thank to Hacettepe University Research Unit and Turkish Scientific and Technical Research Council (MISAG 160) for their financial support.

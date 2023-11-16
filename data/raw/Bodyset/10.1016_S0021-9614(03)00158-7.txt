@@ -1,0 +1,100 @@
+The EMF of the following galvanic cells 
+                     
+                        
+                           (I)
+                           
+                              W,Bi,Bi
+                              2
+                              O
+                              3|CSZ|O
+                              2
+                              (1
+                              atm),RuO
+                              2,Pt
+                           
+                        
+                     
+                     
+                        
+                           (II)
+                           
+                              W,Bi,Bi
+                              2
+                              O
+                              3|CSZ|O
+                              2
+                              (1
+                              atm),Pt
+                           
+                        
+                     were measured over a wide range of temperature (572 to 1127) K. With O2 (1 atm) reference and RuO2 as the electrode material with Pt as electrical lead, measurements were possible at temperatures close to the melting temperature of Bi. Standard Gibbs free energies of formation, Δf
+                     G
+                     0
+                     m of Bi2O3(s) (both α and δ phases) and Bi2O3(l) were calculated from the emf measurements and are given by the following expressions:
+                        
+                           
+                              Δ
+                              
+                                 f
+                              G0
+                              
+                                 m
+                              〈α-Bi
+                              2
+                              O
+                              3〉±0.3
+                              kJ·mol
+                              −1=−583.4+0.2938T/K
+                              (572⩽T⩽988
+                              K),
+                        
+                     
+                     
+                        
+                           
+                              Δ
+                              
+                                 f
+                              G0
+                              
+                                 m
+                              〈δ-Bi
+                              2
+                              O
+                              3〉±0.4
+                              kJ·mol
+                              −1=−543.8+0.2538T/K
+                              (988⩽T⩽1098
+                              K),
+                        
+                     
+                     
+                        
+                           
+                              Δ
+                              
+                                 f
+                              G0
+                              
+                                 m
+                              {Bi
+                              2
+                              O
+                              3}±0.3.
+                              kJ·mol
+                              −1=−492.4+0.2070T/K
+                              (1098⩽T⩽1127
+                              K).
+                        
+                     A third law treatment of the data yielded a value of −568.4±0.5 kJ·mol−1 for the enthalpy of formation of Bi2O3(s) at T=298.15 K, 
+                        Δ
+                        
+                           f
+                        H0
+                        
+                           m,298.15
+                           K
+                        〈α-Bi
+                        2
+                        O
+                        3〉, which is in good agreement with the second law estimate of −570.8±0.3 kJ·mol−1.Liquid lead and lead–bismuth eutectic alloys are currently being explored for service as coolant in nuclear reactors and accelerator driven systems The electrode materials used were Bi and Bi The schematics of the experimental assemblies used are shown in Measurements were made in the temperature range of 572 K to 1090 K for Cell-I and in the range of The cell reaction can be represented as  Enthalpies for α→δ and δ→ The standard Gibbs free energies of formation of 〈α-Bi To assess the existence of any systematic errors in the emf values measured and their temperature dependency, third law treatment of the data was made. The data on Δ As seen from Itoh and Azakami The data for Bi Risold The data reported in the present work are considered to be very reliable since this involved a large number of equilibrium measurements over a wide range of temperature and was carried out after extended periods of equilibration. Measurements could be extended to temperatures close to the melting temperature of bismuth using RuO The authors acknowledge Dr. G. Periaswami, Head, Materials Chemistry Division, IGCAR for his constant encouragement during this work. The authors also acknowledge Dr. R. Viswanathan, Fuel Chemistry Division, IGCAR for helpful discussions.

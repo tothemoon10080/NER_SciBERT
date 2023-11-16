@@ -1,0 +1,11 @@
+Objectives
+                  Treating dental hypersensitivity (DH) rapidly and maintaining long-term effectiveness remains challenging. We aimed to address this problem by fabricating a novel rapidly mineralized biphasic calcium phosphate (RMBCP), which could rapidly elicit mineralization to form hydroxyapatite (HA) and perform excellent acid-resistant stability, thus effectively blocking the exposed dental tubules and protecting them from acid attack.
+               
+                  Methods
+                  RMBCP was firstly synthesized by precisely adjusting the molar ratio of acetic acid and calcium hydroxide and characterized by X-ray diffraction (XRD), X-ray fluorescence microprobe (XRF), Fourier-transform infrared (FTIR) spectrometer, scanning electron microscope (SEM), and transmission electron microscope (TEM). Subsequently, using a commercialized desensitizing agent, 45S5 bioglass (BG), as the control group, the mineralization performance of RMBCP was investigated in simulated body fluid (SBF), Dulbecco's modified eagle medium (DMEM), and even slightly acidic artificial saliva (pH=6.6). Moreover, the biocompatibility of RMBCP was studied. Finally, the tubule occlusion effect and acid-resistant stability of RMBCP were evaluated in vitro and in vivo.
+               
+                  Results
+                  The rapid mineralization behavior of RMBCP could easily adhere to the dentin surface and block the dentinal tubules completely in vitro and in vivo within 7days. RMBCP performed high acid-resistant stability to maintain the long-term therapeutic effect of DH treatment.
+               
+                  Significance
+                  Developing novel bioactive calcium phosphate materials with the ability to trigger mineralization for HA formation rapidly will be an effective strategy for the long-term treatment of dentin hypersensitivity.

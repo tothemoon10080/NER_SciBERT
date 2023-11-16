@@ -1,0 +1,25 @@
+High-resolution peripheral quantitative CT (HR-pQCT) enables quantitative assessment of distal radius fracture healing. In previous studies, lower-mineralized tissue formation was observed on HR-pQCT scans, starting early during healing, but the contribution of this tissue to the stiffness of distal radius fractures is unknown. Therefore, the aim of this study was to investigate the contribution of lower-mineralized tissue to the stiffness of fractured distal radii during the first twelve weeks of healing. We did so by combining the results from two series of micro-finite element (μFE-) models obtained using different density thresholds for bone segmentation. Forty-five postmenopausal women with a conservatively-treated distal radius fracture had HR-pQCT scans of their fractured radius at baseline (BL; 1–2 weeks post-fracture), 3–4 weeks, 6–8 weeks, and 12 weeks post-fracture. Compression stiffness (S) was computed using two series of μFE-models from the scans: one series (M
+                     
+                        single
+                     ) included only higher-mineralized tissue (>320 mg HA/cm3), and one series (M
+                     
+                        dual
+                     ) differentiated between lower-mineralized tissue (200–320 mg HA/cm3) and higher-mineralized tissue. μFE-elements were assigned a Young's Modulus of 10 GPa (higher-mineralized tissue) or 5 GPa (lower-mineralized tissue), and an axial compression test to 1 % strain was simulated. The contribution of the lower-mineralized tissue to S was quantified as the ratio S
+                     
+                        dual
+                     /S
+                     
+                        single
+                     . Changes during healing were quantified using linear mixed effects models and expressed as estimated marginal means (EMMs) with 95 %-confidence intervals (95 %-CI). Median time to cast removal was 5.0 (IQR: 1.1) weeks. S
+                     
+                        dual
+                      and S
+                     
+                        single
+                      gradually increased during healing to a significantly higher value than BL at 12 weeks post-fracture (both p < 0.0001). In contrast, S
+                     
+                        dual
+                     /S
+                     
+                        single
+                      was significantly higher than BL at 3–4 weeks post-fracture (p = 0.0010), remained significantly higher at 6–8 weeks post-fracture (p < 0.0001), and then decreased to BL-values at the 12-week visit. EMMs ranged between 1.05 (95 %-CI: 1.04–1.06) and 1.08 (95 %-CI: 1.07–1.10). To conclude, combining stiffness results from two series of μFE-models obtained using single- and dual-threshold segmentation enables quantification of the contribution of lower-mineralized tissue to the stiffness of distal radius fractures during healing. This contribution is minor but changes significantly around the time of cast removal. Its course and timing during healing may be clinically relevant. Quantification of the contribution of lower-mineralized tissue to stiffness gives a more complete impression of strength recovery post-fracture than the evaluation of stiffness using a single series of μFE-models.

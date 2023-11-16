@@ -1,0 +1,11 @@
+Objectives
+                  This study evaluated the effect of TiO2 nanoparticles + dense hydroxyapatite (HA) on human osteoblast cells (SAOS-2).
+               
+                  Methods
+                  Particulate bovine HA powder with or without the addition of either 5 or 8 % TiO2 (HA, HA/TiO2Np5 % or HA/TiO2Np8 %) were pressed into disks (Ø = 12.5 mm; thickness = 1.3 mm) uniaxially (100 MPa) and isostatically (200 MPa/1 min) and sintered at 1300 °C. Y-TZP disks were used as control. The following tests were performed: Scanning Electron Microscopy and Dispersive Energy Spectroscopy (SEM/EDS), Atomic Force Microscopy (AFM), cell viability assay (Alamar Blue-AB) and mineralized matrix deposition (Alizarin Red-AR). AB and AR data were submitted to 2-way ANOVA/Tukey tests and ANOVA/Tukey tests, respectively.
+               
+                  Results
+                  SEM revealed that the surface of HA/TiO2Np5% resembles DPBHA surface, but also contains smaller granules. HA/TiO2Np8% characteristics resembles HA/TiO2Np5% surface, but with irregular topography. Y-TZP showed a typical oxide ceramic surface pattern. EDS revealed Ca, O, and P in all samples. C, O, and Zr appeared in Y-TZP samples. AFM data corroborates SEM analysis. AB test revealed excellent cellular viability for HA/TiO2Np5% group. AR test showed that all groups containing TiO2np had more mineralized matrix deposition than all other groups, with statistically differences between HA/TiO2Np8% and HA cultivated in non-osteogenic medium. Culture in osteogenic medium exhibited much more mineralized matrix deposition by TiO2np groups.
+               
+                  Significance
+                  In conclusion, the addition of TiO2np showed chemical, superficial, and biological changes in the reinforced materials. HA/TiO2Np5% showed the best results for cell viability and HA/TiO2Np8% for mineralized matrix deposition.

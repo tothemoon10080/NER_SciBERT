@@ -1,0 +1,7 @@
+This study investigates the effect of inherent minerals on the constant current electrolysis of coal-water slurry (CWS), which is a potential method for energy-saving and value-added utilization of coal. The products and energy consumption of raw coal and demineralized coal (DM-coal) are compared, and the alkali-soluble and alkali-insoluble components are separated for electrolysis. The results show that minerals increase the yield of water-insoluble acid (WIA) from 30.02% to 60.02% and decrease the unit energy consumption from 2.7 kJ/g to 2.3 kJ/g. Additionally, the inherent minerals also affect the carbon skeleton structure of the products. Compared to DM-coal, the residual coal R4
+                     320 from raw coal exhibits lower carbonyl carbons (f
+                     a
+                     C) and smaller sizes of aromatic clusters (X
+                     
+                        b
+                     ). The mechanism underlying the influence of inherent minerals is explored based on the dissolution patterns of minerals and the interaction between oxidizing medium and coal molecules. This study provides insights for energy consumption control and the coupling of anodic CWS oxidation with cathodic carbon dioxide reduction through current modulation.

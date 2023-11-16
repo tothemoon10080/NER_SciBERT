@@ -1,0 +1,9 @@
+Electrical resistance measurements, thin-section, chemical, thermal differential, and thermal gravity analyses have been applied to study samples of chromite and the host serpentinite from the Podenny and Kurman deposits in the Alapaevsk ophiolite and from the Piany Bor and southern deposits in the Klyuchevskoi ophiolite. Samples from the four sites exhibit similar patterns of activation energy E
+                     0) vs. resistance coefficient (log R
+                     0). The E
+                     0–log R
+                     0 points of samples collected away from ore fields align along a straight line corresponding to the log R
+                     0 = a − bE
+                     0 relationship typical of nonmineralized rocks, with the a and b coefficients as in alpine ultramafics. The samples of mineralized rocks depart from the basic line, the departure increasing as they approach the orebody. Though having similar patterns, the E
+                     0–log R
+                     0 fields of the samples from different sites show no overlap. The revealed features may be useful as implicit diagnostic criteria for ophiolite-hosted chromite mineralization.

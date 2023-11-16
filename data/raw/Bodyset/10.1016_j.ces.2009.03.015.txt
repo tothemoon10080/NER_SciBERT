@@ -1,0 +1,139 @@
+A novel photocatalytic material was synthesized by dispersion of AgBr (silverbromide) in Y-zeolite. The catalysts were characterized using XRD (X-ray diffraction), UV–Vis spectrophotometry and ICP-AES analysis. The photocatalytic activity and stability of the synthesized catalysts were evaluated for methyl orange (MO) degradation in aqueous solution in the presence of halogen light or direct sunlight. Three parameters were examined, namely AgBr content in catalysts (
+                        
+                           [
+                           
+                              wt
+                           
+                           %
+                           
+                              
+                                 ]
+                              
+                              
+                                 
+                                    
+                                       AgBr
+                                    
+                                 
+                              
+                           
+                        
+                     ), incident light intensity 
+                        
+                           (
+                           
+                              
+                                 I
+                              
+                              
+                                 0
+                              
+                           
+                           )
+                        
+                      and catalyst loading 
+                        
+                           (
+                           
+                              
+                                 W
+                              
+                              
+                                 
+                                    cat
+                                 
+                              
+                           
+                           )
+                        
+                      in reaction suspension. MO degradation was found to follow the zero-order kinetics, and the reaction rate 
+                        
+                           (
+                           -
+                           d
+                           
+                              
+                                 C
+                              
+                              
+                                 t
+                              
+                           
+                           /
+                           dt
+                           )
+                        
+                      could be expressed as 
+                        
+                           -
+                           d
+                           
+                              
+                                 C
+                              
+                              
+                                 t
+                              
+                           
+                           /
+                           dt
+                           =
+                           5.6
+                           ×
+                           1
+                           
+                              
+                                 0
+                              
+                              
+                                 
+                                    -
+                                    10
+                                 
+                              
+                           
+                           
+                           [
+                           
+                              wt
+                           
+                           %
+                           
+                              
+                                 ]
+                              
+                              
+                                 
+                                    
+                                       AgBr
+                                    
+                                 
+                              
+                           
+                           ·
+                           
+                              
+                                 I
+                              
+                              
+                                 0
+                              
+                           
+                           ·
+                           
+                              
+                                 W
+                              
+                              
+                                 
+                                    cat
+                                 
+                              
+                              
+                                 
+                                    0.42
+                                 
+                              
+                           
+                        
+                      in this study. XRD analysis and the cycling runs indicated that AgBr could remain stable and effective after long time irradiation. The results from MO degradation in the presence of methanol or hydrogen peroxide and potassium iodide oxidation demonstrated that AgBr/Y-zeolite catalysts prepared in this study could initiate the photoreduction process.Aluminosilicate zeolites with uniform nanoscaled pore size and enormous surface area have been applied in the design of efficient photocatalytic systems ( Silver bromide (AgBr) is an important photosensitive material used in the photographic industry. This compound can absorb photons in the visible and shorter wavelengths to generate photoelectron and photohole pairs. The electrons subsequently combine with interstitial silver ions to form silver atoms under continuous irradiation ( However, AgBr could maintain stability if AgBr is well dispersed on support materials and display high catalytic activity. Silicate (SiO In this study, we attempted to utilize the above properties of zeolite and AgBr to prepare a novel AgBr/zeolite photocatalyst. Methyl orange (MO) was chosen as the model compound to evaluate the photoactivity and stability of the synthesized catalysts, and halogen lamp was used as the visible light source. Direct sunlight was also employed to illustrate the possibility of solar energy application. The influences of AgBr content, incident light intensity and catalyst loading on MO degradation efficiency were investigated from the mineralization process, and a possible catalytic mechanism was proposed. NH NH The crystal phase of synthesized AgBr/zeolite catalyst was analyzed by powder X-ray diffraction pattern using a Siemens D5000 The photoactivity of catalyst was examined by the degradation of MO in a 100 In order to confirm the crystalline structure of prepared AgBr/zeolite catalysts, powder XRD study was carried out. The photocatalytic degradation of MO solution (0.015 From XRD analysis of irradiated catalyst ( Three experimental parameters were selected to investigate their effects on MO degradation rate, namely AgBr content in the catalyst, incident light intensity and catalyst loading in the suspension. The conversion of MO in the mineralization process in the presence of catalysts with varying amounts of AgBr was examined, and the results are shown in In order to observe the effect of incident light intensity on MO destruction, experiments were carried out in the presence of catalyst ZC-20. Four levels of light intensity were obtained by adjusting the dimmer connected to the halogen bulb. The zero-order rate constant Clearly, MO degradation was improved by increasing the incident light intensity, and the rate constant A trend-line of zero-order rate constant Clearly, increasing catalyst loading is not efficient to increase the reaction rate. Combing Eqs. Five cycling runs were conducted using the prepared catalyst ZC-35 to examine the stability of catalyst. The catalyst loading, irradiation time and incident light intensity were 1.0 The activity of prepared catalyst ZC-35 was examined using the direct sunlight on MO degradation to illustrate the possibility of solar energy application. The experiment was carried out in Toronto area at 71 As stated in previous work ( Two experiments were designed to further illustrate the photoreduction mechanism of prepared catalyst in this study. One is the effects of methanol and H It is known that methanol is a hole scavenger ( To further examine if the photoholes are the reactive species or involved in the reaction, the oxidation of potassium iodide A possible mechanism for the photoreduction process using the prepared AgBr/zeolite catalysts is proposed here: once the holes and electrons are generated from the irradiation of AgBr/zeolite, the holes could be trapped by the basic sites to lose the oxidation capacity, since the framework oxygen sites in zeolite act as the electron donation centers and are rich on zeolite surface. The electrons, however, could be accepted by the acid Al sites and transferred to the adsorbed oxygen molecules on catalyst surface to produce The synthesized AgBr/Y-zeolite catalyst is very active towards the photodegradation of MO under the halogen light or direct sunlight irradiation. The reactions are found to follow the zero-order kinetics, and the reaction rate Financial support from the Natural Sciences and Engineering Research Council of Canada (NSERC) and Canada Foundation of Innovation (CFI) is gratefully acknowledged.

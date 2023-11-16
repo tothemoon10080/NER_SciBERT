@@ -1,0 +1,15 @@
+Introduction
+                  Les infections du site opératoire (ISO) reposent sur une définition imprécise et discutable. Le terme d’incident cicatriciel (IC) non obligatoirement septique est également souvent cité. Ce travail avait pour buts de préciser la fréquence des IC et des ISO précoces en traumatologie, de déterminer leur relation réciproque et de préciser leurs facteurs de survenue.
+               
+                  Patients et méthode
+                  Une étude prospective observationnelle multicentrique a été menée dans dix centres. Les critères d’exclusion étaient les lésions ouvertes, les polytraumatisés et polyfracturés (plus de deux fractures opérées). Chaque patient a été suivi pendant les trois premiers mois postopératoires jusqu’à la certitude clinique de la cicatrisation et l’absence d’infection. La présence de tout IC ou ISO impliquait un suivi minimum d’un an. La recherche des facteurs de risque d’ISO ou d’IC a été réalisée à partir de régressions logistiques ajustées sur les centres.
+               
+                  Résultats
+                  Sur 1617 cas, 103 se sont compliqués d’un IC et 22 d’une ISO. Les ISO étaient principalement secondaires aux Staphylocoques. Les facteurs prédisposant d’IC et d’ISO (p
+                     ≤0,05) étaient l’âge, les scores NNIS, ASA, Parker, l’éthylisme, la prise d’antiagrégants et l’aspect locorégional au moment du traumatisme. Les 522 ostéosynthèses « près de la peau » ont abouti à 58 IC (11 %) et 14 ISO (2,7 %) ; 13 des 58 IC (22 %) ont abouti à une ISO. Sur 707 ostéosynthèses en site profond, 24 (3,4 %) ont présenté un IC et 7(1 %) une ISO ; quatre ISO avaient pour origine un IC. Les 352 fractures du massif trochantérien se sont compliquées de 15 IC (5,5 %) et une ISO (0,4 %) après clou verrouillé et deux IC et deux ISO (2,5 %) après vis plaques. Parmi les 388 arthroplasties de première intention, seules celles posées pour une fracture du fémur proximal se sont compliquées de 21 IC (6 %) et une ISO (0,02 %). Sur 103 IC de l’ensemble du collectif, 18 se sont transformés en ISO. En l’absence d’IC le taux d’ISO était de 0,2 % alors que la probabilité pour un IC d’évoluer vers une ISO était 100 fois plus élevée. Le seul facteur significativement associé au passage d’un IC en ISO était l’exposition du matériel d’ostéosynthèse.
+               
+                  Discussion
+                  Cette étude prospective comporte plusieurs critiques : caractère délibérément limitatif des inclusions, limite du suivi et éventuelle subjectivité du recueil. Les taux d’ISO rapportés sont pour la plupart en concordance avec la littérature. Elle est innovante en traumatologie par l’importance numérique et la notion d’IC préférée à celle d’infection superficielle. Elle démontre les liens entre IC et ISO en particulier pour les ostéosynthèses prés de la peau.
+               
+                  Niveau de preuve
+                  Niveau III.

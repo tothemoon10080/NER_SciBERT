@@ -1,0 +1,8 @@
+Generally, in many cases of rock engineering, the openings often constructed in rock-mass containing non-persistent joints. However, comparing with the previous works, few studies investigate the failure or damage due to the crack propagation and coalescence around an opening. Based on the uniaxial compression tests and particle flow code (PFC) the interaction effect of opening and joints on the crack coalescence behavior around an opening are investigated in this study. From the view of experimental and numerical results, strength parameters are mainly effected by joints (inclination and distance). Specifically, the uniaxial compressive strength of jointed specimen (UCSJ) and elastic modulus of jointed specimen (E
+                     J) of specimens decrease for 0°≤
+                     α
+                     ≤45° and increase for α
+                     >45°. UCSJ and E
+                     J increases with increasing joint distance (d) for all joint inclination angel (α) values, with the highest and lowest strengths obtained for d
+                     =50mm and d
+                     =20mm, respectively. The opening has a great influence on the failure mode of jointed specimen. Unlike previous results, in this study, jointed specimens present four new kinds of failure modes: Mode-I (horizontally symmetrical splitting failure); Mode-II (stepped failure at opening sides); Mode-III (failure through a plane); Mode-IV (mixed failure). The strength parameters and failure modes in the numerically simulated and experimental results are in good agreement, and the results are expected to be useful in predicting the stability of an opening in a non-persistently jointed mass.

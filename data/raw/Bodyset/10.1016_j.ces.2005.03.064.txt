@@ -1,0 +1,43 @@
+An approach to quantify the impact grinding performance of different materials is presented. Based on a dimensional analysis and on fracture mechanical considerations two material parameters, 
+                        
+                           
+                              f
+                           
+                           
+                              Mat
+                              .
+                           
+                        
+                      and 
+                        
+                           
+                              W
+                           
+                           
+                              m
+                              ,
+                              min
+                           
+                        
+                     , are derived from theoretical considerations. 
+                        
+                           
+                              f
+                           
+                           
+                              Mat
+                              .
+                           
+                        
+                      characterises the resistance of particulate material against fracture in impact comminution. 
+                        
+                           
+                              W
+                           
+                           
+                              m
+                              ,
+                              min
+                           
+                        
+                      gives the mass specific energy which a particle can absorb without fracture. Using this approach various materials in a wide size range, e.g. different polymers, crystalline substances, glass and limestone, can be characterised quantitatively. The derived material parameters are applied to the systematic and multi-scale modelling of grinding in impact mills. A population balance model is presented and the results of the simulation for two different impact mills are shown. The developed model allows for a clear separation of the influence of material properties, mill specific features and operating conditions, thus enabling a deeper understanding of the impact grinding process.Every material performs differently in the milling process and exhibits different grinding characteristics. A systematic and quantitative characterisation of the grinding performance is currently beyond scope and therefore the comparison of materials concerning a comminution process can only be realised by the help of milling tests. These tests give results which are of value only for the type of mill which is applied in the test. The possibility to transfer these results to other mills is debatable. This situation and the lack of understanding the influence of material properties on the comminution process is highly undesirable. In this paper, an approach which describes the grinding performance of different products independently from mill properties is introduced. Furthermore, the modelling of impact grinding processes is addressed. In order to operate a modern and flexible process, it is essential to be able to at least estimate the effect of changes of operational parameters or products on the process result. Even with a statistically optimised experimental strategy the required effort in time and cost for this purpose is still considerable. A systematic and physically reliable computer simulation of the process is the fast and cheap alternative which overcomes these problems. Furthermore, a realistic model can help to understand the milling process and the interaction of single process steps. An approach to simulate grinding in two impact mills based on a population balance model is presented. Different approaches to simulate grinding in different mills are known. For a detailed review of the models refer to The breakage probability and the breakage function quantify the result of particle fracture concerning the size distribution of the milling product. The breakage probability Analysing the parameters which have influence on particle breakage leads to Eq.  For impacting elastic spheres the Hertz theory ( The two different approaches which lead to Eqs. Single particle comminution experiments were carried out to validate the model and to determine the introduced material parameters. Eq. If  Fitting Eq. When the breakage data is plotted according to the probability distribution (Eq. As shown above it is possible to determine two material properties Eq. In order to realise a practicable comminution test, a commercially available labscale impact mill (Fritsch Pulverisette 14), which promised to fulfil the requirements, above was tested. The objective was the determination of the grinding relevant material properties Four different polymers (polymethyl methacrylate: PMMA G55 and G88 and polystyrene: PS 168N and 144C), limestone and a powder coating were tested. Narrow size fractions of the feed material in the size range between 2 and 3  The achieved saving in time and experimental effort with the labscale milling test is considerable. The required time for a single particle test (without sample preparation and determination of the particle size distribution after the experiment) is approximately 30 The main objective for the modelling of impact mills with population balances here lay on a clear separation of the different influences of material properties, machine specific features and operating conditions in order to be able to interpret the results. Therefore it was assumed that the grinding process can be described separately by a machine and a material function ( The sieve hammer mill under investigation was a Bauermeister UTL with a rotor diameter of 124 The experiments on the air classifier mill were carried out on an Hosokawa ACM 2 with a rotor diameter of 177 A simple structure for the model of the mills was chosen. It is shown in The change of the particle mass in a discrete size band during a discrete grinding step, e.g. after a single stressing event, is given by the mass leaving the size band as fragments and the mass entering the size band as fragments from larger sizes (Eq. For the breakage probability, Eq.  The only free and adjustable model parameter  For the lower classifier speeds (1270 and 2540 A similar influence as the classifier speed exhibits the solids loading (mass flow of solids per mass flow of air). Increasing the loading from small values, close to the conditions of single particle tests, up to 0.135 Two approaches describing the influence of material properties, particle size and external load on the result of impact comminution have been presented. It is shown that both lead to the same influencing parameters namely the product of initial particle size, total mass specific net impact energy and a newly introduced material strength parameter. The breakage probability is described by a single mastercurve comprising the breakage behaviour of different materials (polymers, limestone, crystals, glass) of various sizes ( These material parameters were applied to a simple model for the simulation of grinding of three different products in two different impact mills. A good agreement between simulation results and experiments was achieved while retaining a clear distinction between material and operating parameters. The material parameters were determined independently from machine properties by single particle comminution tests. The free adjustable model parameter In future work, it has to be examined whether experimental results for the breakage function can be explained by the product  This project is partly sponsored by the German Federal Ministry of Economics and Technology, Grant no. AiF-No. 12680 N. The authors appreciate the given support. The authors would like to thank the BASF AG in Ludwigshafen, Germany, and the Hosokawa Micron GmbH in Cologne, Germany, for carrying out the milling experiments and the Fritsch GmbH in Idar-Oberstein, Germany for providing the labscale mill. Furthermore, the BASF AG strongly supported the simulation by providing the simulation tool. The authors greatly appreciate this support.

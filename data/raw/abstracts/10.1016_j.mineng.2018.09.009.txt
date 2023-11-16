@@ -1,0 +1,13 @@
+The reduction of chemical oxygen demand (COD) from minerals processing wastewater (MPW
+                        1
+                        MPW: minerals processing wastewater.
+                     
+                     
+                        1
+                     ) was studied using the coagulation-flocculation (CF), adsorption, and Fenton processes. The effects of multiple parameters on COD reduction were evaluated in detail using polymeric ferric sulphate as coagulant, polyacrylamide as flocculant, granular activated carbon as adsorbent as well as H2O2 and FeSO4·7H2O as Fenton reagents. Results showed that the adsorption and Fenton processes can effectively reduce the COD of tailings dam wastewater (TDW
+                        2
+                        TDW: tailings dam wastewater.
+                     
+                     
+                        2
+                     ) from 183 mg/L to 51.9 mg/L and 50.0 mg/L, respectively, thereby satisfying the requirement of the emission standard (COD < 100 mg/L). The CF process is limited to reducing the dissolved COD in TDW and cannot meet the emission standards. Cost evaluation analysis showed that the cost of the adsorption process (3.57 US$/m3) was much higher than that of the Fenton process (0.35 US$/m3). Therefore, the Fenton process should be used in subsequent pilot experiments and industrial experiments. This study provided fundamental support for selecting an optimal technique in MPW treatment for practical applications to ensure the sustainable development of mines and environmental protection.

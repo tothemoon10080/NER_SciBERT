@@ -1,0 +1,17 @@
+Introduction
+                  Nous avons évalué la reproductibilité inter- et intra-observateurs de deux classifications des fractures totales du talus (Hawkins, modifiée par Canale et Kelly et nous-mêmes, AO/AOT).
+               
+                  Hypothèse
+                  Montrer la supériorité de la tomodensitométrie (TDM) sur la radiographie pour analyser et classer ces fractures.
+               
+                  Patients et méthodes
+                  Quatre observateurs ont analysé 39 dossiers radiographiques et tomodensitométriques à deux reprises à six semaines d’intervalle, en classant les fractures et en précisant leurs caractéristiques élémentaires. Un coefficient kappa de corrélation inter- et intra-observateurs a ensuite été calculé et analysé.
+               
+                  Résultats
+                  La reproductibilité inter- et intra-observateurs de la TDM est meilleure que celle des radiographies pour la grande majorité des paramètres étudiés. La classification de Hawkins modifiée procure une meilleure reproductibilité que celle de l’AO/AOT. Néanmoins, cette corrélation est imparfaite, même avec une TDM et pour la classification de Hawkins modifiée.
+               
+                  Discussion
+                  La TDM est indispensable pour l’analyse de toute fracture du talus. Nous avons modifié la classification de Hawkins, Canale et Kelly en y ajoutant un type 0 (déplacement nul ou inférieur à 2mm), en y incluant les fractures frontales du corps, qui se déplacent de la même manière que celles du col et en prenant en compte la comminution fracturaire et les lésions traumatiques de voisinage.
+               
+                  Niveau de preuve
+                  IV – Étude clinique rétrospective.

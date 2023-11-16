@@ -1,0 +1,64 @@
+About 46% of global mercury emissions are due to fossil fuel combustion for electrical and thermal energy production. Since more stringent emission standards are expected, important research efforts are being focused on the development of mercury removal technologies, mainly directed to two alternative approaches: (i) the enhancement of homogeneous oxidation in the flue gases of Hg0 to water soluble Hg2+ by the addition of chlorides or bromides to the boiler or; (ii) the adsorption of Hg2+ and Hg0 on impregnated activated carbon (AC). The latter may require the treatment of the entire gas volume of the thermal power plant and constantly consumes relatively large quantities of AC.
+                  A third option gaining more attention lately is based on the oxidation and retention of dissolved Hg0 in the wet flue gas desulphurisation (FGD) system. A series of chemical oxidants, such as halogens, hydrogen peroxide, sulphur and oxygen, are theoretically able to oxidize Hg0 in the wet FGD system. Most chemical oxidants when applied in the FGD, however, are non-selective and are largely consumed by SO2 absorbed from the flue gas. The less expensive oxidant, non-selective as well, is oxygen (as air) which is already being dispersed into FGD absorbing suspension for the conversion of 
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 3
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      into 
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     .
+                  The experimental evidence of the present work showed that Hg0 present in the gaseous phase can be dissolved and oxidized to a high degree (70–90%) by air together with 
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 3
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      in wet FGD solutions. Transition metals such as Fe2+ and Mn2+ act as catalysts, chloride enhances the reaction, while some oxosulphur compounds, e.g. tetrathionate, inhibit the oxidation. A combination of several catalysts at a concentration of sulphite (
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 3
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     ) below 100mgL−1 and an adequate redox potential of the solution can assure reasonable mercury removal even in the presence of oxidation inhibiting compounds.
+                  The main competitive reactions that govern final Hg0 removal in the FGD are as follows: (1) oxidation of Hg0 together with SO2 with air, enhanced by catalysts; (2) removal of catalysts by precipitation in the form of Fe(OH)3 and eventually as MnO2 (to overcome this problem continuous addition of catalysts to the solution is required); (3) reduction of Fe3+ by tetrathionate to Fe2+ which (4) may reduce Hg2+ to Hg0 and probably (5) the complexation of Hg2+ by anions present which may play an important role in the mechanism by complexing the product(s) of the Hg0 oxidation reaction.Mercury is present in most coals used in thermal power plants producing electrical energy. Due to the low stability of mercury compounds and the high volatility of Hg and some of its compounds at elevated temperature, almost all the Hg present in coal is mobilised and leaves the boiler in the flue gas. The fate of the element and its compounds in different devices after the boiler depends greatly on the coal composition and on processes used for fly ash separation from flue gas and removal techniques for SO Two major options are mainly being investigated to remove mercury from the flue gas: firstly, the enhanced oxidation of Hg The first option, the oxidation of Hg In the case of AC injection into the flue gas, AC can be removed in the fly ash separation devices or by a special filter that has to treat the entire flue gas emission of the boiler. This option is demanding with respect to investment and operating costs due to energy and AC consumption. If AC is filtered together with fly ash the later becomes less attractive as a construction material due to the elevated carbon and mercury content. The oxidation of Hg The third option for removal of Hg From the theoretical standpoint, a number of chemical oxidants are able to oxidize Hg The formation of complexes of Hg Consequently, the chemistry of Hg One should be aware that in the industrial FGD make-up tank at the absorber the oxidation air is introduced generally in the depth of 6 meters (because the Roots air blowers that are normally used can produce 0.7 One of the obstacles to the oxidation of Hg Recently, a case study implemented in a lignite fired boiler in Slovenia showed a significant removal of Hg Experimental laboratory apparatus was set-up for testing the oxidation of Hg To simulate the absorption of SO This was measured by the Lumex Zeeman RA-915 During the experiment, Hg concentrations were also repeatedly measured at the inlet and the outlet of the purging column, in order to check the efficiency of Hg removal from the incoming air. Occasionally the Lumex measurements of gaseous Hg were verified by selective trapping of mercury in 50 An aliquot of 100 Immediately after sampling, an aliquot of 50          The composition of the FGD scrubber solution collected from the lignite fired power plant running in steady state operation, and filtered in a filter funnel by gravity, is presented in The following chemicals were used (chemicals for analytical procedures are not included): MilliQ water, MgSO The basic parameter measured was the percentage of Hg Preliminary testing with the aim of repeating the high Hg Parametric testing of the effect of additions of Fe Effect of additional potential catalysts like Ni Influence of Reduction of dissolved Hg The results of each group of tests greatly influenced the programme of subsequent testing. In order to optimize the number of tests, some parameters were kept nearly constant or in a narrow range, e.g. pH (kept at a value around 5.6 which is very typical of a wet limestone FGD process), temperature, specific load of the bubbler column with gaseous mixture, concentrations of sulphate and chloride in the solution, inlet concentrations of Hg In preliminary testing Hg The data in The data in Based on the preliminary results further testing was performed using continuous addition of catalysts in order to counteract their loss by precipitation reactions. The main reactants and catalysts were added in continuous mode to a synthetic solution composed of high purity MilliQ water and the dissolved salts MgSO The results in The results in The effect of the addition of different cations, present beside Fe The results confirm that addition of tetrathionate always very significantly reduces the removal of Hg In next series of tests the influence of two process parameters important for the desulphurization process, i.e. sulphite ( The data presented in In some of the tests the influence of the specific oxygen (air) supply was studied. In this series of experiments no tetrathionate or Mn The results shown in The results shown on The low solubility of Hg Operating conditions are given in When Hg The experimental results show that Hg Reduction of dissolved Hg It should be noted that realistic industrial solutions contain numerous anions that tend to form strong complexes with Hg It seems that Hg Oxidation of The reduction reaction of Fe Removal of a catalyst like Fe The basic parameters that govern the oxidation of Hg The work was supported by the

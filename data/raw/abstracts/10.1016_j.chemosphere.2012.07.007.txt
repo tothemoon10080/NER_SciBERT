@@ -1,0 +1,30 @@
+The degradation of 100mL of 244mgL−1 of the azo dye Acid Red 29 (AR29) has been studied by photoelectro-Fenton (PEF) using an undivided cell containing a boron-doped diamond (BDD) anode and an air-diffusion cathode under UVA irradiation. The effect of current density, concentration of catalytic Fe2+ and pH on the process was examined. Quick decolorization and almost total mineralization were achieved due to the synergistic action of UVA light and oxidant hydroxyl radicals formed in the bulk from Fenton’s reaction between electrogenerated H2O2 at the cathode and added Fe2+, as well as in the BDD surface from water oxidation. Optimum PEF conditions were found for 0.5–1.0mM Fe2+ and pH 3.0. Comparable electro-Fenton (EF) degradations in the dark yielded much poorer mineralization. The decay kinetics of AR29 followed a pseudo-first-order reaction with similar rate for EF and PEF. The azo dye disappeared much more rapidly than solution color, suggesting the formation of colored conjugated products with λ
+                     max similar to that of AR29. Ion-exclusion HPLC allowed the detection and quantification of tetrahydroxy-p-benzoquinone, oxalic, oxalacetic, tartronic, tartaric, oxamic, malonic and fumaric acids as intermediates in the PEF process. Oxalic acid, accumulated in large extent, was quickly destroyed by the efficient photolysis of Fe(III)–oxalate complexes with UVA light, whereas tartronic and oxamic acids were the most persistent byproducts because of the larger stability of their Fe(III) complexes. The mineralization of the initial N of the azo dye yielded 
+                        
+                           
+                              
+                                 NH
+                              
+                              
+                                 4
+                              
+                              
+                                 +
+                              
+                           
+                        
+                      ion and 
+                        
+                           
+                              
+                                 NO
+                              
+                              
+                                 3
+                              
+                              
+                                 -
+                              
+                           
+                        
+                      ion in smaller proportion.

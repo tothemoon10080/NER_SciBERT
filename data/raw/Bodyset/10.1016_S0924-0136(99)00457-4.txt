@@ -1,0 +1,21 @@
+Upset forging tests on iron preforms of cylindrical shape with different initial aspect ratios, forged at the temperature of 1150°C suggest that the experimentally determined theoretical density ratio has a straight-line relationship with the new strain parameter (e
+                        ε
+                        
+                           z
+                        −ε
+                        
+                           θ
+                        
+                     ) and the geometrical parameter ratio [(h
+                     0/h
+                     f)(3D
+                     0
+                     2/(2D
+                     b
+                     2+D
+                     c
+                     2))]. The barrel-radius curvature fits a circular arc. This shows that the bulged and contact diameters and height can be related to the theoretical density ratio. Also, an attempt has been made to establish the relationship between the measured barrel radius and the stress ratio parameters namely σθ/σz,σz/σm, and σθ/
+                           σ
+                           ̄
+                        
+                     , and Poisson’s ratio.The plastic deformation of sintered powder preforms is similar to that of conventional fully dense materials, but there are additional complications due to the substantial volume fraction of voids in the preform. In particular, the voids must be eliminated during deformation so that a sound metallurgical structure is obtained. The axial compression of solid cylinders of fully dense materials has been studied by many investigators due to its importance and application in metal forming processes such as extrusion, forging, upsetting and coining. A comprehensive review of their contributions is provided by Johnson and Mellor During the compressive deformation of a sintered powder metal preform, some material flows into pores and consequently there is a decrease in bulk volume. For a given reduction in height, the diameter of a powder metal cylinder expands to a lesser amount than does a fully dense material. Therefore, the ratio of diameter strain to height strain for the plastic deformation of a sintered powder material is always <0.50, as described by Kuhn Iron powder of −150 micron was obtained from M/S. Sundaram Fasteners Limited, Hyderabad, India. The iron powder was analysed and was found to be of 99.50% purity. The characteristics of the powder are shown in As explained by Narayanasamy and Pandey  Now, taking natural logarithm on both sides of However, Since the ratio ( According to Narayanasamy and Pandey  From Now, taking the natural logarithm on both sides of From reports published elsewhere  According to Dividing As given elsewhere Dividing From  Shown in The measured barrel radius is plotted against a new parameter, which is according to the theoretically derived The basic conclusions that can be drawn from the present investigation are as follows: An exponential relationship between the fractional theoretical density ratio ( The rate of densification is greater for higher aspect ratios. The relationship between the fractional theoretical density ratio and the geometrical parameter ratio [( The theoretically calculated barrel radius of curvature is in close conformity with the experimentally determined values. The relationship between the barrel radius and stress ratio parameter is The relationship between the barrel radius

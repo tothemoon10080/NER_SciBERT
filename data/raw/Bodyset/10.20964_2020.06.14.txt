@@ -1,0 +1,6 @@
+To obtain the variation law of OH
+                     - ion concentration and its influencing factors in the porous electrode of a zinc-nickel single-flow battery during battery charging, the lattice Boltzmann method is used in this study to simulate the transient mass transfer and electrochemical reaction via the (voxel)REV scale. The output is compared with pore scale. Results prove that the REV and the pore scale are consistent in the concentration distribution of the entire OH
+                     - field.The general law of the electrochemical reaction mechanism inside the porous electrode can be obtained by increasing current density,thus reducing charging time. However, the effect of reducing the charging time gradually decreases as the current density increases, and excessive current density causes considerable concentration polarization.When the electrode thickness is too large, the diffusion resistance of OH
+                     --ions increases. When the thickness of the electrode is too large,and the porosity of the porous electrode is too small, the diffusion resistance of OH
+                     --ions increases. This occurrence is not conducive to the diffusion of OH
+                     --ions. Both cause large concentration polarization in the electrode.

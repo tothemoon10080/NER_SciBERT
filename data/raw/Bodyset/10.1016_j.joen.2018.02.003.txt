@@ -1,0 +1,11 @@
+Introduction
+                  Dentinogenesis includes odontoblast differentiation and extracellular matrix maturation as well as dentin mineralization. It is regulated by numerous molecules. High-temperature requirement protein A1 (HtrA1) plays crucial roles in bone mineralization and development and is closely associated with the transforming growth factor beta (TGF-β) signal in osteogenesis differentiation. Simultaneously, the TGF-β1/small mother against decapentaplegic (Smad) signaling pathway is an important signaling pathway in various physiological processes and as a downstream regulation factor of HtrA1. However, the role of HtrA1 and its relationship with the TGF-β1/Smad signaling pathway in dentin mineralization is unknown.
+               
+                  Methods
+                  We detected the role of HtrA1 and its relationship with the TGF-β1/Smad signaling pathway in odontoblastic differentiation of human dental pulp cells (hDPCs) in this study. First, hDPCs were cultured in mineralized medium, and odontoblastic differentiation was confirmed by investigating mineralized nodule formation, alkaline phosphatase (ALP) activity, and the expression of mineral-associated genes, including ALP, collagen I, and dentin sialophosphoprotein. Then, the expression of HtrA1 and TGF-β1/Smad in hDPCs was investigated in hDPCs during mineralized induction. After HtrA1 knockdown by lentivirus, the mineralized nodule formation, ALP activity, and expression of mineral-associated genes and TGF-β1/Smad genes were investigated to confirm the effect of HtrA1 on odontoblastic differentiation and its relationship with the TGF-β1/Smad signaling pathway.
+               
+                  Results
+                  The expression of HtrA1 and TGF-β1 was increased during odontoblastic differentiation of hDPCs along with the messenger RNA expression of downstream factors of the TGF-β1/Smad signaling pathway. In addition, lentivirus-mediated HtrA1 knockdown inhibited the process of mineralization and the expression of HtrA1 and TGF-β1/Smad genes.
+               
+                  Conclusions
+                  These findings suggest that HtrA1 might positively regulate odontoblastic differentiation of hDPCs through activation of the TGF-β1/Smad signaling pathway.

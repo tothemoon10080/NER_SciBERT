@@ -1,0 +1,17 @@
+Background
+                  Reported revision of internal fixation for undisplaced intracapsular hip fractures is between 12 and 17% at 1 year. This risk is greater for elderly patients, for whom mortality after such a fracture is also higher. Our purpose was to identify predictors of fixation failure and mortality for elderly patients sustaining undisplaced intracapsular hip fractures, and to assess whether their socioeconomic status affected their outcome.
+               
+                  Methods
+                  During a 3-year period we prospectively compiled a consecutive series of 162 elderly (≥65years old) patients who underwent internal fixation for an undisplaced (Garden stage I or II) intracapsular hip fracture. Patient demographics, American Society of Anesthesiologists (ASA) grade, and posterior tilt (measured on the lateral radiograph) were recorded pre-operatively. All patients were followed up for a minimum of 1 year. Each patient’s socioeconomic status was assigned by use of the Scottish Index of Multiple Deprivation. Patient mortality was established by use of the General Register Office for Scotland.
+               
+                  Results
+                  There were 28 failures of fixation during the study period. In Cox regression analysis, ASA grade and the presence of posterior tilt (p
+                     <0.0001) were significant independent predictors of fixation failure. Overall unadjusted mortality at 1 year was 19% (n
+                     =30/162). Cox regression analysis also affirmed ASA grade to be the only significant independent predictor of 1-year mortality (p
+                     =0.003). The standardised mortality rate for the cohort was 2.3 (p
+                     <0.001), and was significantly greater for patients less than 80years of age (p
+                     =0.004). Socioeconomic status did not affect outcome, but the most deprived patients sustain their fracture at a significantly younger age (p
+                     =0.001).
+               
+                  Conclusion
+                  We have demonstrated that ASA grade and posterior tilt of the femoral neck are independent predictors of fixation failure of undisplaced intracapsular hip fractures in elderly patients, and ASA grade was also an independent predictor of mortality.

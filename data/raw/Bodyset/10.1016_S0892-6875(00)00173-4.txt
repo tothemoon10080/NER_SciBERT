@@ -1,0 +1,3 @@
+This work reports the kinetic study of a manganiferous ore leaching in acid media by sucrose as reducing agent.
+                  A shrinking core model with variable activation energy was found to successfully fit experimental data of manganese extraction yields vs leaching time. This model finds a physical confirmation both in the complex reactions that take place during manganese leaching and the different reactivity and accessibility of the mineralogical forms present in the ores.
+                  A non linear regression analysis has been performed in order to estimate the adjustable model parameters and a statistical analysis has also been carried out in order to evaluate the significativity of the estimated values.

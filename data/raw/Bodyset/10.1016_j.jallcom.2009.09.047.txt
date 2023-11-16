@@ -1,0 +1,15 @@
+The effect of AgTaO3 on the electrical properties of (K0.5Na0.5)NbO3 lead-free ceramics was systematically investigated, and the phase transition behavior of the ceramics was also studied in terms of high temperature X-ray diffraction. The experimental results show that Ag+ and Ta5+ ions diffuse into the (K0.5Na0.5)NbO3 lattices to form a stable solid solution with orthorhombic structure, and also lead to the decrease in the orthorhombic to the tetragonal phase transition temperature and the Curie temperature. The 0.92(K0.5Na0.5)NbO3–0.08AgTaO3 ceramics exhibit optimum electrical properties (d
+                     33
+                     =183 pC/N, k
+                     p
+                     =41%, T
+                     c
+                     =356°C, T
+                     o–t
+                     =158°C, ɛ
+                     r
+                     ∼683, and tan
+                     δ
+                     ∼3.3%) and good thermal-depoling behavior. The piezoelectric properties of (1−
+                     x)(K0.5Na0.5)NbO3–xAgTaO3 ceramics are much superior to pure (K0.5Na0.5)NbO3 ceramics. X-ray diffraction patterns for the 0.92(K0.5Na0.5)NbO3–0.08AgTaO3 ceramic at different temperatures indicated a pure perovskite phase with an orthorhombic structure at below 160°C, a tetragonal structure at 160–350°C, and a cubic structure at above 360°C. As a result, the (1−
+                     x)(K0.5Na0.5)NbO3–xAgTaO3 ceramic is one of the promising candidate materials for lead-free piezoelectric ceramics.Perovskite Pb(Zr It is well known that pure KNN ceramics are usually difficult to densify by normal sintering for the volatility of alkaline elements at high sintering temperatures, and so the KNN ceramics prepared by normal sintering usually exhibit poor piezoelectric properties ( The (1 X-ray diffraction (XRD) characterization of the ceramics was performed by Cu Kα radiation (  In order to confirm the phase transitional behavior of 0.92KNN–0.08AT ceramics, XRD patterns of 0.92KNN–0.08AT ceramics were measured at different temperatures by high temperature XRD, where the measurement was carried out after holding time for 30   The temperature dependence of the The thermal-depoling behavior of the piezoelectric properties of the ceramics is very important for the practical application in devices. The thermal-depoling behavior of the It is generally thought that the enhancement of the piezoelectric properties for the KNN ceramics is mainly attributed to the coexistence of orthorhombic and tetragonal phases because the ceramics with the coexistence of two phases possess more possible polarization states (1 The author thanks the support of College of Materials Science and Metallurgy Engineering of Guizhou University.

@@ -1,0 +1,7 @@
+With the development of industrial society, offshore oil spills occur frequently, and more and more attention has been paid to the efficient oil/water separation materials. Herein, a novel nano-MnO
+                        x
+                      particles mineralized oxidized-polypropylene (MnO
+                        x-OPP) membrane was fabricated through a simple one-step immersion process. Polypropylene (PP) melt-blown nonwoven was oxidized by acid potassium permanganate solution; meanwhile, resulting nano-MnO
+                        x
+                      particles were deposited on the fiber surface to obtain the special micro-nano structure, which greatly enhanced the PP membrane's hydrophilicity. The as-prepared membranes exhibit superhydrophilicity and underwater superoleophobicity with high separation efficiencies of over 99% for oil/water mixtures prepared by various types of mineral oil and vegetable oil, and the permeation flux is up to 61,177 L m-2h−1. After 30 separation cycles, no significant separation efficiency loss was observed, indicating excellent separation stability. In addition, the MnO
+                        x-OPP membranes possess superior corrosion resistance and long effectiveness, which have broad application prospects in practical oily wastewater.

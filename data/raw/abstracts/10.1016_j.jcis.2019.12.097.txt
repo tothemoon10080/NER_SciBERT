@@ -1,0 +1,8 @@
+Hypothesis
+                  The crystallization of calcium phosphate (CaP) is a ubiquitous process that occurs in several mineralized tissues and involves a variety of biochemical and chemical reactions. This issue has been hitherto continuously studied from supersaturated solutions (chemical procedure), i.e. by adding calcium and orthophosphate ions in a homogenous phase. Yet, both in vivo and in vitro investigations have clearly shown the implication of enzymes, namely alkaline phosphatase (ALP), to initiate the mineralization process by generating orthophosphate ions.
+               
+                  Experiments
+                  We report a thorough investigation on the mechanism of enzyme-induced mineralization in homogenous phase (enzymatic procedure). For this purpose, ALP is introduced in Ca2+/Mg2+-containing solution (pH = 7.4; 37 °C), and its activity modulated by the concentration of its substrate.
+               
+                  Findings
+                  Results show that after 24 h of mineralization both chemical and enzymatic procedures lead to the formation of well-crystalline hydroxyapatite nano-objects, however with noticeable impact on their shape and dimensions. Remarkably enough, by combining in situ monitoring and ex situ characterizations, we identify several intermediate phases, including amorphous phase, dicalcium phosphate dehydrate phase (DCPD or brushite) and Whitlockite (WH). Besides, mineralized nano-objects with a core-shell structure is observed, and hydroxyapatite platelets are shown to grow on the surface of their shell.

@@ -1,0 +1,11 @@
+Purpose
+                  This report describes the effect of periosteal-derived cells transfected with adenovirus-mediated bone morphogenetic protein-2 (BMP-2) on the repair of mandibular defects in rabbits.
+               
+                  Materials and Methods
+                  Periosteal-derived cells were transfected with a replication-defective adenoviral vector encoding BMP-2, and the expression of BMP-2 was examined in transfected cells using in situ hybridization and enzyme-linked immunosorbent assay. In addition, the proliferation ability and activity of alkaline phosphatase of transfected cells were examined using the 3-[4,5-dimethylthiazol-2-Yl]-2,5-diphenyltetrazolium bromide method and enzymology, respectively. In vitro critical-size defects (about 10 × 6 mm) were made bilaterally in each rabbit mandible, and individual sites were implanted with tissue-engineered bone modified with an adenovirus construct encoding the recombinant human BMP-2 gene (Ad-BMP-2), tissue-engineered bone without modification, single bioactive glass ceramic, or no implants (control). New bone formation was evaluated by histochemical stain.
+               
+                  Results
+                  BMP-2 expression in the supernate of infected cells was detected from the first day after Ad-BMP-2 transfection and remained at a high level for at least 2 weeks. Alkaline phosphatase expression in transfected cells was significantly greater than in uninfected cells. The group of Ad-BMP-2–modified periosteal-derived cells formed more new bone than the other group at any time point.
+               
+                  Conclusion
+                  Gene-modified tissue-engineered bone grafts have greater osteogenic potential than single tissue-engineered bone and single bioactive glass ceramic graft. Ex vivo Ad-BMP-2 transfer to periosteal-derived cells can increase bone formation in critical-size bone defects. Further studies are needed to determine if modified engineered cells can be developed for safe and effective clinical applications.

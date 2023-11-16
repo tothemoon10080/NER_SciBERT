@@ -1,0 +1,31 @@
+For the purpose of developing the extraction of tellurium, we have investigated the extraction using the chloride salt of tri-iso-octylamine (TIOA) in xylene. Experimental data have been analyzed graphically and numerically to determine the stoichiometry of the extraction species. It is found that the extraction reaction is exothermic (ΔH=−51.49KJ/mol). Tellurium was extracted according to the following the reaction:
+                        
+                           2[R
+                              3
+                              N
+                              +
+                              HCl
+                              −]
+                                 org
+                              +[TeCl
+                              6
+                              2−]
+                                 aq
+                              =[(R
+                              3
+                              N
+                              +
+                              H)2
+                              TeCl
+                              6
+                              2−]
+                                 org
+                              +2[Cl
+                              −]
+                                 aq
+                              .
+                        
+                     
+                  
+                  The extraction of tellurium proceeds through an ion-association mechanism and the extracted species is [(R3N+H)2TeCl6
+                     2−]. The distribution constants and thermodynamic functions; enthalpy (ΔH), entropy (ΔS), and free energy (ΔG) in the extraction of tellurium with TIOA have been evaluated.The solid tellurium is a p-type semiconductor and it has wide applications in electronic industry. It is also used in glass and ceramic industry. Tellurium is used as an alloy with cast iron, copper and stainless steel and when added to lead, prevents corrosion. It is developed specifically for use in professional audio CD recorders as it allows more than 1000 erase/record cycles. The highly sensitive silver–indium–antimony–tellurium phase-change material employed in the recording layer ensures the optimum performance in a wide range of recorders and players. Tellurium is widely distributed in various environmental samples in trace amounts. It is classified as both essential micronutrients for many animals as well as toxic at elevated levels. It can be considered either as an impurity in a number of processes or as a toxic element that needs to be eliminated. The preparation and application of a coated-graphite tellurium(IV) ion-selective electrode, based on the TeCl The conventional pyrometallurgical method of extraction of the tellurium needs high-energy consumption and also gives low efficiency. Besides, the tellurium is recovered mainly from anode slime obtained during electro-refining of copper by alkali fusion technique. Separation of this element from complex sulfide matrix is very difficult. With this aim a simple method has been developed for extraction and separation of tellurium with tri-iso-octylamine (TIOA). The extraction of metals such as chromium from various acidic media using high molecular weight tri-iso-octylamine has been reported in literatures The tri-iso-octylamine (Alamine 308), was supplied by Henkel Corporation, USA. The extractant was used without any further purification. Standard stock solutions of tellurium was prepared by dissolving 1.737 Diluting a measured volume of the amine with xylene makes the preparation of organic solution. Extractions have been carried out by following procedure: equal volumes of aqueous and organic phases of known concentrations are placed in a (1 All the instruments used for the investigation were calibrated using standard quality assurances practices. The relative standard deviations of the experimental results remained within 1.5%. The Perkin-Elmer AAS (model no. 2380) was pre calibrated before using unknown sample. The extraction of tellurium was carried out by shaking at 30 The effect of extractant (TIOA) concentration in the extraction of tellurium has been studied. From this experiment it was also observed that two amine ligands react with one tellurium ion by the plot of log For constant [Cl The effect of temperature on the extraction of tellurium by the chloride salt of tri-iso-octalamine in xylene has been studied from an aqueous phase of 0.078 The van’t Hoff equation shows the change of the distribution constant ( The free energy change (Δ The extraction were carried out at 30 It was observed that in the ion-association extraction system, high concentrations of electrolyte like MgCl Tellurium extraction with amine is influenced by the nature of the carbon chain as well as the number of carbon atoms in the chain. Experiments were conducted with number of tertiary amines, where the carbon chain length was varied. For all the amines of 33.9×10 The extraction of tellurium was carried out with 33.9×10 Though extraction was effective in methyl isobutyl ketone but clear phase separation was much slower compared to xylene. Moreover, the solubility of methyl isobutyl ketone increases with increase in acidity. Xylene was found to be the most suitable solvent for extraction of tellurium. It is so, because better extraction and clear phase separation took place in xylene within 2 The effect of sulfuric, nitric, and perchloric acids on the tellurium extractions were investigated. The results are shown in Tellurium extracted into organic phase (TIOA in xylene) was stripped with different strengths of stripping agents. A reduction of absorption signal was observed for nitric acid as stripping agent with concentration range of 0.5–1.0 The organic phase was vigorously shaken with different concentrations of hydrochloric acid (0.05–2.0 The effect of diverse ions on the recovery of 1000 From the above results, it is observed that tellurium is extracted with tri-iso-octylamine in xylene as a moderator by a ion-association mechanism. The extracted species in the organic phase is [(R The authors thank Henkel Corporation, USA for sending the reagent TIOA and also the Department of Metallurgical Engineering, Jadavpur University for extending laboratory facilities. Authors are thankful to Ms. Kasturi Mitra for her contribution.

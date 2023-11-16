@@ -1,0 +1,8 @@
+Hypothesis
+                  The wettability of carbonate rocks is expected to be affected by the organic components of biominerals which are complex, nanostructured organo-mineral assemblages. Elucidating the nanoscale mechanisms driving the wettability of solid surfaces will enable a better understanding of the role of biominerals in the wetting properties of carbonate rocks to control various geological, environmental and industrial processes.
+               
+                  Experiments
+                  Using Atomic Force Microscopy and Spectroscopy (AFM/AFS) we probed the wettability properties of carbonate rocks with different amounts of organic material. The adhesion properties of two types of limestones were determined in liquid environments at different length scales (nm to mm) using functionalized tips with different chemical groups to determine the extent of surface hydrophobic and hydrophilic organo-mineral interactions.
+               
+                  Findings
+                  We observed homogeneous hydrophobic areas at length scales below < 5 µm. The origin of this hydrophobicity is linked to the presence of organics, whose amount and spatial distribution depend on the rock composition. Specifically, our results reveal that the biogenic vs non-biogenic origin of the mineral grains is the main rock property controlling the wettability of the solid surface. Overall, our methodology offers a multi-scale approach to unravel the role that organic moieties and biominerals play in controlling the wettability of rock-water interfaces.

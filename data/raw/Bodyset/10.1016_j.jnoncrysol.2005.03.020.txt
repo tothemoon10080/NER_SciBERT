@@ -1,0 +1,8 @@
+A GFA (glass-forming ability) indicator, reduced crystallization temperature (T
+                     rx), has been suggested based on the consideration of both resistance of the amorphous phase against crystallization and stability of the under-cooled liquid against competing crystalline phase formation. The T
+                     rx parameter exhibits the best correlations with critical thickness (Z
+                     c) and critical cooling rate (R
+                     c) for glass formation when compared with those of ΔT
+                     x, T
+                     rg, and γ parameters. The T
+                     rx parameter obtained under higher scanning rate exhibits better linear regression fit with glass forming ability (GFA).Since the advent of Zr-based bulk metallic glasses (BMGs) with lower critical cooling rate ( In the present study, a modified Turnbull’s criterion Basically alloys investigated in the present study were prepared by arc-melting a mixture of pure metallic elements (purity 99.9–99.99%) under a purified Ar atmosphere. In some cases pre-alloyed master alloys were used, i.e., Pd–P master alloy for Pd Rapid solidification of the alloys was performed by using a melt spinner with a surface velocity of Cu wheel of 40 The cooling-rate dependence of the stability of under-cooled liquid can be visualized from the CCT curve An example for comparison of Since The cooling/heating-rate dependence of Δ Using the data of From Eq.    Since A GFA indicator, reduced crystallization temperature ( The authors are grateful for the financial support of the Creative Research Initiatives of the Korean Ministry of Science and Technology.

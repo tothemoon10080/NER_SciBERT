@@ -1,0 +1,7 @@
+An electrodeposition process placed in a magnetic field or magneto electrodeposition (MED) cause the increment of limiting current and the change of electrodeposits become more compact. This method is important process to produce of nano materials and micro electronics devices. Knowing the limiting current in electrodeposition process is very important because the optimum mass transport achieve at this condition. This limiting current under magnetic influence (i
+                     
+                        B
+                     ) can be predict accurately using semi empirical equation, which have parameters that influence on mass transport phenomena on MED. The semi empirical expression of i
+                     
+                        B
+                      for lead (Pb) MED was established for our experimental setup.

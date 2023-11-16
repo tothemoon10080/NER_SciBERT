@@ -1,0 +1,14 @@
+Purpose
+                  Although tension band wiring (TBW) is generally accepted as standard treatment for olecranon fractures, it has several shortcomings such as loss of reduction, skin irritation, and migration of the K-wires. To overcome these problems and increase fixation stability, we used a rigid fixation technique with double tension band wiring (DTBW). Here, we describe the technique and outcomes of the treatment.
+               
+                  Methods
+                  We retrospectively reviewed 21patients with olecranon fractures who were treated by DTBW. We evaluated clinical and radiological outcomes by checking the range of motion, loss of reduction, functional scoring, skin complications, and pin migration. There were 15 cases of Mayo type IIA fractures (71%) and 6 of type IIB fractures (29%). The mean follow-up period was 37 months (range, 12−58 mo). We also compared the mechanical stability of DTBW and TBW in a sawbone model using a single cycle load to failure protocol.
+               
+                  Results
+                  All fractures united without displacement, and no migration of the K-wires was observed during the period of follow-up. Mean loss of elbow extension was 2° (range, 0°–15°) and mean elbow flexion was 134° (range, 125°–140°). The mean Mayo Elbow Performance Score was 94 (range, 70–100). Biomechanical testing revealed greater mechanical strength in the DTBW technique than in the TBW when measured by mean maximum failure load and mean bending moment at failure.
+               
+                  Conclusions
+                  DTBW produced good clinical and radiological outcomes and could be an effective option for the treatment of olecranon fractures by providing additional stability through a second TBW. Biomechanical comparison with a control group (TBW) supported the mechanical benefits of DTBW.
+               
+                  Type of study/level of evidence
+                  Therapeutic IV.

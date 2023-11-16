@@ -1,0 +1,5 @@
+The use of the guanidine extractant LIX 7950 extracting copper and cyanide from alkaline cyanide solution was investigated. The extraction of copper and cyanide under different initial copper and extractant concentrations was examined and the stoichiometric extraction constant of Cu(CN)3
+                     2− with LIX 7950 was calculated. Both the distribution coefficient and the stoichiometric extraction constant of Cu(CN)3
+                     2− with LIX 7950 decrease when the temperature is varied from 25 °C to 45 °C, indicating the extraction process is exothermic. The calculated enthalpy change of the reaction (ΔHΘ) is about −190 kJ/mol. The copper extraction isotherms under different molar ratios of cyanide to copper are established. The preferential extraction of Cu(CN)3
+                     2− over Cu(CN)4
+                     3− and CN− has been confirmed and a high cyanide-to-copper molar ratio tends to suppress copper loading. The loaded copper and cyanide can be stripped efficiently by the moderately strong NaOH solutions (0.5–1.0 mol/L) and the presence of NaCN in the stripping solution facilitates copper stripping.

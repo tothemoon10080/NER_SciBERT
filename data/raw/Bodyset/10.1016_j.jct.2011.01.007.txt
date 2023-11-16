@@ -1,0 +1,45 @@
+In this work, the thermodynamic properties of the ternary mixed electrolyte system (NaCl+NiCl2
+                     +H2O), using the potentiometric method, are reported. The potentiometric measurements were carried out on the galvanic cell without liquid junction of the type: Na-ISE/NaCl (m
+                     1), NiCl2 (m
+                     2), H2O/Ag-AgCl over total ionic strengths from (0.001 to 4.000)mol·kg−1. A different series of the salt molality ratios r 
+                     
+                        
+                           (
+                           r
+                           =
+                           
+                              
+                                 m
+                              
+                              
+                                 NaCl
+                              
+                           
+                           /
+                           
+                              
+                                 m
+                              
+                              
+                                 
+                                    
+                                       NiCl
+                                    
+                                    
+                                       2
+                                    
+                                 
+                              
+                           
+                           =
+                           2.5
+                           ,
+                           5.0
+                           ,
+                           7.5
+                           ,
+                           10.0
+                           )
+                        
+                      and pure NaCl were used for the measurement at T
+                     =298.2K. The results obtained were interpreted by using Pitzer ion-interaction model. The Pitzer mixing parameters have been evaluated for the system by including the effects of higher-order electrostatic terms. The Pitzer model is satisfactory and adequate for the description of our aqueous system. Furthermore, the parameters obtained with the Pitzer model were used to calculate the values of the mean activity coefficients of NiCl2, the osmotic coefficients, solvent activity and the excess Gibbs free energy for the whole series of the mixed electrolyte system that was studied.In recent years, there has been a growing interest in the measurement or prediction of the activity coefficients of electrolytes in solution because of their importance in areas such as chemistry Many models have been proposed to obtain thermodynamic properties of electrolyte solutions. Among them, the Pitzer ion-interaction model is one of the most famous and useful. The Pitzer equations, with considerable accuracy, correlate the thermodynamic properties of mixed aqueous electrolyte systems. The Pitzer model extended the Debye–Hückel method with a virial expansion to account for the ionic strength dependence of the binary repulsive short-range forces, and higher order interactions In this work, the results relating to the thermodynamic properties for the ternary system of (NaCl All of the potentiometric measurements were made by using a digital multimeter (Martini instruments Mi180) whose resolution was 0.1 Dibutyl phthalate (DBP), potassium tetrakis( The 14E-4-(E-4-((pyridine-2-yl)methyleneamino) phenethyl)- The electrodes were each time backfilled with NaCl internal filling solution. The wire used as both internal reference electrodes and chloride selective electrode was Ag-AgCl. The Ag-AgCl wire electrodes were prepared essentially as described elsewhere by electrolysis The Pitzer ion interaction model was used for the experimental data correlation and calculation of thermodynamic properties for mixed electrolyte solutions. According to the Pitzer model, the mean molal activity coefficient, The cell arrangements in this work were as follows: Ag|AgCl|NaCl ( Ag|AgCl|NiCl Ag|AgCl|NaCl ( These galvanic cells contained a single liquid. Here Using cell (A), the response quality of the fabricated Na-ISE The measured potentials were plotted against the The potentials of cell (B) were determined for different concentrations of pure NiCl Cell (C) was used to determine the emf values ( The contribution of higher-order electrostatic terms The mixed ionic interaction parameters ( The parameters obtained were used for predicting the thermodynamic properties of the system under investigation by the Pitzer model The thermodynamic investigation of the system {(1 We gratefully acknowledge from the Research Vice-Deanery of University of Guilan for supporting this work. Here, the theory and method of calculation for higher-order electrostatic term for asymmetrical mixing is described briefly. The effects associated with the mixing of ions of the same sign are largely incorporated into the mixing parameters The mixing coefficient Also, for calculation of If

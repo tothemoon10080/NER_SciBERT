@@ -1,0 +1,45 @@
+Ultraflocculation can be defined as: flocculation performed in a highly non-uniform hydrodynamic field (
+                        
+                           ε
+                           >
+                           1
+                        
+                      [J/kg
+                        
+                           ·
+                           s
+                        
+                     ], G > 103 [
+                        
+                           
+                              
+                                 s
+                              
+                              
+                                 -
+                                 1
+                              
+                           
+                        
+                     ]) in a short period of time (
+                        
+                           t
+                           <
+                           10
+                        
+                      [s]), which is used mainly to aggregate fine particles in dispersed, and diluted systems.
+                  In this study, four hydraulic ultra-flocculation reactors were tested, UF1, UF2, UF3 and UF4 with tangential inlets/outlets and a cylindrical body, the inside of which varies by reactor. Model flocculated fine quartz slurries were employed as material. Based on a comparison of the three flocculation process indicators – initial settling velocity, supernatant turbidity, and sludge volume – in general the reactors present better performance than that in the base case. There was an average improvement in settling velocity of 300[%], turbidity remains below 100 [NTU], and sludge volume values indicated a higher possibility of water recirculation. Additionally, it was observed that the ultra-flocculation process could be used in relatively concentrated suspensions (
+                        
+                           φ
+                           >
+                           
+                              
+                                 10
+                              
+                              
+                                 -
+                                 2
+                              
+                           
+                        
+                     ) with treatment times below to 5 [s].Traditionally, it is assumed shear rates less than 100 [ The idea of At the entrance of the reactor the values of At the exit of the reactor the values of The values of Ultra-flocculation has many advantages in the thickening process such as: a) increasing thickener output b) improving the water phase purification rate in the clarified liquid c) decreasing flocculant consumption, and d) ensuring sustainable operation of separation equipment, i.e., decreasing the sensitivity of the process to variations in suspension concentration, as well as to variations in suspension composition and dispersion characteristics ( The objective of this paper was to evaluate the performance of four flocculation reactors, which (UF1, UF2, UF3, and UF4) were previously simulated in CFD by Model slurries were prepared with a material that contained mostly quartz ( The set-up and reactors descriptions were previously presented in The fixed variables were pH and flocculant dosage. Some tests were done in pH ranges between 10 and 12, and flocculant dosages between 5 and 15 [g/ton]. All of these tests were carried out in the Sedirack device ( The initial settling velocity was measured in a settling column consisting of an acrylic cylinder column with a height of 650 [mm] and a diameter of 57 [mm]. A camera was used to record the settling interphase. Subsequently, the video was processed to determine the initial settling velocity using personalized image processing software implemented in Matlab 2015b. The supernatant turbidity, and the sludge volume were measure after two hours. For turbidity a 10 [mL] suspension aliquot was withdrawn using a volumetric pipette from a section positioned 140 [mm] from the top of the settling cylinder and tested for turbidity. Turbidity measurements were performed using a portable HI-93414-02 EPA-compliant Turbidity and Free All the tests were conducted in duplicate to avoid an experimental error over 5[%]; thus, the results presented in this paper are average values. Although the local shear rate  In UF1, the acceleration of the fluid is caused by the inlet throttling, and, due to the empty interior that does not restrict the flow paths, the pressure inside the reactor falls rapidly. For that reason it has de highest pressure drop, which results in higher Meanwhile, the UF2, UF3, and UF4 reactors have similar pressure drop values in most cases, as the geometry of the reactor has a direct impact on the pressure drop and the inlet in each of these three reactors has the same dimensions. It is also observed that among these three reactors UF2 has the greatest pressure drops; in this case it is assumed that this is due to the turbulence that could occur through the changes in the diameters of the concentric cylinders. UF3 has the lowest pressure drops, which are attributed to the progressive reduction of the cone diameter inside the reactor. According to the simulations of The flocculation efficiency assessment was carried out based on the following three indicators: settling rate, supernatant turbidity, and sediment volume. The ultra-flocculation reactors were compared with the results obtained in the settling experiments in a cylindrical column without reactor. In UF1, UF2, UF3, and UF4 the settling velocity values were between 6.3–9.5 [mm/s] at 5[%w/w] and 3.2–5.9 [mm/s] at 10[%w/w]; therefore, with the ultra-flocculation process the settling velocity increased by 300[%] on average compared to the base case. The higher settling rates of these reactors possibly indicate that their design (with values of Turbidity remained below 100 [NTU] for all reactors, meaning that an increase in The UF2-UF4 reactors presented sludge volume values between 5.9–6.8 and 10.5–11.8[%] at 5 and 10[%w/w] respectively, all of which were lower than the values in the base case. This indicates that the flocs generated in these reactors probably are more compressible. The decrease in sludge volume indicates that the ultra-flocculation process in the reactors has a greater capacity to recover water and recirculate it into the process. Because UF1 had more fine material in suspension (reflected in the turbidity values), when these particles reached the sludge surface at the bottom they probably did not compact enough, increasing the sludge volume. Finally, according to Four ultra-flocculation reactors were built, which are based on CFD simulations presented in The authors acknowledge support by Centro CRHIAM Proyecto Conicyt/Fondap/15130015; and Fondef project ID15I10291. FB also acknowledges support by project Conicyt/PIA/AFB170001. DC and AP to Conicyt for the scholarships CONICYT PCHA National Doctorate 2016-21160718 and 2014–21140909). In addition DC would like to acknowledge to SENESCYT from Ecuador.

@@ -1,0 +1,51 @@
+Time-varying, circumferentially local liquid film thickness data have been collected on a 38mm internal diameter pipe at inclinations of 
+                        
+                           
+                              0
+                           
+                           
+                              ∘
+                           
+                        
+                     , 
+                        
+                           
+                              30
+                           
+                           
+                              ∘
+                           
+                        
+                     , 
+                        
+                           
+                              45
+                           
+                           
+                              ∘
+                           
+                        
+                     , 
+                        
+                           
+                              60
+                           
+                           
+                              ∘
+                           
+                        
+                      and 
+                        
+                           
+                              85
+                           
+                           
+                              ∘
+                           
+                        
+                      from the horizontal using flush-mounted and parallel wire conductance probes. Analysis of these data permits time-averaged thicknesses, probability density functions, and power spectral densities to be determined. Results show that the distribution of the liquid film is not symmetrical with thicker films on the lower part of the pipe, which are dominated by large disturbance waves. Moreover, as the inclination angle deviates from horizontal, the film thickness distribution becomes systematically less asymmetric. The probability density functions show a strong narrow peak where the liquid film is less disturbed by the presence of waves. The power spectra show that a large portion of wave energy at the bottom is carried by waves of frequency 
+                        ⩽
+                        12
+                        
+                        Hz
+                     . There is no influence of liquid velocity on the shape of the spectra. However, the dominant frequency appears to decrease with increasing liquid flow rate. The frequency of the disturbance waves at the bottom decreases with increasing inclination. Moreover, the spectra tend to flatten out with increasing inclination, due to the more uniform distribution of energy among waves of a broad frequency range.Annular flow is one of the most common flow patterns encountered in natural gas well-bores and pipelines. It occurs at high gas and low to medium liquid flowrate and at all pipe orientations. In this configuration, some of the liquid travels as a film on the channel walls and the remainder is carried as drops by the gas. The fraction of liquid travelling as drops can vary from zero to close to one. The interface between the gas core and the liquid film is usually very wavy, and atomization and deposition of liquid droplets occur through this interface. In the literature, information on circumferential variations of liquid film thicknesses in two-phase flows is almost exclusively for horizontal or near horizontal pipes. Only The annular two-phase flow experiments were carried out on an inclinable rig in the Chemical Engineering laboratory of the School of Chemical, Environmental and Mining Engineering, University of Nottingham. The pipe was mounted on an inclinable beam so that it could be positioned at any angle between vertical and horizontal. The distance between the injection point of the liquid, introduced as a film, and the test section was 132 pipe diameters long, which, over the range of flow rates studied, provided well-developed annular flow, The types of probe employed in this study were chosen on the basis of their range of operability and previous visual observations of flow patterns in pipes. The liquid film in annular flow was observed to be asymmetrical with a thick pool at the pipe bottom and a thin film at the top. Film thickness measurements were carried out using a conductance technique, which employed either flush-mounted probes or wire-pair probes. The first type was used for the entire section of the pipe. The second type, suitable for higher film thickness, was used only for the bottom side. The test section containing the flush-mounted probes used for the liquid film thickness measurement was a 17 The resistance between pairs of flush mounted was measured. Obviously, this depends on the film thickness and the conductivity of the liquid. The measurements were converted to film thicknesses using calibration curves obtained as described below. Liquid conductivity was monitored and the appropriate calibration curve was used. The arrangement employed an AC circuit, which precluded the formation of an ionic double layer during the static calibration. The voltage was applied by and filtered in a multiplexed unit used previously by Calibration of the test section required the use of a stepped cylinder. This was machined out of a 0.3 The wire-pair probes used to measure film thicknesses at the bottom of the main pipe were a modification of the type employed by The system was calibrated by flanging the test section on which the probes were fitted between two short pieces of acrylic resin pipe. The extremities were closed with transparent lids to form a cylinder and a graded scale in millimetres was placed on both lids. Water was added and removed via a small hole. The cylinder so obtained was held horizontally. The signals of the 3 pairs of wires were recorded simultaneously for steps of 1 Data was acquired in two stages using both conductance techniques simultaneously. The first used 1(1), 2(1), 3(1), 4(1) and 5(1) of the flush mounted test section ( Film thicknesses were measured at inclinations of For the horizontal case, the data are plotted on the flow pattern map of The flow rates used in the present experiments have been inserted into the empirical flow pattern delineation method of In The variation of the liquid film thickness with the two highest liquid mass flowrates ( Because of the difficulty in extracting quantitative information from It is difficult to quantify the information any further from these plots. Given the shape of the curves a simple Gaussian equation was investigated. This had the form   The film at the bottom (wires B and C) in horizontal flow can be seen to be very agitated and is characterized by rather regular disturbance waves with high peaks, see In order to determine the most typical frequency, the power spectral density was obtained from the autocorrelation of the film thickness time traces. To reduce the side lobes in the power spectrum, the correlation function was multiplied with a cosine windowing function. Examination of the power spectral density curves shows that a large portion of wave energy at the bottom is carried by waves of frequency  The effect of inclination on the wave frequency along the bottom is seen in the decrease in the amplitude of power spectra, with increasing inclination. Moreover, the spectra tend to flatten out with increasing inclination, due to the more uniform distribution of energy among waves of a broad frequency range.   Over the range of gas mass flowrates considered in this study, the film thickness distribution is very asymmetric; it changes little in the upper half of the tube and reduces drastically between the bottom and the side of the tube. The present data has been used to test the model of The decrease in film thickness at the bottom with increasing inclination might make one to expect there is a decrease in entrainment and hence a decrease of the entrained fraction when the orientation moves from the horizontal to the vertical. However, the increase in wave activity illustrated in  Circumferential film thickness profiles were found to depend primarily on the maximum and minimum thicknesses, the former decreasing, and the latter increasing with inclination from the horizontal. Wave activity was concentrated at the bottom of the pipe. Increasing liquid flow rate and inclination made it spread up the sides of the pipe. The combination of these two trends probably explains the observation of The frequency of the dominant disturbance waves at the pipe bottom are correlated by a Strouhal number/Lockhart–Martinelli parameter combination. The present data tie in with other published data for the horizontal and vertical cases but there is a systematic deviation for other inclinations. Models for film thickness distribution do not give good agreement with the present data. This might be due to the films studied do not fit the assumption of being much smaller than the pipe diameter. In the case of the model of GG was supported by the Shell International Exploration & Production.

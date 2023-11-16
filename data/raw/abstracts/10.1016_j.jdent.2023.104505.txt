@@ -1,0 +1,14 @@
+Objective
+                  We aimed to investigate whether Single Nucleotide Polymorphisms present in the genes of tooth mineral tissues influence dental caries trajectory across the life course, and if there is an epistatic (gene-gene) interaction between these SNPs.
+               
+                  Methods
+                  A representative sample of all 5,914 births from the 1982 Pelotas birth cohort study was prospectively investigated. Dental caries trajectory across the life course was assessed at 15(n = 888), 24(n = 720), and 31 years old(n = 539). Group-based trajectory modeling was used to identify distinct subgroups of individuals whose caries measurements followed a similar pattern over time. Genetic material was collected, and individuals were genotyped [rs4970957(TUFT1), rs1711437(MMP20), rs1784418(MMP20), rs2252070(MMP13), rs243847(MMP2), rs2303466(DLX3), rs11656951(DLX3), rs7501477(TIMP2), rs388286(BMP7), and rs5997096(TFIP11)]. Analyzes were performed for allele and genotype using logistic regression and generalized multifactor dimensionality reduction for epistatic interactions.
+               
+                  Results
+                  The analyses included 678 individuals, those with allele C (OR=0.74, CI95%[0.59–0.92]), genotype CC in the additive effect (OR=0.52, CI95%[0.31–0.89]), and the genotype TC/CC in dominant effect (OR=0.72, CI95%[0.53–0.98]) on the rs243847(MMP2) were associated with low caries trajectory. Individuals with the allele T (OR=0.79, CI95%[0.64–0.98]) and the genotype TC/CC in dominant effect (OR=0.66, CI95%[0.47–0.95]) on the rs5997096(TFIP11) were associated with low caries trajectory. Positive epistatic interactions were observed involving two (MMP2 and BMP7; p = 0.006) and three (TUFT1, MMP2, and TFIP11; p<0.001) loci and high caries trajectory.
+               
+                  Conclusions
+                  Some SNPs present in the genes of tooth mineral tissues were associated with caries trajectory and epistatic interactions increasing the network of SNPs involved in individual caries experience.
+               
+                  Clinical significance
+                  Single nucleotide polymorphisms in the pathway of tooth mineral tissues genes may contribute significantly to the individual caries experience across the life course.

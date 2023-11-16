@@ -1,0 +1,14 @@
+Background
+                  Previous studies have inconsistently reported associations between refractory ceramic fibers (RCFs) or mineral wool fibers (MWFs) and the presence of pleural plaques. All these studies were based on chest radiographs, known to be associated with a poor sensitivity for the diagnosis of pleural plaques.
+               
+                  Research Question
+                  Does the risk of pleural plaques increase with cumulative exposure to RCFs, MWFs, and silica? If the risk does increase, do these dose-response relationships depend on the co-exposure to asbestos or, conversely, are the dose-response relationships for asbestos modified by co-exposure to RCFs, MWFs, and silica?
+               
+                  Study Design and Methods
+                  Volunteer workers were invited to participate in a CT scan screening program for asbestos-related diseases in France. Asbestos exposure was assessed by industrial hygienists, and exposure to RCFs, MWFs, and silica was determined by using job-exposure matrices. A cumulative exposure index (CEI) was then calculated for each subject and separately for each of the four mineral particle exposures. All available CT scans were submitted to randomized double reading by a panel of radiologists.
+               
+                  Results
+                  In this cohort of 5,457 subjects, significant dose-response relationships were determined after adjustment for asbestos exposure between CEI to RCF or MWF and the risk of PPs (ORs of 1.29 [95% CI, 1.00-1.67] and 1.84 [95% CI, 1.49-2.27] for the highest CEI quartile, respectively). Significant interactions were found between asbestos on one hand and MWF or RCF on the other.
+               
+                  Interpretation
+                  This study suggests the existence of a significant association between exposure to RCFs and MWFs and the presence of pleural plaques in a large population previously exposed to asbestos and screened by using CT scans.

@@ -1,0 +1,11 @@
+Purpose
+                  Treating mandibular fractures urgently is controversial. The purpose of this study was to estimate and compare the rates of postoperative inflammatory complications (POICs) in patients with isolated mandibular fractures treated in a nonurgent manner by an outpatient protocol versus a traditional, urgent inpatient protocol.
+               
+                  Patients and Methods
+                  We implemented a retrospective cohort study and enrolled a sample of patients with isolated mandibular fractures treated with open reduction–internal fixation (ORIF). The primary predictor variable was the treatment protocol: outpatient (elective) or inpatient (urgent). The outpatient group was treated with closed reduction and intermaxillary fixation, discharged, and scheduled for definitive treatment as outpatients. The inpatient group was admitted to the hospital, and the fracture was treated with ORIF as soon as possible. The primary outcome variable was POIC (present or absent). Descriptive, bivariate, and multiple logistic regression statistics were computed to measure the association between the treatment protocol and POICs, with statistical significance set at P < .05.
+               
+                  Results
+                  The study sample was composed of 193 patients, with 82 in the outpatient group and 111 in the inpatient group. The frequency of POICs was 17.1% and 18.9% in the outpatient and inpatient groups, respectively (P = .13; relative risk, 0.80; 95% confidence interval [CI], 0.62 to 1.0). The time to ORIF was not significantly associated with POICs (P = .71). After adjustment for treatment group, fracture location, and time to fracture stabilization, smoking (P = .04, odds ratio, 2.3; 95% CI, 1.0 to 5.1) and intraoral incision with a transbuccal trocar (P = .02, odds ratio, 3.4; 95% CI, 1.2 to 9.8) were associated with an increased risk of POICs. Length of stay was 0.6 ± 0.8 days in the outpatient group compared with 2.7 ± 2.0 days in the inpatient group (P < .0001).
+               
+                  Conclusions
+                  An outpatient model to treat isolated mandibular fractures was not associated with an increased risk of POICs. This outpatient care model reduced the hospital length of stay without increasing the risk of POICs.

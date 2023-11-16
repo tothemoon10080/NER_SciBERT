@@ -1,0 +1,8 @@
+In order to achieve collinear collision of particles and to obtain a high impact velocity by a mechanical method, a prototype dual cone impact mill was designed and built. This dual cone impact mill mainly consists of two cone disks with the same geometrical dimensions, and the same rotational speeds rotating in opposite directions. There are no grinding media in the dual cone impact mill. The mechanism of particle motion on the inner surface of a cone disk is analyzed, and we obtain an equation of particle velocity that takes friction into account. It appears that theoretically, the normal impact velocity between two colliding particles can reach up to 6
+                        
+                           
+                              1
+                              2
+                           
+                        
+                      times the circumferential velocity of the cone disk. The dependence of the comminution effect on two parameters, cone disk speed and air flow rate, was experimentally investigated. The results obtained from grinding quartz and cement clinker indicate that this prototype mill can be used for grinding materials of Mohs hardness up to of 6–7, while achieving mean particle sizes of 10 μm.

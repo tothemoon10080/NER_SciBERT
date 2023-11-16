@@ -1,0 +1,11 @@
+Objective
+                  In this paper we aim to provide baseline data and model the changes of Ca, P and Mg throughout life in the mandibular bone, enamel and dentin of red (Cervus elaphus) and fallow deer (Dama dama) in Mediterranean ecosystems.
+               
+                  Design
+                  Through a cross-sectional study of cervids from 1.5 to 20 yrs old, hunted between 1990 and 1997, we apply generalized additive models (GAMs) with data from scanning-electron-microscope with energy-dispersive X-ray (FESEM-EDX) and inductively coupled plasma-mass spectrometry (ICP-MS) analyses.
+               
+                  Results
+                  The mineral content varied in a similar range to that reported for other ruminants. However, we detected lower Ca content values, while more similar results were obtained for P and Mg contents, which led to relatively lower Ca/P ratios and higher Ca/Mg in our deer at that time. A significantly lesser pattern of decreasing mineral content with aging was detected in the fallow deer males, similarities were found between the sexes, and significantly less resistance to demineralization was observed in dentin compared to bone. We discuss how the basic macromineral elements involved in the biomineralization process vary with age throughout life depending on deer species, sex and hard tissues.
+               
+                  Conclusion
+                  Allowing for possible inferences of differential changes in the mineralization state at the main stages in life history, our methodological approach opens up new possibilities in zooarchaeological, paleontological, and wildlife research.

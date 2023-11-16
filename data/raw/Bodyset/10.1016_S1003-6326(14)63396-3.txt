@@ -1,0 +1,5 @@
+It is important to remove the impurities, such as copper and cadmium, from leaching solution in zinc hydrometallurgy. To improve purification efficiency, a replacement-column purification device was proposed and its mass transfer characteristics and purification efficiency were experimentally studied. The results show that purification efficiency increases with the decrease of the zinc powder diameter and decreases with the increase of solution velocity. If appropriate structure and operation parameters are used, it is possible to make purification efficiency more than 99%, but the diameter of zinc powder should be larger than 0.45 mm. For the velocity of 0.05–0.7 cm/s, mass transfer coefficient k
+                     c is in the range of 3.94×10−7–2.76×10−6 m/s, and increases with the decrease of zinc powder diameter and the increase of solution velocity. Moreover, it can be derived by mass transfer correlations of Sherwood number: Sh=0.1069Re
+                     0.5
+                     Sc
+                     0.33, for 0.3< Re<6.

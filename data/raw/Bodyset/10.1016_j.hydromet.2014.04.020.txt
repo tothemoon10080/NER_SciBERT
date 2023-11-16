@@ -1,0 +1,60 @@
+The oxidative leaching of vanadium trioxide was studied in sulfuric acid solutions from 30°C to 90°C. This study was performed in three stages. First, the kinetics of leaching using oxygen was investigated. It was shown that this oxidative leaching is chemically-controlled with an activation energy of around 69kJ/mol. Secondly, vanadium(III) oxidative leaching was studied using ferric ions and oxygen. The presence of ferric enhanced kinetics significantly. Finally, oxidative leaching using a constant ferric–ferrous ratio from 1 to 300 was investigated. Potassium permanganate (KMnO4) was found to be a suitable oxidant for controlling solution potential. The oxidation rate using a constant ferric–ferrous ratio was very sensitive to temperature, giving a large activation energy (38kJ/mol) and was proportional to the Fe(III)/Fe(II) ratio to the power of 0.47. The leaching rate using the shrinking sphere model was modeled as:
+                        
+                           
+                              
+                                 
+                                    
+                                       ∂
+                                       d
+                                    
+                                    
+                                       ∂
+                                       t
+                                    
+                                 
+                                 =
+                                 12
+                                 ,
+                                 088
+                                 ×
+                                 exp
+                                 
+                                    
+                                       −
+                                       
+                                          4580
+                                          T
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          
+                                             C
+                                             
+                                                Fe
+                                                
+                                                   III
+                                                
+                                             
+                                          
+                                          
+                                             C
+                                             
+                                                Fe
+                                                
+                                                   II
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    0.47
+                                 
+                                 
+                                 
+                                    μm
+                                    min
+                                 
+                                 .Vanadium has been used in a wide variety of applications such as metal alloys, catalysts, biological application and mass storage batteries. The extraction of vanadium from ore uses processes such as roasting followed by leaching, while direct atmospheric or pressure leaching has been used to leach vanadium from primary and secondary resources ( A wide range of conditions have been investigated for the direct leaching of vanadium from various ores ( Vanadium trioxide (V This study investigates the acid oxidative leaching of vanadium using vanadium trioxide (V Pure (99.7%) chemical grade made by Alfa Aesar was used. The procedure involved leaching V The leaching of vanadium trioxide using oxygen is thermodynamically favorable and exothermic (  Temperature has an effect on the solubility of oxygen, the diffusion of oxygen in the solution and the chemical reaction rate. The solubility of oxygen in a solution at different temperatures can be expressed by Eq. Likewise, it should be considered that by increasing temperature, the diffusion coefficient of oxygen in the solution increases more than three times from 30 Since pure V Considering Eq. A plot of the fraction reacted versus time is shown in To rule out mass transfer as a possible rate control mechanism, stirring speed at 500, 600 and 700 90 Leaching of V In addition, oxygen can oxidize ferrous in the solution: In addition, oxidation reactions can occur in the system concurrently, that of oxidation of V  It can be seen in Leaching of vanadium using ferric was not studied at pH greater than 0.9 because small iron precipitation was observed at higher pHs. The pH did not have any significant effects on vanadium leaching. The kinetics of oxidative leaching of V The oxidative leaching of vanadium trioxide can be considered as an electrochemical reaction. This electrochemical reaction can be represented by two-half cell reactions: The overall reaction is represented by Eq. Considering the kinetics of the half cell, leaching can be one of these types. In Type I, ferric reduction is slow. The overall rate is proportional to the square root of the ferric concentration and independent of ferrous concentration (Type I: In Type II, ferric reduction is fast. The exchange current density of the oxidizing couple is higher than that of the dissolution reaction by several orders of magnitude. The mixed potential corresponds to the reversible potential of the oxidizing couple. In this type, the rate is proportional to the square root of the Fe(III)/Fe(II) ratio (Type II: In some systems, there is a third type where the reaction is particularly fast and the rate is limited by mass transfer of the oxidant to the mineral surface. In this case, the reaction proceeds at the limiting current density of the oxidant. The rate is proportional to the oxidant concentration (Type III: The effect of temperature on V The shrinking sphere model was applied to formulate the kinetics of leaching. Similar to oxygen leaching (  1 The shrinking rate versus the Fe(III)/Fe(II) ratio is depicted in In addition, the effect of stirring speed from 500 to 700 Therefore, the leaching rate of V Finally, the following kinetic equation was obtained for oxidative leaching of vanadium trioxide using the ferric–ferrous couple: The kinetics of atmospheric oxidative leaching of vanadium trioxide (V Finally, the leaching kinetics of V

@@ -1,0 +1,5 @@
+How to treat uranium-containing wastewater effectively by adsorption and recycle waste adsorbent is an agent problem affecting the sustainable development of nuclear energy. This study successfully developed a super-hydrophilic nano-MgO biochar (MBC) for the efficient and selective separation of UO2
+                     2+ and mineralization recycle of waste MBC. The optimum operating parameters, kinetics, isotherms, thermodynamics and adsorption selectivity of adsorption by MBC, were studied. The adsorption kinetics was well characterized by the Elovich model and the adsorption isotherm was well fitted by the Langmuir-Freundlich model. The adsorption process was spontaneous and endothermic. The selectivity test results showed that MBC had outstanding selectivity and efficiency for UO2
+                     2+ in high concentration coexisting ion solution. The predominant adsorption mechanism of UO2
+                     2+ by MBC was MgU2O7 microprecipitation mechanism, and the mineralization recycle of UO2
+                     2+ is a feasible recovery method for uranium.

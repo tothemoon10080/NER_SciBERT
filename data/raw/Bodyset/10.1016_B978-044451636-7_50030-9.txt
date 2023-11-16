@@ -1,0 +1,1 @@
+ “L” is the symbol for Laplace transform and read as “transform of”, that is, transform of Hence L[t] = 1/s That is, variable t is replaced by variable s. Selected transforms normally required is given in the table below.

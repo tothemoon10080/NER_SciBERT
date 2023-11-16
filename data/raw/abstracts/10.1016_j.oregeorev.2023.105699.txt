@@ -1,0 +1,133 @@
+Sphalerite has been recognized as the most important carrier mineral of the critical metal of indium (In), which mainly exists in sphalerite lattice through isomorphous substitution for Zn. It is widely reported that there are two significant coupled substitution schemes, namely 
+                        
+                           
+                              
+                                 A
+                                 g
+                              
+                              +
+                           
+                           +
+                           
+                              
+                                 I
+                                 n
+                              
+                              
+                                 3
+                                 +
+                              
+                           
+                           →
+                           
+                              
+                                 2
+                                 Z
+                                 n
+                              
+                              
+                                 2
+                                 +
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 C
+                                 u
+                              
+                              +
+                           
+                           +
+                           
+                              
+                                 I
+                                 n
+                              
+                              
+                                 3
+                                 +
+                              
+                           
+                           →
+                           
+                              
+                                 2
+                                 Z
+                                 n
+                              
+                              
+                                 2
+                                 +
+                              
+                           
+                        
+                     , for In entering sphalerite in natural mineralization. However, there is still little known about physicochemical constrains on these two substitution reaction processes, which hinders the understanding of In mineralization. Thus, the current study uses ab-initio calculations and molecular dynamics simulations to investigate the replacement processes of Zn by In, Ag and Cu in sphalerite. The doped systems of Zn30InAgS32 and Zn30InCuS32, which correspondingly represent the products of the two substitution processes, were constructed by using 2 × 2 × 2 supercell model of sphalerite. Molecular dynamics method was employed to simulate the doped models, obtaining average configurations and formation energies at different temperatures. Then, ab-initio calculations were utilized to study the population values and electronic properties of the simulated configurations. In order to simulate a system close to natural mineralization conditions, a constant pressure of 30 MPa was set in molecular dynamics simulations, as this pressure level can represent the average metallogenic pressure observed in magmatic-hydrothermal deposits associated with In-bearing sphalerite. The temperature parameters were tested within the range of 175 °C to 400 °C, covering the known possible ore-forming temperatures. The simulation results show: (1) it is more stable for In to enter sphalerite via the coupled substitution scheme of 
+                        
+                           
+                              
+                                 C
+                                 u
+                              
+                              +
+                           
+                           +
+                           
+                              
+                                 I
+                                 n
+                              
+                              
+                                 3
+                                 +
+                              
+                           
+                           →
+                           
+                              
+                                 2
+                                 Z
+                                 n
+                              
+                              
+                                 2
+                                 +
+                              
+                           
+                        
+                      than that of 
+                        
+                           
+                              
+                                 A
+                                 g
+                              
+                              +
+                           
+                           +
+                           
+                              
+                                 I
+                                 n
+                              
+                              
+                                 3
+                                 +
+                              
+                           
+                           →
+                           
+                              
+                                 2
+                                 Z
+                                 n
+                              
+                              
+                                 2
+                                 +
+                              
+                           
+                        
+                     ; (2) the favorable temperatures for the two substitution processes are 225-250 °C and 325-350 °C; and (3) the changes in chemical reactivity caused by temperature fluctuations during the substitution processes of Zn by In, Ag and Cu may lead to the cyclic oscillation distribution that is commonly observed for In within sphalerite in magmatic-hydrothermal mineralization systems. This discovery not only shows the physicochemical properties of In-rich sphalerite formed by the two reaction processes of replacement of Zn, but more importantly, provides deep insights into the natural mineralising process of In at the atomic or/and molecular scale.

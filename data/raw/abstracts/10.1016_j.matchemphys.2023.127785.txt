@@ -1,0 +1,8 @@
+Eggshell powder (ESP) was explored as a selective heterogeneous catalyst for oxidative degradation of crystal violet (CV) dye in aqueous media in presence of H2O2 at room temperature. Natural but throw-away material ESP as a carbonate (CO3
+                     2−) source facilitated the formation of carbonate anion radicals in presence of H2O2. Carbonate anion radicals (CO3
+                     •−), though a weaker oxidant than 
+                        ∙
+                     OH radical, efficiently served as a selective oxidant. Selective degradation of CV dye in aqueous solution was confirmed from the quenching experiments. Synergistic effects of both the radicals (CO3
+                     •− and 
+                        ∙
+                     OH) in the dye degradation process was experimentally verified. At a dose of 10 g/L of ESP, 91% removal of CV (initial concentration: 10 mg/L) was achieved in 60 min. The reaction kinetics followed first order rate model. Intermediate products formed during CV degradation and the extent of mineralization were confirmed from MALDI-TOF-MS and TOC analysis, respectively. The turnover number (TON) and turnover frequency (TOF) were obtained as 2.45 × 10−6 mol per g and 6.81 × 10−10 mol per g per second. A promising reusability was achieved up to seven cycles. The ESP catalyst used in this study was characterized by SEM, FTIR, XRD, XPS, BET surface area analysis, UV–visible DRS, XRF, and pHZPC analyses. The present work offers a novel facile but selective route for CV degradation and opens up newer possibilities for eggshell waste utilization as catalyst.

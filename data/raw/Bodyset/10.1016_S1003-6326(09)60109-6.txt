@@ -1,0 +1,12 @@
+The effects of carbon/slag molar ratio, chloride amount and temperature on equilibrium molar ratio (R
+                     Eq) of CO to CO2 for off-gas produced by carbochlorination of titanium slag were firstly investigated by thermodynamic calculation of equilibrium components of off-gas. The experimental CO/CO2 molar ratio (R
+                     Ex) was then obtained to be 0.2–0.3 by the carbochlorination experiment using a novel combined fluidized bed as chlorination reactor. To further investigate the reaction effect of the novel process mentioned above, R
+                     Ex, R
+                     Eq and corresponding reference data (R
+                     Re) were compared. The results indicate that R
+                     Ex is similar to R
+                     Re (0.5–1.2) but different from R
+                     Eq (≥4.3), which is consistent with anticipation of R
+                     Ex for the novel combined fluidized bed. The difference between R
+                     Ex and corresponding R
+                     Eq is mainly attributed to short retention time (about 1 s) of materials in combined fluidized bed and carbochlorination of oxide impurities contained in titanium slag, such as CaO, MgO and SiO2.

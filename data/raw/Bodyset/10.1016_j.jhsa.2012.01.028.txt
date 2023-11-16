@@ -1,0 +1,14 @@
+Purpose
+                  The correlation between physician-observed parameters and patient-rated disability in distal radius fractures is complex and poorly understood. Anecdotal clinical experience suggests that supination is an important factor in the return of functional status after distal radius fracture. To explore this relationship, we conducted a retrospective multivariate linear regression analysis of an existing patient database to evaluate the hypothesis that range of motion and other objective parameters are important determinants of patient-rated disability.
+               
+                  Methods
+                  We analyzed a prospectively gathered registry of patients undergoing operative fixation of distal radius fractures using physical examination parameters measured at each follow-up visit and patient-based outcomes including Disabilities of the Arm, Shoulder, and Hand (DASH) questionnaire and visual analog scale for pain. We constructed a multivariate linear regression model to evaluate the association of range of motion, grip strength, and visual analog scale score with the DASH score.
+               
+                  Results
+                  We analyzed data from 190 patients and 611 total clinic visits. Pain, grip strength, and supination were significantly correlated with DASH scores, controlling for all other factors. These 3 variables were able to predict 56% of the variability of the DASH score. Flexion-extension, radial-ulnar deviation, and pronation had no significant correlation to DASH score.
+               
+                  Conclusions
+                  Pain, strength, and supination appear to be important determinants of patient-rated outcomes after distal radius fracture. Pain and strength continuously improve over time up to 2 years after surgery, whereas supination plateaus more quickly, usually within the first 3 to 6 months.
+               
+                  Type of study/level of evidence
+                  Diagnostic II.

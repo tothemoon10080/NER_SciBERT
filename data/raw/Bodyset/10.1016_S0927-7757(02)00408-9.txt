@@ -1,0 +1,29 @@
+In this contribution, the breakage and wettability properties of calcite and barite minerals were presented and some correlations were established between these experimentally determined parameters. The γ
+                     c relates to S
+                     
+                        i
+                      by a relationship: γ
+                     c=−4.94S
+                     
+                        i
+                     +32.5 (calcite) and γ
+                     c=−5.70S
+                     
+                        i
+                     +36.1 (barite), where γ
+                     c is the critical surface tension of wetting of mineral determined by flotation technique and S
+                     
+                        i
+                      is the specific rate of breakage of mineral obtained from grinding tests. Another relationship found is expressed by: m
+                     f=4.20S
+                     
+                        i
+                     +5.30 (calcite) and m
+                     f=7.96S
+                     
+                        i
+                     +6.71 (barite), where m
+                     f in to slope of the flotation recovery curve. These relationships will help us to predict the wettability behavior of solids in surface chemistry related processes, by knowing the breakage parameter S
+                     
+                        i
+                      previously from any grinding tests.characteristic constant characteristic constant characteristic constant critical surface tension of wetting, mN/m liquid–air surface tension, mN/m cumulative primary breakage function of size mill diameter, m ball diameter, m integer denoting √2 size interval fraction of mill volume filled with ball bed slope of flotation data curve critical speed of the mill, rpm flotation recovery (%) specific rate of breakage of material of size time of grinding, min total powder mass in the mill fraction of mill charge in size interval size of particles, mm The grinding of minerals and other solid materials is widely used as a processing-step in the production of ceramics, cement, pigments, refining of ores, etc. Thus, size reduction by grinding is crucial for many operations involved in many aspects of mineral, metallurgical, power and chemical industries. Fine grinding, on the other hand, is very important in the cement and ceramic industries in terms of efficient milling and product specifications. In the cement industry, for example, approximately 75% of the total power consumption is for size reduction, of which 85% is for grinding operations. Undergrinding of any solid material produces large particles that may not be desired in further processes, whereas overgrinding increases production cost largely and very fine materials that may not be needed The wettability of minerals or solids is another important parameter in fine particle characterization that affects many technological processes such as flotation, flocculation, agglomeration, solid-liquid separation and dust abatement and other colloid chemistry operations. Wetting properties affect the behavior and performance of the particulate processings cited above. wettability properties or degree of solid materials are assessed by a number of experimental and theoretical techniques; contact angle measurement and flotation approach are widely used techniques among those methods In this study, we conducted grinding tests on calcite and barite, all from Turkey, using a laboratory size ceramic ball mill to determine their breakage parameters ( The normal breakage rate is defined by a first-order breakage rate as given below The cumulative primary breakage distribution ( Wettability characteristics of solids are described quantitatively by ‘the critical surface tension of wetting ( The solid materials used in this work are all from Turkey for the determination of breakage parameters and wettability characteristics, and establish a possible relationship between these parameters. The chemical composition of these feed materials, calcite and barite, are given in The grinding mill used for tests was a batch ceramic mill whose characteristics and tests conditions are outlined in Methanol–water solutions of different concentrations (w/w%) were prepared and used to obtain the critical surface tension of wetting (  These grinding results conform the first-order breakage (   The dry and wet ground product were not expected any correlations for all materials due to their hydrophilic surfaces in the absence of any surface active agents. Finally, another relationships is seen between the flotation recovery curve ( (1) The specific rates of breakage ( (2) The critical surface tension of wetting values ( (3) There is a relationship between the (4) These relationships will help to predict the wettability and flotability behavior of any mineral ( The authors acknowledge the financial support of this study provided by Cumhuriyet University Research Fund Unit and The Scientific and Technical Research Council of Turkey (TUBITAK) for the project #100Y058.

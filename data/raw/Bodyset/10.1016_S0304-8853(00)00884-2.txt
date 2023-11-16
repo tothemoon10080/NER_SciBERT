@@ -1,0 +1,6 @@
+The magnetic and transport properties of two series of sputtered [Ni80Co20(L)/Fe(t
+                     Fe)]
+                        N
+                      multilayers with different Fe layer thickness of t
+                     Fe=0.1 and 2nm, respectively, and varying L were studied and compared. An enhanced anisotropic magnetoresistance (AMR) peak around L=10nm was observed for annealed films with t
+                     Fe=0.1nm. The mechanism of AMR enhancement was discussed.In recent years, the anisotropic magnetoresistance (AMR) of ferro/ferromagnetic (FM/FM) multilayers (Mls) have attracted considerable attention for both the basic interest and technological applications. An oscillatory behavior of AMR in Ni/Co Mls probably due to a superlattice effect was reported Two series of [Ni Low- and high-angle XRD were employed to analyze the microstructure of the samples. In the low-angle XRD patterns, there were two and more diffraction peaks for the first series with  For the second series, the AMR Δ For the second series, the coercivity For the annealed This work is supported by Natural Science foundation of Education Commission of Anhui Province in China, and National Natural Science Foundation of China.

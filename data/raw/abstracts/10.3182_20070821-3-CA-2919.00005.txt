@@ -1,0 +1,2 @@
+In 2004, Alcan decided to use fieldbus communication for process control equipment on their AUD 2.8 billion expansion of the Alcan Gove Alumina Refinery in Australia's Northern Territory. To reduce project risk Alcan used elements of the PEpC model developed by CII. (Construction Industry Institute).
+                  This paper outlines Alcan's implementation of fieldbus technology on the expansion project and its use of a construction process known as pre-assembled modules (PAM) to meet the aggressive schedule targets.

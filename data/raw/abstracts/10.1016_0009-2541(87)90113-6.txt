@@ -1,0 +1,12 @@
+The peculiarities of weathering processes involving duration, slow change of ambient conditions, isothermality as well as proceeding in open systems permit to study these processes in a steady-state approach (
+                        
+                           
+                              dCi
+                           
+                           
+                              dt = 0
+                        
+                     , where C
+                     
+                        i
+                      is concentration of intermediates; and t is time). The most typical quasi-stationary processes for a water-rock system are: (1) non-equilibrium step - surface reaction of primary-mineral dissolution; and (2) non-equilibrium step - secondary-mineral precipitation. These respectively determine two extreme mechanisms of mineral formation: (1) pseudomorphous replacement; and (2) dissolution-transfer-crystallization. Besides non-stationary weathering processes are known. It is the case when a process is controlled by diffusion through a layer of secondary minerals which have been deposited on the surface of the primary mineral. A mathematical model of weathering dynamics of feldspar with its metasomatic replacement by clay minerals is presented. Numerical simulation led to the prediction of mineral zonality development along the weathering profile at any time.

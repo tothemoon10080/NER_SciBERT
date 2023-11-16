@@ -1,0 +1,102 @@
+Minerals are solid state nuclear track detectors — nuclear recoils in a mineral leave latent damage to the crystal structure. Depending on the mineral and its temperature, the damage features are retained in the material from minutes (in low-melting point materials such as salts at a few hundred 
+                        
+                           °
+                           C
+                        
+                     ) to timescales much larger than the 4.5Gyr-age of the Solar System (in refractory materials at room temperature). The damage features from the 
+                        
+                           O
+                           
+                              (
+                              50
+                              )
+                           
+                           
+                           MeV
+                        
+                      fission fragments left by spontaneous fission of 238U and other heavy unstable isotopes have long been used for fission track dating of geological samples. Laboratory studies have demonstrated the readout of defects caused by nuclear recoils with energies as small as 
+                        
+                           O
+                           
+                              (
+                              1
+                              )
+                           
+                           
+                        
+                     keV. This whitepaper discusses a wide range of possible applications of minerals as detectors for 
+                        
+                           
+                              
+                                 E
+                              
+                              
+                                 R
+                              
+                           
+                           ≳
+                           O
+                           
+                              (
+                              1
+                              )
+                           
+                           
+                        
+                     keV nuclear recoils: Using natural minerals, one could use the damage features accumulated over 
+                        
+                           O
+                           
+                              (
+                              10
+                              )
+                           
+                           
+                           Myr
+                           –
+                           O
+                           
+                              (
+                              1
+                              )
+                           
+                           
+                        
+                     Gyr to measure astrophysical neutrino fluxes (from the Sun, supernovae, or cosmic rays interacting with the atmosphere) as well as search for Dark Matter. Using signals accumulated over months to few-years timescales in laboratory-manufactured minerals, one could measure reactor neutrinos or use them as Dark Matter detectors, potentially with directional sensitivity. Research groups in Europe, Asia, and America have started developing microscopy techniques to read out the 
+                        
+                           O
+                           
+                              (
+                              1
+                              )
+                           
+                           –
+                           O
+                           
+                              (
+                              100
+                              )
+                           
+                           
+                           nm
+                        
+                      damage features in crystals left by 
+                        
+                           O
+                           
+                              (
+                              0
+                              .
+                              1
+                              )
+                           
+                           –
+                           O
+                           
+                              (
+                              100
+                              )
+                           
+                           
+                        
+                     keV nuclear recoils. We report on the status and plans of these programs. The research program towards the realization of such detectors is highly interdisciplinary, combining geoscience, material science, applied and fundamental physics with techniques from quantum information and Artificial Intelligence.

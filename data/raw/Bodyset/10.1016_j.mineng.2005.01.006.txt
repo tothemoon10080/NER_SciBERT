@@ -1,0 +1,85 @@
+The reported reaction rates for the reduction of copper(II) by thiosulphate and oxidation of gold by copper(II) are reviewed and the results are quantified by considering the formation of 
+                        
+                           
+                              
+                                 NaS
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                              
+                                 -
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              
+                                 NaSO
+                              
+                              
+                                 4
+                              
+                              
+                                 -
+                              
+                           
+                        
+                     , Cu(NH3)
+                        p
+                     (S2O3)0, Cu(NH3)
+                        p
+                     (SO4)0 and Cu(NH3)
+                        p
+                     (S2O5)0 or 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 NH
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 p
+                              
+                           
+                           (
+                           
+                              
+                                 HSO
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 0
+                              
+                           
+                        
+                      (p
+                     =2–3). The production of sulphate and trithionate during oxygenation can be rationalised according to three stoichiometric relationships corresponding to the [oxygen]/[thiosulphate] consumption ratios: 0.67/1, 1/1 and 1/2. These three ratios represent the formation of 100% trithionate, a 1:1 mixture of trithionate and sulphate, and 100% sulphate respectively. The detrimental effect of excess aeration/oxygenation on gold extraction can be related to the formation of disulphite ion and its association with copper(II)–ammonia complex ions, and subsequent disproportionation. However, controlled aeration would minimize copper(II) reduction and maintain a higher rate of gold oxidation. It would also lower thiosulphate oxidation by favoring the formation of tetrathionate and its alkaline hydrolysis. Thus, research activities in this area will be useful (i) to find a balance between maximum gold oxidation and minimum thiosulphate degradation, and (ii) to provide a deeper understanding of the mechanism of reactions responsible for the oxidation of gold and aqueous sulphur species, in the absence or presence of ammonia.The thiosulphate system has been widely accepted by researchers around the world as a potential alternative lixiviant for the leaching and recovery of gold, due to the mounting environmental concerns and unresolved practical difficulties in using cyanide to extract gold from copper–gold, refractory, or carbonaceous ores. Useful information on (i) thermodynamics and kinetics of leaching, (ii) a range of methods of concentration and recovery of gold, and (iii) the advantages and problems associated with the thiosulphate systems have been published over the past twenty five years ( However, the chemistry of thiosulphate processes for gold leaching and recovery is complex, even in the absence of a gold ore containing host minerals, mainly due to the simultaneous reactions of copper(II) and oxygen with both gold and thiosulphate. For example, the addition of copper(II) and controlled aeration/oxygenation are beneficial to gold extraction, but they are detrimental to thiosulphate consumption (  In a systematic study, it is essential to understand the effect of oxygen and various additives on copper(II) reduction, gold oxidation and thiosulphate degradation in synthetic solutions that are free of gold ore. This knowledge can be extended to resolve more complex issues such as the role of host minerals. Attempts have been made to rationalise the effect of additives qualitatively, on the basis of the relative strength of interaction between copper(II) and added ions (   The oxidation of gold by oxygen is a slow process in non-cyanide media and highlights the need for a redox mediator such as the copper(II)/(I) couple ( In the absence of oxygen (under argon) Equilibration Thus, a high [thiosulphate]/[ammonia] ratio will drive the equilibrium towards the mixed complex, facilitate thiosulphate degradation and increase    The decrease in However, it is also important to consider the effect of association of anions with sodium ions as described in Eqs. Assuming an equilibrium constant of  In an oxygenated copper(II) solution, the effects of oxygen and copper(II) on the oxidation of thiosulphate and gold are interrelated, because copper(I) is oxidized to copper(II) and both oxygen and copper(II) act as oxidants for various sulphur species. Thus, the success in analysis of kinetic data would depend on the relative rates of different reactions such as: oxidation of copper(I) and thiosulphate by oxygen, oxidation of thiosulphate and gold by copper(II), and other side reactions which involve oxygen, copper(II) and various sulphur species. For example, tetrathionate formed by the reaction between copper(II) and thiosulphate (Eqs.  copper(I) thiosulphate species resulting from reduction of copper(II) ions by excess thiosulphate are stable with respect to reoxidation to copper(I) by oxygen at temperatures up to 50 °C and atmospheric pressure, and such reoxidation occurs when ammonia is initially present in solution. Thus, exact speciation of copper(II)/(I) cannot be shown due to the lack of knowledge of the role of ammonia and the nature of mixed complexes of the copper ions involved in Eq. At 30 °C a solution which contained 1 mM copper(II), 0.2 M ammonia and 0.025 M sodium thiosulphate, maintained at pH 9.3 and oxygenated at an oxygen partial pressure of 72.5 cmHg gave stoichiometrically 100% conversion of thiosulphate to trithionate with an [oxygen]/[thiosulphate] consumption ratio of 0.72/1 (  The difference between the reactions in Eqs. A 100% conversion of thiosulphate to sulphate according to Eq.  In general, the copper(II) concentration in an oxygenated ammoniacal thiosulphate solution decreases initially due to reaction with thiosulphate, but prolonged oxygenation increases copper(II) concentration ( Oxygenation The terms [Cu(II) A recent study showed that the concentration of The validity of Eq. In a recent study, Fig.10 shows the effect of increasing oxygen percentage or volume flow rate of sparging gas on  By contrast, a large increase in rate of oxygenation/aeration at a fixed copper(II) concentration seems to be detrimental for a gold powder as well as a roasted gold ore under the conditions specified for tests 8–10 ( Based on the lower values of Analysis of rate data in aged liquors, as in The greatest detrimental effect on copper(II) reduction and gold oxidation is shown by disulphite, where the initial gold oxidation rate is only 5% of that of the standard without sulphate (Set E in Thus, in the absence of oxygen, the addition of disulphite to ammoniacal copper(II) thiosulphate as tested by Surprisingly, the oxidizing ability of the disulphite containing solution is partly restored after 24 h. This is evident from the higher value of  The role of Cu(NH  Surface aeration decreased thiosulphate degradation and increased gold extraction over a longer retention time. Forced aeration increased initial gold extraction, but decreased final gold extraction due to enhanced thiosulphate degradation. It is clear that, gold extraction is not benefited by the high concentration of copper(II) maintained under forced aeration. This can be related to the fact that Cu(NH  Fig. 12 summarizes the equations for some of the reactions that involve copper(II), gold, oxygen and various sulphur species. The copper(II) catalysed oxidation of thiosulphate in ammoniacal solutions can take place via one of three paths which involve either tetrathionate or disulphite. The [oxygen]/[thiosulphate] consumption ratios for the three cases are (i) 0.67 with the formation of 100% trithionate, (ii) 1 with the formation of equimolar trithionate and sulphate, and (iii) 2 with the formation of 100% sulphate. The three [oxygen]/[thiosulphate] molar ratios of 0.67, 1 and 2 respectively correspond to: the reduction of copper(II) to copper(I) with the formation of tetrathionate, followed by the hydrolysis of tetrathionate to trithionate and re-oxidation of copper(I) to copper(II), the formation of disulphite and its disproportionation to sulphate and trithionate, and the formation of dithionate and its degradation to sulphate. As noted by The effect of background sodium sulphate to slow the copper(II) reduction by thiosulphate in ammoniacal solutions can be rationalised by considering the association of sulphate and thiosulphate with sodium ions, as well as copper(II) ions, which in turn would affect the concentration of mixed copper(II)–ammonia–thiosulphate complex and the rate of its disproportionation. Analysis of reported rate data for gold oxidation in thiosulphate solutions of different concentrations via the formation of a mixed copper(II)–ammonia–thiosulphate complex leads to a rate constant The sulphate ions as well as other degradation products such as tetrathionate and trithionate can also compete with the thiosulphate ion to coordinate with ammoniacal copper(II), as predicted by The detrimental effect of excess aeration/oxygenation can be related to the formation of disulphite ion which also forms a complex with ammoniacal copper(II) and thus retards gold oxidation. The beneficial effect of controlled aeration on gold leaching can be related to the oxidation of copper(I) to copper(II) as well as the prevention of thiosulphate oxidation and copper(II) reduction via the disproportionation of Cu(NH Despite the complexity of chemical reactions involved in gold leaching by ammoniacal copper(II) thiosulphate system ( The author gratefully acknowledges the continuous support from the A.J. Parker Cooperative Research Centre for Hydrometallurgy.

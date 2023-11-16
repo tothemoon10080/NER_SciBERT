@@ -1,0 +1,1 @@
+The authors regret that there has been an error in the calculation of the torque in the tester as the measured force by the sensor was multiplied by the diameter of the test chamber, whereas it should have been multiplied by radius. The authors would like to apologize for any inconvenience this may cause.

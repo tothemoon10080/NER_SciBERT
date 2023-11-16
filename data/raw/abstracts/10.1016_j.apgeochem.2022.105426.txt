@@ -1,0 +1,8 @@
+Hausmannite is a common and widely distributed low-valence manganese oxide in soils and sediments. The transformation of this metastable mineral greatly influences the toxicity and geochemical cycling of trace elements. Mn2+
+                     aq can be adsorbed and oxidized by Mn(III)/Mn(IV) oxides and influences the transformation of these minerals, while little attention has been paid on the interaction between Mn2+
+                     aq and hausmannite. Here, the interaction process of Mn2+
+                     aq and hausmannite under oxic conditions and the influence of pH, Mn2+
+                     aq concentration and oxygen were systematically investigated. Hausmannite was progressively oxidized to manganite in the single hausmannite system. After the addition of Mn2+
+                     aq, adsorbed Mn2+ can be slowly catalytically oxidized to manganite by hausmannite and the transformation rate of hausmannite to manganite decreased under oxic conditions. The oxidation rate of Mn2+
+                     aq increased with increasing oxygen partial pressure. The generation rate of manganite was the lowest under neutral pH conditions in the reaction system of Mn2+
+                     aq and hausmannite. Both hausmannite dissolution at acidic pH and adsorbed Mn2+ oxidation at alkaline pH facilitated manganite formation. These findings improve our understanding of the formation and transformation of low-valence manganese oxides in natural environments.

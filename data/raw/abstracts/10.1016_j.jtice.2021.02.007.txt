@@ -1,0 +1,7 @@
+A bimetallic Fe-Cu catalyst was applied as a catalyst for heterogeneous Fenton reaction. Fluidized-bed crystallization of bimetallic catalyst supported by a silica seed (FeIII
+                     0.66CuI
+                     0.33 @SiO2) was conducted at specific hydraulic conditions. The deposited state of copper and iron of FeIII
+                     0.66CuI
+                     0.33@SiO2 were identified as Cu(I) and Fe(III), which could effectively catalyze H2O2 to form hydroxyls radical for the abatement and mineralization of benzoic acid under blue light irradiation (436 nm). The cupric species as an electron donor enabled the reductive dissolution of the deposited iron to drive a Fenton reaction. The blue light irradiation promoted the regeneration of Fe(III) to Fe(II) through the photoreduction mechanism. Operating parameters included Fe to Cu ratio (0.5–4), dose of H2O2 (0–4 mM), initial pH (3–7) and light intensity (0–10 mW/cm2). The photo Fenton process using FeIII
+                     0.66CuI
+                     0.33@SiO2 catalyst resulted in 86% of benzoic acid mineralization in 3 h.

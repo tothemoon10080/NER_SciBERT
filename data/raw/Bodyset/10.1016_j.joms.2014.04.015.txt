@@ -1,0 +1,11 @@
+Purpose
+                  To present algorithms for the treatment of zygomatico-orbital (ZMO) fractures and to review how many of our patients were treated using each. We have presented 2 algorithms: 1 for when intraoperative computed tomography (CT) scans are not available and 1 for when intraoperative CT scans are available.
+               
+                  Patients and Methods
+                  The data from all patients treated by us for isolated, unilateral ZMO fractures from January 1991 to December 31, 2013 with adequate medical records were retrospectively analyzed. The demographic information and treatment methods were collected and tabulated to determine how these patients' fractures had been classified using the 2 algorithms. Simple descriptive statistics were applied.
+               
+                  Results
+                  A total of 883 patients with sufficient records who had undergone treatment of isolated, unilateral ZMO fractures were included. Of these 883 patients, 71 were classified as having high-energy ZMO fractures that had not been treated using 1 of the algorithms. A total of 758 patients with sufficient records to be included in the present study were treated using the algorithm before intraoperative CT scanning was available. Finally, 54 patients were treated using the algorithm after intraoperative CT scanning was available. The patients were similar demographically. The number of patients treated at each point in the algorithms is shown. Overall, only 40% of patients required internal orbital reconstruction.
+               
+                  Conclusions
+                  The treatment of most ZMO fractures can be sequential, using an algorithm to avoid unnecessary surgical approaches and procedures that can potentially cause iatrogenic deformities. The use of intraoperative CT scans will allow the surgeon to be less invasive, with greater predictability and precision.

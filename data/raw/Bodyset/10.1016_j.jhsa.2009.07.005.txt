@@ -1,0 +1,11 @@
+Purpose
+                  Open or unstable metacarpal fractures frequently require open reduction and internal fixation. Locking plate technology has improved fixation of unstable fractures in certain settings. In this study, we hypothesized that there would be a difference in strength of fixation using double-row locking plates compared with single- and double-row non-locking plates in comminuted metacarpal fractures.
+               
+                  Methods
+                  We tested our hypothesis in a gap metacarpal fracture model simulating comminution using fourth-generation, biomechanical testing–grade composite sawbones. The metacarpals were divided into 6 groups of 15 bones each. Groups 1 and 4 were plated with a standard 6-hole, 2.3-mm plate in AO fashion. Groups 2 and 5 were plated with a 6-hole double-row 3-dimensional non-locking plate with bicortical screws aimed for convergence. Groups 3 and 6 were plated with a 6-hole double-row 3-dimensional locking plate with unicortical screws. The plated metacarpals were then tested to failure against cantilever apex dorsal bending (groups 1–3) and torsion (groups 4–6).
+               
+                  Results
+                  The loads to failure in groups 1 to 3 were 198 ± 18, 223 ± 29, and 203 ± 19 N, respectively. The torques to failure in groups 4 to 6 were 2,033 ± 155, 3,190 ± 235, and 3,161 ± 268 N mm, respectively. Group 2 had the highest load to failure, whereas groups 5 and 6 shared the highest torques to failure (p < .05). Locking and non-locking double-row plates had equivalent bending and torsional stiffness, significantly higher than observed for the single-row non-locking plate. No other statistical differences were noted between groups.
+               
+                  Conclusions
+                  When subjected to the physiologically relevant forces of apex dorsal bending and torsion in a comminuted metacarpal fracture model, double-row 3-dimensional non-locking plates provided superior stability in bending and equivalent stability in torsion compared with double-row 3-dimensional locking plates, whereas single-row non-locking plates provided the least stability.

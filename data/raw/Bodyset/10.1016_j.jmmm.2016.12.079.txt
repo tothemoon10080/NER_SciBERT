@@ -1,0 +1,11 @@
+A high-performance MRI contrast agent and a drug nanocarrier have been realized in porous Fe3O4@SiO2 nanorods (NRs). The Fe3O4@SiO2 NRs of length ~520nm and diameter ~180nm are synthesized by annealing FeOOH@SiO2 nanorods at a temperature of 300℃ under continuous flow of forming gas. The magnetic measurement confirms that the Fe3O4@SiO2 NRs is ferrimagnetic in nature with magnetization of 20emu/g and coercivity H
+                     
+                        C
+                      ~450Oe. The aqueous suspension of the NRs is stable over a time frame of one month and exhibits a high R
+                     
+                        2
+                      relaxivity value of 192mM−1
+                     s−1. The R
+                     
+                        2
+                      darkening effect is also observed in HeLa cells incubated with NRs in comparison to untreated control cells. The porous Fe3O4@SiO2 NRs further work as an excellent carrier for doxorubicin (DOX) drug with loading efficiency of 65%. The drug release study shows a pH-dependent behavior and is higher in acidic pH (4.3) as compared to the physiological pH (7.4). After 72h, the cumulative DOX release is found to be ~58% at pH 4.3 and ~17% at pH 7.4. The induction heating studies of the NRs exhibit a sharp increasing trend of SAR value with the increase of magnetic field.Iron oxide nanoparticles (IONPs), by virtue of their unique superparamagnetic properties, have been widely used in biomedical applications such as targeted drug delivery, magnetic resonance imaging (MRI), magnetic hyperthermia for cancer, enzyme immobilization and magnetic bioseparation The performance is also further improved by surface functionalization of IONPs, which minimizes aggregation, provides good aqueous stability and biocompatibility Herein, we report the synthesis of porous Fe FeOOH NRs were prepared by simple hydrolysis of FeCl The FeOOH@SiO X-ray diffraction (XRD) spectra were obtained with Xpert PANAlytic X-ray diffractometer Cu Kα radiation (γ=1.54  Uniform FeOOH nanorods are first prepared by the hydrolysis of aqueous iron chloride solution. TEM micrograph ( Stability of aqueous porous Fe   The induction heating performance of the porous Fe The porous nature of silica layer on the surface of Fe The cytotoxicity of Fe Porous Fe We gratefully acknowledge the

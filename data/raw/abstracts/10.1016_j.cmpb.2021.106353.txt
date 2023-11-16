@@ -1,0 +1,11 @@
+Background and Objective
+                  Capturing the population variability of bone properties is of paramount importance to biomedical engineering. The aim of the present paper is to describe variability and correlations in bone mineral density with a spatial random field inferred from routine computed tomography data.
+               
+                  Methods
+                  Random fields were simulated by transforming pairwise uncorrelated Gaussian random variables into correlated variables through the spectral decomposition of an age-detrended correlation matrix. The validity of the random field model was demonstrated in the spatiotemporal analysis of bone mineral density. The similarity between the computed tomography samples and those generated via random fields was analyzed with the energy distance metric.
+               
+                  Results
+                  The random field of bone mineral density was found to be approximately Gaussian/slightly left-skewed/strongly right-skewed at various locations. However, average bone density could be simulated well with the proposed Gaussian random field for which the energy distance, i.e., a measure that quantifies discrepancies between two distribution functions, is convergent with respect to the number of correlation eigenpairs.
+               
+                  Conclusions
+                  The proposed random field model allows the enhancement of computational biomechanical models with variability in bone mineral density, which could increase the usability of the model and provides a step forward in in-silico medicine.

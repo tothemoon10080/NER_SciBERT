@@ -1,0 +1,24 @@
+A method for measuring the electrochemical Peltier heat (EPH) of a single electrode reaction has been developed and an absolute scale is suggested to obtain EPH of the standard hydrogen electrode. The scale is based on 
+                        
+                           
+                              ϕ
+                              0
+                              *
+                           
+                        
+                     
+                     =0 and 
+                        
+                           
+                              Δ
+                           
+                           
+                              S
+                              0
+                              *
+                           
+                        
+                     
+                     =0 for any electrode reaction at zero Kelvin, in accord with the third law of thermodynamics. The relationships between entropy, enthalpy and free energy changes on this scale and on the conventional scale are derived. Calorimetric experiments were made on the Fe(CN)6
+                     3−/Fe(CN)6
+                     4− system at five different concentrations at 298.15K, and EPH for the standard hydrogen electrode reaction is obtained. EPHs and the entropy change on the absolute scale for the studied redox are linearly related to concentration of electrolyte. The reversible electric work is almost concentration independent in the range of concentration studied.The heat effects of half-cell reactions including conducting polymer electrode Consider the isothermal process of the standard hydrogen electrode (SHE) reaction at constant pressure: All species participating in the process are at each standard state, i.e. the activity of hydrogen ion at unit (molality) concentration is 1, hydrogen is a hypothetical ideal gas at unit fugacity, and a hypothetically ideal electron gas with unit fugacity in metal is for electron. Traditionally, the electrode potential of reaction According to Faraday's law, moles of reaction are In the absolute scale, we have Combination of Eqs. Rearranging Eq. For more than or less than a molar change, Eq. Note that Eq. Eq. Differentiating both sides of Eq. The heat effect was determined by temperature-rise calorimetry. The schematic diagram of experimental setup is shown in Drawing a straight-line of The chemicals used, K The reaction is The integrals in  AEC for reaction In this approach, an absolute scale is proposed. Strictly speaking, the absolute scale is based on Consequently, Our previous research Comparing Eq. EPH above was considered as heat effect observed when electric current passes through, making it indefinite due to electrochemical polarization. When defined as Taking electrode polarization into account, Eq. A method for determining the EPH of any electrode reaction has been developed. In the approach, an absolute scale for half-cell reaction is introduced. The AEC for any electrode reaction is equal to the sum of the entropy change on the conventional scale and AEC of the standard hydrogen electrode reaction, which equals the difference between the thermo-electrochemical apparent molar enthalpy change of this half-cell reaction and its enthalpy change on the conventional scale. EPH is anew defined as a characteristic quantity related to AEC of an electrode reaction, i.e. the heat equals to the product of AEC and temperature T in Kelvin. A set of experiments measuring the evolved heat and electric work on the Fe(CN) The authors thank NNSF of China (no. 50374077) and the state major basic research development program (no. 2004CB619204) for financial support. The grateful acknowledgment is also to Prof. L. D. Hansen for editing changes to the manuscript of this paper.

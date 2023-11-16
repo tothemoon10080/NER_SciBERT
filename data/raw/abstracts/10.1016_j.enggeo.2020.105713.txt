@@ -1,0 +1,24 @@
+The strength of marine clay under cyclic loading is affected by its mineral composition, which must be considered in engineering design. Consolidated undrained cyclic triaxial tests were conducted on specimens from two groups of samples of artificial marine clays consisting of four pure minerals (quartz, albite, Na-montmorillonite and kaolinite) in mass proportion (Q
+                     
+                        c
+                     :A
+                     
+                        c
+                     :M
+                     
+                        c
+                     :K
+                     
+                        c
+                     ). The study of two test groups was to identify differences in the properties of the soils due to montmorillonite and kaolinite (MKDT group) and the differences due to the nonclay minerals (NCDT group). The results demonstrated the following main points. The power function curves for cyclic strength derived from conventional strain failure criteria show that both montmorillonite and clay minerals significantly increase cyclic strength. Furthermore, the energy based viscous energy dissipation ratio (VEDR) was introduced to partition cyclic loading process into two stages: competition and rapid increasing. There were two critical points in the cyclic loading procedure, VEDR
+                     min and VEDR
+                     breakpoint, that represent initial energy dissipation and turning-point energy dissipation. Therefore, by connecting the VEDR
+                     breakpoint points, the linear VEDR cyclic strength curve (N
+                     VEDR-VEDR
+                     breakpoint) was created with two parameters, slop
+                     VEDR and VEDR
+                     intercept. By analogy with the parameters of conventional cyclic strength curve (a, b and CSR
+                     min), slop
+                     VEDR and VEDR
+                     intercept respectively reflect that influence of cyclic loading and mineral composition on VEDR
+                     breakpoint. Additionally, it is also demonstrated that both montmorillonite and clay minerals reinforce VEDR cyclic strength just like the conventional one. This research makes a major contribution to our understanding of cyclic strength by accounting for energy dissipation.

@@ -1,0 +1,5 @@
+Early stage transformations and deposition of iron-bearing coal minerals, in particular pyrite (FeS2), were studied. An atmospheric laboratory-scale facility was used to simulate the near burner environment in two different coal conversion processes: (i) low-NO
+                        x
+                      pulverised coal combustion and (ii) entrained-flow gasification. Particle sampling showed that for both environments the pyrite transforms quickly to pyrrhotite (FeS). In the deposition experiments, this liquid pyrrhotite was impacted on substrate surfaces. The chemical composition and the morphology of the deposits formed under the two conditions showed clear differences. It appeared that the final product for low-NO
+                        x
+                      combustion conditions was Fe2O3, whereas for entrained-flow gasification conditions, Fe was the final product. The deposits collected under both simulated gaseous environments did not contain sulphur. Based on these experimental findings, a descriptive model for pyrite transformations under both conditions is proposed.

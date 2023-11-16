@@ -1,0 +1,11 @@
+Objective
+                  The polymer-induced liquid-precursor (PILP) mineralization process has been shown to remineralize artificial dentin lesions to levels consistent with those of native dentin. However, nanoindentation revealed that the moduli of those remineralized lesions were only ∼50% that of native dentin. We hypothesize that this may be due to the PILP process having been previously optimized to obtain high amounts (∼70wt%) of intrafibrillar crystals, but without sufficient interfibrillar mineral, another significant component of dentin.
+               
+                  Methods
+                  Fluoride was added to the PILP-mineralization of collagen from rat tail tendon at varying concentrations to determine if a better balance of intra- versus inter-fibrillar mineralization could be obtained, as determined by electron microscopy. Nanoindentation was used to determine if fluoridated apatite could improve the mechanical properties of the composites.
+               
+                  Results
+                  Fluoride was successfully incorporated into the PILP-mineralization of rat tail tendon and resulted in collagen-mineral composite systems with the mineral phase of hydroxyapatite containing various levels of fluoridation. As the fluoride concentration increased, the crystals became larger and more rod-like, with an increasing tendency to form on the fibril surfaces rather than the interior. Nanomechanical testing of the mineralized tendons revealed that fluoride addition did not increase modulus over PILP mineralization alone. This likely resulted from the separated nature of collagen fibrils that comprise tendon, which does not provide lateral reinforcement and therefore may not be suited for the compressive loads of nanoindentation.
+               
+                  Significance
+                  This work contributes to the development of minimally invasive approaches to caries treatment by determining if collagen can be functionally mineralized.

@@ -1,0 +1,5 @@
+Hot compression tests were conducted in a temperature range of 800 – 1100 °C and strain rate range of 0.1 – 10 s−1 using a Gleeble 3500 thermomechanical simulator to investigate the influence of hot deformation parameters (temperatures, strain rates and strains) on the grain boundary network evolution of a new grade Fe-Cr-Ni superaustenitic stainless steel. The results showed that a dominant effect of deformed temperature is Σ3
+                        n
+                      (n = 0, 1, 2, 3) boundaries population increased with decreasing temperature, while they first increased and then reduced with increasing strain and strain rate. Interestingly, besides Σ3
+                        n
+                      (n = 1, 2, 3) twin grain boundaries, some Σ1 boundaries could interrupt grain boundaries network effectively, which enhance material performances. But they are scarcely reported. The misorientation of some segments LAGBs in the deformed microstructure (pancaked grains) increased and slid to high angle grain boundaries with increasing the fraction of recrystallized grains during hot deformation.

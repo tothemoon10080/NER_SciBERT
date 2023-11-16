@@ -1,0 +1,33 @@
+This study investigated the regeneration of phenol saturated activated carbon fiber (ACF) with a novel electro-peroxydisulfate (E-PDS) process. Compared with traditional electrochemical regeneration, E-PDS process could simultaneously regenerate the exhausted ACF and mineralize desorbed contaminants by activating PDS in water with a much lower energy consumption (1/6). According to the estimation of relative contributions involved in E-PDS process, reactive oxygen species (ROS), especially sulfate radical (
+                        
+                           S
+                           
+                              
+                                 O
+                              
+                              
+                                 4
+                              
+                              
+                                 •
+                                 −
+                              
+                           
+                        
+                     ), played a dominant role in the degradation of phenol and its byproducts. It was worth noting that the accumulation of byproducts in solution increased significantly after 
+                        
+                           S
+                           
+                              
+                                 O
+                              
+                              
+                                 4
+                              
+                              
+                                 •
+                                 −
+                              
+                           
+                        
+                      concentration decreased in aqueous solution. Further study proved that the regeneration efficiency of ACF could be improved by the application of multiple doses of PDS for the effective reduction of byproduct accumulation. However, application of multiple doses of PDS could not prevent ACF from being oxidized by ROS generated in the system, subsequently leading to loss of ACF adsorption capacity. This limitation is a significant concern in treatment technologies based on carbon materials activated by peroxides and such technologies should be studied further to obtain additional insights on their potential and applicability in industrial practice. Nevertheless, the adsorption capacity of ACF remained above 40% after three regeneration cycles in the E-PDS process. Therefore, E-PDS process showed promise for further evaluation as a potentially viable approach for the regeneration of carbons saturated with organic pollutants.

@@ -1,0 +1,8 @@
+The formation of ikaite (CaCO3x6H2O) was studied in the presence and absence of quartz and mica surfaces using desupersaturation curves from cryo-mixed-batch-reactor experiments. Upon nucleation and growth within the reactor, the solution approached solubility of the precipitating carbonate phase. For ikaite, a solubility constant of log K
+                     
+                        sp ikaite = −7.3 ± 0.1 was found (T = 0 °C). At supersaturations Ω
+                     ikaite < 15, the nucleation of ikaite was significantly promoted by the presence of quartz or mica. This promotion prevented a competing nucleation of anhydrous calcium carbonates. In the presence of quartz or mica, therefore, ikaite forms over a much broader supersaturation range than in the absence. Similarly strong promotors of ikaite nucleation rather than anhydrous carbonate nucleation were previously attributed to calcite-inhibiting substances only.
+                  At supersaturations Ω
+                     ikaite ≥ 8, application of classical nucleation theory on induction periods of ikaite formation yielded an effective interfacial energy of 15 ± 3 mJ/m2. Compared to data of anhydrous CaCO3 phases, this interfacial energy is low and expresses the highly hydrated character of ikaite. At supersaturations Ω
+                     ikaite ≥ 18, a transient amorphous phase appeared besides ikaite.
+                  Our results show that a comprehensive understanding of ikaite formation in natural settings requires consideration not only of supersaturation and presence of calcite-inhibitors but also of the presence or absence of mineral surfaces capable of promoting heterogeneous nucleation of ikaite.

@@ -1,0 +1,8 @@
+Abstract
+                  Kinetics of natural rubber (NR) vulcanization by lanthanum O, O'-diisopropyldithiophosphate [La(DiPDP)3] was studied. La(DiPDP)3 had remarkable accelerating effect on the vulcanization of NR. The rate constant k
+                     6 of the reaction that turned polysulphidic cross-links into the modified main chain was higher than that of desulfuration reaction of polysulfidic cross-links (k
+                     3). The activation energies (E
+                     a2, E
+                     a3, and E
+                     a6) of the formation, desulfuration, and decomposition of polysulfidic cross-links were 87.57, 102.34, and 95.01 kJ · mol−1, respectively. Activation energy (Ea
+                     5) of the reaction that turned the cross-link precursors into the modified main chain was 82.67 kJ · mol−1. It could be concluded that the proportion of polysulphidic cross-links was higher than mono- and di-sulphidic cross-links during induction and curing periods, mono- and di-sulphidic cross-links increased as curing temperature rose. In the temperature range of 140 ∼ 160 °C, the amounts of polysulphidic cross-links were similar. However, over 160 °C, mono- and di-sulphidic cross-links increased rapidly. Moreover, cross-link density of the vulcanizates was determined from the equilibrium-swelling data. A chemical probe detected the concentration of polysulphidic cross-links of vulcanizates. The change trend of the results predicated from equation corresponded to that of the experimental results.

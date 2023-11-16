@@ -1,0 +1,7 @@
+This paper presents numerical simulation for interpretation of chronoamperometric experimental curves of nucleation-growth process of calcium carbonate on rotating disk carbon steel electrode. The simulation based on finite element resolution was carried out to solve the convective–diffusion equation in order to calculate dioxygen gradient concentration at the electrode which allows the limiting current diffusion determination at various rotation speeds in the presence and absence of calcium carbonate. Methodology used in this paper opens a new way for chronoamperometric curve interpretation through analytical expression determination of lateral and vertical crystal growth rate on carbon steel, k
+                     
+                        L
+                      and k
+                     
+                        V
+                     , respectively

@@ -1,0 +1,1 @@
+Elementary techniques found useful in control of mineral processing plants are described. Simple Basic language programs that demonstrate most of these techniques are included. The design of appropriate control systems is discussed.

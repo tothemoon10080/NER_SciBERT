@@ -1,0 +1,16 @@
+Solid-state reaction method is a common and effective technique to synthesize ferrites. This work investigated the phase transformation of MnO2 and Fe2O3 system roasted at 500–1400°C in air atmosphere to understand the formation process of manganese ferrite. The results showed that the formation of manganese ferrite (Mn
+                        x
+                     Fe3−
+                     
+                        x
+                     O4) was derived from the reaction between Fe2O3 and Mn3O4 (the decomposition product of MnO2). Below 900°C, MnO2 firstly decomposed to Mn2O3 and then to Mn3O4, and Fe2O3 was seldom reacted with Mn2O3 and Mn3O4. When the temperature went up to 1000°C, Fe2O3 easily reacted with Mn3O4 to generate manganese ferrite. The reaction degree was enhanced dramatically with the rising of temperature. Moreover, the x value in the Mn
+                        x
+                     Fe3−
+                     
+                        x
+                     O4 increased from 0 to 1 from 900°C to 1400°C. In other words, the higher the temperature was, the closer the Mn
+                        x
+                     Fe3−
+                     
+                        x
+                     O4 was to MnFe2O4. Thermodynamic analysis of MnO2-Fe2O3 system under different O2 partial pressures was carried out to further explain the formation mechanism.Spinel-type manganese ferrites (MnFe In industrial application, the main raw materials for the solid-state synthesis of manganese ferrites are MnO Then the MnO reacted with Fe On the whole, the reaction between MnO The tested MnO Before roasting, the MnO Diffusion couple method was used to observe the reaction interface between the MnO X-ray diffraction (XRD) patterns of the roasted samples (the roasted briquettes were pre-ground to a particle size passing through a 500 mesh screen (<0.025  El-Geassy et al. It’s inferred that the reaction of MnO As shown in The briquettes prepared according to Optical microstructure images of the roasted briquettes are displayed in The XRD results ( During the reaction process of MnO It’s demonstrated in Section According to the results described above, the possible formation mechanism of manganese ferrite by the solid-state reaction of MnO In this study, the phase transformation of MnO The authors wish to express their thanks to the

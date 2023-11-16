@@ -1,0 +1,8 @@
+Globally, 200 million people are suffering from toxic manifestations of Fluoride(F), dental and skeletal fluorosis; unfortunately, there is no treatment. To unravel the pathogenesis of skeletal fluorosis, we established fluorosis mice by treating environmentally relevant concentration of F (15 ppm NaF) through drinking water for 4 months. As in skeletal fluorosis, locomotor disability, crippling deformities occur and thus, our hypothesis was F might adversely affects collagen which gives the bone tensile strength. This work inevitably had to be carried out on osteoblast cells, responsible for synthesis, deposition, and mineralization of bone matrix. Isolated osteoblast cells were confirmed by ALP activity and mineralized nodules formation. Expression of collagen Col1a1, Col1a2, COL1A1 was significantly reduced in treated mice. Further, a study revealed the involvement of epigenetic regulation by promoter hypermethylation of Col1a1; expressional alterations of transcription factors, calcium channels and other genes e.g., Cbfa-1, Tgf-β1, Bmp1, Sp1, Sp7, Nf-
+                     
+                        K
+                     
+                     b p65, Bmp-2, Bglap, Gprc6a and Cav
+                     
+                        1.2
+                      are associated with impairment of collagen synthesis, deposition and decreased mineralization thus, enfeebling bone health. This study indicates the possible association of epigenetic regulation in skeletal fluorosis. However, no association was found between polymorphisms in the Col1a1 (RsaI, HindIII) and Col1a2 (RsaI, HindIII) genes with fluorosis in mice.

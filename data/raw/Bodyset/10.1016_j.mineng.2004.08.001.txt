@@ -1,0 +1,380 @@
+Researchers have been unable to incorporate the copper(II)–thiosulphate complexes in Eh-pH or species distribution diagrams due to the unreliability of the reported stability constants. The present work describes a concurrent thermodynamic and kinetic analysis of literature data to show that the reaction between copper(II) and thiosulphate ions takes place via the formation of an unstable 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 n
+                              
+                           
+                           (
+                           
+                              
+                                 H
+                              
+                              
+                                 2
+                              
+                           
+                           O
+                           
+                              
+                                 )
+                              
+                              
+                                 p
+                              
+                              
+                                 -
+                                 2
+                                 (
+                                 n
+                                 -
+                                 1
+                                 )
+                              
+                           
+                        
+                      complex followed by its first or second order decomposition. The oxidation of thiosulphate to tetrathionate, predominantly via the second order disproportionation with a rate constant of 1.2×105 lmol−1
+                     s−1 produces Cu(S2O3)−, which is stabilized as 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 n
+                              
+                              
+                                 -
+                                 (
+                                 2
+                                 n
+                                 -
+                                 1
+                                 )
+                              
+                           
+                        
+                      (n
+                     =2 or 3). This analysis allows the calculation of two stability constants 102.4 and 105.2 for Cu(S2O3)0 and 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      respectively, which predict the predominant species: 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      (pH<9), 
+                        
+                           Cu
+                           (
+                           OH
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 0
+                              
+                           
+                        
+                      (9<pH<11) and 
+                        
+                           Cu
+                           (
+                           OH
+                           
+                              
+                                 )
+                              
+                              
+                                 3
+                              
+                              
+                                 -
+                              
+                           
+                        
+                      (pH>11). The disproportionation of Cu(S2O3)0 and Cu(S2O3)− leads to the precipitation of Cu, CuS and Cu2S.
+                  The calculated equilibrium constants predict that copper(II) complexes such as Cu(S2O3)0, 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     , 
+                        
+                           Cu
+                           (
+                           OH
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 0
+                              
+                           
+                        
+                      and 
+                        
+                           Cu
+                           (
+                           OH
+                           
+                              
+                                 )
+                              
+                              
+                                 3
+                              
+                              
+                                 -
+                              
+                           
+                        
+                      can leach gold to produce 
+                        
+                           Au
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 3
+                                 -
+                              
+                           
+                        
+                     , Au(OH)0, and 
+                        
+                           Au
+                           (
+                           OH
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 -
+                              
+                           
+                        
+                     , where the latter two are converted to the more stable 
+                        
+                           Au
+                           (
+                           
+                              
+                                 S
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              
+                                 O
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 3
+                                 -
+                              
+                           
+                        
+                      complex. The rate of thiosulphate oxidation by oxygen during gold leaching from copper gold ores in alkaline media is of the order ≈10−6
+                     moll−1
+                     s−1, irrespective of the presence or absence of ammonia. This is three orders of magnitude smaller than the rate of oxidation of thiosulphate by copper(II) in acid media, indicating the involvement of mixed complexes of the type Cu(II)(L)
+                        n
+                     (S2O3)
+                        m
+                     (O2) in ammoniacal (L=NH3) and non-ammoniacal (L=OH−) media, compared to the disproportionation of Cu(II)(S2O3)1–2 in acid media with no oxygen. The gold leaching in oxygenated alkaline thiosulphate media obeys a shrinking core kinetic model with an apparent rate constant of the order 10−5
+                     s−1. In the presence of 0.4M total carbonate in alkaline media, the predominant copper(II) complex is 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 CO
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     . This minimizes thiosulphate degradation to tetrathionate via the disproportionation of Cu(II)(S2O3)1–2. However, the presence of carbonate enhances the overall thiosulphate consumption and trithionate and sulphate formation, leading to a lower gold extraction. In a thiosulphate deficient leach liquor, such as that produced in the presence of carbonate, gold precipitation takes place via disproportionation reactions. The addition of sulphite reproduces thiosulphate from tetrathionate, but slowly precipitates gold.Thiosulphate is an intermediate product of the oxidation of iron sulphides ( However, the oxygenated thiosulphate system has been recognized as a promising non-cyanide gold lixiviant in the presence of ammonia. Recent research publications have highlighted the advantages and problems associated with the use of the oxygenated thiosulphate system as a non-cyanide gold lixiviant in the presence of copper(II) and ammonia ( The thiosulphate degradation and consumption is unavoidable and detrimental to overall gold leaching due to high reagent cost, precipitation of gypsum, metallic gold and/or Au A proper analysis of leaching kinetics requires reliable information on chemical speciation based on stability constants of copper(II)/(I) complexes listed in The aim of the present investigation is to (i) carry out a concurrent thermodynamic and kinetic analysis of the data reported by In the case of non-ammoniacal gold leaching by oxygenated thiosulphate, it is expected that the concentration of thiosulphate (ligand) and oxygen (oxidant) would control the kinetics of gold leaching and thiosulphate degradation that involve a series of reactions (Eqs. Eq. The ionic activity coefficients of highly charged complex species such as Eq. A first order decomposition of the two possible complexes A second order decomposition of the two possible complexes Previous studies showed how linear free energy correlations can be used to examine the validity of stability constants, especially when there are experimental difficulties in measuring them, as is the case with gold(I) complexes ( Having confirmed the validity of the stability constants of Cu(S  When the thiosulphate concentration is lowered from 0.1 The linear correlation of stability constants reported previously: log     It is also of interest to note that these values compare well with the rate of consumption of oxygen in the range 2 Stability constants for copper(II) complexes with a range of ligands including thiosulphate, hydroxide and carbonate listed in Apart from increasing the thiosulphate concentration from 0.05 Recent studies ( The results from ammoniacal copper(II)–thiosulphate leaching of a roasted gold ore ( The non-ammoniacal leaching of carbonaceous oxide ore at 60 The carbonate addition has a small effect on initial gold extraction ( The carbonate ion complexes with copper(II) (  Previous researchers ( As shown in  The concurrent thermodynamic and kinetic analysis of literature data on the reduction of copper(II) by thiosulphate in non-ammoniacal acid media shows the involvement of two complexes Cu(S The oxidation of thiosulphate to tetrathionate predominantly takes place via the second order disproportionation: Non-ammoniacal alkaline leaching of low copper grade gold ores in oxygenated thiosulphate media is complex due to the low solubility of copper(II) in the form of a range of complexes with ligands such as OH In the presence of carbonate, The addition of sodium sulphite to the slurry converts tetrathionate to trithionate and thiosulphate. This also precipitates gold in thiosulphate deficient leach liquors. The author gratefully acknowledges the continuous support of the A.J. Parker Cooperative Research Centre for Hydrometallurgy.

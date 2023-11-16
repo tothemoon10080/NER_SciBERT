@@ -1,0 +1,31 @@
+The objectives of this study were to partition out the predominant anaerobic respiration pathways coupled to C oxidation and to further elucidate the controls of anaerobic C respiration in three major saltmarsh habitats at Skidaway Island, GA; the short form of Spartina alterniflora (SS), the tall form of S. alterniflora (TS), and unvegetated, bioturbated creekbank (CB). Geochemical analysis of pore water and solid phase constituents revealed that the SS site experienced highly reducing conditions with two orders of magnitude higher pore water sulfide inventories (1.884mmolm−2) than TS (0.003mmolm−2) and CB (0.005mmolm−2), respectively. Conversely, reactive Fe(III) inventories at TS (2208mmolm−2) and CB (2881mmolm−2) were up to 7–9 times higher than at SS (338mmolm−2). Incubations and intact core experiments indicated that 
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      reduction accounted for 95% (SS), 37% (TS) and 66% (CB) of total anaerobic respiration. There was no detectable Fe(III) reduction at SS, while Fe(III) reduction accounted for up to 70% of C oxidation in the 3–6cm depth interval at TS and 0–3cm depth of CB, and on average, approximately 55% of C oxidation over two-thirds of marsh surface area. Laboratory manipulations provided further evidence for the importance of Fe(III) reduction as the accumulation rates of fermentation products were high when Fe(III) reduction was inhibited by removing the Fe(III) minerals from highly bioturbated CB sediments with higher Fe(III) mineral contents. Anaerobic C oxidation, 
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     - and Fe(III)-reduction rates appeared to be highest at the TS site during active plant growth in summer. Overall results suggest that bioturbation by macrofauna is the overriding factor in modulating the pathway of C mineralization in the saltmarsh, whereas availability of organic substrates from plants is a key factor in controlling the C oxidation rate.

@@ -1,0 +1,36 @@
+Suppose a measurand can be computed by two different but consistent measurement models. Then, the output of one of the models would serve as prior knowledge to the other. In this paper, two alternative methods to produce a PDF for the measurand that take into account both models are presented.
+                  The first method proceeds by propagating the PDFs for the input quantities through the corresponding models in the usual way and then merging the resulting PDFs using the logarithmic or linear pooling techniques. The result is a kind of ‘compromise distribution’ of the pooled PDFs.
+                  The second method starts by propagating the PDFs for all input quantities except one, say 
+                        
+                           
+                              
+                                 X
+                              
+                              
+                                 1
+                              
+                           
+                        
+                     , through the model that relates the former quantities to the latter. In this way the PDF for 
+                        
+                           
+                              
+                                 X
+                              
+                              
+                                 1
+                              
+                           
+                        
+                      is obtained, which is then updated using its likelihood. The resulting PDF, which encodes all information available, is finally propagated through the model that relates 
+                        
+                           
+                              
+                                 X
+                              
+                              
+                                 1
+                              
+                           
+                        
+                      to the measurand. This second method is the preferred way of analysis, because it results in a PDF that is narrower than the one obtained with the first method.Let a measurand But suppose the measurand can also be modeled in terms of another pair of input quantities as To a certain extent, the solution approaches to the problem above depend on the available information about the input quantities. We shall assume that information In turn, it will be assumed that the information for the other two input quantities, Finally, we shall assume that, before having evaluated the two models, the information about any one input quantity is independent from that about all others. In order to decide whether or not it is reasonable to produce a single PDF for the measurand that encodes all available information, it is convenient to start by checking if that information is indeed consistent. One way of carrying out this operation is to propagate the input PDFs Naturally the results for each model will be different in general. For example, if the models are Are these PDFs rather similar or are they highly discrepant? Of course, the answer to this question depends on the data. Let us then assume that the PDFs for The most common test of consistency proceeds by taking the PDFs in The merging of PDFs Note that this method can be applied to any number of PDFs, irrespective of whether or not they encode the state of knowledge about the same or different quantities. In other words, inconsistent information is allowed in principle. But if this is the case, the resulting PDF would be useless for making decisions involving the measurand. There is, however, a second possible approach that might be called the updating method. It is strictly based on the assumption of consistency, which allows setting The updating method starts by propagating the PDFs for The missing information for Alternatively, one may propagate PDF Let us illustrate by applying this procedure to models A mirrored way of applying the updating method is to start by propagating the PDFs for Application of this variant of the updating method to models In this paper, the case of a measurand Our goal was to propose two alternative procedures for producing a PDF for Straightforwardly merging the two independent PDFs for However, the alternative procedure, which was called the updating method, is the preferred way of analysis because it produces a PDF that is narrower than the one obtained with the pooling method. This second method starts by propagating the PDFs for Of course, one can also apply the updating method by starting from the PDFs for I thank Dieter Grientschnig and the two anonymous reviewers for valuable comments and suggestions for improving the clarity of this paper. The financial support of the

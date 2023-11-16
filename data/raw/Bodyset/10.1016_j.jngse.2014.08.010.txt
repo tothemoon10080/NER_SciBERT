@@ -1,0 +1,65 @@
+Shale gas has become an increasingly important source of natural gas (CH
+                     
+                        4
+                     ) in the United States over the last decade. Due to its unconventional characteristics, injecting carbondioxide (CO
+                     
+                        2
+                     ) to enhance shale gas recovery (ESGR) is a potentially feasible method to increase gas-yield while both affording a sink for CO
+                     
+                        2
+                      and in reducing the potential for induced seismicity. However, understanding of this issue is limited with few pilot field studies proposed. This study examines CO
+                     
+                        2
+                     -ESGR to better understand its feasibility and effectiveness. We explore the roles of important coupled phenomena activated during gas substitution especially vigorous feedbacks between sorptive behavior and permeability evolution. Permeability and porosity evolution models developed for sorptive fractured coal are adapted to the component characteristics of gas shales. These adapted models are used to probe the optimization of CO
+                     
+                        2
+                     -ESGR for injection of CO
+                     
+                        2
+                      at overpressures of 0 MPa, 4 MPa and 8 MPa to investigate magnitudes of elevated CH
+                     
+                        4
+                      production, CO
+                     
+                        2
+                      storage rate and capacity, and of CO
+                     
+                        2
+                      early-breakthrough and permeability evolution in the reservoir. For the injection pressures selected, CH
+                     
+                        4
+                      production was enhanced by 2.3%, 14.3%, 28.5%, respectively, over the case where CO
+                     
+                        2
+                      is not injected. Distinctly different evolutions are noted for permeability in both fractures and matrix due to different dominating mechanisms. Fracture permeability increased by ∼1/3 for the injection scenarios due to the dominant influence of CH
+                     
+                        4
+                      de-sorption over CO
+                     
+                        2
+                      sorption. CO
+                     
+                        2
+                      sequestration capacity was only of the order of 104 m
+                     3 when supercritical for a net recovery of CH
+                     
+                        4
+                      of 108 m3. We investigated the potential of optimal CO
+                     
+                        2
+                     -pulsed injection to enhance CH
+                     
+                        4
+                      production (absolute mass recovered)-without the undesirable effects of CO
+                     
+                        2
+                      early-breakthrough and also minimum cost on CO
+                     
+                        2
+                      injection. This utilizes the competitive sorptive behavior between CH
+                     
+                        4
+                      and CO
+                     
+                        2
+                     , can also reduce the potential for induced seismicity hence the entire system can be near net neutrality in terms of its carbon and seismic footprint.Shale gas is providing the United States with a locally produced and secure source of natural gas that both improves energy security and has provided a renaissance in manufacturing. It has become an important source of natural gas in the US in the last decade. Annual natural-gas production from shale-gas is ∼1.0 Tscf coming from more than 40,000 shale gas wells completed in 5 primary basins ( It is apparent that gas shale has the capacity to permanently store a considerable amount of gas. This is trapped both in adsorbed state within finely dispersed organic matter (i.e., kerogen) and also in free state within a nanoporous substrate comprising micropores (<2 nm) and mesopores (2–50 nm). Storage in organic-rich shale has the advantage that the organic matter acts as molecular sieve, allowing As an unconventional reservoir, the porosity and permeability of shales are significantly lower than that of conventional reservoirs but have features that are similar to coalbed reservoirs ( Naturally fractured reservoirs such as shales and coalbeds have been traditionally modeled using the dual porosity concept ( Prior work ( This study examines the behavior of a prototype reservoir swept by Previous simulation work on Barnett shale shows that the time evolutions of gas pressure, stress-dependent permeability and porosity, and effective stresses are strongly influenced by gas desorption during production, especially near the wellbore ( In this work we use a dual porosity model incorporating adsorptive behavior and with sorption/swelling dependent porosity and permeability to examine the potential for We develop a model for multi-component transport in dual porosity sorbing and swelling media. The following introduces key models describing porosity and permeability evolution in both matrix and fracture networks including the coupling between these two media. Field and constitutive equations for gas flow and transport in shale are defined ( The shale reservoir is a homogenous, isotropic and elastic continuum. The system is isothermal. Gas present within the system is ideal and its viscosity is constant under isothermal conditions. Gas flow through the fractures in shale conforms to Darcy's law (the water phase is not considered in this study); gas transport in the shale matrix is assumed to obey Fick's law. Gas sorption only occurs within the matrix. Barnett shale usually contains more than 80% The gas adsorbed in the shale matrix follows Langmuir sorption behavior ( The gas adsorbed in the shale is not always pure Hence, the total sorption induced strain can be determined by summing the contributions from each individual gas species ( Since shale and coal both follow the Langmuir isotherm, a constitutive model developed for the evolution of porosity in coal ( For sorption induced by a binary gas mixture, the matrix porosity can be expressed as Similarly, the porosity of the fracture can be expressed as Similarly, the relations derived for coal can also be employed for the permeability evolution of the shale matrix ( To incorporate the effects of effective stress, sorption induced swelling and the occluding effect of moisture, the behavior of the fracture may be recast as ( The matrix may act as both source or sink depending upon the pressure (or concentration) differential between matrix and fracture. The mass balance between fracture and matrix incorporates convective, diffusive, and transfer flux flow. The response of the matrix and fracture are coupled through the equation of state (EOS) for an ideal gas, which describes the relation between pressure, volume and temperature in both matrix and fractures allowing pressures to be uniquely linked to concentration. For a fracture network of orthogonal fractures of equal fracture spacing, matrix and fracture can also be coupled through a transfer flux This model follows the transport of binary species in a fractured porous reservoir pierced by parallel horizontal wells. The horizontal well pattern includes a production well located at the center of a rectangular section that cuts the reservoir vertically and is flanked by twin injection wells as shown in Symmetry of the injection-withdrawal system allows a one-quarter section of the full-field reservoir to represent the full system (see red dashed line (in the web version)). This one-quarter section of the reservoir is represented by a 2D block with sides 120 m × 60 m ( Appropriate input variables are as shown in Models of continuous and pulsed injection are explored to investigate the evolution of permeability and the production of Four injection cases are explored that represent no injection, 0 MPa overpressure injection, 4 MPa overpressure injection and 8 MPa overpressure injection. The evolution of permeability and concentration in matrix and fracture, As gas desorbs from the shale, the matrix shrinks and the fracture widens, although this may be offset by a reduction of fracture aperture because of increased net stress caused by reservoir-pressure depletion. In addition, the adsorption of The fracture permeability is increased by ∼ 1/3 in the three injection cases as fractures dilate as the gas pressure increases, whereas for the no injection case, it increases only by a factor of 1.8% - higher injection pressures result in more significant dilation hence increases in permeability. Therefore higher The recovery of CH The cumulative production of The recovered gas rate depends on 1) the ratio of relative volume of organic matter to total porosity, permeability, geometry, distribution, and connectivity of organic flakes; 2) how organic matter is connected to natural and hydraulic fractures; and also, in this study, 3) the injectivity of Understanding mechanisms involved in the early breakthrough of  Although continuous injection results in significantly enhanced production, the severe breakthrough of Permeability evolution under pulsed injection ( As soon as the injection starts (the first injection is at the end of the 1st year and lasts for 3 months), the concentration of This optimal pulsed injection schedule can enhance The principal incentive for pulsed injection is to mitigate early breakthrough of The storage capacity of the reservoir for injected The applicability of enhanced Continuous An optimal pulsed injection schedule with the total cumulative duration of injection of only 1.5 years (in 30 year reservoir life) elevates gas production by 9.24% compared to the no injection case. This increased productivity occurs with no early breakthrough of 

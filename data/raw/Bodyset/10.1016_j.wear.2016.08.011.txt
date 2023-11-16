@@ -1,0 +1,81 @@
+A probabilistic model 
+                        
+                           
+                              
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       ̇
+                                    
+                                 
+                              
+                              
+                                 M
+                              
+                           
+                           ∝
+                           1
+                           −
+                           exp
+                           
+                           [
+                           −
+                           
+                              z
+                           
+                           ⋅
+                           
+                              
+                                 
+                                    
+                                       (
+                                       
+                                          σ
+                                       
+                                    
+                                    
+                                       T
+                                    
+                                 
+                                 
+                                    
+                                       /
+                                       
+                                          σ
+                                       
+                                    
+                                    
+                                       C
+                                    
+                                 
+                                 )
+                              
+                              
+                                 m
+                              
+                           
+                           ]
+                        
+                     , originally developed for comminution processes, is applied to cement-based materials, eroded by water-driven abrasive particles with velocities as high as 552m/s. In the equation, 
+                        
+                           
+                              
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       ̇
+                                    
+                                 
+                              
+                              
+                                 M
+                              
+                           
+                        
+                      is the volumetric erosion rate, and the ratio σ
+                     T/σ
+                     C is the dimensionless impact stress (tensile stress/compressive strength). Based on experimental investigations, values for the scale parameter (z) and the shape parameter (m) are estimated for five cement-based materials. Results of Spearman׳s rank coefficient calculations show that the scale parameter is particularly sensitive to the compressive strength, and this effect is explained through higher flaw densities in low-strength materials.crack length rank difference initial damage parameter erodent particle diameter Young׳s modulus target material Young׳s modulus erodent material contact force fracture toughness elasticity parameter traverse length distribution shape parameter erodent mass-flow rate water mass-flow rate number of observations crack number fracture probability water pressure contact radius Spearman׳s rank coefficient exposure time eroded volume volumetric erosion rate erodent particle velocity traverse rate distribution scale parameter phase mixing coefficient transition parameter crack density parameter orifice coefficient Poisson׳s ratio target material Poisson׳s ratio erodent material erodent material density target material density water density target material compressive strength tensile stress Demolition, cutting and separation of reinforced structures are major parts of repair, recycling and decommissioning processes. The utilization of stream-line tools, which are characterized by high local energy input, for these applications is a promising strategy. Approaches for the implementation of such a cutting strategy include the use of hydro-abrasive cutting tools A statistical fracture mechanics model for the comminution of brittle solids was developed in In the equation, Here, It is the objective of this Short Communication to investigate whether this approach can be applied to the high-speed hydro-abrasive erosion of cement-based, pre-cracked composites. Five different cement-based composites were utilized for the investigation. The mechanical properties of the materials were influenced by changing the water–cement ratio, as well as the fineness of the used aggregate grains. After mixing and casting, the mixtures were cured and hardened for 28 days under water. Specimen dimensions were 30.8 The volumetric erosion rate was estimated as follows: The exposure time was calculated as follows: Here, Results of the calculations of relative stresses Shape and scale parameters were estimated by linearly fitting Eq. Correlations between distribution parameters and target material parameters are evaluated based on Spearman׳s rank coefficient In that equation, The dominant effect of compressive strength on the distribution scale parameter requires a more detailed discussion. The parameter The dimensionless term The coefficient of regression is as high as The general structure of Eq. The results of this communication can be summarized as follows. The erosion of pre-cracked cementitious composites by high-speed hydro-abrasive flow can be characterized with a modified probabilistic comminution model: The scale parameter ( This effect can be explained through higher flaw densities in low-strength materials. The investigations were funded by the The tensile stress generated by an impinging rounded solid particle has its maximum at the surface of the edge of contact according to Hertz׳s theory for elastic contact Here, The contact force generated by an impinging rounded solid particle is derived in  Here, Here, In the equation,

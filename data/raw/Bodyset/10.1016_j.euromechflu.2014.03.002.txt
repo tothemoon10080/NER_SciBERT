@@ -1,0 +1,71 @@
+A numerical study of laminar natural convection in a square cavity with a thin fin that is under the influence of a uniform magnetic field is presented. The side walls of the cavity are kept at different temperatures and the horizontal walls are thermally insulated. An Adaptive Network-based Fuzzy Inference System (ANFIS) approach and an Artificial Neural Network (ANN) approach are developed, trained and validated using the results of Computational Fluid Dynamics (CFD) analysis. The effects of pertinent parameters on fluid flow and heat transfer characteristics are studied. Among these parameters are the Rayleigh number 
+                        
+                           (
+                           
+                              
+                                 10
+                              
+                              
+                                 3
+                              
+                           
+                           ≤
+                           R
+                           a
+                           ≤
+                           
+                              
+                                 10
+                              
+                              
+                                 6
+                              
+                           
+                           )
+                        
+                     , the Hartmann number 
+                        
+                           (
+                           0
+                           ≤
+                           H
+                           a
+                           ≤
+                           100
+                           )
+                        
+                     , the position of the thin fin 
+                        
+                           (
+                           0.1
+                           ≤
+                           
+                              
+                                 Y
+                              
+                              
+                                 p
+                              
+                           
+                           ≤
+                           0.9
+                           )
+                        
+                      and the length of the thin fin 
+                        
+                           (
+                           0
+                           ≤
+                           
+                              
+                                 L
+                              
+                              
+                                 p
+                              
+                           
+                           ≤
+                           0.8
+                           )
+                        
+                     . The results show that ANFIS and ANN can successfully predict the fluid flow and heat transfer behaviour within the cavity in less time without compromising accuracy. In most cases, ANFIS can predict the results more accurately than ANN.magnetic field strength specific heat, gravitational acceleration, Hartmann number ( thermal conductivity, length of the cavity, length of the fin, m dimensionless length of the fin ( the number of data in the data set (Eq. local Nusselt number fluid pressure, Pa modified pressure ( dimensionless pressure ( Prandtl number ( Rayleigh number dimensionless vertical distance of the fin from the top wall ( temperature, K velocity components in dimensionless velocity components ( Cartesian coordinates, m vertical distance of the fin from the bottom wall, m dimensionless coordinates ( dimensionless vertical distance of the fin from the bottom wall ( thermal diffusivity, thermal expansion coefficient, dynamic viscosity, dimensionless temperature density, electrical conductivity, kinematic viscosity, the calculated value of the parameter obtained from CFD the average of the predicted value of the parameter obtained from ANFIS or ANN stream function cold wall fin hot wall average maximum There is an increasing level of interest among the researchers in understanding the flow behaviour and the heat transfer mechanism of electrically conducting fluids in cavities that are located in magnetic fields Recently, numerical modelling techniques such as artificial intelligence systems have demonstrated an ability to deal with non-linear engineering problems and to reduce the cost and time of the analysis. An Artificial Neural Network (ANN) system is an information-processing paradigm that operates like a biological nervous system and simulates the neural activities in the human brain Mahmoud and Ben-Nakhi ANNs have self-learning and non-linear estimation abilities, but they lack the ability to infer. This means an ANN requires massive quantities of training data, the inputting of which is an intensive and time-consuming process. The Fuzzy Logic Inference System (FIS), on the other hand, is a fast approach to solving fuzzy and uncertain problems. However, it is basically dependent on the experience of experts; it is particularly challenging to produce forecasting results when the information provided is insufficient. The Adaptive Network-Based Fuzzy Inference System (ANFIS) proved to be a robust approach, as it has the superior capabilities of ANN and FIS. It achieves more accurate modelling than the conventional time series and regression methods Varol et al. The present study is motivated by the need to develop a fast and accurate solution for the heat transfer problem in a square cavity with a thin fin that is under the influence of a magnetic field. This study focuses on examining the effects of the length and position of the fin on the heat transfer performance of the cavity by using the ANN and ANFIS techniques. As such, a CFD simulation is carried out and the CFD results are used to train and test the ANN and ANFIS analyses. A comparison study of the accuracy and the computation time of these methods is also presented.  The steady-state equations that govern the conservation of mass, momentum and energy for the laminar natural convection of fluid in the presence of a magnetic field can be written in the following non-dimensional forms: In the above equations the following non-dimensional parameters are used: The average Nusselt numbers are determined by integrating the local Nusselt numbers along the hot and cold walls: The non-dimensional governing equations The numerical code is validated against the results of other studies for natural convection in cavities with fins. For example, the results of the convection heat transfer in a square cavity with a thin fin obtained from the present model are validated against the results obtained by Shi and Khodadadi For the ANN and ANFIS analyses, six input parameters and four output parameters are defined. The input parameters are the Rayleigh number (  The selection of the MFs in the ANFIS architecture affects the behaviour of the model. In this study, four different MFs with Bell-Shape, Triangular-Shape, Trapezoidal-Shape and Gaussian-Shape are tested. The Triangular-Shaped MF is finally selected for all cases as it is associated with the minimum value of RMSE. In all cases, the input–output data set is randomly divided into two (training and evaluating) subsets. For each case, two-thirds of the data is selected as the training subset and one-third as the evaluating subset. Training of the ANN is accomplished with the first subset in 1000 epochs (training stage) with the BPE (Back Propagation of Error) procedure. The BPE algorithm uses an iterative steepest descent gradient algorithm to minimise the mean squared error by regulating the weights properly. All the ANN related simulations are carried out with Neural Network toolbox of the MATLAB. The training of the ANFIS is also accomplished using the first subset in 100 epochs with hybrid (BPE for non-linear parameters and the least square errors for linear parameters) procedure. All the ANFIS simulations are carried out using the Fuzzy toolbox of MATLAB ANN and ANFIS approaches are developed to study the effects of a magnetic field on the natural convection in a square cavity with a thin fin. A CFD simulation is also carried out and the CFD results are used to provide the required information for the ANN and ANFIS training and evaluation. The effects of pertinent parameters on the fluid flow and heat transfer characteristics are studied; among these are the Rayleigh number ( In this section, the results of ANN and ANFIS analyses are compared with the results of CFD modelling. At first, the results for  A comparison study between the CFD modelling and the ANFIS and ANN analyses for some cases is presented in  Now that the precision and accuracy of the ANFIS and ANN structures have been tested, these trained structures can be used to quickly and accurately investigate the effects of various parameters on the thermal performance of the cavity. In this section, ANFIS and ANN are used to examine the effects of the magnetic field on the fluid flow and heat transfer performance of the cavity. Here, the length and position of the fin are assumed to be fixed (   In this section, ANFIS and ANN are used to examine the influence of the fin position on the fluid flow and heat transfer performance of the cavity. Here, the length of the fin and the Hartmann number are assumed to be fixed (  To demonstrate a better understanding of the effects of the fin position on the heat transfer performance of the cavity, In this section, the fin position and the Hartmann number are assumed to be fixed (  The laminar natural convection in a square cavity with a thin fin is examined. The cavity is influenced by a uniform magnetic field. The side walls of the cavity are kept at different temperatures and the horizontal walls are thermally insulated. Adaptive Network-based Fuzzy Inference System (ANFIS) and Artificial Neural Network (ANN) approaches are developed, trained and validated using the results of Computational Fluid Dynamics (CFD) analysis. The effects of pertinent parameters such as the Rayleigh number ( The flow and temperature fields and the heat transfer rate of the cavity are all influenced by the magnetic field, especially at higher Rayleigh numbers. As the Hartmann number increases, the magnetic field limits the convective flow circulations and, as a result, the heat transfer rate decreases. The position of the fin has more noticeable effects on the heat transfer of the hot wall than that on the cold wall at higher values of the Rayleigh number where the heat transfer is mainly due to convection. The average Nusselt number on the hot wall increases significantly as the fin moves upwards along the hot wall. The length of the fin has a stronger effect on the heat transfer rate for both the hot and cold walls at low Rayleigh numbers, where the heat transfer is mainly due to conduction. For all Rayleigh numbers, as the length of the fin increases, the heat transfer rate increases for the cold wall and decreases for the hot wall. It is evident that ANFIS and ANN can successfully predict the fluid flow and heat transfer behaviour within the cavity in less time without compromising accuracy.

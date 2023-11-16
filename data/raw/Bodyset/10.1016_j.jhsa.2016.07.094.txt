@@ -1,0 +1,14 @@
+Purpose
+                  Stable fixation of distal humerus fracture fragments is necessary for adequate healing and maintenance of reduction. The purpose of this study was to measure the reliability and accuracy of interpretation of postoperative radiographs to predict which implants will loosen or break after operative treatment of bicolumnar distal humerus fractures. We also addressed agreement among surgeons regarding which fracture fixation will loosen or break and the influence of years in independent practice, location of practice, and so forth.
+               
+                  Methods
+                  A total of 232 orthopedic residents and surgeons from around the world evaluated 24 anteroposterior and lateral radiographs of distal humerus fractures on a Web-based platform to predict which implants would loosen or break. Agreement among observers was measured using the multi-rater kappa measure.
+               
+                  Results
+                  The sensitivity of prediction of failure of fixation of distal humerus fracture on radiographs was 63%, specificity was 53%, positive predictive value was 36%, the negative predictive value was 78%, and accuracy was 56%. There was fair interobserver agreement (κ = 0.27) regarding predictions of failure of fixation of distal humerus fracture on radiographs. Interobserver variability did not change when assessed for the various subgroups.
+               
+                  Conclusions
+                  When experienced and skilled surgeons perform fixation of type C distal humerus fracture, the immediate postoperative radiograph is not predictive of fixation failure. Reoperation based on the probability of failure might not be advisable.
+               
+                  Type of study/level of evidence
+                  Diagnostic III.

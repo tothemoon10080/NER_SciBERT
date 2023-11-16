@@ -1,0 +1,8 @@
+Abstract
+                  Material conversion from paper sludge ash (PSA) in NaOH solution was attempted to synthesize the adsorbent for removal of inorganic pollutants, such as Pb2+, NH4
+                     + and PO4
+                     3- from aqueous solution. PSA of 0.5 g was added into 10 mL of 3 mol/L NaOH solution, and then heated at 80, 120, and 160°C for 6-48 hr to obtain the product. PSA mainly composed of two crystalline phases, gehlenite (Ca2Al2SiO7) and anorthite (CaAl2Si2O8), and amorphous phase. Hydroxysodalite (Na6Al6Si6O24·8H2O) was formed at 80°C, and anorthite dissolved, whereas gehlenite remained unaffected. Katoite (Ca3Al2SiO4(OH)8) was formed over 120°C, and hydroxycancrinite (Na8(OH)2Al6Si6O24·2H2O) was formed at 160°C, due to the dissolution of both gehlenite and anorthite. Specific surface areas of the products were almost same and were higher than that of raw ash. Cation exchange capacities (CECs) of the products were also higher than that of raw ash, and CEC obtained at lower temperature was higher. Removal abilities of products for Pb2+, NH4
+                     +, and PO4
+                     3- were higher than that of raw ash. With increasing reaction temperature, the removal efficiencies of Pb2+ and NH4
+                     + decreased due to the decrease of CEC of the product, while removal efficiency for PO4
+                     3- was almost same. The concentrations of Si and Al in the solution and the crystalline phases in the solid during the reaction explain the formation of the product phases at each temperature.

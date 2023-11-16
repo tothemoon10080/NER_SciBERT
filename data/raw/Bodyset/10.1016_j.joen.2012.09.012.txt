@@ -1,0 +1,11 @@
+Introduction
+                  The aim of this study was to investigate the role of the steroid fluocinolone acetonide on the proliferation and mineralization of human dental pulp cells (DPCs). The potential effect of fluocinolone acetonide on reparative dentin formation and the recovery of injured dental pulp were evaluated.
+               
+                  Methods
+                  The proliferative effect of fluocinolone acetonide on DPCs was analyzed by cholecystokinin octapeptide assay and flow cytometry. The mineralized effect of fluocinolone acetonide was investigated by the detection of mineralization-related biomarkers including alkaline phosphatase (ALP), bone sialoprotein, and osteocalcin by using ALP histochemical staining, ALP activity, immunostaining, alizarin red staining, and reverse-transcriptase polymerase chain reaction. The molecules, including dentin sialophosphoprotein and Wnt4, involved in the process of mineralization were detected by real-time polymerase chain reaction and Western blot analysis.
+               
+                  Results
+                  Low concentrations of fluocinolone acetonide (0.1–40 μmol/L) promoted the proliferation of DPCs. The flow cytometry results showed that the CD146-positive subpopulation of DPCs was significantly increased after treatment with fluocinolone acetonide at 1 and 10 μmol/L for 48 hours, respectively. The messenger RNA expression and activity of the early-stage mineralization marker ALP were evidently increased in fluocinolone acetonide–treated DPCs compared with the untreated control group, so did the middle-stage mineralization marker bone sialoprotein and the late-stage mineralization marker osteocalcin. Meanwhile, Wnt4 and the dentin-specific marker dentin sialophosphoprotein were obviously up-regulated by fluocinolone acetonide compared with the untreated controls.
+               
+                  Conclusions
+                  Fluocinolone acetonide can promote the proliferation of DPCs, especially for the CD146+ subpopulation. Fluocinolone acetonide can initiate the mineralization of DPCs and has the potential role in repairing injured pulp tissues.

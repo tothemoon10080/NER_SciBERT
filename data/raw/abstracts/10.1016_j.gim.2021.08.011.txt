@@ -1,0 +1,11 @@
+Purpose
+                  Heritable ectopic mineralization disorders comprise a group of conditions with a broad range of clinical manifestations in nonskeletal connective tissues. We report the genetic findings from a large international cohort of 478 patients afflicted with ectopic mineralization.
+               
+                  Methods
+                  Sequence variations were identified using a next-generation sequencing panel consisting of 29 genes reported in association with ectopic mineralization. The pathogenicity of select splicing and missense variants was analyzed in experimental systems in vitro and in vivo.
+               
+                  Results
+                  A total of 872 variants of unknown significance as well as likely pathogenic and pathogenic variants were disclosed in 25 genes. A total of 159 distinct variants were identified in 425 patients in ABCC6, the gene responsible for pseudoxanthoma elasticum, a heritable multisystem ectopic mineralization disorder. The interpretation of variant pathogenicity relying on bioinformatic predictions did not provide a consensus. Our in vitro and in vivo functional assessment of 14 ABCC6 variants highlighted this dilemma and provided unambiguous interpretations to their pathogenicity.
+               
+                  Conclusion
+                  The results expand the ABCC6 variant repertoire, shed new light on the genetic heterogeneity of heritable ectopic mineralization disorders, and provide evidence that functional characterization in appropriate experimental systems is necessary to determine the pathogenicity of genetic variants.

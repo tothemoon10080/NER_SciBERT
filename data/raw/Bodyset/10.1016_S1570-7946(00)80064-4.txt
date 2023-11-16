@@ -1,0 +1,1 @@
+The present paper discusses a new approach to describe the conversion of complexly composed solids that are dispersed in a gas flow at high temperatures. Numeric simulation of the flow field and particle trajectory is coupled with a thermodynamic equilibrium calculation. First simulation results and the comparison with experimental data are shown in this paper.

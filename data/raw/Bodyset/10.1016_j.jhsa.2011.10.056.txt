@@ -1,0 +1,14 @@
+Purpose
+                  The teardrop angle (TDA) is a newly characterized radiographic parameter that some authors propose as an indicator of articular incongruity of the lunate facet. The purposes of this study were to investigate intra-observer and interobserver reliability of the measurements of the TDA and to determine whether the TDA is a reliable indicator of articular step and gap formation after distal radius fracture.
+               
+                  Methods
+                  We studied radiographs of 24 uninjured wrists and 24 wrists with intra-articular distal radius fractures. On standard and 10° tilt views of lateral wrist radiographs, the teardrop represents the volar rim of the lunate facet, and the TDA is defined as the angle between the central axis of the teardrop and the radial shaft. We examined interobserver and intra-observer reliability for 3 observers using the intraclass correlation coefficient (ICC) for measurements of the uninjured and fractured wrists. For subjects with fractures, we determined correlation of the TDA-volar tilt with the articular step and gap measured by computed tomography using simple linear regression.
+               
+                  Results
+                  There was almost perfect intra-observer (ICC = 0.95) and interobserver (ICC = 0.93) reliability in the fractured wrists. We observed substantial intra-observer (ICC = 0.64) and fair interobserver (ICC = 0.28) reliability in the uninjured wrists on the standard lateral radiographs. On the 10° tilt views, intra-observer and interobserver reliability in the uninjured wrists increased to substantial levels (ICC = 0.76 and 0.61, respectively). The TDA-volar tilt was significantly associated with articular step and gap on computed tomography.
+               
+                  Conclusions
+                  The TDA, measured on the lateral radiograph of the wrist, exhibits higher intra-observer and interobserver reliability in fractured wrists compared with uninjured wrists. On the 10° tilt views, the reliability increased in the uninjured wrists. Measurement of the TDA in plain radiographs may allow direct estimation of articular incongruity as seen on sagittal computed tomography reconstruction images.
+               
+                  Type of study/level of evidence
+                  Diagnostic II.

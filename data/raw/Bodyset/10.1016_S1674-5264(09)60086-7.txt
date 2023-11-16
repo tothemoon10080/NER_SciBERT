@@ -1,0 +1,10 @@
+In order to overcome the disadvantages of diagonal connection structures that are complex and for which it is difficult to derive the discriminant of the airflow directions of airways, we have applied a multiple regression method to analyze the effect, of changing the rules of mine airflows, on the stability of a mine ventilation system. The amount of air (Q
+                     
+                        j
+                     ) is determined for the major airway and an optimum regression equation was derived for Q
+                     
+                        j
+                      as a function of the independent variable (R
+                     
+                        i
+                     ), i.e., the ventilation resistance between different airways. Therefore, corresponding countermeasures are proposed according to the changes in airflows. The calculated results agree very well with our practical situation, indicating that multiple regression analysis is simple, quick and practical and is therefore an effective method to analyze the stability of mine ventilation systems.

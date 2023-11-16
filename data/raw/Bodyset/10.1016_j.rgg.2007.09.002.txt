@@ -1,0 +1,5 @@
+The paper reports physical, physicochemical, and mineralogical-petrographic studies of serpentinite samples from the Bazhenovo deposit of chrysotile asbestos. The samples differ in mineralogy, physical and physicochemical parameters, and in quality (fiber tenacity) of the hosted chrysotile asbestos. The experiments allowed estimating the temperature dependence of electrical resistance of serpentinites in a range of 20 to 800 °C, the parameters of their high-temperature resistance (the activation energy E
+                     0 and the resistance coefficient lg R
+                     0), and the relationship between fiber tenacity of asbestos and high-temperature conductance of the host serpentinites. The serpentinite samples that host brittle and tenacious chrysotile asbestos plot different fields in the coordinates E
+                     0–lg R
+                     0 without any overlap. Thus, the quality of chrysotile asbestos can be inferred from the parameters of high-temperature conductance of the host serpentinites.

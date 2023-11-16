@@ -1,0 +1,36 @@
+ZnO thin films were grown on confined Poly (methyl methacrylate) (PMMA) templates, with high coverage and sharp interface, by atomic layer deposition (ALD) at near room temperature (at 35 °C). Crystalline ZnO films, with c-axis orientation along surface normal, were formed on PMMA templates. With decreasing PMMA template thickness, from 80 nm (5R
+                     
+                        g
+                     
+                     , R
+                     
+                        g
+                      ∼ 16 nm, the radius of gyration of PMMA) to 32 nm (2R
+                     
+                        g
+                     ) and below (5 nm, 0.3R
+                     
+                        g
+                     ), the photoluminescence (PL) of ALD grown ZnO films changes significantly. Pronounced deep level emission (DLE), corresponding to the oxygen vacancy related defect level (VO
+                     ++) of ZnO grown on 5R
+                     
+                        g
+                      PMMA, reduced noticeably for ZnO on 2R
+                     
+                        g
+                      PMMA and below. Furthermore, in the near-band-edge emission (NBE) of ZnO, the contribution of free-exciton (FX) with respect to its phonon replica (FX-2LO) increased with reduction of PMMA template thickness from 5R
+                     
+                        g
+                      to 2R
+                     
+                        g
+                      or below. The observed trend of the photoluminescence spectra indicates significant reduction of surface induced defects in the ZnO nanostructures, formed on the thinner PMMA templates (2R
+                     
+                        g
+                      and 0.3R
+                     
+                        g
+                     ) and can be ascribed to the formation of smaller ZnO nanoparticles on 5R
+                     
+                        g
+                      PMMA, which is consistent with the results obtained from structure and surface morphology study.In view of wide range opto-electronic applications of ZnO thin-films in the emerging field of organic-electronics, the ZnO-polymer composites have been under extensive research now a days. Zinc oxide (ZnO), a type II-VI compound semiconductors, with wide direct band gap (∼3.37 eV) [ For growth of ZnO thin films various methods have been adopted such as magnetron sputtering [ It has already been established [ It has been reported that the ALD grown zinc oxide (ZnO) thin films exhibit the crystalline microstructure of hexagonal phase and the orientation of crystallites can be controlled by the substrate material and tailoring the ALD growth parameters. The extreme case of substrate effect on the film orientation is epitaxy, where the ZnO films demonstrate the epitaxial growth on sapphire (1120), (10_10), and (11_20) faces as well as on GaN [ In view of the above discussion, systematic studies are necessary on structural and optical properties of ALD deposited ZnO on confined polymeric template, which has potential application in flexible electronics and nanoscale optoelectronic device. In this article, we report for the first time, to the best of our knowledge, the successful growth of ZnO thin film (about 20 nm) on confined PMMA template without any disruption at the interface or any reasonable diffusion into the PMMA matrix, by ALD at 35 °C. The study was extended to the different film thicknesses of PMMA (in 5 nm–80 nm range) to explore the effect of confinement of underneath PMMA templates on structure properties of ALD grown ZnO on it. The film thickness of ZnO and PMMA, and their interface roughnesses for ZnO/PMMA samples were precisely estimated by the X-ray reflectivity technique. The distinct influence of underneath PMMA film thickness on the growth, structure, morphology and photoluminescence of ZnO deposited on it were explored. Poly (methyl methacrylate) (PMMA) of molecular weight 350,000 g mol Subsequently, the PMMA deposited Si substrates were loaded into a BENEQ TFS-200 ALD reactor for the deposition, at near room temperature 35 °C. As precursors for zinc and oxygen, we have used Diethyl zinc (DEZn, Zn(C Hereafter pristine PMMA films deposited on Si substrates of thicknesses The thickness, density profiles along the surface normal and surface/interface roughness of the multilayer systems, PMMA (1-PMMA, 2-PMMA and 3-PMMA) and corresponding ZnO/PMMA films, were studied by using specular X-ray reflectivity (XRR) technique. Specular X-ray reflectivity [ In this study, X-ray reflectivity measurements were carried out using a Rigaku SmartLab automated multipurpose X-ray diffractometer (CuK The X-ray reflectivity, The crystal structure of the ZnO/PMMA and PMMA samples were investigated by X-ray diffraction (XRD) with CuK The X-ray reflectivity (XRR) technique yields information about film thickness, interfacial roughness, and electron density profile normal to the surface and the buried interfaces of multilayer thin films [  Furthermore, it is observed that along with growth/structure and morphology of ZnO, the room temperature photoluminescence of ZnO thin film is strongly influenced by the thickness of the underneath PMMA template. ZnO films were grown successfully on confined PMMA templates, an ideal candidate as a dielectric layer/gate dielectric in organic electronics/flexible electronics, with sharp interface and without causing any disruption in the PMMA templates, by atomic layer deposition (ALD) at near room temperature (at 35 °C). The ZnO thin films on PMMA templates show the crystalline nature with c-axis orientation along surface normal. With decreasing PMMA template thickness, from 80 nm (5 We would like to acknowledge IIT Indore for all kinds of support for this work. Authors would like to thank The following is the Supplementary data to this article: Supplementary data to this article can be found online at

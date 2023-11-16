@@ -1,0 +1,3 @@
+The high temperature oxide film of the AZ80-0.38Nd (wt.%) alloy was mineralized with CO2. The corrosion protection performance of the oxide film before and after CO2 mineralization was investigated. The results showed that CO2 mineralization treatment could eliminate cracks and holes, resulting in densification of the AZ80-0.38Nd alloy oxide film. And compared with the oxide film, the modified film increased the corrosion potential (E
+                     corr) of the alloy from −1.41 VSCE to −1.33 VSCE, and reduced the corrosion current density (i
+                     corr) of the alloy from 1.62 × 10-4A/cm2 to 2.47 × 10-5A/cm2. The oxide film after CO2 mineralization showed better corrosion protection performance.

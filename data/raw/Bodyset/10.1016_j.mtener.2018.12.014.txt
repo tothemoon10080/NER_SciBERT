@@ -1,0 +1,83 @@
+Zinc Antimonide (ZnSb) is a promising p-type thermoelectric (TE) material for mid-temperature (room temperature to 673 K) power generation application due to its high TE conversion efficiency and low cost. Here we show that further improvements of the TE efficiency of ZnSb is possible by reduction of the lattice thermal conductivity 
+                        
+                           
+                              (
+                              
+                                 
+                                    
+                                       κ
+                                    
+                                    
+                                       L
+                                    
+                                 
+                              
+                              )
+                           
+                        
+                     . This is achieved by forming a solid solution between ZnSb and CdSb which enhance the phonon scattering due to the mass disorder/strain effect. Compositions of Zn1-xCdxSb (x = 0, 0.25, 0.375 and 0.5) have been synthesized by melting, rapid compaction followed by annealing. The formation of the solid solution is confirmed from X-ray Diffraction (XRD) measurements and the calculated lattice parameters indicate an expected increase with Cd content. Thermoelectric properties have been measured between room temperature and 673 K. It is observed that the lattice thermal conductivity 
+                        
+                           
+                              (
+                              
+                                 
+                                    
+                                       κ
+                                    
+                                    
+                                       L
+                                    
+                                 
+                              
+                              )
+                           
+                        
+                      is significantly reduced by this alloying. At room temperature 
+                        
+                           ∼
+                        
+                     50% reduction is achieved for x = 0.5 composition, while at elevated temperatures (523 K) a 
+                        
+                           
+                              
+                                 κ
+                              
+                              
+                                 L
+                              
+                           
+                        
+                      value 0.62 W m−1 K−1 is obtained for x = 0.375 composition. The reduction in 
+                        
+                           
+                              
+                                 κ
+                              
+                              
+                                 L
+                              
+                           
+                        
+                      is attributed to the additional contribution to the phonon scattering by mass/strain disorder based on fitting the room temperature 
+                        
+                           
+                              
+                                 κ
+                              
+                              
+                                 L
+                              
+                           
+                        
+                      data with the Klemens-Callaway model. A significant contribution to the lowering of 
+                        
+                           
+                              
+                                 κ
+                              
+                              
+                                 L
+                              
+                           
+                        
+                      in the solid solutions is found to be due to the anharmonic nature of the bonding. The effect of alloying on the electrical properties have been further investigated and results indicate low alloy scattering (U) potential ∼0.3 eV in the solid solutions. The possible origin of such low U values is further an indicator of the muti-center, anharmonic nature of bonding in this system. Thus, the ultra-low lattice thermal conductivity coupled with low alloy scattering potential make Zn1-xCdxSb ideal candidates for further enhancement in thermoelectric efficiency.Thermoelectric (TE) materials are capable of directly converting temperature difference to electrical potential and vice versa, which makes them prospective candidates as alternative green energy source for harvesting waste heat The Zn Some recent reports show that acceptor impurities from group I (Ag, Cu) and group IV (Pb, Sn, Ge) can be used to attain optimal doping concentrations ( The objective of this work is to study the effect of Cadmium substitution in ZnSb on the lattice thermal conductivity and charge carrier scattering. Cd substitution was chosen since the compounds CdSb and ZnSb are reported to be iso-structural and form a complete solid solution Samples with nominal compositions Zn Seebeck coefficient ( All the hot pressed pellets were macroscopically crack free, had at least 95% of the theoretical density and had metallic lustre. Details about the nominal composition and densities are given in The XRD patterns of the different compositions are shown in The temperature variation of thermoelectric properties were studied from room temperature up to 673 K and shown in To extract information about the influence of Cadmium substitution on the lattice thermal conduction, a single parabolic band (SPB) model The lattice and bipolar contribution to the thermal conductivity ( The variation of ( The variation of ( To compare with experimental results, theoretical estimate of the  To understand whether the main contribution in The electrical transport properties ( At a given temperature, The The estimated values of Zn This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. Rajan Biswas would like to acknowledge Ms. K. Rajput for LFA measurements, Ms. S. Tiwari for DSC measurements and to Mr. Prashant Sahu for the room temperature thermoelectric property evaluation system. The following is the supplementary data to this article: Supplementary data to this article can be found online at

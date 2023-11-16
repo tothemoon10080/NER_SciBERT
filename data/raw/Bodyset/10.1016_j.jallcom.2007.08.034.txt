@@ -1,0 +1,20 @@
+(1−
+                     x)[(K0.4725Na0.4725)Li0.055]NbO3–xAgSbO3 [(1−
+                     x)KNNL–xAS] lead-free piezoelectric ceramics were prepared by the conventional mixed oxide method. Effect of the amount of AgSbO3 (AS) on the phase structure, microstructure, ferroelectric and piezoelectric properties of (1−
+                     x)KNNL–xAS ceramics were systematically investigated. It was found that the AS content in (1−
+                     x)KNNL–xAS ceramics strongly affects the structure and electrical properties. A morphotropic phase boundary (MPB) between orthorhombic and tetragonal phases was identified in the composition range of 0.01<
+                     x
+                     <0.03. The materials near the MPB exhibit a strong compositional dependence and enhanced electrical properties while maintaining high Curie temperature. The (1−
+                     x)KNNL–xAS (x
+                     =0.02) ceramics exhibit enhanced electrical properties (d
+                     33
+                     ∼230pC/N, T
+                     c
+                     ∼430°C, k
+                     p
+                     ∼39%, P
+                     r
+                     ∼40.3μC/cm2 and E
+                     c
+                     ∼12.3kV/cm) for the formation of MPB. These results show that (1−
+                     x)KNNL–xAS ceramics are promising candidates for lead-free piezoelectric materials.Perovskite Pb(Zr The morphotropic phase boundary (MPB) of the materials is an important factor to affect the electrical properties In this work, the phase transition and resultant electrical properties of (1 The ceramics with the composition of (1 X-ray diffraction (XRD) characterization of the ceramics was performed by using Cu Kα radiation (    The temperature dependence of dielectric constant ( In order to characterize the ferroelectric properties, the (1 This work was supported by National Science Foundation of China (NSFC, 50410179, 50772068 and 50572066) and Foundation of Doctor Training Program in University and College in China (Grant No. 20030610035).

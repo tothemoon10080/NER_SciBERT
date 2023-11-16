@@ -1,0 +1,300 @@
+The effects of growth rates on the microstructure, microhardness, tensile strength, and electrical resistivity were studied in directionally solidified Al–Cu–Si–Mg (Al–28 wt%Cu–6wt.%Si–2.2 wt%Mg) quaternary eutectic alloy. The directional solidification process was carried out at five different growth rates (V = 9.63–173.5 μm/s) at a constant temperature gradient (G = 6.88 K/mm). The microstructure of the directionally solidified Al–Cu–Si–Mg quaternary eutectic alloy consists of Al solid solution, irregular Si plates, and intermetallic Al2Cu (θ) and Cu2Mg8Si6Al5 (Q) phases with honeycomb morphology. The dependencies of lamellar spacing, microhardness, tensile strength, and electrical resistivity on growth rates were found to be 
+                        
+                           
+                              λ
+                              
+                                 C
+                                 u
+                                 A
+                                 
+                                    l
+                                    2
+                                 
+                              
+                           
+                           =
+                           19.05
+                           
+                           
+                              V
+                              
+                                 −
+                                 0.41
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              λ
+                              
+                                 C
+                                 
+                                    u
+                                    2
+                                 
+                                 M
+                                 
+                                    g
+                                    8
+                                 
+                                 S
+                                 
+                                    i
+                                    6
+                                 
+                                 A
+                                 
+                                    l
+                                    5
+                                 
+                              
+                           
+                           =
+                           51.28
+                           
+                           
+                              V
+                              
+                                 −
+                                 0.43
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              λ
+                              
+                                 S
+                                 i
+                              
+                           
+                           =
+                           8.74
+                           
+                           
+                              V
+                              
+                                 −
+                                 0.46
+                              
+                           
+                        
+                     , 
+                        
+                           H
+                           V
+                           =
+                           170
+                           .
+                           7
+                           +
+                           79
+                           
+                              
+                                 .
+                                 08
+                                 V
+                              
+                              
+                                 0
+                                 .
+                                 25
+                              
+                           
+                        
+                     
+                     , 
+                     
+                        
+                           H
+                           V
+                           =
+                           237.68
+                           
+                              
+                                 
+                                    (
+                                    V
+                                    )
+                                 
+                              
+                              
+                                 0.043
+                              
+                           
+                        
+                     , 
+                        
+                           σ
+                           =
+                           343.45
+                           
+                              
+                                 
+                                    (
+                                    V
+                                    )
+                                 
+                              
+                              
+                                 0.15
+                              
+                           
+                        
+                     , and
+                        
+                           ρ
+                           =
+                           3
+                           .
+                           42
+                           ×
+                           
+                              
+                                 10
+                              
+                              
+                                 −
+                                 8
+                              
+                           
+                           
+                              
+                                 
+                                    (
+                                    V
+                                    )
+                                 
+                              
+                              
+                                 0.10
+                              
+                           
+                        
+                     , respectively, for the Al–Cu–Si–Mg quaternary eutectic alloy. The bulk growth rates were also determined as 
+                        
+                           
+                              λ
+                              
+                                 S
+                                 i
+                              
+                              2
+                           
+                           V
+                           =
+                           92.24
+                        
+                     , 
+                        
+                           
+                              λ
+                              
+                                 C
+                                 u
+                                 A
+                                 
+                                    l
+                                    2
+                                 
+                              
+                              2
+                           
+                           V
+                           =
+                           669.2
+                        
+                     , and 
+                        
+                           
+                              λ
+                              
+                                 C
+                                 
+                                    u
+                                    2
+                                 
+                                 M
+                                 
+                                    g
+                                    8
+                                 
+                                 S
+                                 
+                                    i
+                                    6
+                                 
+                                 A
+                                 
+                                    l
+                                    5
+                                 
+                              
+                              2
+                           
+                           V
+                           =
+                           4205.5
+                        
+                     μm3/s by using the measured values of
+                        
+                           
+                              λ
+                              
+                                 M
+                                 
+                                    g
+                                    2
+                                 
+                                 S
+                                 i
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              λ
+                              
+                                 C
+                                 u
+                                 A
+                                 
+                                    l
+                                    2
+                                 
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              λ
+                              
+                                 C
+                                 
+                                    u
+                                    2
+                                 
+                                 M
+                                 
+                                    g
+                                    8
+                                 
+                                 S
+                                 
+                                    i
+                                    6
+                                 
+                                 A
+                                 
+                                    l
+                                    5
+                                 
+                              
+                              2
+                           
+                        
+                     , and V for the Si plates and intermetallic Al2Cu (θ) and Cu2Mg8Si6Al5 (Q) phases in the Al–Cu–Si–Mg eutectic alloy, respectively.The solidification of industrial alloys generally proceeds through the formation of single-phase primary crystals such as dendrites or poly-phase structures such as eutectics The directional solidification technique by Bridgman-type equipment is one of the most important techniques for achieving crystal growth and is widely utilized in engineering. Aluminium and its alloys are prone to having possible casting defects, such as cracks and distortions, because the volume shrinkage causes stresses. These defects can be minimized by using Bridgman's technique, known as the controlled solidification technique. When eutectic alloys are directionally solidified in Bridgman-type equipment, the solidification results in the formation of two or more phases that are aligned in the growth direction. This microstructural morphology of eutectic alloys affects their mechanical and thermophysical properties. Aluminium alloys are produced and used in many forms such as sheets, plates, bars, rods, channels, and forging in various areas of industry, especially the aerospace industry. The advantages of these alloys over traditional iron-based alloys are their light weight, corrosion resistance, and very good thermal and electrical conductivity Thus, the aims of this work were to experimentally investigate the dependencies of eutectic spacing (λ), microhardness (HV), tensile strength (σ), and electrical resistivity (ρ) on the growth rate (V) at a constant temperature gradient (G) in Al The Al–Cu–Si–Mg phase diagram is given in In the present study, the composition of quaternary alloy in the Al–Cu–Si–Mg system was chosen to be Al–28 wt.%Cu–6wt.%Si Thus, the Al–Cu–Si–Mg molten alloy was prepared under vacuum using aluminium, copper, silicon, and magnesium, all of 99.99% purity, poured into 13 graphite crucibles (length = 200 mm, inner diameter = 4 mm, outer diameter = 6.35 mm) held in a specially constructed casting furnace (hot filling furnace) preheated to a temperature above the eutectic melting point of 507 °C. The molten alloy was directionally solidified and then each sample was positioned in a Bridgman type furnace. Solidification of the samples was carried out at different growth rates of 9.63–173.5 μm/s at a constant temperature gradient of 6.88 K/mm by using synchronous motors running at different speeds. A Bridgman-type directional solidification furnace and detailed information related to the experimental procedure are described in Refs. The quenched sample was removed from the graphite crucible and typically cut into lengths of 10 mm each. After each sample was moulded, it was sanded and polished. The polished samples were etched with 2 ml of hydrofluoric acid, 3 ml of hydrochloric acid, and 5 ml of nitric acid in 190 ml of distilled water for 25–30 s in order to reveal their microstructures. The microstructures of both transverse and longitudinal sections of samples were photographed with a LEO model Scanning Electron Microscope (SEM). The typical SEM images of growth morphologies for directionally solidified Al–28 wt.%Cu–6wt.%Si–2.2 wt.%Mg quaternary eutectic alloy are shown in Quantitative chemical composition analysis of the phases in the samples was carried out using energy dispersive X-ray (EDX) analysis, as shown in According to the EDX results, the quantitative chemical composition of the quaternary phase (Cu The Al Mg has very high solid solubility in solid (Al) and the solid solubilities of Si, Cu, and Mg in solid Al are about 0.77, 4.0, and 12 wt.%, respectively, at the eutectic temperature of 507 °C As shown in In general, the hardness of metallic alloys is greater than the hardness of their individual components. This is because the bonding forces between atoms that differ from each other are larger than those between atoms that are similar to each other. This is the reason why the addition of foreign elements to a metal leads to an increase in the hardness One of the goals of this research is to investigate the relationships between the growth rate and the microhardness and tensile strength of Al–28 wt.%Cu–6wt.%Si–2.2 wt.%Mg quaternary eutectic alloy. The microhardness measurement was done using the Vickers hardness measurement method and the uniaxial tensile test was performed at room temperature with a strain rate of 10 A four-point probe measurement is made by applying four electrical probes to the specimen. The contacts of two of the probes are used to measure the current flowing through the sample and the other probes are used to measure the potential difference between any two points. The constant current and the potential difference on the sample were measured by a Keithley 2400 source meter and a Keithley 2700 multimeter, respectively. Platinum probes were used to measure the current and potential. The temperature of the specimen was measured by using a K-type thermocouple with a diameter of 0.5 mm in a Nabertherm type P320 furnace. The dimensions of the cylindrical sample were a length of 20 mm and radius of 2 mm. In the present work, the electrical resistivity of directionally solidified Al–28 wt.%Cu–6wt.%Si–2.2 wt.%Mg quaternary eutectic alloy was measured by the d.c. four-point probe method at room temperature. The measured values of growth rate (V), eutectic spacing (λ), microhardness (HV), tensile strength (σ), and electrical resistivity (ρ) for Al–28 wt.%Cu–6wt.%Si–2.2 wt.%Mg quaternary eutectic alloy are given in As expected, the formation of the microstructure varied with growth rate at a constant temperature gradient. As the growth rate increased, the eutectic spacing decreased for all phases at a constant temperature gradient as shown in The measured values of lamellar spacing in the Al–Cu–Si–Mg alloy as a function of growth rate at a constant temperature gradient are given in The variation of λ versus V is essentially linear on the logarithmic scale. As can be seen from The exponent value of 0.46 for the growth rates of the Si phase in the Al–Cu–Si–Mg eutectic alloy obtained in the present work is very close to the exponent values of 0.45 and 0.46 for the growth rates in Al–Si–Mg and Al–Si eutectic alloys, respectively, obtained in previous works However, the correlation coefficient value of 8.74 for the growth rate of the Si phase in the Al–Cu–Si–Mg eutectic alloy obtained in the present work is about three times smaller than both correlation coefficient values of 29.32 and 23.44 for the growth rates of Si phase in Al–Si–Mg and Al–Si eutectic alloys, respectively, obtained in previous works The bulk growth rates in the Al–Cu–Si–Mg quaternary eutectic alloy were also determined as The prime objective in producing metals and alloys is to obtain materials with optimized properties. These properties are related to structure, and thus physical as well as mechanical properties form essential parts of metallurgy. The properties of metals and alloys enable the choice of materials in metallurgical engineering A dislocation that reaches the boundary again cannot continue its slip motion into another grain because of the difference in orientation of the slip planes and directions of the two neighbouring grains. Hence grain boundaries serve as obstacles to the movement of dislocations, which pile up near boundaries. Therefore, with decreases grain size, less distance can be travelled by a glissile dislocation before reaching a grain boundary, resulting in higher strength. This strengthening mechanism is called grain size hardening In the present work, the lamellar distance (λ) is related to the mean grain size and λ is inversely proportional to the square root of the growth rate (V) according to the eutectic growth theory. Thus, the Hall–Petch type relationship between the microhardness and growth rate can be expressed as follows: The variation of microhardness (HV) as a function of growth rate (V) at a constant temperature gradient of 6.88 K/mm for Al–28 wt%Cu–6wt.%Si–2.2 wt.%Mg quaternary eutectic alloy is plotted in the Hall–Petch type and exponential forms in The Hall–Petch type relationship between the microhardness and growth rate for directionally solidified Al–Cu–Si–Mg quaternary eutectic alloy was found to be: The value of 170.7 kg/mm It can be also seen from The exponential relationship between HV and V for directionally solidified Al–Cu–Si–Mg eutectic alloy was determined to be: The exponent value of 0.043 for the growth rate of Al–Cu–Si–Mg obtained in the present work agrees with the exponent values of 0.032 and 0.03 for the growth rates of Al–Cu–Mg The coefficient value of 237.68 for the quaternary Al–Cu–Si–Mg eutectic alloy is somewhat larger than the coefficient values of 119.9, 72.44, 66.6, and 82.79 for Al–Si–Mg The variation of tensile strength with growth rate for quaternary Al–Cu–Si–Mg eutectic alloy is plotted in From The exponent value of 0.15 for quaternary Al–Cu–Si–Mg eutectic alloy agrees with the exponent value of 0.14 obtained for Al–Cu–Mg The variation of electrical resistivity with growth rate for quaternary Al–Cu–Si–Mg eutectic alloy is plotted in From The exponent and coefficient values for quaternary Al–Cu–Si–Mg eutectic alloy were determined experimentally to be 0.10 and 3.42, respectively. The values of the exponent and coefficient obtained in the present work are in good agreement with the exponent and coefficient values of 0.08 and 0.12 for ternary Al–Si–Ni In this work, we experimentally examined the dependency of the eutectic spacings (λ), microhardness (HV), tensile strength (σ), and electrical resistivity (ρ) on growth rate (V) at constant temperature gradient (G) in Al–28 wt%Cu–6wt.%Si–2.2 wt.%Mg quaternary eutectic alloy. The results obtained in the present work for the quaternary Al–Cu–Si–Mg eutectic alloy are summarized below: The relationships between the eutectic spacings and growth rates were determined to be The dependency of HV on growth rate in the Hall–Petch and exponential forms was determined to be The initial micro-indentation hardness value for equilibrated solid eutectic phases in equilibrium with liquid in this alloy system at its melting temperature was determined to be 170.7 kg/mm The value of microhardness increases from 195 ± 3.0 to 223 ± 5.0 kg/mm The value of tensile strength also increases from 172.0 to 260.0 MPa as the growth rate increases from 9.63 to 173.5 μm/s and the relationship between σ The relationships between ρ and V were found to be As mentioned above, the existence of Cu This project was supported by

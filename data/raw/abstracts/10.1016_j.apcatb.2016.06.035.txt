@@ -1,0 +1,6 @@
+The role of anode materials on the electrochemical oxidation and mineralization of the antibiotic sulfamethazine (SMT) was tested using platinum (Pt), boron doped diamond (BDD), dimensionally stable anode (DSA, Ti/RuO2-IrO2) and graphite felt (GF). Comparison of the oxidation efficiencies of these anodes in the electro-Fenton process was performed at pH 3 and room temperature. High performance liquid chromatography (HPLC) and total organic carbon (TOC) were used to investigate the oxidative degradation kinetics of SMT and the extent of its mineralization in aqueous solution. The graphite felt was the most effective anode for oxidation of SMT at low current density but burned for long electrolysis times at high current densities. The absolute rate constant of the oxidation of SMT by hydroxyl radicals was determined by a competition kinetic method and found to be 2.9×109
+                     M−1
+                     s−1. BDD was found to be the best anode to mineralize SMT aqueous solutions, reaching almost total mineralization (98.5%). Determination of released inorganic ions: SO4
+                     2−, NO3
+                     −, and NH4
+                     + gave additional evidences for the complete mineralization of SMT.

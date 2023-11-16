@@ -1,0 +1,6 @@
+The biological solubilization and mineralization system (BSMS) was compared to the composting system (CS) in terms of the rate of waste mineralization and accumulation under aerobic condition. A 25-L stainless steel reactor equipped with an impeller that mixed the contents every 30min for 3min at a rate of 10rpm and a perforated plate at the bottom, was used as the experimental reactor for each run. Mineralization rate of food waste was higher in CS (0.24–0.36kgm−3
+                     d−1) than in BSMS (0.09–0.24kgm−3
+                     d−1) but the rate of waste accumulation was much higher in CS (0.03–0.15kgm−3
+                     d−1) than in BSMS (0–0.05kgm−3
+                     d−1). Abundant water supply in BSMS resulted in the ease of maintaining aerobic condition in the system causing most of the waste to be solubilized and mineralized rather than accumulated in the reactor. Investigation on the effect of food waste loading on waste mineralization and accumulation was also performed. When the loading was varied from 4 to 16kgm−3
+                     d−1, waste accumulation rate in CS was affected. Increased loading resulted in increased accumulation rate in CS while in BSMS there was no pronounced effect. Similarly, as the duration of operation goes beyond 30d, waste accumulation increased in CS but remained almost the same in BSMS.

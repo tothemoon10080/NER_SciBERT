@@ -1,0 +1,45 @@
+Main aim of this study is to propose a developed zonality index for Cu–Mo porphyry deposits based on staged factor analysis with Number-Size (N–S) fractal model. This method was used in an Iranian porphyry system as named Serenu (SE Iran). The developed zonality index was a ratio between factors related to major and minor ore elements based on in-situ soil samples. In this study, two factors were extracted after three stages of factor analysis including F1-3 (Pb, Zn, Au, Ag, Mn, Cd, As) and F2-3 (Cu–Mo). Based on these factors, 
+                        
+                           
+                              
+                                 F
+                                 1
+                                 −
+                                 3
+                              
+                              
+                                 F
+                                 2
+                                 −
+                                 3
+                              
+                           
+                        
+                     is determined as a developed zonality index. Furthermore, conventional zonality index was calculated on the basis of
+                        
+                           
+                           
+                              
+                                 (
+                                 P
+                                 b
+                                 ×
+                                 Z
+                                 n
+                                 )
+                              
+                              
+                                 
+                                 
+                                    (
+                                    C
+                                    u
+                                    ×
+                                    M
+                                    o
+                                    )
+                                 
+                              
+                           
+                        
+                     . Then, these zonality indexes were classified by the N–S fractal modeling. Results obtained by the fractal modeling indicates that the main anomalies for the developed zonality index is correlated with plutonic units, mineralized rock samples and exploratory boreholes especially in the central and SE parts of the studied area. This methodology can be utilized for other types of ore mineralization.Geochemical haloes are important evidences for detection ore deposits in reconnaissance and prospecting phases especially for buried mineralization/deposits ( Multivariate analysis is a conventional method for reduction of many variables to few groups (factors). These factors contain similar variables, e.g., ore elements in this case (e.g., Fractal analysis is a structural methodology for interpretation of different geological data specifically geochemical data which is established by In this paper, zonality index model (based on  The Number-Size (N–S) is a necessary technique in fractal modeling for the categorization of natural features specifically geochemical characteristics ( This model is an index multivariate analysis for extraction of significant multi-element anomalous signature in various ore types. Based on this method, non-indicator (noisy) elements are progressively detected and excluded from the analysis until a satisfactory multi-element signature is achieved ( Furthermore, classical factor analysis with varimax rotation was utilized for extracting the usual factors. In addition, we used 0.5 as threshold value for loadings to extract different groups (factors). In this study, ratio of factors related to main ores (Cu and Mo) and minor ore minerals (Au, Ag, Pb and Zn) was used for calculation of zonality index. In this study, ratio of marginal elements factor divide by main ore elements factor was utilized for calculation of developed zonality index. Finally, this zonality index was classified by the N–S fractal model. The Serenu porphyry system is located in the southern part of Uremieh-Dokhtar Magmatic Arc which is named Kerman magmatic arc, SE Iran ( Oldest rocks are Eocene volcanic and pyroclastic units specifically andesite in the studied area. Dacites and trachy-andesites occur in the central and SW parts of this porphyry system. Pyroclastic rocks especially tuffs are extended in the central and eastern parts of the Serenu area, as depicted in In this study, 522 in-situ soil samples with a 100 m × 100 m grid were collected and 91 rock samples ( Firstly, the soil data was transform by a Napierian logarithmic process (Ln). The staged factor analysis was carried out in three stage, as depicted in Zonality index was calculated by a development method in this study. In this method, ratio between two factors related to Supra- and Sub-ore elements in porphyry deposits is calculated that is A comparison between two models was carried out using logratio matrix ( Results obtained by the developed zonality index ( The developed zonality index is proposed on the basis of ratio of factors related to major and minor ore elements derived via the SFA in porphyry deposits/systems. This method is carried out in the Serenu porphyry system that its results is correlated with plutonic rocks, mineralized samples and exploratory boreholes. Staged factor analysis can be used for separation of supra and sub elements for detection of zonality index. Fractal modeling can be used for classification of results derived via by the zonality index. This study shows that main prospects for the studied area are associated with high anomalies of the developed zonality index especially in the central, eastern and SE parts of the studied area. The FDs for high and main anomalous parts of the developed zonality index are ≤0.05 and ≤ 0.33, respectively. This method can be improved for other ore mineralization types. Consequently, this method is an appropriate method for design of grid drilling for detailed exploration. The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. The authors gratefully acknowledge the

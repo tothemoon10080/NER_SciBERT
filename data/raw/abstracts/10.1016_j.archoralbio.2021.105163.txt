@@ -1,0 +1,11 @@
+Objectives
+                  Crosstalk between Notch and other cell signaling molecules has been implicated to regulate the osteogenic differentiation. Understanding the interaction between Notch and IL15 is essential to reveal molecular mechanism. Thus, the objective of the present study was to investigate whether IL15 participates in the Notch signaling-induced mineral deposition in human dental pulp cells (hDPs).
+               
+                  Methods
+                  hDPs were explanted from dental pulp tissues. To activate Notch signaling, the cells were seeded on Jagged1-immobilized surfaces. The mRNA expression was evaluated using real-time polymerase chain reaction. hDPs were treated with 5–50 ng/mL IL15. Cell viability and proliferation were determined using an MTT assay. Mineral deposition was examined using alizarin red s and Von Kossa staining. In some experiments, the cells were pretreated with a JAK inhibitor prior to stimulation.
+               
+                  Results
+                  Jagged1 induced IL15 and IL15RA expression in hDPs. IL15 treatment significantly increased mineral deposition at 14 d and upregulated ALP, OCN, OSX, ANKH, and ENPP1 mRNA expression. IL15-induced mineralization was attenuated by JAK inhibitor pretreatment. Further, JAK inhibitor pretreatment inhibited the effect of Jagged1 on hDP mineral deposition.
+               
+                  Conclusion
+                  IL15 promoted the osteogenic differentiation in hDPs. Moreover, IL15 participated in the Jagged1-induced mineralization in hDPs.

@@ -1,0 +1,64 @@
+Per- and polyfluorinated substances (PFAS) are widely used industrial and household chemicals and occur on various contaminated field sites. To better understand their behavior on soils, spike experiments were performed with 6:2 diPAP (6:2 polyfluoroalkyl phosphate diester) on pure mineral phases (titanium dioxide, goethite and silicon dioxide) in aqueous suspensions under artificial sunlight. Further experiments were performed with uncontaminated soil and four precursor PFAS. Titanium dioxide (referenced as 100 %) showed the highest reactiveness to transform 6:2 diPAP to its primary metabolite 6:2 fluorotelomer carboxylic acid, followed by goethite with the addition of oxalate (4.7 %), silicon dioxide (1.7 %) and soil (0.0024 %). Experiments with four precursors [6:2 diPAP, 6:2 fluorotelomer mercapto alkyl phosphate (FTMAP), N-ethyl perfluorooctane sulfonamide ethanol–based phosphate diester (diSAmPAP), N-ethyl perfluorooctane sulfonamidoacetic acid (EtFOSAA)] on natural soils showed a transformation of all four precursors by simulated sunlight. The production of the primary intermediate from 6:2 FTMAP (6:2 FTSA, rate constant k = 
+                        2.7
+                        ∗
+                        
+                           10
+                           
+                              −
+                              3
+                           
+                        
+                        
+                        
+                           h
+                           
+                              −
+                              1
+                           
+                        
+                     ) was approximately 13-times faster than from 6:2 diPAP (6:2 FTCA, rate constant k = 
+                        1.9
+                        ∗
+                        
+                           10
+                           
+                              −
+                              4
+                           
+                        
+                        
+                        
+                           h
+                           
+                              −
+                              1
+                           
+                        
+                     ). EtFOSAA was completely decomposed within 48 h whereas only ~7 % diSAmPAP was transformed in the same time. The primary photochemical transformation product of diSAmPAP and EtFOSAA was PFOA, PFOS was not detected. The production rate constant of PFOA varied significantly between EtFOSAA (k = 
+                        0.01
+                        
+                        
+                           h
+                           
+                              −
+                              1
+                           
+                        
+                     ) and diSAmPAP (k = 
+                        1.3
+                        ∗
+                        
+                           10
+                           
+                              −
+                              3
+                           
+                        
+                        
+                           h
+                           
+                              −
+                              1
+                           
+                        
+                     ). Photochemically produced PFOA consisted of branched and linear isomers and can therefore be used in source tracking. Experiments with different soils suggest that the oxidation of EtFOSAA to PFOA is expected to primarily be driven by hydroxyl radicals, whereas for the oxidation of EtFOSAA to further intermediates, another mechanism instead or in addition to the oxidation by hydroxyl radicals is responsible.

@@ -1,0 +1,24 @@
+Iron minerals are highly reactive drivers of abiotic/prebiotic organic chemistry, and in the presence of ammonia (NH3/NH4
+                     +) or other reduced nitrogen (N) compounds, have been shown to promote amino acid synthesis from organic precursors. On early Mars, oxidized nitrogen species (NOx
+                     −) such as NO3
+                     − and/or NO2
+                     − may have been present, which could be reduced by Fe(II) to form various species including N2O and/or NH3/NH4
+                     +. The production of NH3/NH4
+                     + from Fe(II)-driven NO3
+                     − or NO2
+                     − reduction may be able to feed into prebiotic organic reactions including amino acid formation. In this study, we tested whether iron mineral-driven reduction of NO3
+                     − or NO2
+                     − could provide a source of NH3/NH4
+                     + to form amino acids from two prebiotically relevant precursors (pyruvate and glyoxylate); or, whether an exogeneous source of NH3/NH4
+                     + would be required. We observed that pyruvate and glyoxylate reacted with Fe-oxyhydroxide minerals in NOx
+                     −-containing experiments to form reduced hydroxy acid products; and in experiments containing only NH3/NH4
+                     +, amino acids were also formed. However, significant amino acid formation was not observed in any experiments containing NO3
+                     − or NO2
+                     − unless sufficient NH4
+                     + was also added; furthermore, colorimetric analysis did not show any generation of NH4
+                     + from NO3
+                     −/NO2
+                     − reduction at these conditions. NO2
+                     − was observed to be highly reactive with Fe2+ and Fe(II)-bearing minerals, resulting in Fe oxidation during mineral precipitation and the formation of oxidized mineral phases (hematite). The Fe(II)/Fe(III) ratio in oxyhydroxide minerals is an important parameter for determining organic product distributions from pyruvate and glyoxylate; therefore, Fe-mediated NOx
+                     − reduction does impact organic chemistry. However, amino acid formation, at least under these conditions, would also require an exogenous source of NH3/NH4
+                     + or other reduced N species. These results have implications for organic-N chemistry on early Mars, as well as for some early Earth origin of life scenarios regarding organic synthesis in mineral-containing systems.

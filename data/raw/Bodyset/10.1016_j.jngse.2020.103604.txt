@@ -1,0 +1,45 @@
+Hydraulic fracturing with proppants is the key technology in developing coalbed methane (CBM) reservoirs. However, coal fine retention in the fracturing proppant will directly affect its permeability and drop the CBM production. In this paper, coal fine retention experiments in fracturing proppants not containing coal fines, along with permeability tests of fracturing proppants containing coal fines, were successively conducted. The results showed that as the suspension concentrations of the coal fine increased, the coal fine retention amounts (W
+                     
+                        r
+                     ) of fracturing proppants increased monotonously, while the permeability decreased monotonously. Furthermore, as the suspension concentrations of the coal fines increased, the coal fine retention rate (R
+                     
+                        r
+                      = W
+                     
+                        r
+                     
+                     /W
+                     
+                        t
+                     , where W
+                     
+                        t
+                      represents the coal fine injected mass) first sharply increased monotonously to a peak level, and then slowly decreased monotonously. In addition, with the increases in the coal fine residue rates (R
+                     
+                        cp
+                      = W
+                     
+                        r
+                     
+                     /W
+                     
+                        p
+                     , where W
+                     
+                        p
+                      represents the mass of the proppants), the fracturing proppants permeability loss rates (η) were observed to first sharply increase and then slowly increase, indicating that the influences of the W
+                     
+                        r
+                      on the permeability mainly occurred during the initial stage of the coal fines intrusions into the fracturing proppants. Furthermore, the relationship between the R
+                     
+                        cp
+                      and η was also derived in this study as 
+                        η
+                        =
+                        0.71578
+                        
+                           R
+                           cp
+                           0.4575
+                        
+                     .CBM (38.2 × 10 Many relevant experimental studies have been conducted about coal fine migration on coal fractures and fracturing proppants. The coal samples used in this study's experimental tests were obtained from the No. 3 coal seam in China's Qinshui Basin. The coal in the No. 3 coal seam was high metamorphic anthracite with a metamorphic stage of VII, and the micro coal type was a silky bright coal sub-type. This study's proximate analysis results are detailed in  The constant flow pump was utilized to inject pure water at a constant injection flow rate. The API cell was used to place the coal samples and the proppants. The injection port pressure vessel was divided into upper and lower parts which were separated by a piston in the middle. The upper part was filled with clean water and connected in a series with the constant flow pump. The lower part was filled with a coal fine suspension and connected to the API cell. The export pressure vessel had the same structure as the injection port pressure vessel. However, the difference was that the upper part was used to receive the liquid flowing out of the API cell, while the lower part was filled with clean water and connected to the balance, which then recorded the mass of the water. Two pressure transmitters (0.5% accuracy over a 6 MPa range) were connected to the API cell, and the pressure levels at both ends between the front and rear ends of the API cell were carefully monitored. A differential pressure sensor (0.25% accuracy over a 0.1 MPa range) was connected to the API cell, which monitored the pressure differences between the front and rear ends of the API cell. A hydrostatic press was adopted in order to provide the axial pressure for the API cell. Two displacement sensors were installed on the hydrostatic press in order to monitor the heights the proppant filling layers. In addition, the DCS received data signals from all of the transmitters and recorded the information directly into a computer within the laboratory facilities.   Prior to the commencement of this study's experiments, the coal samples were first placed into 3 mm of proppant inside the API cell. Next, they were placed into the API cell on a hydrostatic press. Finally, the hydrostatic press was used for 3 MPa axial compaction ( A total of 15 coal fines injection experiments were performed based on this study's control variable methods. These were divided into three groups by the coal fine particle sizes. The concentrations of coal fines in each group were then divided into 2%, 4%, 6%, 8%, and 10%, respectively. In this study, the different coal fine concentrations were used to represent the supply capability levels within a coalbed. The flow rates of the coal fine suspensions injected into the three groups of experiments were 15 mL/min, 20 mL/min, and 25 mL/min, respectively. The selection of the flow rates was based on the field practices of the Hancheng CBM Well and previous research findings (  Following the coal fine suspension injections, the inlet and outlet pipes were first removed and cleaned. Then, while maintaining an axial pressure of 3 MPa and a back pressure at 2 MPa, pure water was injected into the proppant core samples for permeability testing at a flow rate of 5 mL/min. The pressure drops across the proppant core samples and the outlet flow rates were carefully monitored. When the pressure differences and outlet flow rates were stabilized, the injections of pure water were stopped. The permeability levels were calculated using the recorded data. In this study, the permeability was expressed as follows ( In order to describe the permeability damages caused by the fines intrusions in the fracturing proppants, the concept of a dimensionless permeability loss rate (  After this study's permeability experiments were completed, the API cell was disassembled and cleaned. At that point, the internal proppant and coal fines were collected. The collected mixture was dried using a dryer at 40 °C for 12 h and weighed using a balance ( In addition, the coal fine residue rate (      In the present study, in order to consider the coupled effects of the coal fine retention and masses of the fracturing proppants on the permeability loss rates, it was necessary to determine the relationship between the During this study's coal fine suspension injection processes, it was observed that with increases in the coal fine suspension concentrations, the amounts of the injected coal fines had increased prior to the outlets starting to produce water. As a result, the internal pore volumes of fracturing proppants decreased, resulting in delays in the outlets starting to produce water and larger pressure differences. It was revealed from this study's results that with an increase in the coal fine suspension concentrations, the As the suspension concentrations of coal fines increased, the With increasing hengyong Hu: Conceptualization, Funding acquisition, Data curation. Yunbo Chen: Writing - original draft, Validation. Yongxin Hao: Investigation. Zhaoying Chen: Experimental study. Guorui Feng: Resources. Guofu Li: Supervision. Shuwen Guan: Project administration. Xitu Zhang: Writing - review & editing. Siyuan Li: Visualization. The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. This research was supported by the Joint Funds of the The following is the Supplementary data to this article: Supplementary data to this article can be found online at

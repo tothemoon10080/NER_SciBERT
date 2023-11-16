@@ -1,0 +1,11 @@
+Dielectric (ε
+                     r′) studies of phase pure T′-type Eu2CuO4 ceramics of two markedly different grain sizes (D), prepared by (i) conventional powder mixing and (ii) citrate complexation-Pechini process, have been carried out in the frequency range 0.1Hz to 1MHz, and at temperatures −100°C to 150°C. ε
+                     r′ is found to be highly grain size dependent. For the sample with coarse bar-like grains (D
+                     2~17×6μm2) ε
+                     r′ is >103, and for the finer grain size sample with bimodal distribution (D
+                     1~1μm, D
+                     2~3μm) ε
+                     r′ is ~105; for both the samples, high ε
+                     r′ value is nearly frequency independent over 500Hz≤f<100kHz and T≥30°C. The impedance spectroscopy (IS) study has clearly shown that both, the coarse- and the fine-grained samples consist of semiconducting grains and insulating grain boundaries that primarily lead to an internal barrier layer capacitance (IBLC) effect. And thus, manifest colossal dielectric constant (ε
+                     r′>103) in Eu2CuO4 ceramics. The smaller grain size (Pechini) sample, with over an order higher number of grains and grain boundary network, showing over an order higher ε
+                     r′ (~105) compared to the coarse grained one, further endorses the IBLC effect.Traditionally, ferroelectric materials with high dielectric permittivity ( Apart from the above NFE high In this paper, we do report our findings of extremely high dielectric constant ( Polycrystalline nominal Eu  Representative photomicrographs of the thermally etched polished-surfaces of Eu In Eu A high value of The temperature ( So far, the results show that for 100≤ The In Eu T′-type pristine Eu We acknowledge the IRCC for providing the XPS facility, Mr. Rajan Singh, CRNTS, IIT Bombay for helping in characterizing the samples by SEM and TEM.

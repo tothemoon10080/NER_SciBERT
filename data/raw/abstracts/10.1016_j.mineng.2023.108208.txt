@@ -1,0 +1,24 @@
+Dry particle classification is an important step in dry particle processing. A thorough literature review is conducted on the available dry particle classification technologies. A detailed discussion is presented on each class of equipment based on the active forces (including centrifugal, gravity, and inertial) that cause particle segregation. Special attention is given to centrifugal classifiers because of their adaptability to a wide range of cut sizes and high throughputs. Interestingly, literature studies on gas cyclones show that they are conventionally used as gas-solid separators with cut sizes 
+                        
+                           
+                              d
+                           
+                           
+                              50
+                           
+                        
+                      less than 3 
+                        
+                           μ
+                           m
+                        
+                      rather than as a particle classifier. Further, throughput rate and cut size (
+                        
+                           
+                              d
+                           
+                           
+                              50
+                           
+                        
+                     ) data were collated for all the equipment reviewed. A new graphical illustration of throughput rate vs cut size is used to identify the major gaps in dry classification technology and to recommend research directions.

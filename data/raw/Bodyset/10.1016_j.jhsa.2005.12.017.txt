@@ -1,0 +1,11 @@
+Purpose
+                  To compare the biomechanical stability of 2 recently introduced fixation systems in an intra-articular, dorsal comminution distal radius fracture model.
+               
+                  Methods
+                  AO/ASIF type C2 fractures were simulated in 10 matched pairs of fresh-frozen cadaveric arms randomized between fixed-angle volar plate and fragment-specific fixation systems. Specimens were loaded in extension cyclically for 2,000 repetitions followed by a single cycle to failure. Initial, intermediate, and final stiffness values and failure load values were obtained and compared.
+               
+                  Results
+                  Both systems were able to sustain physiologic cyclic loading. The fragment-specific system was significantly stiffer than the fixed-angle volar plate system for the ulnar segment in both the precycle and postcycle values. No other comparisons were significant with respect to stiffness. No significant difference in load to failure was found between the systems with respect to ulnar, radial, or overall fragment displacement.
+               
+                  Conclusions
+                  Both fixed-angle volar plate and fragment-specific fixation systems performed comparably in a simulated early postoperative motion protocol. Fragment-specific fixation had improved stiffness characteristics only with respect to the smaller ulnar-sided fragment.

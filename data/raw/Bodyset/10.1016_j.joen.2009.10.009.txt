@@ -1,0 +1,11 @@
+Introduction
+                  Recently, it was shown that the interaction of each of mineral trioxide aggregate (MTA) and Portland cement with dentin in phosphate-buffered saline (PBS) promotes a biomineralization process that leads to the formation of an interfacial layer with tag-like structures at the cement-dentin interface. This study analyzes the influence of the biomineralization process on the push-out strength of ProRoot MTA (Dentsply Tulsa Dental, Tulsa, OK), MTA Branco (Angelus Soluções Odontológicas, Londrina, PR, Brazil), MTA BIO (Angelus Soluções Odontológicas), or Portland cement with and without calcium chloride.
+               
+                  Methods
+                  Dentin discs with standardized cavities were filled with ProRoot MTA, MTA Branco, MTA BIO, white Portland cement + 20% bismuth oxide (PC1), or PC1 + 10% of calcium chloride (PC2). The specimens were randomly divided into two groups: cement in contact with a wet cotton pellet for 72 hours or immersed in PBS for 2 months. The bond strengths were measured with the Instron Testing machine (Model 4444; Instron Corp, Canton, MA), and the fractured surfaces on the root walls were observed by scanning electron microscopy.
+               
+                  Results
+                  All samples immersed in PBS displayed a significantly greater resistance to displacement than that observed for the samples in contact with a wet cotton pellet for 72 hours (p < 0.05). MTAs displayed a significantly greater resistance to displacement than Portland cements.
+               
+                  Conclusion
+                  It was concluded that the biomineralization process positively influenced the push-out bond strength of the cements, particularly the MTA groups.

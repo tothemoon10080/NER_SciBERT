@@ -1,0 +1,28 @@
+The paper deals with calculations of the J-integral for a plate weakened by U-notches under Mode I bending loading in the case of a material obeying a linear elastic law. The main aim of the study is to suggest some new equations suitable for calculations of the J-integral under bending loading. Although some closed-form solutions exist in the literature based on elliptic integrals, some expressions, simple to be implemented, are useful as a rapid engineering tool.
+                  The semi-circular arc of the notch, which is traction-free, is assumed as the integration path and the J-integral is given as a function of the strain-energy density. For a numerical investigation of the strain-energy density distribution on the notch edge, the equation W(θ)=
+                     W
+                     max
+                     cos
+                     
+                        δ
+                     (θ) has been assumed, where the exponent δ has been determined from finite element analyses. The influence on δ of the notch acuity of the specimen width to the notch depth ratio w/a has been investigated by means of several parametric finite element analyses. In particular, the following values of the notch acuity (a/ρ) and notch depth ratio (w/a) have been analyzed: 
+                        
+                           4
+                           ⩽
+                           a
+                           /
+                           ρ
+                           ⩽
+                           200
+                        
+                      and 
+                        
+                           2
+                           ⩽
+                           w
+                           /
+                           a
+                           ⩽
+                           100
+                        
+                     .notch depth thickness of the specimen Young’s modulus elastic strain energy elliptic integral elliptic integral applied load critical fracture load  the value of the fracture toughness critical radius distance from the notch tip span length in 3 PB specimens strain-energy density strain-energy density on the semi-circular edge of the notch mean value of strain-energy density maximum strain-energy density at the notch tip width of the specimen limit angle of the control volume with respect the coordinate system placed in O exponent in the equation of the strain-energy density Poisson’s ratio angular coordinate limit angle of the control volume with respect the coordinate system placed in O′ notch radius maximum stress at the notch tip nominal stress referred to the net area ultimate tensile strength control volume The Numerical methods permit to evaluate the A link between the elastic strain energy The effect of the notch acuity (notch depth By following the same procedure developed in Ref. In the present paper, a specimen with a blunt U-notch under three point bending (TPB) is considered ( In a Cartesian coordinate system having the If the complete semi-circular root of the U-notch is assumed as integration path, which is traction-free, the Eq. The maximum strain-energy density can be determined by means of FE analysis or calculated by taking advantage of the following expression A more general law for In the present paper the use of Eq. A multi-parametric analysis has been carried out considering a large variability of the notch acuity, The nominal stress applied on the net area of the specimen can be easily evaluated as follows: The Young’s modulus Some plots of the strain-energy density on the notch edge for different values of By analyzing the results (summarized in The same trend of the exponent A useful expression has been obtained by a best fitting of the numerical results from U-notches under TPB loading. The expression for the exponent The percentage difference between the exponent According to previous works dealing with the SED approach With reference to Under plane strain conditions the critical radius can be derived by using the elegant expression obtained by Yosibash et al. The angles A comparison between the The control radius of the material, Moreover it is interesting to observe that for constant values of the ratio In a recent contribution dealing with U-shaped notches Berto and Lazzarin The closed form expression for the   For this material and these geometries, the mean value of the strain-energy density The experimental values are compared with prediction based on Eq. Some new approximate equations to calculate the For the A multi-parametric investigation of the strain-energy density, the exponent

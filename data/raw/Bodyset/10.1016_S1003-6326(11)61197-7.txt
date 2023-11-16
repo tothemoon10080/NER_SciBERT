@@ -1,0 +1,5 @@
+The thermodynamic properties of the most important NaOH–NaAl(OH)4–H2O system in Bayer process for alumina production were investigated. A theoretical model for calculating the equilibrium constant of gibbsite dissolved in sodium hydroxide solution was proposed. New Pitzer model parameters and mixing parameters for the system NaOH–NaAl(OH)4–H2O were yielded and tested in the temperature range of 298.15–373.15 K. The results show that the proposed model for calculating the equilibrium constant of gibbsite dissolution is applicable and accurate. The obtained Pitzer model parameters of β(0)(NaAl(OH)4), β(1)(NaAl(OH)4), CΦ(NaAl(OH)4) for NaAl(OH)4, the binary mixing parameter of θ(OH−Al(OH)4
+                     −) for Al(OH)4
+                     − with OH−, and the ternary mixing parameter of ψ(Na+OH−Al(OH)4
+                     −) for Al(OH)4
+                     − with OH− and Na+ are temperature-dependent. The prediction of the equilibrium solubility of gibbsite dissolved in sodium hydroxide solution was feasible in the temperature range of 298.15–373.15 K.

@@ -1,0 +1,11 @@
+Introduction
+                  Platelet-rich fibrin (PRF) by Choukroun's technique is derived from an autogenous preparation of concentrated platelets without any manipulation. When delicately pressed between 2 gauzes, the PRF clot becomes a strong membrane with high potential in clinical application. However, the effect of PRF on dental pulp cells (DPCs) remains to be elucidated. This study was to determine the biological effects of PRF on DPCs.
+               
+                  Methods
+                  PRF samples were obtained from 6 healthy volunteers. Human DPCs were derived from healthy individuals undergoing extraction for third molars. Cell proliferation resulting from PRF was evaluated by colorimetric assay. Western blot was used to evaluate the expression of osteoprotegerin (OPG). Alkaline phosphatase (ALP) activity was examined by substrate assay.
+               
+                  Results
+                  PRF did not interfere with cell viability of DPCs (P > .05). DPCs were observed to attach at the edges of PRF by phase-contrast microscopy. PRF was found to increase DPC proliferation during 5-day incubation period (P < .05). PRF was found to increase OPG expression in a time-dependent manner (P < .05). ALP activity was also significantly up-regulated by PRF (P < .05).
+               
+                  Conclusions
+                  PRF was demonstrated to stimulate cell proliferation and differentiation of DPCs by up-regulating OPG and ALP expression. These findings might serve as a basis for preclinical studies that address the role of PRF in reparative dentin formation.

@@ -1,0 +1,68 @@
+A multi-component breakage model has been developed at the Julius Kruttschnitt Mineral Research Centre (JKMRC) to describe the energy–size reduction in relation to particle size and density for coal breakage characterisation. The model takes the following form: 
+                        
+                           
+                              
+                                 t
+                              
+                              
+                                 10
+                              
+                           
+                           =
+                           
+                              
+                                 M
+                              
+                              
+                                 
+                                    
+                                       (
+                                       RD
+                                       /
+                                       
+                                          
+                                             RD
+                                          
+                                          
+                                             min
+                                          
+                                       
+                                       )
+                                    
+                                    
+                                       c
+                                    
+                                 
+                              
+                           
+                           ·
+                           {
+                           1
+                           -
+                           exp
+                           [
+                           -
+                           
+                              
+                                 f
+                              
+                              
+                                 mat
+                              
+                           
+                           ·
+                           x
+                           ·
+                           E
+                           ]
+                           }
+                        
+                     . The model incorporates four parameters and fits 60 JKFBC (JK Fine-particle Breakage Characteriser) test data for each of the Australian coal and Chinese coal samples, with R
+                     2
+                     =0.982 and 0.978 respectively. The multi-component model can be switched into a single component model by setting c
+                     =0.
+                  A set of tn
+                     -family of curves for coals ground in the JKFBC are presented. It was found that the data from various particle sizes and densities of the two coal samples, collected from the Australian and Chinese power stations, all fall on similar tn
+                     -curve trend lines. These tn
+                     -family of curves can be used in the multi-component model to estimate the product size distribution from the predicted t
+                     10 values. A procedure has been developed to calibrate the multi-component model with seven tests based on a combination of various particle sizes, coal densities and grinding energy levels, using the JKFBC device. Over 100 sets of data have been used to validate the calibration procedure.Particle breakage characterisation aims to establish the relationship between a specific energy input and the resultant product, through some type of laboratory test on a given sample An improved coal breakage characterisation method has been developed at the Julius Kruttschnitt Mineral Research Centre (JKMRC), which is presented in Part 1 of this paper Part 2 of the paper presents a mathematical model which describes the multi-component breakage behaviour observed in the JKFBC tests. Part 3 will demonstrate the applications of the model for HGI predictions and coal breakage simulations. The JKMRC has been using a breakage model (Eq. Previous work has found that the crack density of larger particles is much greater than that of smaller particles A new breakage model incorporating particle size effect has been reported Eq. The breakage mode utilised in the JKFBC is not by impact as in the DWT/JKRBT, but rather by compression grinding. The cumulative energy controlled by the grinding time in the JKFBC tests is much larger than the energy threshold ( Eq. Regarding the first difference, the breakage modes will certainly affect the degree of breakage ( In the case of the second difference, the energy threshold The major challenge in developing the coal breakage model is to describe the effects of both particle size and density. The simplest way is to treat the multi-component data with a single component model, i.e. to fit one set of breakage parameters for each density group, using the size-dependent model as presented in Eq. Analysis of the data presented in Fig. 6 in Part 1 of this paper The analysis also pointed out that particle density affects the positions of the trend lines. The physical meaning of parameter A multi-component breakage model was developed to describe the JKFBC data. The model takes the following form: The model incorporates four parameters, The model fitting results suggest that the multi-component breakage model (Eq. A question may be raised regarding the flexibility of the model structure. Fig. 7 in Part 1 of the paper It is worth emphasising that although the model structure is designed for multi-component data, the model can be used easily for single component data of a bulk sample (without float-sink tests to fractionate the size-by-size feed into size-by-density bases). Simply setting the parameter The breakage model (Eq. Narayanan and Whiten Using the Considering that the The data illustrate that the Australian coal and the Chinese coal fall on similar trend lines, despite the significant differences in their HGI values, ash content, and ash compositions (refer to Part 1, Section 2.3.1). Note that each Regression was performed on the data displayed in The multi-component breakage model and the Using this approach to determine the product size distribution is helpful when there is no sizing data available, as in the case of numerical simulations. However, it is noticed from For an understanding of the To study coal breakage behaviour, the experiment, as reported in Part 1 of the paper, was designed for 4 particle sizes However, using a complete set of 64 tests to calibrate the four model parameters is more than adequate. It is hypothesised that the multi-component model can be calibrated with a reduced number of tests on a given coal, and the calibrated model will still be able to predict the coal breakage behaviour on a size–density–energy basis. Many different combinations of the particle size, density and grinding energy were investigated. Eventually, seven tests were selected by trial-and-error, covering the whole range of particle size, density and grinding energy. For the Australian coal sample, there are 61 sets of available data. Seven tests were used for calibration, and the remaining 54 tests were used to validate the model. The model was employed to predict the The same seven test conditions were applied to the Chinese coal sample, with minor variations in the feed particle sizes tested. The similar results are presented in A statistical Future work remains to develop standardised testing conditions for calibration when more data are available. Nevertheless this pioneering work demonstrates that using reduced coal breakage tests with the JKFBC to calibrate the model parameters is a viable approach, and the multi-component model will predict the full breakage characteristic response of the coal. Based on the multi-component JKFBC test results and the analysis of the effects of particle size and density on the energy–size reduction relationship, a multi-component breakage model for coal has been developed. The model fits the approximately 60 sets of JKFBC tests on each of the Australian coal and Chinese coal samples well, with only four parameters needing to be calibrated. The model demonstrates its robustness to replicate the complex patterns of coal density and size effects on breakage. The multi-component model can be switched into a single component model. A set of The multi-component model can be calibrated with seven JKFBC tests on a combination of various feed sizes, densities and specific energies. Predictions for the other testing conditions using the calibrated model were compared with the measured data to validate the model. Statistical analysis confirms that the model predictions are similar to the measured data for both the Australian and Chinese coal samples. The coal breakage modelling work was funded by the

@@ -1,0 +1,53 @@
+The adsorption behaviour of acid-activated sepiolite (AAS) for the removal of β-carotene (C40H56) from rapeseed oil was studied as a function of different sepiolite dosages and bleaching temperatures. The β-carotene level in the oil was reduced from 42.3 to 1.60mg/kg under the optimum conditions of 100°C bleaching temperature and 1.5% sepiolite dosage. A thermodynamic analysis involving the Langmuir and Freundlich models was applied to identify the mode and extent of β-carotene adsorption. While the negative values of free energy of adsorption 
+                        
+                           (
+                           Δ
+                           
+                              
+                                 G
+                              
+                              
+                                 ads
+                              
+                              
+                                 o
+                              
+                           
+                           )
+                        
+                      indicate the spontaneity of adsorption, much larger values of the change in standard entropy 
+                        
+                           (
+                           Δ
+                           
+                              
+                                 S
+                              
+                              
+                                 ads
+                              
+                              
+                                 o
+                              
+                           
+                           )
+                           T
+                        
+                      compared to the enthalpy of adsorption 
+                        
+                           (
+                           Δ
+                           
+                              
+                                 H
+                              
+                              
+                                 ads
+                              
+                              
+                                 o
+                              
+                           
+                           )
+                        
+                      reveal that the reaction is entropically driven and physical in nature. Acid-activated sepiolite exhibits weak acid, low acidity and absolute low zeta potential values, all of which suggest the dominance of Lewis acid centres on the AAS surface. The mechanism of incorporation of β-carotene molecules was examined by calculating its packing area through molecular considerations. It is suggested that β-carotene molecules adsorb both directly on the meso-external surface of AAS and penetrate intra-crystalline channels and tunnels. The pore size distribution of sepiolite confirms this assertion.Activated clays, activated carbon and silica-based products are adsorbents commonly used in the edible oil refining process. However, Fuller’s earth-type activated clay is the most popular adsorbent for decolorization of edible oil because of its cheapness price compared to activated carbon- and silica-based products. Bleaching of vegetable oils by means of an activated earth is normally done by an adsorption process involving the removal of colouring pigments originating from carotenoids, chlorophyll, and related compounds. Since acid-activated bentonites have more ability to bleach colouring matters, such as carotene and chlorophyll, they have always been in demand. Decolorization or bleaching capacity of acid-activated bentonites for crude edible oils is usually expressed as adsorption of β-carotene ( Although there are other clay minerals, such as sepiolite, with typical desirable properties, e.g., specific surface area, porosity and surface acid–base sites, they have not been much documented in the literature. Sepiolite is a natural clay mineral with a formula of magnesium hydrosilicate Si It is, therefore, the objective of this study to investigate the mechanism of decolorizing of vegetable oils with an acid-activated sepiolite as a function of β-carotene concentration, bleaching temperature and sepiolite dosage, and also to elucidate the mode and extent of adsorption data using the Langmuir and Freundlich isotherms, along with thermodynamic parameters. The sepiolite sample used in this study was received from Anadolu Industrial Minerals Co. in Sivrihisar, Turkey. This beige sepiolite (BS), ground to minus 75 Nitric acid (HNO Experiments were carried out with the degummed (water and acid degumming, followed by drying) rapeseed oil in order to eliminate the influence of different crude oil qualities on bleaching. Acid activation was carried out using 65% by wt. 1 The vacuum bleaching tests were accomplished in a 250 The β-carotene content of the oil was measured at 450 The acidity of AAS measurement is based on titration with 0.1 The BET surface area of BS and AAS was measured by N Zeta potential measurements were conducted by means of Zeta-Meter 3.0, which is equipped with a microprocessor unit capable of directly measuring the average zeta potential and its standard deviation ( The uptake of β-carotene onto AAS as a function of its dosage and different bleaching temperatures is presented in As is evident from The partition of β-carotene molecules between liquid phase and adsorbent is a measure of the position of equilibrium in the adsorption process. It is therefore important to establish the most appropriate correlations for the equilibrium data in the design of adsorption systems. The adsorption data in the present study are analyzed according to the two commonly used isotherm equations: Langmuir and Freundlich models. Applicability of the isotherms was compared by judging the correlation coefficient, In Eq. The linearized Langmuir and Freundlich adsorption isotherms of β-carotene/AAS system obtained at the bleaching temperatures of 80 and 100 The values of the correlation coefficients indicate that the β-carotene/AAS sorption data fit both Langmuir and Freundlich isotherm models. However, considering the adsorbed amount of β-carotene at 80 and 100 As seen from The quantitative treatment of adsorption at the solid/liquid interface requires, first of all, the mechanism of β-carotene adsorption onto AAS to be identified. The data obtained from adsorption isotherm models can be conveniently used to determine such thermodynamic parameters as free energy of adsorption The sorption distribution coefficient may be expressed in terms of enthalpy change The free energy indicates the degree of spontaneity of the sorption process and a higher negative value reflects a more energetically favourable sorption. The values of As is apparent in Compared to the total adsorption energy, the value represents a small proportion of it. On the other hand, the entropic contribution, The coverage of the AAS surface by β-carotene molecule, in Å Pore size distribution is a crucial parameter for the uptake or exclusion of such large molecules. While a pore radius smaller than 15 Our pore volume measurements indicate that sepiolite yields an average pore radius of 32 Acid activation of sepiolite removes Mg Acid activation at the same time induces the loss of about half of the zeolitic and hydroxyl water from the sepiolite structure. This pre-removal afterwards limits the temperature effects on the plugging of micro pores and collapse of the crystal structure ( The Freundlich isotherm may suggest heterogeneity of adsorption sites on solid surface. The existence of different acid centres on the smectite surface was attributed to heterogeneity ( Also noteworthy is the finding that the best correlation regarding β-carotene adsorption was obtained when using pore volumes in the range of 100–450 A sepiolite sample from Sivrihisar, Turkey has been subjected to a set of acid-activation experiments to obtain a bleaching suitable for abstracting β-carotene from rapeseed oil. The following salient points have been extracted out of this study. Acid-activated sepiolite (AAS) is a very good adsorbent for the removal of β-carotene; under the optimum conditions of 100 The AAS dosage, and to a lesser extent bleaching temperature, have significant effect on the uptake of β-carotene by AAS. The partition of β-carotene molecules between liquid phase and adsorbent was fitted to Langmuir and Freundlich models. The values of the correlation coefficients indicate that the β-carotene/AAS sorption data fit the latter data better. The data obtained from adsorption isotherm models were used to determine the thermodynamic parameters, such as the free energy of adsorption The packing area of β-carotene for 1.5% AAS dosage is 9228 An incorporation mechanism of β-carotene molecules into the sepiolite is proposed with a schematic illustration where β-carotene adsorbs directly to onto the meso-external surface of AAS and penetrates intra-crystalline channels and tunnels. Adsorption isotherm and thermodynamic parameters indicate that β-carotene molecules adsorb at the surface of sepiolite and get incorporated in the pores through physical adsorption. The authors appreciate the support of the Pilot Pflanzenöltechnologie Magdeburg e.V., Germany, in whose laboratory part of this work was done.

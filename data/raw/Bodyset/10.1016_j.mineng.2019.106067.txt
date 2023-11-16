@@ -1,0 +1,39 @@
+It has been shown that bacterium Acidithiobacillus ferrooxidans can be used to depress pyrite in seawater flotation at natural pH, which opens the possibility for its use as an alternative to lime to depress pyrite in copper sulfide flotation. In order to have a better understanding of the mechanisms involved in pyrite depression with A. ferrooxidans, different kind of experiments were carried out, including, contact angle, attachment kinetics, and streaming potential measurements. All these experiments were carried out in seawater. Biodepression of pyrite was improved by increasing the pH from 4 to 8, with a decrease in recovery from 92% to 36%. This increase in depressing capability was accompanied by an increase in attachment density of bacteria on pyrite, from 
+                        
+                           2.58
+                           ×
+                           
+                              
+                                 10
+                              
+                              
+                                 8
+                              
+                           
+                        
+                      bacteria/g to 
+                        
+                           1.99
+                           ×
+                           
+                              
+                                 10
+                              
+                              
+                                 9
+                              
+                           
+                        
+                      bacteria/g at pH 4 and 8, respectively. These results suggest that the mechanism of depression is related to the attachment of bacteria to the pyrite surface. The streaming potential measurements showed that both bacteria and pyrite were negatively charged at pH 8. This indicates that electrostatic forces are mainly repulsive, therefore other forces cause the attachment of bacteria to the mineral. The contact angle of pyrite conditioned with seawater at pH 8 was 16
+                        
+                           °
+                        
+                     , which increased to 54
+                        
+                           °
+                        
+                      when collector (sodium isopropyl xanthate) was added, indicating an increase in hydrophobicity. Nevertheless, when pyrite was previous conditioned with bacteria, the contact angle increased only to 44
+                        
+                           °
+                        
+                      when collector was added. Thus, the collector has a lower influence in the hydrophobicity of pyrite when the mineral has interacted with bacteria A. ferrooxidans.Flotation of copper sulfides is carried out at pH Bacterium Bacteria are able to modify the surface properties of minerals by the following mechanisms: oxidation of the mineral surface by microorganisms, attachment of the microbial cells to the mineral surface, and reaction of the mineral surface with the metabolic substances produced by microorganisms ( In the current work, an exploratory experimental campaign was carried out in order to have a better understanding of the mechanisms involved in pyrite depression with Pyrite used in this study was hand-picked mineral samples from manually crushing process. The samples were dry screened between 37 Bacteria used in this work correspond to The hydrophobicity of the pyrite in artificial seawater at pH 8 was evaluated by contact angle measurements. The artificial seawater was prepared following the procedure of Attachment kinetic experiments of The streaming potential of the samples was measured using the Particle Charge Detector Mutek PCD 03. Streaming potential of It is important to note that attachment kinetic experiments were carried out in original seawater, and contact angle and streaming potential measurements were conducted in artificial seawater. The time between the seawater collection and the contact angle and streaming potential measurements was very long, so the original seawater could have decomposed, for this reason these experiments were carried out in artificial seawater. The streaming potential also was measured in original seawater from the central coast of Chile and the tendency and values were similar to the results obtained with artificial seawater. This indicates that the results obtained with real and artificial seawater are comparable.  Previous work has shown that 15 min are not enough to reach a strong attachment of In a second experimental stage, attachment kinetic and streaming potential measurements were evaluated in seawater without collector, as previous results showed that in this condition pyrite depression is more effective.   In bioflotation experiments with seawater it was determined that In order to evaluate the role of surface charges on the attachment of bacteria to the mineral, the streaming potential of   In the attachment kinetics experiments in seawater, it was determined that According to the extended DLVO theory, there are three types of forces that act between the colloidal particles, these are: Lifshitzvan der Waals, Lewis acid-base (hydrophobic) and electrostatic interactions. In the experiments it was determined that both bacteria and pyrite are negatively charged at pH 8, then the electrostatic interactions are repulsive. Even so, the bacteria adhere to pyrite, this implies that the attractive forces are stronger. The attractive forces can be hydrophobic interactions or van der Waals interactions which are the ones that produce the motive force for the adherence of the bacteria to pyrite. These results show that electrostatic forces do not play a major role in the attachment of bacteria to pyrite in seawater. In this case it is very likely that attachment is rather determined by hydrophobic interactions between bacteria and pyrite. In fact, several authors have reported that hydrophobicity plays an important role in the attachment of The collector produces a smaller increase in the hydrophobicity (contact angle) of pyrite when the mineral is preconditioned with The attachment density of Both pyrite and The authors would like to acknowledge the

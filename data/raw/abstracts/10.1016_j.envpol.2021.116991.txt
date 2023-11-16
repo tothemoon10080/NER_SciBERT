@@ -1,0 +1,19 @@
+The retention of organic pollutant (OP) in soils is commonly attributed to interactions with soil organic matter (SOM), perhaps overlooking substantial involvement of soil minerals. In this study, 36 soil samples with far-ranging ratios of clay to organic carbon were used to examine contribution of minerals on soil sorption of pentachlorophenol (PCP) and phenanthrene (PHE). Sorption isotherms (n = 216) were fit individually using three typical sorption models, with the most fitted 
+                        
+                           
+                              K
+                              d
+                           
+                        
+                      values screened out for quantification of the net mineral contribution to total sorption via development of mathematical model accounting for associations between minerals and SOM. Two mineral-relevant parameters [adsorption distribution coefficient (
+                        
+                           
+                              K
+                              
+                                 m
+                                 i
+                                 n
+                              
+                           
+                        
+                     ) and mineral contribution index (MCI)] were simultaneously defined. Previously reported soil sorption data of PCP, PHE and butachlor (13, 12 and 46, respectively) were also extracted and included to improve the credibility of mathematic model. The average MCI values were calculated as 0.421, 0.405 and 0.512 in PCP, PHE and butachlor treated soils, respectively, very close to or even over than the minerals dominant critical value (0.5). This suggested the significant, or even predominant, contribution of minerals – as compared to SOM. Significant dependence of MCI with four conventional parameters of soil property further offered the possibility to roughly evaluate mineral contributions based on estimated threshold values of soil property parameters (especially TOC). This study provides an accessible approach for predicting the contribution of minerals in soil OP retention, especially highlighting their predominant roles vs. SOM in regulating OP removal in most of subsurface soil or contaminated brownfields where organic carbon content of soil was very low, that was not like what previously believed.

@@ -1,0 +1,11 @@
+Introduction
+                  The dental pulp undergoes age-related changes that could be ascribed to physiological, defensive, or pathological irritant-induced changes. These changes are regulated by pulp cell activity and by a variety of extracellular matrix (ECM) macromolecules, playing important roles in growth regulation, tissue differentiation and organization, formation of calcified tissue, and defense mechanisms and reactions to inflammatory stimuli. The aim of this research was to better understand the genetic changes that underlie the histological modification of the dental pulp in aging.
+               
+                  Methods
+                  The gene expression profile of the human dental pulp in young and older subjects was compared by RNA microarray analysis that allowed to simultaneously analyze the expression levels of thousands of genes. Data were statistically analyzed by Significance Analysis of Microarrays (SAM) Ingenuity Pathway Analysis (IPA) software. Semiquantitative and real-time reverse-transcriptase polymerase chain reaction analyses were performed to confirm the results.
+               
+                  Results
+                  Microarray analysis revealed several differentially expressed genes that were categorized in growth factors, transcription regulators, apoptosis regulators, and genes of the ECM. The comparison analysis showed a high expression level of the biological functions of cell and tissue differentiation, development, and proliferation and of the immune, lymphatic, and hematologic system in young dental pulp, whereas the pathway of apoptosis was highly expressed in older dental pulp.
+               
+                  Conclusions
+                  Expression profile analyses of human dental pulp represent a sensible and useful tool for the study of mechanisms involved in differentiation, growth and aging of human dental pulp in physiological and pathological conditions.

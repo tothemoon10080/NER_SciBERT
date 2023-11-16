@@ -1,0 +1,5 @@
+Surface self-magnetization of siderite is achieved by generating ferromagnetic substance on the surface of siderite by adjusting slurry temperature, pH value, stirring rate and reaction time. No addition of any iron-containing reagent is required. The temperature of 60°C, NaOH concentration of 0.10mol/L; stirring rate of 900r/min and the reaction time of 10min are the optimal conditions. The results show that the siderite recovery in magnetic separation increased from 26.9% to 88.8% after surface magnetization. Magnetization kinetic equation is expressed as 1−[1−(ɛ
+                     −0.269)]1/3
+                     =
+                     Kt. Activation energy for the magnetization reaction is 4.30kJ/mol. VSM, SEM and XPS were used to characterize the siderite, and results show that the saturated magnetization (σ
+                     s) of siderite increased from 0.652 to 2.569Am2/kg, the magnetic hysteresis was detected with a coercive force of 0.976A/m after magnetization; Fe2P3/2 electron binding energy changed which reflects the valence alteration in iron on the surface and the formation of ferromagnetic Fe3O4.

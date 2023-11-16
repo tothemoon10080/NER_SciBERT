@@ -1,0 +1,26 @@
+A technique for estimating clinoptilolite, montmorillonite, and epsomite mineral abundances from a reflectance spectrum of mineral mixtures using spectral deconvolution and a deep neural network is proposed. Sixty-six ternary mineral mixtures were physically prepared with <150 
+                        
+                           μ
+                           m
+                        
+                      grain size with different weight percentages of minerals. A combination of normal and skewed Gaussian curves was fitted to the absorption bands at 1.4 
+                        
+                           μ
+                           m
+                        
+                     , 1.9 
+                        
+                           μ
+                           m
+                        
+                     , and 2.2 
+                        
+                           μ
+                           m
+                        
+                      of the acquired reflectance spectra of these mineral mixtures. Six Gaussian curve parameters with maximum absorption band depth ∼1.9 
+                        
+                           μ
+                           m
+                        
+                     , and wavelength at the maximum band depth, were used (along with mineral abundances) to train multilayer perceptron deep neural network (MLP-DNN) models. Forty-eight models with different DNN architectures and different hyperparameters were trained and the results were validated to find the best models. Winning models were tested using twenty-five samples including fourteen library spectra from RELAB and USGS spectral databases, a spectrum from a different sample, five different amounts of noise-added spectra simulating CRISM (Compact Reconnaissance Imaging Spectrometer for Mars) orbital spectral data, and five mixed spectra derived from linear mixtures of laboratory minerals. The best model was able to predict mineral mixture composition with higher accuracies; three of five montmorillonite and four of the five epsomite library spectra were identified with more than 90% accuracy. However, clinoptilolite samples show less than 50% accuracy and always predicted as mixtures of clinoptilolite and epsomite. This shows the difficulties of distinguishing non-analcime zeolites (e.g., clinoptilolite) from Mg-polyhydrated sulfate minerals, as discussed by authors who mapped hydrous minerals on Mars using hyperspectral image data. Also, the presence of at least ∼10% of montmorillonite in a clinoptilolite-montmorillonite mixture can entirely mask the presence of clinoptilolite in SWIR spectral data. Random artifacts introduced by noise sometime lead to predictions of completely different and incorrect mineral abundances. The study also discusses the possible reasons for the incorrect prediction of mineral abundances and how to overcome these difficulties. Overall, the study shows the advantage of spectral deconvolution with deep neural network for calculating mineral abundance from mixed mineral spectra.

@@ -1,0 +1,82 @@
+This paper considers the recovery of fluoride from spent pot-lining (SPL) in the form of aluminium hydroxyfluoride (AHF), AlFx(OH)3−x, with the intent of recycling the fluoride back into Al smelting pots. This study uses ion speciation equilibria calculations combined with dissolution experiments to examine the solubility (and thus potential yield of recovery) for the crystallization of AHF from synthetic solutions. Results suggest that when sodium hydroxide is used for pH adjustment, a high fluoride to aluminium (F:Al) ratio can be problematic because of the competitive co-precipitation of sodium fluoroaluminates. Further, for an F:Al ratio of 1.6 and pH of 4.9, the desired high purity AHF product can be produced. Results from solubility experiments strongly suggest that the AHF has a molecular formula of AlF2OH·H2O and yields a pKsp at 25°C of 24.52±0.05 and a heat of reaction (ΔHR) of −23.48±2.9kJ/mol for the following reaction:
+                        
+                           
+                              
+                                 
+                                    A
+                                    l
+                                    F
+                                 
+                                 2
+                              
+                              
+                                 
+                                    
+                                       O
+                                       H
+                                    
+                                 
+                                 
+                                    s
+                                 
+                              
+                              ⇆
+                              
+                                 
+                                    
+                                       A
+                                       l
+                                    
+                                    
+                                       3
+                                       +
+                                    
+                                 
+                                 
+                                    
+                                       a
+                                       q
+                                    
+                                 
+                              
+                              
+                                 
+                                    
+                                       +
+                                       
+                                       2
+                                       
+                                       F
+                                    
+                                    −
+                                 
+                                 
+                                    
+                                       a
+                                       q
+                                    
+                                 
+                              
+                              
+                                 
+                                    
+                                       +
+                                       
+                                       O
+                                       H
+                                    
+                                    −
+                                 
+                                 
+                                    
+                                       a
+                                       q
+                                    
+                                 
+                              
+                              .
+                           
+                        
+                     
+                  
+                  The primary means for inducing precipitation of AHF is pH adjustment/control, with temperature being a secondary means. The precipitation of AHF is beset by the competitive co-precipitation of other minerals, therefore restricting the operating conditions of the precipitation process for high purity AHF to a low pH (4–5). High temperatures (50–70°C) are expected to be advantageous for precipitation owing to the solubility behaviour observed.Every 6–7 One potential treatment alternative for SPL which recycles fluoride and to date has not been thoroughly investigated and could be economically viable, is the production of aluminium hydroxyfluoride as a precursor for aluminium fluoride (AlF Previous research has shown that >  With respect to AHF solubility and yield, The present study seeks to augment the work of All chemical reagents were analytical reagent grade unless otherwise stated. To prepare aluminium hydroxyfluoride hydrate (AHF) for the solubility experiments, 30 Prior to conducting solubility experiments, the time needed to reach equilibrium was initially measured by adding an excess of dried AHF into acidic solutions containing 2 and 10 X-ray diffraction was used for solid crystal phase identification using a Bruker Advance D8 X-Ray Diffractometer equipped with a LynxEye detector. The copper tube operated at 40 X-ray fluorescence (XRF) analysis was conducted by Australian Laboratory Services (ALS) to determine the Al, Na and S content of the sample, and therefore determine purity. Thermo-gravimetric analysis was used to determine the water of crystallization in the AHF product. The instrument used was the TA SDT Q6000 thermo-gravimetric analyser. Heating was conducted at 5 The surface morphologies of mineral samples were examined using a field emission scanning electron microscope (FESEM, JEOL JSM 7100 ICP-OES measurements were performed using a Varian Vista Pro ICP-OES instrument operating at 1200 Fluoride and pH measurements were obtained using a Thermo Scientific Orion 4 Star bench-top meter, fitted with a glass, combination pH electrode and a fluoride ion selective electrode (ISE). For fluoride determinations, solution samples were diluted with distilled water to within a measurement range of < An equilibrium model was established firstly using Microsoft Excel as a series of solvable simultaneous equations using the aqueous phase ion association/dissociation reactions shown in To understand conditions that are favourable for AHF and not competitor precipitates, the Excel model was used to examine the supersaturation extent of competitor precipitates over a range of pH values and for various selected F:Al ratios. Based on the solubility products for cryolite (Na To determine the solubility of AHF the measured pH and measured total dissolved Al, S and Na concentrations were used to model the speciation. In order to correct for the ionic strength the modelling was carried out using the PHREEQC speciation software with the Minteq database (   When considering the ideal total F:Al ratio to have in solution for the precipitation of AHF, it is necessary to consider the likelihood of other unwanted precipitation products, such as sodium fluoroaluminates and gibbsite. In light of the speciation modelling results, it was decided that the F:Al ratio should be kept to <  XRF analysis gave measured values for Al, Na and S contents of 25.1 Thermogravimetric analysis was performed on the sample to determine the water of hydration.  The experimental observations are similar to that of Based on the crystallization experiments, a F:Al ratio of 1.6 and neutralisation pH of 4.9 were chosen to prepare a high purity AHF material for the solubility studies.    It is now possible to inject the determined K This work has shown that the solubility of AHF decreases with increasing temperature, which is the same as for gibbsite. The crystallization of aluminium hydroxyfluoride (AHF) from aqueous acidic solutions of hydroxyfluoroaluminate species has been studied by raising the pH using NaOH. Modelling the ionic species in solution in addition to crystallization experiments identified conditions which were favourable for the formation of desirable AHF and unfavourable for undesirable competitive co-precipitates. A fluoride to aluminium ratio of < The authors acknowledge financial support from the

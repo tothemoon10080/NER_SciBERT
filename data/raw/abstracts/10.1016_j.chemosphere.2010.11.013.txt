@@ -1,0 +1,29 @@
+The degradation of the Acid Yellow 36 (AY36) azo dye is studied by electro-Fenton (EF) and solar photoelectro-Fenton (SPEF) using a recirculation flow plant with an undivided cell containing a boron-doped diamond anode and an air-diffusion cathode for H2O2 electrogeneration, coupled with a solar photoreactor. A solution of 2.5L with 108mgL−1 of the dye and 0.5mM Fe2+ at pH 3.0 was comparatively treated at constant current. Hydroxyl radicals formed from Fenton’s reaction and at the anode surface are the main oxidants. Total mineralization is almost achieved in SPEF, while EF yields poor TOC removal. Both processes are accelerated with increasing current. AY36 decays with similar rate in EF and SPEF following a pseudo first-order reaction, but the solution is more slowly decolorized because of the formation of conjugated byproducts. 
+                        
+                           
+                              
+                                 NH
+                              
+                              
+                                 4
+                              
+                              
+                                 +
+                              
+                           
+                        
+                      ion is released in SPEF, while 
+                        
+                           
+                              
+                                 NO
+                              
+                              
+                                 3
+                              
+                              
+                                 -
+                              
+                           
+                        
+                      ion is mainly lost in EF. Tartronic, maleic, fumaric, oxalic, formic and oxamic acids are detected as generated carboxylic acids. Fe(III)-oxalate complexes are largely accumulated in EF and their quick photodecomposition in SPEF explains its higher oxidation power. The SPEF method yields greater current efficiency and lower energy cost as current decreases, and then it is more viable at low currents.

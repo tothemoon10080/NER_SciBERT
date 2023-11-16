@@ -1,0 +1,8 @@
+Natural and anthropogenic activities have proven to be the main sources of contaminants in groundwater. Hence, the need for continuous evaluation of the controlling factors of groundwater mineralization for monitoring purposes. The study assessed the controls of the groundwater mineralization in the Julie gold belt of the Upper West Region of Ghana using hydrochemistry, pollution index of groundwater (PIG), percentage of pollution index (PPI), factor analysis, and a multivariate linear regression model. TDS ​> ​HCO3
+                     − ​> ​NO3
+                     − ​> ​Ca2+ ​> ​Mg2+ ​> ​Na+ ​> ​Cl− ​> ​SO4
+                     2− ​> ​K+ ​> ​CO3
+                     2− ​> ​F− are the trends in the abundance of the hydrochemical parameters and are generally within WHO acceptable limits, with the exception of F− and NO3
+                     − contents in 5 and 32 communities, respectively. Waters containing Mg2+, Na+, HCO3
+                     −, and SO4
+                     2− evolved into Mg–HCO3–Na–SO4. The PIG indicated pollution levels of 73.3% and 26.7% from mineral dissolution and agricultural activities, respectively, from the PPI values. From the indices, shallow meteoric water (r2 ​> ​1 values), factor analysis, and regression model approaches, anthropogenic activities, and mineral dissolution are the main controlling factors for the groundwater chemical composition in the area.

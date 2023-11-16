@@ -1,0 +1,9 @@
+The electro-Fenton process (EFP) is a powerful advanced oxidation process beneficial to treating recalcitrant contaminants, and there has been a continuing interest in combining this technology to enhance the efficiency of conventional wastewater treatment processes. In this work, an optimized EFP process is performed as pretreatment for the degradation and mineralization of three blank fluoroquinolones (FQs) drugs: ofloxacin (OFL), norfloxacin (NOR), and ciprofloxacin (CIP). The optimization of the experiment was carried out using a Box-Behnken experimental design. Faster and complete degradation of the drugs mixture was achieved in 90 min with 61.12 ± 2.0% of mineralization in 180 min, under the optimized conditions: j = 244.0 mA cm−2, [Fe2+] = 0.31 mM, and [FQs] = 87.0 mg L−1. Furthermore, a low toxicity effluent was obtained in 90 min of the experiment, according to bioassay toxicity with Vibrio fischeri. Five short-chain carboxylic acids, including oxalic, maleic, oxamic, formic, and fumaric acids, were detected and quantified, in addition to F− and 
+                        
+                           
+                              NO
+                              3
+                              −
+                           
+                        
+                      inorganic ions. The inhibition of the reactive oxygen species with scavenger proof was also evaluated in this paper.

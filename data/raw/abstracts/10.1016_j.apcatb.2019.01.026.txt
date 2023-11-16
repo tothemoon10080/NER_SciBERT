@@ -1,0 +1,15 @@
+The intensification of the degradation and mineralization of the azo dye methyl orange (MO) in contaminated water with simultaneous production of renewable electrical energy was achieved in photo-assisted microbial fuel cells (MFCs) operated sequentially under anaerobic - aerobic processes, in the presence of Fe(III) and W and Mo oxides catalytic species. In this novel process, the W and Mo oxides deposited on the graphite felt cathodes accelerated electron transfer and the reductive decolorization of MO. Simultaneously, the mineralization of MO and intermediate products was intensified by the production of hydroxyl radicals (HO
+                        
+                     ) produced by (i) the photoreduction of Fe(III) to Fe(II), and by (ii) the reaction of the photochemically and electrochemically produced Fe(II) with hydrogen peroxide, which was produced in-situ during the aerobic stage. Under anaerobic conditions, the reductive decolorization of MO was driven by cathodic electrons, while the partial oxidation of the intermediates proceeded through holes oxidation, producing N,N-dimethyl-p-phenylenediamine. In contrast, under aerobic conditions superoxide radicals (O2
+                     
+                        
+                     
+                     −) were predominant to HO
+                        
+                     , forming 4-hydroxy-N,N-dimethylaniline. In the presence of Fe(III) and under aerobic conditions, the oxidation of the intermediate products driven by HO
+                        
+                      superseded that of O2
+                     
+                        
+                     
+                     −, yielding phenol and amines, via the oxidation of 4-hydroxy-N,N-dimethylaniline and N,N-dimethyl-p-phenylenediamine. These sequential anaerobic and electro-Fenton processes led to the production of benzene and significantly faster oxidation reactions, compared to either the anaerobic or the aerobic operation in the presence of Fe(III). Complete degradation and mineralization (96.8 ± 3.5%) of MO (20 mg/L) with simultaneous electricity production (0.0002 kW h/kg MO) was therefore achieved with sequential anaerobic (20 min) - aerobic (100 min) operation in the presence of Fe(III) (10 mg/L). This study demonstrates an alternative and environmentally benign approach for efficient remediation of azo dye contaminated water with simultaneous production of renewable energy.

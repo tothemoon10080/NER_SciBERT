@@ -1,0 +1,11 @@
+Purpose
+                  The purpose of this investigation was to establish the relationship between enophthalmos, linear displacement, and volume change for various patterns of experimentally recreated orbital fractures.
+               
+                  Materials and Methods
+                  We fabricated an experimental apparatus that permitted uniform displacement of simulated orbital wall fractures. Measurements of linear displacement, volume change, and degree of simulated enophthalmos were taken for 1- and 2-walled displacements. Means and standard deviations were derived, and analysis of variance was used to compare means for statistically significant differences (P < .05) between groups and among major categories.
+               
+                  Results
+                  No statistically significant differences were found for any uniform displacement caused by 1-walled defects or for any given displacement caused by 2-walled defects The linear coefficient for displacement and enophthalmos or for displacement and volume change approached 1.0 for all groups (range, 0.9802 to 0.9999). However, statistically significant differences in mean enophthalmos and mean volume change at uniform displacements were found between 1- and 2-walled defects.
+               
+                  Conclusions
+                  Displacement of 1- and 2-walled orbital defects results in a direct and linear change in both orbital volume and enophthalmos, regardless of the location of the defect.

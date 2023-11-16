@@ -1,0 +1,11 @@
+Background
+                  Post-transplant bone disease (PTBD) is a common complication in kidney transplant recipients. This systematic review and meta-analysis evaluates the efficiency and safety of denosumab for the treatment of PTBD in kidney transplant recipients.
+               
+                  Methods
+                  Comprehensive search of PubMed Central, SCOPUS, EMBASE, MEDLINE, Cochrane trial registry, Google Scholar, and Clinicaltrials.gov databases was done for studies, published until April 2023. Primary outcomes included changes in bone mineral density (BMD) and T-scores. Secondary outcomes included incidence of fractures, alterations in bone turnover markers, and the incidence of adverse events.
+               
+                  Results
+                  Eleven studies with a total of 511 participants that underwent kidney transplant were included. Denosumab treatment resulted in a significant improvement in lumbar spine BMD (SMD: -0.31, 95% CI: −0.56 to −0.06) and T-score (SMD: -1.07, 95% CI: −1.51 to −0.64), while no differences were detected in hip/femoral neck BMD and the T-score. There was no marked change in the fracture incidence (OR: 0.42, 95% CI: 0.06 to 3.07). However, patients who received denosumab treatment had an increased incidence rate of hypocalcemia (OR: 9.98, 95% CI: 1.72 to 57.88).
+               
+                  Conclusions
+                  Denosumab treatment may improve lumbar spine BMD and T-scores in patients with PTBD. However, it does not significantly affect fracture incidence and may increase the risk of hypocalcemia. These findings underline the necessity for well-powered, randomized controlled trials to further clarify the role of denosumab in managing PTBD.

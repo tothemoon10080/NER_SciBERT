@@ -1,0 +1,13 @@
+The effect of Fe2+ was evaluated on degradation of cloxacillin (CLX) in the VUV photoreactor and the effect of reaction parameters were optimized for maximum efficiency. The rate of CLX degradation in the VUV photoreactor considerably improved at the presence of a low concentration of Fe2+. The reaction with 
+                        
+                           
+                              
+                                 O
+                              
+                              
+                                 ̇
+                              
+                           
+                           H
+                        
+                      generated from water homolysis and photooxidation of water molecules by VUV photons as well as from photoFenton reaction was the main mechanism of CLX degradation in the VUV/Fe2+ process. The maximum CLX degradation observed at the acidic solution pH. Over 80% of 50mg/L CLX was mineralized in the VUV/Fe2+ process within 60min under optimum conditions. Over 99% of 50mg/L CLX was degraded at a hydraulic retention time of 5min in the continuous flow VUV/Fe2+ process. Intermediates formed during the degradation was analyzed by LC-MS technique, and the results indicated that C–N, C–S and C–Cl bonds were completely decomposed and the simple aliphatic substances were the main organic by-products of CLX degradation. In addition, VUV/Fe2+ process was more energy-effective than the VUV process. Accordingly, VUV/Fe2+ process is a technically efficient and energy-effective for high rate degradation and mineralization of such emerging water contaminants as antibiotics.

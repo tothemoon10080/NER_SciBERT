@@ -1,0 +1,14 @@
+Brine mining of energy-relevant elements (EREs) requires the separation of transition metals from major cations in order to create high-purity streams. Precipitation of carbonates could be used as a separation method leaving EREs in the supernatant, therefore opening the possibility to integrate carbon dioxide (CO
+                        
+                           
+                           
+                              2
+                           
+                        
+                     ) mineralization with brine mining. Major challenges are that the reaction should reach completion in few days and the inclusion of transition metals in the carbonates should be avoided.
+                  In this paper, we report an experimental and modeling work on the precipitation of calcium (Ca) carbonate in the presence of nickel (Ni), copper (Cu), and zinc (Zn). Brines of various compositions were tested to simulate brine enrichment. Atmospheric conditions were applied to study the effect of the metal concentration on the precipitation kinetics and the composition of the carbonates produced. The experiments were run in batch and monitored with inline pH and conductivity probes. Results show that Ni, Cu, and Zn may retard or even hinder Ca-carbonate precipitation. This effect can be observed at concentrations between 10 and 500 ppm, and the specific values depend on the type of metal, Cu
+                        <
+                     Zn
+                        <
+                     Ni. At low metal concentrations, SEM-EDS and XRD analyses confirm the formation of pure calcite. At large metal concentrations amorphous products were obtained with significant metal inclusions. A mathematical model coupled with geochemistry was developed to describe the process. It was calibrated with pH and conductivity measurements, and used to determine reaction kinetics.
+                  Overall, the results suggest that the precipitation of high-purity Ca-carbonates from a supersaturated brine enriched with transition metals can be fast, but transition metal concentrations must be below certain thresholds. If brine enrichment is required to favor mineral recovery optimal process control is necessary.

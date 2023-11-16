@@ -1,0 +1,1 @@
+On-line process monitoring with fault detection can provide stability and efficiency for a wide range of processes. A toolbox for on-line monitoring using Kohonen self-organizing maps (SOM), in conjunction with heuristic rules is described in this paper. Four different industrial applications using the toolbox are presented and discussed at the end of the paper.

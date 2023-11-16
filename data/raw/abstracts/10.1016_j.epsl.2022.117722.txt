@@ -1,0 +1,61 @@
+Hydrogen peroxide (H2O2) is a ubiquitous molecule in nature that shapes the redox state of planetary surfaces. Given that H2O2 is a major oxidant, isotope effects associated with H2O2 chemistry play a key role in determining triple oxygen isotopic compositions (
+                        
+                           
+                              δ
+                           
+                           
+                              17
+                           
+                        
+                        O
+                      and 
+                        
+                           
+                              δ
+                           
+                           
+                              18
+                           
+                        
+                        O
+                     ) of secondary aerosols and minerals, which are powerful proxies for understanding terrestrial/Martian atmospheric chemistry, and chemical evolution in the solar nebular. However, isotope effects in H2O2 self-decomposition processes, which actively occur in nature due to the thermal instability of H2O2, remains poorly understood. Here, we report a hitherto overlooked large and mass-dependent isotope fractionation in aqueous H2O2 self-decomposition processes quantified in a series of kinetic experiments. 
+                        
+                           
+                              δ
+                           
+                           
+                              18
+                           
+                        
+                        O
+                      in remaining H2O2 is several tens of per mil (‰) with respective to initial H2O2. By synthesizing triple oxygen isotope measurements of natural H2O2, ozone, various oxyanions formed in the atmosphere (sulfate, nitrate, perchlorate, and carbonate), and oxygen-bearing secondary minerals in meteorites, we find that a decoupled 
+                        
+                           
+                              Δ
+                           
+                           
+                              17
+                           
+                        
+                        O
+                     –
+                        
+                           
+                              δ
+                           
+                           
+                              18
+                           
+                        
+                        O
+                      pattern in natural H2O2 is attributed in part to the high degree of mass-dependent 
+                        
+                           
+                              δ
+                           
+                           
+                              18
+                           
+                        
+                        O
+                      variation in H2O2 decomposition, and further argue that this unique signature may play a crucial role in triple oxygen isotope systematics in a board spectrum of secondary minerals in our solar system including aerosols, sediments, and meteorites. Our results shed fresh insights into recent debates on the role of H2O2 in the formation of these secondary minerals in the modern Earth, geological past, and other planets. The isotope effect experimentally quantified in this study are needed for future improvements of planetary atmosphere and solar nebular evolution models. We highlight the importance of further experimental and theoretical efforts to quantify isotope effects in H2O2 chemistry that are representative of natural systems.

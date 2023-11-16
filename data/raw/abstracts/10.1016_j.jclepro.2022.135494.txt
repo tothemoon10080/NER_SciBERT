@@ -1,0 +1,18 @@
+Uranium (U(VI)) pollution comes from the development and utilization of natural minerals. Based on a new concept of ecological restoration of uranium pollution into natural minerals, a new artificial mineralized process was proposed to immobilize uranium (U(VI)) for wastewater decontamination. In this work, three systems of Mg3(PO4)2 + UO2
+                     2+, Mg2+ + PO4
+                     3− + UO2
+                     2+ and Mg2+ + PO4
+                     3− + Mg3(PO4)2 + UO2
+                     2+ were designed. Batch experiments and theoretical calculation were conducted to study the U(VI) immobilization effectiveness and artificial mineralization mechanisms. U(VI) removal efficiencies reached up to 96% in the pH value of 5.0 in the three systems. Both precipitation and surface adsorption contributed to favorable U(VI) removal in Mg3(PO4)2 + UO2
+                     2+, but resulting in U desorption. Precipitation of Mg2+, PO4
+                     3− and UO2
+                     2+ into saleeite (Mg(UO2)2(PO4)2·10H2O) crystal contributed to UO2
+                     2+ immobilization in the Mg2+ + PO4
+                     3− + UO2
+                     2+ and Mg2+ + PO4
+                     3− + Mg3(PO4)2 + UO2
+                     2+ systems, resulting in the negligible U desorption. It is due to the crystallization of the Mg(UO2)2(PO4)2·10H2O through precipitation of Mg2+ and PO4
+                     3− with UO2
+                     2+ in acidic medium. PHREEQC and Visual MINTEQ fitting confirmed the favorable precipitation of Mg2+ and PO4
+                     3− with UO2
+                     2+ into saleeite in acidic medium. Thus, the U(VI) immobilization effectiveness and artificial mineralization mechanism were understood, providing a promising strategy of artificial induced mineralization of Mg(UO2)2(PO4)2·10H2O for U(VI) decontamination in wastewater.

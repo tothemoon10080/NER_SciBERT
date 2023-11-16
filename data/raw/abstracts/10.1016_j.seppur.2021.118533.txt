@@ -1,0 +1,12 @@
+Pharmaceuticals are one of the most reported categories of anthropogenic micropollutants, which often require a specific remediation type to be eliminated from the environment. This study aimed to address the potential of degrading the pharmaceutical pollutant paracetamol (PCT) in the aqueous environment under ultrasound (US) assisted electro-Fenton by Fe2O3 (hematite) nanoparticles (HNPs) as a catalyst. The synthesized sample was characterized by various techniques including XRD, FESEM, EDS, X-ray dot-mapping, and FTIR. The performance of the electro-Fenton (EF) and US processes was evaluated separately and in combination under optimum conditions. The results showed that the sonoelectro-Fenton (SEF) process under optimum conditions, including pH of 5, HNPs dosage 0.15 g/L, applied current 230 mA, initial PCT concentration 20 mg/L, resulted in a PCT degradation of 98.9% within 60 min of electrolysis time. PCT degradation was well-fitted to the pseudo-first-order kinetic model. Meanwhile, scavenging experiments indicated the vital role of 
+                        
+                     OH in the decomposition of PCT compared to the negligible role of 
+                        
+                           O
+                           2
+                           
+                              ∙
+                              -
+                           
+                        
+                     . The nitrate ions had a strong inhibitory effect, whereas chloride anions affected PCT elimination slightly. The reusability test of HNPs revealed that almost a 14% drop occurred at the end of the fourth cycle. The HNPs showed high catalytic activity for degradation of PCT compared to other conventional homogeneous transition metals. Besides, SEF-HNPs can successfully detoxify the PCT solution based on the bioassay test. The by-products of PCT degradation by SEF-HNPs were determined and degradation pathway was also proposed. Conclusively, the SEF-HNPs process could be an appropriate system for the removal of various contaminants from aqueous solutions.

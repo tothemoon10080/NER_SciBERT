@@ -1,0 +1,11 @@
+Introduction
+                  Dentin regeneration is one of the main goals of vital pulp treatment in which the biological properties of dental pulp cells (DPCs) need to be considered. In our previous study, we showed that EDTA could enhance the stromal cell–derived factor 1 alpha–induced migration of DPCs. The purpose of this study was to explore the effects of EDTA on the mineralization of dental pulp in vitro and in vivo.
+               
+                  Methods
+                  DPCs were obtained from human premolars or third molars. Alkaline phosphatase assays and alizarin red S staining were used to examine the degree of differentiation and mineralized nodule formation of DPCs. Real-time polymerase chain reaction and Western blot analysis were performed to detect the messenger RNA and protein expressions of mineralization-related markers in DPCs. Extracellular-regulated protein kinase and Smad inhibitors were used to study the roles of these 2 signaling pathways in this process. In addition, pulp exposures were created on 18 premolars of 2 beagle dogs (>12 months) using a high-speed dental handpiece. The experimental group (n = 9) was treated with 12% EDTA for 5 minutes, and the control group (n = 9) was treated with sterile saline for the same duration. Mineral trioxide aggregate was used for direct pulp capping followed by glass ionomer cement sealing. Samples were collected 3 months later, and the regenerated dentin was assessed by micro–computed tomographic and histologic analyses.
+               
+                  Results
+                  Exposure to 12% EDTA promoted the activity of alkaline phosphatase, the formation of mineralized nodules, and the messenger RNA and protein expressions of mineralization-related markers in DPCs. Furthermore, the process of 12% EDTA enhancing the differentiation of DPCs was mediated by the extracellular-regulated protein kinase 1/2 signaling pathway and inhibited by the Smad2/3 signaling pathway. In vivo, compared with the control group, more regenerated dentin that had fewer tunnel defects was formed in the 12% EDTA-treated group.
+               
+                  Conclusions
+                  Our results showed that 12% EDTA could promote the mineralization of dental pulp in vitro and in vivo.

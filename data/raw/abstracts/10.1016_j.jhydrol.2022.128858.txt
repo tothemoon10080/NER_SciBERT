@@ -1,0 +1,16 @@
+A comprehensive study of 96 bottled mineral water (BMW) samples consisting of 21 of the most popular origins and brands sourced from China (n = 38), France (n = 20), Italy (n = 10), New Zealand (n = 17) and Fiji (n = 12) has been undertaken. The δ
+                     18O and δ
+                     13C of dissolved inorganic carbon (DIC), δ
+                     18O and δ
+                     2H of water, mineral elements (Li, Na, Mg, K, Ca, Sr) and ions (Cl−, SO4
+                     2−, F−, CO3
+                     2−, HCO3
+                     −) were investigated and used for origin traceability. The origin of BMW was confirmed by applying Fisher discriminant analysis (Fisher - DA) and artificial neural network (ANN) models to these variables. δ
+                     18ODIC, δ
+                     13CDIC, δ
+                     18O, δ
+                     2H values of BMW showed significant deviations with origin. Mineral elements and anions varied widely due to different regional geology and hydrology characteristics. A discriminant model based on Fisher-DA showed that the identification accuracy of mineral water from different origins was in the range of 81 % to 100 %, whereas the discriminant accuracy was 100 % for the training samples and 96.0 % for the testing samples calculated by ANN. HCO3
+                     −, NO3
+                     −, δ
+                     2H, δ
+                     18O and F− were the most important variables that characterized BMWs from different origins. Using a combination of stable isotopes and different water chemical components, BMWs from China can be accurately distinguished from other origins using multivariate statistical models.

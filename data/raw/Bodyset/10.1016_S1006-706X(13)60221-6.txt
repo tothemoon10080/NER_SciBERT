@@ -1,0 +1,67 @@
+The relationship of hydrogen, GBF (granular bright facet) and very high cycle fatigue properties of high strength spring steels 60Si2CrV with three different hydrogen contents were studied using hydrogen thermal desorption analysis and ultrasonic fatigue test. The results showed that the influence of hydrogen on the relationship between fatigue life and the ratio of GBF to inclusion size 
+				
+                        
+                           
+                              (
+                              
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                A
+                                                
+                                                   GBF
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                A
+                                                
+                                                   INC
+                                                
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                              )
+                           
+                        
+                      was obvious, and the expression between fatigue life and 
+				
+                        
+                           
+                              
+                                 
+                                    
+                                       
+                                          A
+                                          
+                                             GBF
+                                          
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    
+                                       
+                                          A
+                                          
+                                             INC
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                      with different hydrogen contents can also be obtained. In addition, based on the research of hydrogen diffusion and GBF, it was explained why the GBF cannot form below 106 cycles. At last, the estimated critical fatigue life of GBF formation can be expressed accurately.

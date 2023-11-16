@@ -1,0 +1,7 @@
+This paper presents a method to calculate the variance and covariance matrix V of the integration errors of the measured flow species in a complex mineral processing unit. The integration error is due to the interaction between the sampling strategy and the dynamic variations of the stream properties. First, a general formula is developed to relate V to the autocovariance matrix V
+                     
+                        yy
+                      of the flow species in the different streams of the unit. Then V
+                     
+                        yy
+                      is estimated using a dynamic model of the process. This dynamic model is obtained by assembling summators, separators and transfer functions into a state–space formulation. Two examples of the method are given: one for a flotation circuit and one for a leaching tank.

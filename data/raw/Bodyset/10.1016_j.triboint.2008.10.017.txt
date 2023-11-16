@@ -1,0 +1,19 @@
+The short-carbon-fiber-reinforced SiC (
+                        
+                           
+                              C
+                           
+                           
+                              sf
+                           
+                        
+                     /SiC) composites were prepared by hot-pressing sintering with Si, Al and B as sintering additives. The effects of fiber volume fraction on the mechanical and tribological properties of the 
+                        
+                           
+                              C
+                           
+                           
+                              sf
+                           
+                        
+                     /SiC composites were investigated. The results show that the bending strength values of the composites containing a certain content of the short carbon fibers are higher than that of the monolithic SiC. The friction coefficients of the composites decrease with increasing short carbon fibers content. Except of the composite containing 53vol% short carbon fibers, the wear rates of the composites decrease with increasing short carbon fibers content, and are lower than that of the monolithic SiC drastically.SiC is a very promising material for wear components such as mechanical face seal rings, journal bearings, valves, nozzles, rotors etc. because of its excellent high temperature strength, low density, good oxidation resistance and low wear In comparison with continuous fiber-reinforced composites, the short-carbon-fiber reinforced SiC composites have easy adaptability to conventional manufacturing techniques and low cost of fabrication, and therefore are increasingly studied Based on the short-carbon-fiber-reinforced SiC ( The commercial short carbon fibers with an average diameter of 6– The short carbon fibers were dispersed in ethanol with OP-10 as dispersing agents by magnetic stirrer for 2 Bulk densities of the specimens were measured using Archimedes method. The bending strength was measured by a three point bending test with 30 Friction behavior was evaluated by unlubricated ball-on-disk experiments, carried out against a polished commercial SiC ball with diameter of 6 Wear volumes of the worn specimens were evaluated using a roughness tester. For the worn plate specimen, the cross sectional area of the worn track was taken as the average of that measured at four separate locations. The worn volume The constitution phases of the composites were determined by X-ray diffractometry (XRD). The distribution of the fibers in the composites, fracture surfaces of the bending test and the worn tracks of the friction test were observed by scanning electron microscopy (SEM). Sintered specimens with carbon fibers content less than 42  XRD analysis shows that the intensity of the  The fracture toughness of the composites was measured by indentation method. The variations of friction coefficient with sliding distance for the composite and the monolithic SiC are shown in  The worn tracks of the monolithic SiC and the composites are shown in The wear rate of the composite with 53 The toughening effect of carbon fibers decreased the generation and propagation of cracks of the composites, in addition to the carbon lubrication effect, which resulted in the good wear resistance of the fabricated composites, except of the composite with 53 Short-carbon-fiber-reinforced SiC composites were fabricated by hot pressing in Ar at 1800

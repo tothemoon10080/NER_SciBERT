@@ -1,0 +1,11 @@
+Objective
+                  Articular cartilage is separated from subchondral bone by the tidemark and a calcified cartilage zone. Advancement of the calcified region and tidemark duplication are both hallmarks of osteoarthritis (OA). Currently the mechanisms controlling post-natal articular cartilage mineralization are poorly understood. The objective of this study is to test the hypothesis that cellular communication between different cartilage layers regulates articular chondrocyte mineralization.
+               
+                  Design
+                  Co-culture models were established to evaluate the interaction of chondrocytes derived from the surface, middle and deep zones of articular cartilage. The cultures were stimulated with triiodothyronine (T3) to promote chondrocyte hypertrophy. The effects of zonal chondrocyte interactions on chondrocyte mineralization were examined over time.
+               
+                  Results
+                  Co-culture of deep zone chondrocytes (DZCs) with surface zone chondrocytes (SZCs) suppressed the T3-induced increase in alkaline phosphatase (ALP) activity and related mineralization. Moreover, SZC–DZC co-culture was associated with a significantly higher parathyroid hormone-related peptide (PTHrP) expression when compared to controls. When PTHrP(1–40) was added to the DZC-only culture, it suppressed DZC ALP activity similar to the inhibition observed in co-culture with SZC. In addition, treatment with PTHrP reversed the effect of T3 stimulation on the expression of hypertrophic markers (Indian hedgehog, ALP, matrix metalloproteinases-13, Type X collagen) in the DZC cultures. Moreover, blocking the action of PTHrP significantly increased ALP activity in SZC+DZC co-culture.
+               
+                  Conclusion
+                  Our findings demonstrate the role of zonal chondrocyte interactions in regulating cell mineralization and provide a plausible mechanism for the post-natal regulation of articular cartilage matrix organization. These findings also have significant implications in understanding the pathology of articular cartilage as well as devising strategies for functional cartilage repair.

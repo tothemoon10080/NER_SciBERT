@@ -1,0 +1,11 @@
+Introduction
+                  MTA has good biological properties, and it is a mineralization-inducing material with different indications in endodontics. Initially this material was not recommended as root canal sealer. However, a resin sealer based on mineral trioxide aggregate (MTA Fillapex) was recently released with this indication. Because MTA is in contact with the periodontal tissues, bone, and pulp, it is important to know its cytotoxic and genotoxic effects. The purpose of this study was to evaluate the cytotoxicity and genotoxicity of MTA canal sealer (Fillapex) compared with white MTA cement and AH Plus.
+               
+                  Methods
+                  Chinese hamster fibroblasts (V79) were placed in contact with different dilutions of culture media previously exposed to such materials. Cytotoxicity was evaluated by methol-thiazol-diphenyl tetrazolium assay in spectrophotometer to check the viability rate and cell survival. The genotoxicity was accessed by the micronucleus formation assay. Cell survival rate and micronuclei number were assessed before and after exposure to cement extracts, and the results were statistically analyzed by Kruskal-Wallis and Dunn tests (P < .05).
+               
+                  Results
+                  The results showed that the cell viability remained above 50% in white MTA group for all dilutions. AH Plus induced an intermediate cytotoxicity in a dilution-dependent manner, followed by Fillapex MTA.
+               
+                  Conclusions
+                  White MTA group was the less cytotoxic material in this study. Both AH Plus and Fillapex MTA sealer showed the lowest cell viability rates and caused an increased micronucleus formation when compared with control untreated group.

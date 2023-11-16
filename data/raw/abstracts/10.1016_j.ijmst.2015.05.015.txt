@@ -1,0 +1,11 @@
+In this paper numerical analysis of underground structures, taking account the transverse isotropy system of rocks, was done using CAST 3M code by varying the shape of excavation and the coefficient of earth pressure k. Numerical results reveal that the anisotropy behavior, the shape of hole and the coefficient of earth pressure k have significant influence to the mining induced stress field and rock deformations which directly control the stability of underground excavation design. The magnitude of horizontal stress obtained for the horse shoe shape excavation (25.2MPa for k
+                     =1; 52.7MPa for k
+                     =2) is lower than the magnitude obtained for circular hole (26.4MPa for k
+                     =1; 59.5MPa for k
+                     =2). Therefore, we have concluded that the horse shoe shape offers the best stability and the best design for engineer. The anisotropy system presented by rock mass can also influence the redistribution of stresses around hole opened. Numerical results have revealed that the magnitude of redistribution of horizontal stresses obtained for transverse isotropic rock (12.1MPa for k
+                     =0.5; 25.2MPa for k
+                     =1 and 52.7MPa for k
+                     =2) is less than those obtained in the case of isotropic rock (27.6MPa for k
+                     =1; 48.6MPa for k
+                     =2 and 90.81MPa for k
+                     =2). The more the rock has the anisotropic behavior, the more the mass of rock around the tunnel is stable.

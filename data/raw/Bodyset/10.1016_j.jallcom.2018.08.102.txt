@@ -1,0 +1,50 @@
+The mechanical response of single crystal silicon carbide (SiC) of two hexagonal polytypes (six layer, 6H- and four layer, 4H) was investigated using nanoindentation. Indentations were performed on two specific crystallographic orientations of single crystals i.e., normal to the basal, 
+                        
+                           
+                              (
+                              
+                                 0001
+                              
+                              )
+                           
+                        
+                      and prismatic, 
+                        
+                           
+                              (
+                              
+                                 10
+                                 
+                                    
+                                       1
+                                       ¯
+                                    
+                                 
+                                 0
+                              
+                              )
+                           
+                        
+                      planes, in the load range between 25 mN and 500 mN. A significant anisotropy in the hardness is observed with the basal orientations showing a higher hardness compared to prismatic orientations. In both orientations, the 6H-SiC polytype exhibits higher hardness than the 4H-SiC polytype. It is also observed that the hardness decreases with increasing indentation load, suggesting that SiC crystals exhibit indentation size effect. However, unlike hardness, elastic modulus is independent of indentation load and the elastic anisotropy is insignificant. Severe cracking, particularly at higher indentation loads is noticed near the edges of the indentation imprints. The indentation fracture toughness, 
+                        
+                           
+                              K
+                              
+                                 I
+                                 C
+                              
+                              i
+                           
+                        
+                      computed from the imprints shows slightly higher values for 6H-SiC compared to the 4H-SiC. However, for both the polytypes, a slightly higher 
+                        
+                           
+                              K
+                              
+                                 I
+                                 C
+                              
+                              i
+                           
+                        
+                      is observed for basal indentations compared to the prismatic ones.Polycrystalline silicon carbide (SiC) is considered as a potential material for body armor applications because of its high compressive strength when compared to other structural ceramics [ Nanoindentation is a useful technique to obtain both hardness and elastic modulus of materials even at low indentation loads (as low as few nano-newtons) which otherwise is not possible with conventional indentation tests [ Single crystals of 6H- and 4H-SiC were provided by the Army Research Laboratory from Fairfield Crystal (New Milford, CT). Cuboidal samples are sectioned from the bulk samples and the crystallographic orientation of each face of cube are determined using Laue back reflection diffraction method. A comparison with the standard diffraction pattern suggests that the faces of the cuboidal specimen correspond to basal Nanoindentation experiments were performed using MTS nanoindenter with indentation loads varying from 25 mN to 500 mN. The hardness and elastic modulus were determined using Oliver and Pharr (O&P) method [ In the above equation, the subscripts In the current study, indentation experiments were carried out on Typical indentation load ( The analysis of unloading curves gives insights about the flow behavior under the indenter and validity of indentation tests. All the unloading curves (corresponding to various peak indentation loads) are best described by power-law relation, The variation of hardness, It is evident from The difference in It is also observed from The variation of hardness anisotropy (defined as the ratio of hardness of basal to prismatic indentations) with indentation load is plotted in Indentation of brittle materials with sharp indenters often leads to cracking at the indent corners (when the maximum indentation load exceeds the critical load for crack formation) and the fracture toughness can be estimated from the length of these cracks [ The Similarly, for both the orientations a higher Another important observation from Nanoindentation experiments were carried out, with Berkovich indenters, on two hexagonal single crystal SiC polytypes (namely six layer, 6H and four layer, 4H) to examine the role of polytype and orientation on the mechanical properties. The experimental observations reveal that in both the polytypes, a considerable anisotropy in hardness is observed with the basal indentations having a higher hardness compared to the prismatic indentations. It is also observed that for any orientation the 6H-SiC polytype has a higher hardness than 4H-SiC which can be attributed to the lower stacking fault energy in this polytype and hence increased resistance for dislocation cross slip. Microstructural examination of the indents using AFM and SEM reveal cracks at the indent corners for the indentation loads greater than 100 mN. The indentation fracture toughness, This work was funded under The following is the supplementary data related to this article: Supplementary data related to this article can be found at

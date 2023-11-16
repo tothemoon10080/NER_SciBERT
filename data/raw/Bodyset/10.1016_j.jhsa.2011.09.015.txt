@@ -1,0 +1,14 @@
+Purpose
+                  The purpose of this randomized clinical trial was to investigate the functional outcomes of the surgical treatment of distal radius fractures, comparing treatment by external fixation and percutaneous pinning to open reduction and internal fixation (ORIF) using a plate.
+               
+                  Methods
+                  We randomized 53 patients with distal radius fractures that failed closed reduction and casting to ORIF (n = 27) or external fixation (n = 26). For pragmatic reasons, the choice of ORIF was left to the surgeon's discretion (early recruitment, dorsal plates [n = 9]; later recruitment, volar locked plates [n = 18]). Outcomes were measured before surgery, at 6 weeks, and at 3, 6, and 12 months and included the Patient-Rated Wrist Evaluation (PRWE); Disabilities of the Arm, Shoulder, and Hand; range of motion; grip strength; and serial radiographic analysis. Generalized linear modeling using repeated measures was used to identify differences in outcome scores between fixation types over time. Other continuous variables were analyzed using the Student t-test or one-way analysis of variance for multiple groups.
+               
+                  Results
+                  There were no differences in the demographic characteristics or fracture severity between groups. Based on generalized linear modeling, on average, the ORIF group scored 11 points lower on the PRWE across all time points compared to the external fixation group. The PRWE detected higher pain and disability with external fixation before surgery, at 6 weeks, and at 3 months. Using generalized linear modeling, a post hoc subgroup analysis identified significantly better (15-point advantage) PRWE scores averaged across all time points with volar locking plates compared to both external fixation and dorsal plating.
+               
+                  Conclusions
+                  The PRWE scores were significantly lower for patients treated with ORIF compared to those with external fixation, with the best outcomes observed with volar locking plates. These advantages were observed in the early postoperative period, and overall scores equalized at 1 year. A higher mean initial preoperative PRWE score was seen with external fixation, perhaps indicating a more severe initial injury. Given this difference, the interpretation of these results is not clear.
+               
+                  Type of study/level of evidence
+                  Therapeutic I.

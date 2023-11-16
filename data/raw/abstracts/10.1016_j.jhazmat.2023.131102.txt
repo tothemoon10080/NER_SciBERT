@@ -1,0 +1,40 @@
+A novel S-scheme photocatalyst Bi2MoO6 @doped gCN (BMO@CN) was prepared through a facile microwave (MW) assisted hydrothermal process and further employed to degrade Amoxicillin (AMOX), by peroxymonosulfate (PMS) activation with visible light (Vis) irradiation. The reduction in electronic work functions of the primary components and strong PMS dissociation generate abundant electron/hole (e
+                     -/h+) pairs and 
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 4
+                              
+                              
+                                 *
+                                 −
+                              
+                           
+                           ,
+                           
+                              *
+                           
+                           
+                              OH
+                           
+                           ,
+                           
+                              
+                                 O
+                              
+                              
+                                 2
+                              
+                              
+                                 *
+                                 −
+                              
+                           
+                        
+                     reactive species, inducing remarkable degeneration capacity. Optimized doping of Bi2MoO6 on doped gCN (upto 10 wt%) generates excellent heterojunction interface with facile charge delocalization and e
+                     
+                        -
+                     /h+ separation, as a combined effect of induced polarization, layered hierarchical structure oriented visible light harvesting and formation of S-scheme configuration. The synergistic action of 0.25 g/L BMO(10)@CN and 1.75 g/L PMS dosage can degrade 99.9% of AMOX in less than 30 min of Vis irradiation, with a rate constant (kobs) of 0.176 min−1. The mechanism of charge transfer, heterojunction formation and the AMOX degradation pathway was thoroughly demonstrated. The catalyst/PMS pair showed a remarkable capacity to remediate AMOX-contaminated real-water matrix. The catalyst removed 90.1% of AMOX after five regeneration cycles. Overall, the focus of this study is on the synthesis, illustration and applicability of n-n type S-scheme heterojunction photocatalyst to the photodegradation and mineralization of typical emerging pollutants in the water matrix.

@@ -1,0 +1,16 @@
+This work investigates the electrochemical oxidation (EO) of diclofenac (DCF) in water with Ti/Ti4O7, Ti/Ru–Ir, Ti/Sb–SnO2 and Ti/PbO2 electrodes. Scanning electron microscope and X-ray diffraction results suggest that Ti/Ti4O7 has porous stacked surface morphology and Ti/Sb–SnO2 possesses the smallest grain size. Linear sweep voltammetry test results indicate that PbO2 has the highest oxygen evolution potential, while Ti/Ti4O7 and Ti/Ru–Ir show better oxygen evolution activity. DCF degradation results reveal that PbO2 possessed the highest DCF removal (R
+                     
+                        DCF
+                      = 99.2%) and chemical oxygen demand (COD) removal (R
+                     
+                        COD
+                      = 97.0%), the fastest COD degradation rate (k = 0.0275 min−1, R
+                     
+                        2
+                      = 0.964), the lowest specific energy consumption (EC
+                     
+                        DCF
+                      = 1.81 kWh.g DCF−1, EC
+                     
+                        TOC
+                      = 6.90 kWh.g TOC−1). The toxicity variation of DCF during EO process on PbO2 is rise first and then to fall. Considering the differences of the four electrodes in residual, conversion and mineralization aspects, mineralization selectivity (MS) was proposed to estimate the mineralization inclination of electrodes during EO process, and PbO2 displays the strongest mineralization inclination (MS = 0.594). In addition, the possible degradation pathway of DCF on PbO2 electrode indicates a composite behavior of conversion and mineralization. All of them above indicate the promising application potential of PbO2 in lower concentration pharmaceuticals and personal care products wastewater treatment. Moreover, MS could be employed as a supplementary index to assess the different inclinations of this composite behavior on various electrodes used for electrochemical treatment of organics in later studies.

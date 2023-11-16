@@ -1,0 +1,6 @@
+The effect of MnO4
+                     − and silver content on electrochemical behaviour of five commercial Pb–Ag alloy anodes was studied in acid zinc sulphate electrolyte with and without MnO4
+                     − ions at 38 °C during potential decay periods. When the anodes were immersed into acid zinc sulphate electrolyte without MnO4
+                     − ions, the Pb–0.72%Ag anode entered complete passivation state in the shortest time among the five anodes, followed by anodes Pb–0.67%Ag, Pb–0.60%Ag, Pb–0.58%Ag and Pb–0.29%Ag– 0.1%Ca by measurement of open circuit potential. During immersion of the anodes, MnO4
+                     − ions accelerated the passivation and increased the corrosion current density of the anodes. After immersion in zinc electrolyte with MnO4
+                     −, the anode Pb–0.72%Ag had the best corrosion resistance, followed by anodes Pb–0.67%Ag, Pb–0.60%Ag, then the close anodes Pb–0.58%Ag and Pb–0.29%Ag– 0.1%Ca by the electrochemical impedance spectroscopy (EIS) analysis.

@@ -1,0 +1,56 @@
+Although stirred mills have been used widely in the mineral processing concentrators for fine grinding purposes, till date a standard ore characterisation test is not available for this technology. Advanced process modelling requires ore hardness index and ore specific breakage functions for accurate predictive capability. The Julius Kruttschnitt Mineral Research Centre (JKMRC) has pioneered the initiative to develop a practical ore characterisation test for the fine particles (within stirred mill regime). The JKFBC (JK fine-particle breakage characteriser) was used to develop an index that represents the ore hardness of the stirred mill feed. The index is called Stirred mill index (
+                        
+                           
+                              
+                                 SM
+                              
+                              
+                                 i
+                              
+                           
+                        
+                     ). This index measures the particles hardness and generate a generic tn-family curve (to establish energy base breakage function). Four types of materials were chosen for the test work i.e. Au-Cu ore, limestone, Fe ore and Au ore. The JKFBC test works were carried out by varying the applied vertical load, mill rotational speed and number of revolutions to achieve various levels of energies. The energy regimes chosen in this test work were within the typical operational conditions of the industrial scale gravity induced stirred mills. The test was modified from the original Shi’s test methodology by reducing the thickness of the particles bed in the mill and specific energy consumption. The volume of the material in the mill is kept constant to avoid the particle density effect. A new 
+                        
+                           
+                              
+                                 t
+                              
+                              
+                                 10
+                              
+                           
+                        
+                      function that incorporates the size effect was used to describe the breakage in the JKFBC. Ore hardness of the fine particles (between 1180 and 53μm) was quantified through 
+                        
+                           
+                              
+                                 SM
+                              
+                              
+                                 i
+                              
+                           
+                        
+                     . A preliminary tn-
+                        
+                           
+                              
+                                 t
+                              
+                              
+                                 10
+                              
+                           
+                        
+                      family curves was developed that responds based on the hardness of the samples - 
+                        
+                           
+                              
+                                 SM
+                              
+                              
+                                 i
+                              
+                           
+                        
+                      and energy. Further work in extending this procedure with other types of ores are essential for a more robust model parameters. This preliminary development has enabled a more predictive stirred mill process model development that incorporates the ore characteristics in the selection function.Fine grinding is becoming an essential process in many concentrators to liberate the finely disseminated valuable minerals in the ore bodies. Previously this task was carried out in ball mills, but the process becomes extremely energy intensive and inefficient as the targeted grind size becomes finer (<100 The JKMRC is using the The This model has eliminated the size effect. This paper is intended to report the newly developed modified fine particles ore characterisation technique for stirred mill process modelling. Particle breakage characterisation is intended to determine the resulted particle size distribution of the product for a given amount of energy to a selected feed size via specific breakage mechanism. Among the commonly known laboratory impact breakage devices are drop weight tester (DWT), Twin Pendulum, Short Impact Load Cell and Rotary Breakage Tester (RBT). The JKMRC developed these devices since the last 30 The impact breakage testing (as mentioned in the previous paragraph) is not applicable for stirred mills as it the main breakage mechanism in stirred mills is shear ( It has a shear and compression grinding mechanism (i.e. shear between grinding balls and wall of the mill) which is the closest mechanism to a gravity induced stirred mill. The energy regime available in the JKFBC is similar to the industrial scale gravity induced stirred mills. The test is being carried out on bed layers of mono-size particles. This method eliminates the tedious single particle test (which is almost impractical for fine particle sizes). This technique is determining the average particle breakage characteristics as it is being carried out on a layer of particles. The inefficiency of this method due to energy loss due to porosity between the layers of particles is acknowledged, but the practicality of this method has dominated the decision on going forward with this method currently. Small sample size is required for the test which is essential for Greenfield projects. The test is quick and carried out in dry mode. The original method was carried out as per standard Shi’s test (where the test was performed at consistent volume). The consistency of volume is essential to avoid particle density issues that lead to variation in particle masses. Furthermore, it maintains the same bed level in the ball-race grinding system. The consistency in volume is essential to Shi’s method has fixed the volume at 60 The material density is an essential factor that controls the amount of feed in the mill. Material that has lower density has higher volume (leads to thicker bed) while a material with higher density has smaller volume for a given fixed mass as shown in Narrow size fraction of materials was prepared by wet sieving for the grinding test. In this case the size fraction chosen were −1180  Besides the feed, the energy input regime to the mill is a significant factor. The energy input depends on the number of revolution, applied load on the ball and rotational speed. Torque signal (from torque sensor) is the direct measurement related to the energy consumed by the mill. The mechanism of torque draw in JKFBC can be express in Eq. The experiments were carried out by varying the vertical load, mill rotational speed and number of revolutions. In this case, the torque is dictated by the load, speed and friction. The friction between the top guiding plate and the ball is assumed constant, but the friction between the materials and balls varies.    As mentioned in the earlier section the JKMRC has upgraded the breakage modelling by incorporating the size effect (as shown in Eq. The same data were plotted using Eq. The JK drop weight tester and rotary breakage tester has impact breakage mode while the JKFBC has compression and attrition breakage mode. The model parameters absorb the differences in the breakage mode. The minimum threshold energy for rock particles is 0.01 The Au-Cu, Fe and Au ores have multi-mineral phases while the limestone is single phase. The effects of multi-mineral phases are not considered in Eq.  Besides the capability of predicting This finding has led the path of incorporating ore hardness as one of the material characteristics in the gravity induced stirred mill process model. This finding has marked an important milestone in stirred mill process modelling as none of other models has incorporated the ore hardness characteristics in their models. The new breakage model (Eq. Regression analysis was carried out on the four datasets by incorporating Minimal test work required as the testing at one size fraction i.e. only −150 The preliminary development is based on four types of ores where gravity-induced stirred mills are commonly used, and the results are promising. Furthermore, the JKMRC is continuing to conduct more tests in various types of ores to make the model more robust.  A rigorous preliminary test work using four types of ores (i.e. Au-Cu, limestone, Fe and Au) were conducted using the JKFBC device for stirred mill ore characterisation development. The test work was carried out at various levels of specific energy by varying the load, mill rotational speed and number of revolution. The conclusions drawn from the test work are The current JKFBC test has been modified for ore characterisation of gravity induced mill. The operating energy regime of the JKFBC is tuned by varying the load, mill rotational speed and number of revolution. The new Ore hardness of the fine particles (between 1180 and 53 The generic tn-family response based on the hardness of the samples ( The author would like to thank the JKMRC to permit this publication.

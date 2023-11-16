@@ -1,0 +1,4 @@
+To lower the cost of bauxite electrolysis desulfurization using NaOH solution as the supporting electrolyte, effects of electrolyte recycling on bauxite electrolysis desulfurization were investigated. The results indicate that electrode corrosion, cell voltage, the desulfurization rate and the pH value of the electrolyte have no obvious changes with the increase of cycle times. Additionally, there were some transitive valence S-containing ions in electrolyte after the electrolysis, such as SO3
+                     2−, S2O3
+                     2−. However, most of the sulfur in bauxite was eventually oxidized into SO4
+                     2− into the electrolyte, and these S-containing ions did not affect the recycling utilization for electrolyte.

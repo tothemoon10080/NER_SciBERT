@@ -1,0 +1,62 @@
+The increasing demand for uranium fuel for energy generation has triggered interest in the exploitation of various resources including lean tenor ores and tailing dumps which are otherwise considered uneconomical till recently. The process-schemes of new plants are incorporating several new technologies such that the process is economically attractive and eco-friendly. One such development catching the lime-light in uranium ore processing industry everywhere is the resin-in-pulp (RIP) technology. This paper describes the results of laboratory studies on the recovery of dissolved uranium values from an alkaline leach slurry of a medium-grade uranium ore from Gogi (Karnataka, India) using the resin-in-pulp (RIP) process. Besides anionic carbonate complex of uranium – [UO2(CO3)3]4−, the other major anionic constituents of the leach solution are 
+                        
+                           
+                              
+                                 CO
+                              
+                              
+                                 3
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     
+                     , HCO3−, 
+                        
+                           
+                              
+                                 SO
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     , Cl−, 
+                        
+                           
+                              
+                                 PO
+                              
+                              
+                                 4
+                              
+                              
+                                 3
+                                 -
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 MoO
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     . The total dissolved solutes (TDSs) are about 45g/l. Various commercially available strong base anionic type resin-in-pulp (RIP) grade resins – both macro-porous and gel type, were studied with respect to their loading capacity. The gel type polystyrene based resins grafted with quaternary ammonium ion gave superior loading capacity in comparison to macro-porous resins. Parametric variation studies for optimizing the other process conditions, including adsorption kinetics, were then carried out on the short-listed resin. Results of the semi-continuous counter-current extraction and elution tests indicated that about 98% of the dissolved uranium values can be recovered during the loading process and practically the entire loaded uranium can be eluted using NaCl eluant.RIP studies were carried out on U bearing alkaline leach slurry with d Gel type gave superior loading capacity in comparison to macro-porous resins. 98% of the U values could be separated out from leach solution containing 700 A loading capacity of 65–70 The sorption process follows pseudo-second order kinetics. The recognition of nuclear power as an energy source of minimal carbon foot-print led to increased demand for uranium metal in recent times India plans to meet about 30% of the overall energy requirements through nuclear power by 2032 which is close to 3% at present The uranium resources present in the carbonate host rocks require alkaline processing technology for the recovery of uranium values This paper describes the results of the applied research on the recovery of dissolved uranium values from the alkaline leach slurry of an ore using the RIP process, which is considered as a suitable alternative to conventional process of ‘filtration – clarification – static bed ion exchange’ route. Though several studies were reported on the application of RIP for capture of uranium from sulfuric acid leach slurries Recovery of uranium values hosted in carbonate gangue of an ore using alkaline process generally involve a series of hydrometallurgical operations comprising of comminution for adequate liberation of the desired mineral phase, oxidative dissolution of uranium minerals under atmospheric or elevated temperature and pressure with leachants, filtration and clarification of the uranium laden leach solution, purification and concentration of the uranium values by ion exchange followed by precipitation of dissolved uranium The process chemistry of alkaline leaching of uranium ores with Na Oxidation of U Dissolution and complexation of U Prevention of re-precipitation of dissolved uranium upon reaction with sodium bicarbonate. Dissolution of gangue minerals like pyrite, quartz and alumina. The ion-exchange process using strong base anion exchanger. The leach slurry used in the experimental work was obtained by subjecting a medium grade uranium ore (U Commercially available strong base anion exchange resins of both macro-porous and gel type were chosen for their suitability for recovery of uranium from the specific leach slurry under study. The gel type resins investigated include PFA460/4783 & PFA600/4740 (Purolite, France), Ambersep All the other chemicals used in the test work are of A.R. Grade. Only de-mineralized (D.M.) water was used in the tests. The resins obtained from various manufacturers were used in the experiments without any chemical pre-treatment except for soaking the beads in de-mineralized water overnight at The experimental studies were carried out by screening various ion-exchange resins for their uranium loading capacity by resin-in-solution (RIS) technique. The short-listed resin was then used for elucidating other operating conditions for maximal loading. The optimum conditions arrived from the RIS experiments was used for the resin-in-pulp (RIP) test work. The mixing in ‘resin-in-solution’ tests was carried out by shake-flask technique while overhead stirrer was used for mixing in the ‘resin-in-pulp’ experiments. After the completion of requisite contact time the resin was separated from the solution or the slurry on a nylon screen. The loaded resin was washed with D.M. water to remove adhered ore particles and transferred to an elution column. The elution tests were carried out by downward flow of the eluant at a pre-defined flow-rate in a 15 The metallurgical accounting in all the experiments is based on wet chemical analysis of uranium and other species in various streams. The uranium concentration in the aqueous phase was determined by liquid fluorimetry (ELICO Model SL 174). The relative standard deviation (RSD) in the uranium analysis was ±2%. The The partial chemical composition of the leach slurry ( Studies on loading capacity of uranium for various commercially available resins listed in The loading of uranium was more on gel-type resins in comparison to that obtained on macro-porous resins. The loading capacity of U The loading capacity of uranium on PFA460/4783 resin was determined by equilibration of 1 The kinetics of uranium loading on PFA 460/4783 resin was determined by equilibrating 2 The results of the contact time studies on loading of uranium on PFA 460/4783 resin ( The linearized integrated form of the first-order rate equation for the boundary conditions A plot of The correlation constant ‘ The optimum quantity of resin required for maximum loading of desired species from the leach solution is an important parameter in the overall process economics. The objective being to achieve maximum loading or recovery with minimum resin inventory. The optimal ratio was elucidated by varying the volume of resin, PFA 4783, for fixed quantity of leach solution, which was studied with a resin volume of 0.5–15 About 60% of the uranium values in the leach solution were adsorbed on the resin, when the resin to leach solution volume ratio was 1:100. The uptake increased to 80% when the ratio was1:50 and the maximum uptake was in the range of 90–95% achieved in the ratio range of 1:33–1:6.5. Results of the single-stage extraction tests indicate resin to leach solution volume ratio of 1:50–1:33 as ideal choice for maximum loading with minimum resin inventory. The number of theoretical mass-transfer steps necessary for maximum loading of uranyl carbonate anions on the resin was determined from the McCabe Thiele plot constructed using the single-stage equilibrium isotherm generated from the data obtained in The counter-current extraction studies were performed experimentally using four contactors (shake flasks) containing 100 Based on the extensive “resin-in-solution” test work data generated with PFA460/4783 resin, the necessary experimental conditions for carrying out semi-continuous counter-current “resin-in-pulp” experiments were developed. The optimum values and other conditions developed from the “resin-in-solution” studies are given in The alkaline leach slurry contained about 30% by weight of leached solids. The resin-in-pulp tests were carried out at pH of about 9.5 at ambient temperature. Five reaction vessels containing 58 Elution experiments were carried out in a water-jacketed glass column at ambient temperature. The column was filled with 10 Resin-in-pulp technique was applied for purification and enrichment of uranium values from a finely ground uranium ore leach slurry of alkaline nature using commercially available strong base anion exchange resin. The chemical composition of the solution phase of the alkaline leach slurry (pH 9.5) contained total dissolved solutes concentration of about 40 The authors are thankful to Dr. A.K. Suri, Director, Material Group, Bhabha Atomic Research Centre for his interest in the studies and encouragement. They also thank various resin manufacturers for generous supply of resin sample for the test work.

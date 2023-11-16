@@ -1,0 +1,1 @@
+Mineral treatment processes are complex and measurement of many of the parameters necessary for the formulation of complete process models is impractical. However modelling and automatic control of these processes is developing successfully, based on metallurgical knowledge and using a compromise between a theoretical model and an empirical approach.

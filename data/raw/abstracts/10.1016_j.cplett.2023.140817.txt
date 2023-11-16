@@ -1,0 +1,35 @@
+Complex and refractory gold ores contain high amount of iron oxide and hydroxide minerals, potential adsorbents of gold through preg-robbing phenomenon. In this study, density functional theory (DFT) approach was used to investigate the adsorption of 
+                        
+                           A
+                           u
+                           
+                              
+                                 (
+                                 C
+                                 N
+                                 )
+                              
+                              
+                                 2
+                              
+                              -
+                           
+                        
+                      complex on hematite, magnetite, and goethite surfaces. The most stable adsorption occurred for goethite when the 
+                        
+                           A
+                           u
+                           
+                              
+                                 (
+                                 C
+                                 N
+                                 )
+                              
+                              
+                                 2
+                              
+                              -
+                           
+                        
+                      complex was adsorbed from the Au atom along the y axis on the Fe site and the interaction energy was the highest. The following trend was obtained for the preg-robbing potential, which is in good agreement with experiments carried out on synthetic minerals: Goethite > Hematite > Magnetite.

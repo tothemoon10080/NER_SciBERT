@@ -1,0 +1,14 @@
+Background:
+                      The effect of pulsed electromagnetic fields (PEMFs) on bone formation and remodeling has been evaluated in several studies in the last 30 years, but the results of these studies have been equivocal. Objective: The aim of this study was to investigate the effects of PEMFs on bone mineral density (BMD) and the biochemical markers of bone turnover in patients with postmenopausal osteoporosis.
+                  
+                     
+                        Methods:
+                      In this single-blind, randomized study, 40 outpatients were exposed to 100-Hz PEMFs (n = 20) or to a placebo electromagnetic field (n = 20) for 60 minutes per day, 3 times a week for 3 months. BMD was measured at baseline and at the end of treatment, and biochemical markers of bone metabolism were measured at baseline, after 3 months' treatment, and 1 month after treatment cessation.
+                  
+                     
+                        Results:
+                      Treatment with PEMFs did not cause a significant increase in BMD in either group. However, in the group treated with 100-Hz PEMFs, a significant increase in serum osteocalcin and serum procollagen type I C-terminal propeptide was observed during treatment (P < 0.001 vs baseline); these parameters returned to baseline values 1 month after the end of treatment.
+                  
+                     
+                        Conclusions:
+                      These findings suggest that PEMFs may stimulate osteogenesis, possibly by increasing osteoblastic activity, in postmenopausal women with osteoporosis.

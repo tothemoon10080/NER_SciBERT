@@ -1,0 +1,92 @@
+Adsorption and separation of platinum and palladium chlorido species (
+                        
+                           
+                              
+                                 PtCl
+                              
+                              
+                                 6
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 PdCl
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                     ) on polystyrene beads as well as nanofibers functionalized with ammonium centres based on ethylenediamine (EDA), diethylenetriamine (DETA), triethylenetetramine (TETA) and tris-(2-aminoethyl)amine (TAEA) are described. The functionalized sorbent materials were characterized by microanalysis, SEM, XPS, BET and FTIR. The surface area of the functionalized fibers was in the range 69–241m2/g while it was 73–107m2/g for the beads. The adsorption and loading capacities of the sorption materials were investigated using both the batch and column studies at 1M HCl concentration. The adsorption studies for both 
+                        
+                           
+                              
+                                 PtCl
+                              
+                              
+                                 6
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 PdCl
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      on the different sorbent materials fit the Langmuir isotherm with R
+                     2 values >0.99. The highest loading capacity of Pt and Pd were 7.4mg/g and 4.3mg/g respectively for the nanofiber sorbent material based on ethylenediamine (EDA) while the beads with ethylenediamine (EDA) gave 1.0mg/g and 0.2mg/g for Pt and Pd respectively. Metals loaded on the sorbent materials were recovered by using 3% m/v thiourea solution as the eluting agent with quantitative desorption efficiency under the selected experimental conditions. Separation of platinum from palladium was partially achieved by selective stripping of 
+                        
+                           
+                              
+                                 PtCl
+                              
+                              
+                                 6
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      with 0.5M of NaClO4 in 1.0M HCl while 
+                        
+                           
+                              
+                                 PdCl
+                              
+                              
+                                 4
+                              
+                              
+                                 2
+                                 -
+                              
+                           
+                        
+                      was eluted with 0.5M thiourea in 1.0M HCl. Separation of platinum from iridium and rhodium under 1M HCl concentration was successful on triethylenetriamine (TETA)-functionalized Merrifield beads. This material (M-TETA) showed selectivity for platinum albeit the low loading capacity.The development of catalytic systems for the oil and fine chemicals industry as well as automotive emission control catalysts has led to an increasing demand for precious metals such as the platinum group metals (PGMs). The demand for some of the PGMs is not balanced by supply due to the limited resources. For this reason, a series of metallurgical processes for recovering precious and strategic metals from low-grade ores and from industrial waste have been investigated during recent decades. The recovery processes include liquid–liquid extraction, supported liquid membranes ( There has been blossoming research activity centred on PGMs adsorption studies using a wide range of sorbent materials ( An interesting aspect of this investigation is the use of polystyrene-based sorbents containing ammonium functionalities at a nanoscale (in a form of polymer nanofibers). Nanofibers are an exciting new class of materials used for several value added applications such as medical, filtration, barrier, wipes, personal care, composite, garments, insulation, energy storage ( The purpose of this work was to design sorbent materials with a high loading capacity for platinum using polystyrene-based nanofibers functionalized with ammonium centres derived from ethylenediamine (EDA), diethylenetriamine (DETA), triethylenetetramine (TETA) and 4-Vinylbenzylchloride (90%, Sigma–Aldrich), 2,2-azo-bis(isobutyronitrile) (AIBN), Merrified’s peptide resin (50–100 mesh, 2.5–4.0 The FTIR spectra were recorded on the Perkin Elmer 400 Fourier Transform Infrared (FTIR) and 100 Fourier Transform Infrared-Attenuated Total Reflectance (FTIR-ATR) spectrometers. Elemental analysis was carried out with a Vario Elementary ELIII Microcube CHNS analyzer to determine the nitrogen content of the sorbent materials. The surface morphologies of the sorbents were observed using TESCAN Vega TS 5136LM Scanning Electron Microscope (SEM). Surface area measurements by carbon dioxide adsorption were done at 273 10 A 45 0.15 3 An aqueous solution of 0.01 The batch adsorption studies were carried out by weighing 0.15 The percentage adsorption (A%) of each metal ion was determined using the following equation: The adsorption capacity, The adsorption mode of metal ions on sorbent materials is an important factor to investigate. A glass column was plugged with glass wool and packed with 0.3 The quantitative separation of mixture of hexachloroplatinate(IV) and tetrachloropalladate(II) complexes was studied by a dynamic column method. 0.3 The glass column was packed with 0.3 Regeneration of the resin for further usage was examined by loading the columns containing 0.3 The morphology and diameter of the unfunctionalized and functionalized styrene-based nanofibers and beads were observed using SEM, and the images are shown in The surface area of the unfunctionalized and functionalized beads and nanofiber materials were measured using the BET method, and the results are presented in From the result in The surface chemistry of the functionalized and unfunctionalized polystyrene-based beads and nanofiber sorbents was investigated by XPS. The presence of the Cl 1s and Cl 2s peaks at 200  The effect of contact time on the adsorption of In order to investigate the adsorption capacity of In order to predict the adsorption efficiency of the adsorption process, the dimensionless equilibrium parameter ( The performance of the sorbents under dynamic flow adsorption conditions was studied. Thiourea was used for the elution step, and it is well known for its affinity for precious metals due to the presence of both amine and sulfur groups. These donor atoms contribute to the binding of the metal ions by complexation, possibly forming a cationic Pd complex such as [Pd (NH  The selectivity of sorbent M-TETA for The selectivity of M-TETA for The only sorbent material which displayed selectivity for The column study of the adsorption and separation of As shown in Regeneration efficiency was studied to determine the level of durability of the resin for more adsorption and elution studies by the method of loading/regeneration/reloading for several cycles usage. The separating efficiency of the resin was fairly retained even after repeated processes and this was determined to be 96% efficiency of the initial capacity according to Eq. The metal loading capacities of the sorbents were directly proportional to the accessible surface area and also dependent on the percentage of nitrogen in the material. The mechanism of hexachloroplatinate(IV) and tetrachloropalladate(II) complexes binding on the sorbents followed the monolayer adsorption model described by Langmuir. The continuous flow column experiments indicated that the selective separation of hexachloroplatinatinate(IV) and tetrachloropalladate(II) complexes was only achieved with M-TETA. The separation of these chlorido anions using other non-selective materials was partially achieved by selective stripping of hexachloroplatinatinate(IV) with 0.5 We would like to thank the Rhodes University Electron Microscopy Unit for the SEM service. We are also grateful to the

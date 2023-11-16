@@ -1,0 +1,11 @@
+Introduction
+                  The purpose of this study was to evaluate the use of solvents that are not traditionally used in dentistry for the dissolution of an epoxy resin–based sealer and the effect of ultrasonic agitation (UA).
+               
+                  Methods
+                  The dissolution of the AH Plus sealer (Dentsply DeTrey, Konstanz, Germany) and the effect of UA in various solvents (eucalyptol, xylene, chloroform, EndoSolv R [Septodont, Cedex, France], EndoSolv E [Septodont], methyl ethyl ketone [MEK], and ethyl acetate) were quantified. The dissolving capacity was assessed by weight loss, Vicker microhardness, scanning electron microscopy (SEM), and X-ray diffraction (XRD). The results were compared with factorial analysis of variance using IBM SPSS Statistics 23.0 software (IBM, Armonk, NY), considering a 0.05 significance level. A preliminary ex vivo study was performed in extracted teeth, with MEK activated by UA as the final irrigation after mechanical removal of the filling material. SEM was used for assessing the cleanliness of the root canal walls.
+               
+                  Results
+                  The new solvent proposals, ethyl acetate and MEK, exhibited high dissolution ability, almost reaching chloroform. UA increased dissolution. Vicker values corroborated the dissolution assays. SEM and XRD revealed that solvents affected mainly the organic component of the sealer. Ex vivo results confirmed the immersion model findings.
+               
+                  Conclusions
+                  MEK and ethyl acetate proved to be excellent alternatives to chloroform or xylene solvents. MEK presented a high sealer dissolving ability in a short period, especially with UA, without the potential hazards of chloroform, suggesting it is a good approach to AH Plus sealer's dissolution empowered by UA. These results should encourage further studies in order to confirm their clinical relevance.

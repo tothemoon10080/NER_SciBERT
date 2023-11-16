@@ -1,0 +1,8 @@
+Kinetics of the transfer of protonated triazines across the water|1.2-dichloroethane interface by mean cyclic voltammetry and electrochemical impedance spectroscopy was studied. The transfer Gibbs energy (ΔG
+                     
+                        t,
+                     
+                        o, w
+                        →
+                        o
+                     ) and the apparent rate constants (ks) across the liquid-liquid interface for atrazine, ametryn, terbutryn and prometryn were evaluated. The results showed that hydrophobicity and the molecular size of these herbicides play an important role in the kinetics values. Thus the atrazine (smaller molecular dimensions) have larger ks value compared to the ametryn, terbutryn and prometryn (larger molecular dimensions). The explanation of this difference is in the structural ability of the molecule to protect the charged group which is the one responsible for transporting the current across the interface. The present study can be an important approach to help understand the permeation kinetics of molecules across biological membranes.

@@ -1,0 +1,11 @@
+Purpose
+                  The purpose of this study was to compare the outcomes of 2 kinds of treatment for unstable distal radial fractures (open reduction internal fixation (ORIF) and standard external fixation [EF]) and to determine the factors that might have lain behind the achievement of excellent results, using two different scales: the Mayo functional scale and Castaing's radiological scale.
+               
+                  Materials and methods
+                  This is a cross-sectional retrospective study including patients with unstable distal radial fractures treated betwen 2001 and 2005. The inclusion criteria were: patients with unstable distal radial fractures treated with ORIF or EF, with complete clinical and radiological studies, and who agreed to be enlisted in the study (30 ORIF and 27 EF). The two groups were compared for sex, age, mechanism of injury, profession, Fernandez's fracture classification, range of motion, surgical technique, time to surgery, duration of physical therapy, follow-up time, the Mayo functional scale and Castaing's radiological scale. We performed a multivariate logistic regression analysis, evaluating the factors that were involved in obtaining excellent results.
+               
+                  Results
+                  We studied 30 patients treated with ORIF (24 men and 7 women) and 27 treated with EF (10 men and 17 women). The factors related to excellent results on the Mayo functional scale were occupation and time to surgery. On the Castaing's radiologic scale, these factors were surgical technique and fracture degree according to Fernández's classification.
+               
+                  Conclusions
+                  For each day of surgical delay, there is a 20% decrease in the probability of obtaining an excellent result. Patients with self-owned businesses achieve better functional results. Grades III, IV and V of the Fernández classification and the use of EF are associated with poorer radiological results.

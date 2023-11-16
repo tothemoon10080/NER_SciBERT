@@ -1,0 +1,16 @@
+In this work, after exploring the first report on the synergism of combining ultrasound (US: 600 kHz) and chlorine toward the degradation of Allura Red AC (ARAC) textile dye, as a contaminant model, the impact of various mineral water constituents (Cl−, SO4
+                     2−, NO3
+                     −, HCO3
+                     − and NO2
+                     −) and natural organic matter, i.e., humic acid (HA), on the performance of the US/chlorine sono-hybrid process was assessed for the first time. Additionally, the process effectiveness was evaluated in a real natural mineral water (NMW) of a known composition. Firstly, it was found that the combination of ultrasound and chlorine (0.25 mM) at pH 5.5 in cylindrical standing wave ultrasonic reactor (f = 600 kHz and Pe = 120 W, equivalent to PA ∼ 2.3 atm) enhanced in a drastic manner the degradation rate of ARAC; the removal rate being 320% much higher than the arithmetic sum of the two separated processes. The source of the synergistic effect was attributed to the effective implication of reactive chlorine species (RCS: Cl
+                        
+                     , ClO
+                        
+                      and Cl2
+                     
+                        −) in the degradation process. Radical probe technique using nitrobenzene (NB) as a specific quencher of the acoustically generated hydroxyl radical confirmed the dominant implication of RCS in the overall degradation rate of ARAC by US/chlorine system. Overall, the presence of humic acid and mineral anions decreased the efficiency of the sono-hybrid process; however, the inhibition degrees depend on the type and the concentration of the selected additives. The reaction of these additives with the generated RCS is presumably the reason for the finding results. The inhibiting effect of Cl−, SO4
+                     2−, NO3
+                     − and NO2
+                     − was more pronounced in US/chlorine process as compared to US alone, whereas the inverse scenario was remarked for the effect of HA. These outcomes were associated to the difference in the reactivity of HA and mineral anions toward RCS and 
+                        
+                     OH oxidizing species, in addition to the more selective character of RCS than hydroxyl radical. The displacement of the reaction zone with increasing the additive concentration may also be another influencing factor that favors competition reactions, which subsequently reduce the available reactive species in the reacting medium. The NMW exerted reductions of 43% and 10% in the process efficiency at pH 5.5 and 8, respectively, thereby confirming the RCS-quenching mechanism by the water matrix constituents. Hence, this work provided a precise understanding of the overall mechanism of chlorine activation by ultrasound to promote organic compounds degradation in water.

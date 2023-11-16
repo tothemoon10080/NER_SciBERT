@@ -1,0 +1,75 @@
+Pyrargyrite (Ag3SbS3) is one of the most important silver ores because of its abundance and occurrence in mineral deposits; it is refractory to cyanide, and therefore, silver recovery in standard cyanidation processes for precious metals extraction is low. The present work proposes the oxidative leaching of pyrargyrite with ozone in acid solutions as an alternative option to treat pyrargyrite concentrates.
+                  The stoichiometry of the pyrargyrite-ozone reaction and the effect of the stirring speed, ozone concentration in gas, particle size and sulfuric acid concentration on silver leaching were investigated. All investigated variables affected silver dissolution; however, increased ozone and acid concentrations resulted in a higher dissolution rate. A factorial experimental design demonstrated that the ozone concentration had the greatest effect on silver leaching. The dissolved Ag/Sb molar ratio and the O3 consumed/Ag3SbS3 leached molar ratio were observed to be approximately 3 and 14, respectively, suggesting that the reaction occurs according to the following stoichiometry:
+                        
+                           
+                              A
+                              
+                                 g
+                                 3
+                              
+                              Sb
+                              
+                                 S
+                                 3
+                              
+                              +
+                              14.5
+                              
+                                 O
+                                 3
+                              
+                              +
+                              0.5
+                              
+                                 H
+                                 2
+                              
+                              O
+                              +
+                              2
+                              
+                                 H
+                                 +
+                              
+                              =
+                              3
+                              A
+                              
+                                 g
+                                 
+                                    2
+                                    +
+                                 
+                              
+                              +
+                              Sb
+                              
+                                 
+                                    O
+                                    3
+                                 
+                                 −
+                              
+                              +
+                              3
+                              HS
+                              
+                                 
+                                    O
+                                    4
+                                 
+                                 −
+                              
+                              +
+                              14.5
+                              
+                                 O
+                                 2
+                              
+                           
+                        
+                     
+                  
+                  A silver dissolution of 80% was obtained when one gram of pyrargyrite (fines, d80
+                     =13μm) in 800mL of 0.18M sulfuric acid solution was oxidized with 1.2L/min oxygen containing 0.079g O3/L at 25°C and a stirring speed of 800rpm.
+                  Pyrargyrite dissolution exhibits a linear behavior when the concentrations of the reagents are not limited. However, when conditions are extreme (very fine particle size and high acid and ozone concentrations), the silver and antimony dissolution rates decrease, and the characteristics of the remaining solid change, suggesting the presence of a solid byproduct that apparently passivates the dissolution reaction.Cyanidation is the most used method to recover precious metals worldwide. The depletion of easily leachable deposits and the increases in the prices of gold and silver have forced the mining industry to process complex ores that can be refractory to cyanide. The conventional definition of refractory ores is ores for which the gold or silver recovery is less than 80% when conventional cyanidation is used ( One of the most common reasons for the refractoriness of gold ores to cyanide is the occlusion of gold particles in the lattice of sulfide minerals; in addition to the occlusion in sulfide minerals, silver may exist as a sulfide mineral species that cannot be dissolved by cyanide, as is the case for pyrargyrite (Ag Because of the high stability of sulfide minerals, the use of a strong oxidizing agent is necessary to dissolve these materials. Ozone has been proposed because of its high oxidizing strength (E° Recently, several studies have addressed the use of ozone in hydrometallurgy.  Regarding antimonial gold and silver refractory ores, alkaline sulfide leaching has proved to be a suitable pretreatment to liberate the precious metals. With an alkaline sulfide pretreatment before cyanidation, silver extraction from andorite increased from 17 to 91% ( In a previous work, we proposed pyrargyrite leaching with ozone in acid solutions and identified the variables that affect silver leaching ( The pyrargyrite sample used in this work was obtained from Zacatecas, Mexico and was hand-concentrated after crushing and grinding a massive crystal to obtain different size fractions. A second grinding was performed to obtain a finer fraction (less than − The d Selected samples of the initial and final solids were characterized by scanning electron microscopy (Philips XL30-ESEM) in conjunction with energy dispersive spectrometry (EDAX Genesis). The experimental setup is shown in On-line measurements of the pH (Orion 720A), redox potential (Orion 720A, platinum electrode against Ag/AgCl), dissolved ozone (ATI A15/64) and ozone concentration in the gas (ultraviolet monitor BMT 963) were recorded. The signals were acquired with an A/D board (Keithley DAS 1601) and processed with TestPoint software. For each leaching test, 800 The effects of the main variables affecting silver dissolution were investigated under the following considerations: the experimental work was initiated by studying the variables that do not have a direct effect on the reaction chemistry, namely, the stirring speed and gas flow rate; next, the variables that have more effects on the leaching reaction, namely, the ozone concentration in the gas phase, particle size and acid concentration in the leaching solution, were investigated. For each section, the experimental conditions that produced the best silver dissolution were employed in the subsequent section. Because it was considered important to establish the actual contribution of ozone to the leaching of the mineral, two “blank” tests were performed: pyrargyrite leaching in a plain acid solution and leaching in acid solution with oxygen bubbling. The conditions tested were 0.18 Additionally, an experimental 2 Two tests were performed to estimate the stoichiometry of the reaction between pyrargyrite and ozone. The experimental conditions used were: particle size, − A test was performed to observe the linearity of the leaching of silver and antimony for longer times. Pyrargyrite leaching was performed under extreme conditions: the highest ozone addition rate (0.079 The agitation was performed using a mechanical stirrer equipped with a high-shear radial flow impeller. For a constant gas flow rate (1  The effect of particle size on the silver dissolution is shown in The effect of acid concentration on silver dissolution is shown in  Based on our findings, it is clear that the four investigated variables affect silver dissolution, with the effects of the ozone and acid concentration having the greatest influence. With the aim of determining which of these reagents has a more significant effect on silver leaching, an experimental 2 The silver dissolutions obtained are presented in silver dissolution (%) ozone concentration in gas (g O acid concentration (M). The results indicate that leaching of silver from pyrargyrite is not feasible in sulfuric acid solutions or even in the presence of dissolved oxygen. The maximum silver dissolution obtained after 60  From the average data for ozone consumption and dissolution of silver and antimony, the number of moles of dissolved metals per mole of ozone added can be estimated for each interval of time, as detailed in  In all of the previous tests, where the dissolution profiles of the metals exhibited linear behavior, the visual aspect of the remaining pyrargyrite particles at the end of the test was similar to that of the initial particles; however, the final solid obtained in the test of   Pyrargyrite is a refractory silver sulfide mineral refractory to cyanide leaching. Acid leaching with or without oxygen does not dissolve pyrargyrite; however, pyrargyrite can be oxidized and dissolved by ozone in sulfuric acid solutions. Silver and antimony are dissolved simultaneously (three moles of silver per mole of dissolved antimony) when the dissolution is linear with respect to time, increasing the pH and consuming 14.5 moles of ozone, according to the following stoichiometry: As much as 80% of the silver contained in pyrargyrite can be dissolved when the oxidation conditions are extreme, i.e., one gram of pyrargyrite ( This study was performed using one gram of pyrargyrite in 800 The authors thank Conacyt for the financial support received through the scholarship of C. Rodríguez-Rodríguez and through the research project CB2010/153885.

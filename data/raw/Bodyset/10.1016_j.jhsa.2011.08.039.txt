@@ -1,0 +1,14 @@
+Purpose
+                  To determine whether the number of distal locking screws significantly affects stability of a cadaveric simulated distal radius fracture fixed with a volar locking plate.
+               
+                  Methods
+                  We created AO/ASIF type C2 fractures in 10 matched pairs of human fresh-frozen cadaveric wrists and then fixed them using volar locking plates. The number of distal locking screws used was 4 screws or 7 screws in each wrist of the matched pair. We loaded the stabilized fractures cyclically to simulate 6 weeks of postoperative stressing during a therapy protocol and then loaded them to failure. Failure was defined as 2 mm or more of displacement of any fracture fragment as recorded by differential variable reluctance transducers.
+               
+                  Results
+                  No wrists failed during the cyclic loading portion for either the 4- or 7-screw construct. The average initial stiffness of the 7-screw construct was 69 N/mm (±38) versus 48 N/mm (±14) for the 4-screw construct. The average failure load for the 7-screw construct was 139 N (±78) versus 108 N (±18) for the 4-screw construct. Neither of these differences was statistically significant.
+               
+                  Conclusions
+                  Although there was a trend toward increased initial stiffness and higher failure load in fractures fixed distally with 7 locking screws, the results were not statistically significant compared with fractures fixed with only 4 screws. Both constructs can withstand forces likely encountered in early therapy protocols.
+               
+                  Clinical relevance
+                  The use of extra distal locking screws when fixing distal radius fractures increases expense and may increase the risk of complications, such as extensor tendon irritation or rupture.

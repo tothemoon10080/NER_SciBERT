@@ -1,0 +1,14 @@
+Introduction
+                  Diarrhea has the fourth-highest mortality rate of all diseases and causes a large number of infant deaths each year. The maternally separated (MS) piglet (newly weaned piglet) is an excellent model to investigate the treatment of diarrhea in infants. Drinking alkaline mineral water has the potential to be therapeutic in gastrointestinal disorders, particularly diarrhea, but the supporting evidence from system studies and the mechanisms involved have yet to be reported.
+               
+                  Objectives
+                  This study aims to determine whether drinking alkaline mineral water confers diarrhea resistance in MS piglets under weaning stress and what the fundamental mechanisms involved are.
+               
+                  Methods
+                  MS piglets were used to create a stress-induced intestinal disorder-diarrhea susceptibility model. A total of 240 MS piglets were randomly divided into two groups (6 pens/group and 20 piglets/pen). IPEC-J2 cell line was used for in vitro evaluation. An alkaline mineral complex (AMC) water was employed, and its effect on the hypothalamus-pituitary-adrenocortical (HPA) axis, gut microbes, gut morphology, and intestinal epithelial cell (IEC) proliferation and differentiation were investigated using a variety of experimental methodology.
+               
+                  Results
+                  AMC water reduced diarrhea rate in MS piglets by inhibiting the HPA axis, ameliorating gut microbiota structure, and stimulating IEC proliferation and differentiation. Apparently, the brain-microbe-gut axis is linked with AMC water conferring diarrhea resistance in piglets. Mechanistically, AMC water decreased stress hormones (COR and Hpt) secretion by suppressing HPA axis, which then increased the abundance of beneficial gut microbes; accordingly, maintained the proliferation of IEC and promoted the differentiation of intestinal stem cells (ISC) into goblet cell and Paneth cell by activating the Wnt/β-catenin signaling pathway. In the absence of gut microbiota (in vitro), AMC activated the LPS-induced Wnt/β-catenin signaling inhibition in IPEC-J2 cells and significantly increased the number of Lgr5 + cells, whereas had no effect on IPEC-J2 differentiation.
+               
+                  Conclusion
+                  Drinking alkaline mineral water confers diarrhea resistance in MS piglets by maintaining intestinal epithelial regeneration via the brain-microbe-gut axis; thus, this study provides a potential prevention strategy for young mammals at risk of diarrhea.

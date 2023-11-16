@@ -1,0 +1,11 @@
+Background
+                  Zinc (Zn) is a micronutrient and essential element of life and its deficiency causes severe disorders of numerous body systems, such as immune, reproductive and central nervous system. Zinc supplementation affects wound healing and sexual development. The interactions between drugs administration and Zn level in tissues are not fully understood. The aim of the study was to demonstrate differences in Zn content in teeth of laboratory animals that have undergone pharmacological tests.
+               
+                  Methods
+                  The teeth were extracted from laboratory animals after chronic administration of a non-steroidal anti-inflammatory drug (8-[4-[4-(4-chlorophenyl) piperazine-1-sulfonylphenyl]]-1-propylxanthine), a steroid anti-inflammatory drug (deoxycorticosterone) and an anti-cancer drug (oxaliplatin used acutely). The method of flame atomic absorption spectrometry was used to determine the Zn content in the teeth of the laboratory animals.
+               
+                  Results
+                  Based on the studies conducted, the administration of the anti-inflammatory drug PSB-603 and deoxycorticosterone results in an increase in Zn accumulation in the teeth of laboratory animals, which may be indicative of the effect of anti-inflammatory drugs on the metabolism of this bioelement. Oxaliplatin has the opposite effect, after which the level of the measured bioelement in the teeth of mice depended on the administered dose. This level was on average 21.0–28.1% lower than the Zn level in the teeth of the control group. Anti-cancer drugs may interfere with Zn accumulation in the teeth and cause the removal of this metal from bone tissue.
+               
+                  Conclusion
+                  It can be assumed that the Zn content in teeth can be markedly affected by the drugs that were administrated to animals.

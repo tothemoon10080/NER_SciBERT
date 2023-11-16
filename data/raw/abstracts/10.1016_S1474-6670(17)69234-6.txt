@@ -1,0 +1,16 @@
+The purpose of this paper is to examine some typical procedures, based on optimal control theory or stochastic control theory, to increase the effectiveness of mineral processes.
+                  A lot of research has been undertaken lately to improve the productivity of many mineral and metallurgical processes, through optimal control techniques and in particular by making use of linear and quadratic optimal control algorithms, (1),(2),(3). Although most of these applications have proven to be beneficial, such deterministic control techniques may result to be inapplicable for two reasons:
+                        
+                           1)
+                           An adequate model relating the possible control variables to the output variable(s) of the process may not be specifiable or be structurally identifiable,
+                        
+                        
+                           2)
+                           Such a model may be specifiable, but the determination of the state of the system may be so costly as to render the optimal control possible, but too costly to be profitable to apply.
+                        
+                     
+                  
+                  In stochastic control, instead, one can rely on the statistical properties of the inputs in suitably designed mixing plants to provide an Increase in the efficiency of the process by making use of its potential stability properties, (4), or by exploiting through optimal control techniques the part of the process that can be specified by a deterministic model and through stochastic control techniques the part that can only be modelled statistically, (5).
+                  As generally all physical processes are statistically identifiable stochastic control formulations of mineral processes may provide appropriate policies to such processes. Also, in many cases the use of stochastic control techniques are extremely cheap to Implement, do not require the determination of the state of the system and therefore provide over-all optimal policies, if the cost of determining the state of the system is also considered. In short, modelling mineral processes requires usually many stochastic sub-models because allot of uncertainty is present regarding the process. Under these circumstances, one of the conclusions of this paper will be that in these applications stochastic control techniques are to be preferred.
+                  After the introduction, paragraph two will provide a brief schematic representation of the formulation of suitable models for processes, to which optimal control techniques may be applied. In paragraph three, stochastic models of these processes will be examined, which often involve completely different modelling techniques.
+                  Paragraph four, five and six will deal with applications. In paragraph four the control of ores for their sulpher content will be discussed while in paragraph five the optimal extraction policy from a mineral deposit will be dealt with. Finally in paragraph six, a flotation plant problem will be examined. In paragraph seven, certain conclusions will be drawn.

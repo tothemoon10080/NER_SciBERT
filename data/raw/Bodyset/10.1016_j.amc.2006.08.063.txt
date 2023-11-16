@@ -1,0 +1,9 @@
+In this paper, a simple method for generating a nonsingular solution of the matrix equation XH
+                     =
+                     HX where the matrix H is in unreduced lower Hessenberg form is proposed. The controllability of the matrix pair (H,
+                     b) where b is the last column vector of solution matrix X is also addressed. In addition, a nonsingular symmetric solution of the matrix equation XH
+                     =
+                     H
+                     T
+                     X is obtained and the matrix pair (H,
+                     b) where b is the last row of the solution matrix of this equation is shown to be controllable.Consider the linear-time invariant single-input control systems We state some lemmas and definitions that are needed throughout the paper to study the controllability of the pair ( Let Let Let           We assume that the matrix     First, we prove that there always exists a nonsingular solution of the matrix equation  First, let the matrix Next, we prove that    Now, we show that The 5th column of the matrix Then the matrix Note the relations This proves that It is clear that sufficient conditions to show that the solution of the matrix equation All the eigenvalues of  We choose the vector  Since the pair ( Form the matrix equation    First, let the matrix From Since both Let We construct the matrix   Then the matrix  Since the pair (  The matrices  In In We consider the randomly generated lower Hessenberg matrix Set Set Set Set The first author is deeply grateful to Professor Dr. Salah El-Gendi, Faculty of Science, Assiut University for his comments and suggestions to improve the quality of the paper.

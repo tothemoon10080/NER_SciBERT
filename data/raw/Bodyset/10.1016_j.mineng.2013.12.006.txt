@@ -1,0 +1,74 @@
+This technical note presents results of gas dispersion measurements carried out in industrial mechanical flotation cells from Chilean concentrators. Results showed that superficial gas rate, gas holdup and bubble size were within ranges found in literature. The bubble surface area fluxes (SB
+                     ) were computed using the superficial gas rates and the Sauter mean diameters, obtaining approximate SB
+                      ranges from 20m2/s/m2 to 60m2/s/m2 for both self-aerated and forced-air flotation cells. Despite the different cell types, sizes and wide range of operating conditions, an exponential relationship between superficial gas rate (JG
+                     ) and Sauter mean diameter (D
+                     32) was obtained: 
+                        
+                           
+                              
+                                 
+                                    D
+                                 
+                                 
+                                    32
+                                 
+                              
+                              =
+                              
+                                 
+                                    D
+                                 
+                                 
+                                    0
+                                 
+                              
+                              ·
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    γ
+                                    ·
+                                    
+                                       
+                                          J
+                                       
+                                       
+                                          G
+                                       
+                                    
+                                 
+                              
+                              ,
+                              
+                              
+                                 
+                                    D
+                                 
+                                 
+                                    0
+                                 
+                              
+                              =
+                              0.77
+                              ±
+                              0.11
+                              ,
+                              
+                              γ
+                              =
+                              0.77
+                              ±
+                              0.09
+                           
+                        
+                      This result allows predicting D
+                     32 as a function of JG
+                     . Data on gas holdup (εG
+                     ) as a function of Sauter mean diameter were also presented: For JG
+                     
+                     <1.2cm/s, gas holdup increases as superficial gas rate increases, indicating a dominant effect of superficial gas rate; for JG
+                     
+                     >1.2cm/s, gas holdup decreases as D
+                     32 increases, indicating a predominant effect of bubble coalescence.Gas dispersion can be defined as the effectiveness with which the air is distributed through the volume of a reactor. It is typically expressed in terms of gas holdup ( In flotation cells, the bubble size depends on machine factors (e.g., bubble generation device, turbulence and gas flow rate), solution chemistry (e.g., frother type and concentration), pulp properties (e.g., density, viscosity), and other factors (e.g., temperature, atmospheric pressure). Bubble size distribution is the consequence of the primary generation process (gas dispersion) and secondary processes, particularly coalescence. The increase of bubble size may result from those primary and secondary processes.  This technical note presents superficial gas rate, Sauter mean bubble diameter ( Gas dispersion measurements were conducted in mechanical cells (self-aerated and forced air) of 10–300 Gas holdup is defined as the volumetric air concentration within a flotation cell (e.g., in the pulp zone). It was measured using the 1.25 Bubble size, represented by the Sauter mean diameter, is considered to be one of the most important indicators of the gas dispersion efficiency. It was obtained using images collected using the bubble size analyzer (MBSA) to characterize the bubble size distribution ( The image processing software USM-IMA ( For the bubble capture, the MBSA sampling tube was placed between the cell launder lip and the froth-crowder. The MBSA was adapted to determine the local superficial gas rate, Superficial gas rate is expressed as the volumetric gas flowrate, Bubble surface area flux (    Notice from  Gas dispersion data of mechanical flotation cells from six Chilean concentrators were presented. The key outcomes are as follows: Ranges of superficial gas rate (0.5–2.5 Bubble size as a function of the superficial gas rate showed a strong correlation using the overall dataset, despite the broad operating conditions, cell sizes and types. As a result, the relationship of Abnormal conditions were detected using the Gas holdup results showed that this variable increased for Funding for process modelling and control research is provided by CONICYT, Project Fondecyt 1130568 and Santa María University, Project 271351.

@@ -1,0 +1,16 @@
+The MnFe2O4/g-C3N4/diatomite composites (Mn/G/D) were prepared via a facile precipitation-calcination method in this study. The Mn/G/D possessed higher specific surface area, lower electron-hole pairs’ recombination rate, as well as wider and stronger visible light absorption capacity. Since the synergistic effect between g-C3N4 and MnFe2O4, the photogenerated electron could transfer from g-C3N4 to MnFe2O4, which could promote the migration of electrons as well as enhance the photocatalytic activity and peroxymonosulfate (PMS) activation efficiency. Mn/G/D-5% composite displayed the excellent degradation performance of bisphenol A (BPA) with the removal efficiency of 99.9% under PMS/Vis system, which was approximately 2.47 and 63.8 times as high as that of the Mn/G/D-5%/PMS and Mn/G/D-5%/Vis system, respectively. Moreover, negative electricity derived from diatomite surface also promoted the photogenerated carriers’ migration, and the degradation rate constant was around 2.4 times higher than that of MnFe2O4/g-C3N4 (Mn/G). In addition, quenching experiments showed that both radical pathway (h+, 
+                        
+                           ·
+                        
+                     OH, 
+                        
+                           ·
+                        
+                     O2
+                     − and SO4
+                     
+                        
+                           ·
+                        
+                     
+                     −) and non-radical pathway (1O2) were responsible for the degradation of BPA.

@@ -1,0 +1,32 @@
+A comparative study on the electrooxidation of phenol in H2SO4 medium using pure PbO2 or F-, Co- and Co,F-doped PbO2 electrodes in filter-press cells was carried out. The oxide films were obtained by galvanostatic electrodeposition using an electrolytic bath containing sodium lauryl sulfate as additive and Pb2+, F−, Co2+ or Co2+
+                     +F−, under magnetic stirring (to obtain 4-cm2 electrodes) or ultrasound waves (to obtain 63-cm2 electrodes). The best results were attained with PbO2 electrodes doped with a low-Co content (1mM Co2+ in the electrolytic bath) along with F−: the chemical oxygen demand (COD) and the total organic carbon content (TOC) of the simulated wastewaters were removed by about 75% and 50%, respectively. When pure PbO2 electrodes were used, the COD and TOC removals were about 60% and 45%, respectively. For the smaller electrodes, an average current efficiency (ACE) and an energy consumption (EC) of about 16% and 70kWh
+                     
+                        
+                           k
+                           
+                              g
+                              
+                                 COD
+                              
+                              
+                                 −
+                                 1
+                              
+                           
+                        
+                     , respectively, were obtained. For the larger electrodes, the ACE and EC values were about 18% and 105kWh
+                     
+                        
+                           k
+                           
+                              g
+                              
+                                 COD
+                              
+                              
+                                 −
+                                 1
+                              
+                           
+                        
+                     , respectively. Stability tests of the electrodes showed that they are suitable for use in the electrochemical treatment of phenol wastewaters.Phenolic compounds are commonly present in wastewater produced by several industries, among them oil refineries, coke, plastics, and chemical plants. Thus, before discharge these compounds must be removed from the wastewater due to their toxicity. Because of their refractory chemical nature, the use of biological treatments becomes inadequate In processes involving the anodic oxidation of organic molecules or the production of ozone by electrochemical means, a high overpotential for the oxygen evolution reaction (OER) is desirable, since it leads to higher global current efficiencies. Indeed, a high overpotential is very important when electrooxidatively degrading organic compounds, despite not being the only expected characteristic for the electrode material. Some materials (e.g., Au and Pt) that present a low-OER overpotential have oxygenated species available on their surfaces (formed from the water dissociation reaction), capable of promoting the oxidation of the organic compound. But, in spite of this, their low-OER overpotential commonly leads to a low rate constant for this oxidation reaction, something undesirable beside the cost of these materials. Consequently, many authors have investigated different electrode materials (glassy carbon, tin dioxide, lead dioxide, boron-doped diamond (BDD), etc.) for the oxidation of phenolic compounds, at a more fundamental level as well as in electrochemical reactors, as recently reviewed in detail by Martínez-Huitle and Ferro PbO Several papers were published reporting on the performance of PbO Considering the above, the main goal of this work is the investigation of the performance of pure or Co and F (together or separately) doped β-PbO All chemicals, including Pb(NO The preparation of the platinised titanium plate substrate was previously described elsewhere Larger Ti–Pt/β-PbO The Co content in the doped PbO High-performance liquid chromatography (HPLC) was used to characterise the chemical composition of the simulated wastewater with electrolysis time (charge passed). A HP 1050 HPLC chromatograph with a 1050 The chemical oxygen demand (COD) of the simulated phenol wastewater was determined at different times (up to different amounts of charge passed through the cell) using a Hach DR 2000 analyser at a wavelength of 620 The small-scale electrodes were used in the electrooxidation (100 The larger scale electrodes were used in the electrooxidation (100 For the doped electrode that presented the best performance in the phenol electrooxidation in the small-scale system, a stability test (up to 50 After each stability test, mass loss of the electrode PbO The influence of the Co First the phenol electrooxidation at the different obtained PbO From the results presented in Furthermore the COD results presented in A possible explanation for the better performance of the Co-doped electrodes is that low Co contents in the Co- or Co,F-doped PbO The average current efficiencies (ACE) for the electrooxidations after a The energy consumption (EC) for the removal of 1 As it can be seen in Boron-doped diamond has been reported as an excellent electrode material for the electrooxidation of wastewater From the above presented results, it can be concluded that the electrooxidation performances of the F-, 1 During the experiments using the larger electrodes, HPLC was used to determine the chemical composition of the simulated wastewater, besides monitoring its degradation through COD and TOC measurements. The main compounds found in the electrooxidised wastewater were phenol, hydroquinone, The variation of the phenol (Ph) concentration with time (see  As pointed out before, at the end of the electrolyses phenol was always completely consumed, while The data hereinbefore presented showed that the 1 As noted recently Small-scale pure, Co-, F- and Co,F-doped PbO The results obtained by using pure, Co- and Co,F-doped PbO The results of stability tests for the pure and the 1 Financial support and scholarships from CNPq (Brazil) are gratefully acknowledged. L.S. Andrade thanks CAPES (Brazil) for a scholarship for his stay at the University of Alicante. Financial support from FAPESP (Brazil; proc. no. 04/08572-4) is also gratefully acknowledged. J. Iniesta acknowledges the Ramon y Cajal Programme, Ministerio de Ciencia y Tecnología, Spain.

@@ -1,0 +1,1 @@
+Conductivity based sensors can be applied to monitor a wide range of processes in the mineral processing industry. This work compares the use of an Extended Kalman Filter and a Nonlinear Observer for tracking conductivity variations under dynamical conditions. Several simulations illustrate the main features and differences among these two methods.

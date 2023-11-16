@@ -1,0 +1,14 @@
+The structure, stability and elastic properties of di-transition-metal carbides Ti
+                        x
+                     V1-x
+                     C were investigated by using the first-principles with a pseudopotential plane-waves method. The results show that the equilibrium lattice constants of Ti
+                        x
+                     V1-x
+                     C show a nearly linear reduction with increasing addition of V. The elastic properties of Ti
+                        x
+                     V1-x
+                     C are varied by doping with V. The bulk modulus of Ti0.5V0.5C is larger than that of pure TiC, as well as Ti0.5V0.5C has the largest C
+                     44 among Ti
+                        x
+                     V1-x
+                     C (0≤x≤1), indicating that Ti0.5V0.5C has higher hardness than pure TiC. However, Ti0.5V0.5C presents brittleness based on the analysis of ductile/brittle behavior. The Ti0.5V0.5C carbide has the lowest formation energy, indicating that Ti0.5V0.5C is more stable than all other alloys.

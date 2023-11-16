@@ -1,0 +1,1 @@
+A control system or computer aided quality control system methodology is presented to determine surface defects in the continuous casting of steel slabs. When no defects are present, slabs can be either hot charged or direct rolled, thereby increasing the throughput of the system and decreasing energy consumption.

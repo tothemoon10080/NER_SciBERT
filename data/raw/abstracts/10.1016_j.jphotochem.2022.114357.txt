@@ -1,0 +1,10 @@
+Ceftriaxone (CEF), a cephalosporin antibiotic, has been widely used in the treatment of complex bacterial infections and frequently detected in the aquatic environment. This study is the first to explore the degradation and mineralization of CEF in aqueous solution by UV/H2O2 and UV/S2O8
+                     2- processes using KrCl excilamp (222 nm). CEF was degradable under direct photolysis (∼80 %), but not mineralized in terms of total organic carbon (TOC) decay. The degradation rate constants and mineralization up to 98 % decreased in the order: UV/S2O8
+                     2- ≫ UV/H2O2 > UV. Radical scavenging tests showed the involvement of SO4
+                     •− and HO• as primary reactive oxygen species (ROS). Addition of Cl-, SO4
+                     2-, NO3
+                     – and HCO3
+                     – anions in the range of 1–100 mM promoted the degradation in most cases, but the TOC decay in this concentration range was enhanced only by sulfates. High concentrations of NO3
+                     – and HCO3
+                     – inhibited the mineralization. The impact of anions as radical promoters in relation with generation of secondary ROS and their selectivity towards CEF and it intermediates is discussed. Finally, testing tap water as a real matrix showed complete degradation of CEF with a limited mineralization by UV/S2O8
+                     2- process. This study demonstrates the great potential of mercury-free KrCl excilamp in catalyst-free persulfate oxidation system for effective elimination of antibiotics, such as CEF, from aqueous media.

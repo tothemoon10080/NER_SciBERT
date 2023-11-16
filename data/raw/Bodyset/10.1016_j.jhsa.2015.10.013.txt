@@ -1,0 +1,14 @@
+Purpose
+                  To report on union rates and times for a cohort of acute nondisplaced or minimally displaced proximal pole fractures evaluated with serial computed tomography (CT) scans.
+               
+                  Methods
+                  All patients with isolated acute proximal pole scaphoid fractures (< 6 weeks from injury) who presented at our institution between 2006 and 2013 were identified. Each subject's health record, CT scans (performed at initial assessment and serially to document healing), and x-rays were retrospectively reviewed to determine details of injury, treatment course, and treatment outcome. Union incidence and time to union were determined based on CT scan results. The effect that each predictor variable had on union, nonunion, and delayed union was assessed.
+               
+                  Results
+                  This cohort consisted of 53 patients with proximal pole scaphoid fractures (47 males and 6 females; mean age, 30 ± 17 years). The overall union incidence with cast treatment was 90% (47 of 52). The study was underpowered to detect any factors that were predictive of developing a nonunion with cast treatment with the exception of a slight delay to seeking treatment. Average time to union was 14 ± 8 weeks for cases treated with surgical fixation (n = 4; cases that failed casting and were subsequently treated surgically) and 14 ± 12 weeks for cases treated with casting alone. Factors found to be correlated to longer union times included fracture translation (r = 0.30) and the presence of cysts or comminution.
+               
+                  Conclusions
+                  The reported union incidence and union times in this study compared favorably with the literature. Risk factors that were associated with a significantly greater time to union included fracture comminution, the presence of cysts, and fracture translation. Our sample size was relatively small, and other limitations inherent in the retrospective design must be considered.
+               
+                  Type of study/level of evidence
+                  Prognostic IV.

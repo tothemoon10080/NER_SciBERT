@@ -1,0 +1,10 @@
+The aim of this experimental investigation was to study kinetics of Fenton and modified Fenton oxidation applied to miscellaneous dye solutions. Several bench scale laboratory tests for the treatment of colored wastewaters containing model pollutant compounds, reactive azo dyes C.I. Reactive Violet 2 (RV2) and C.I. Reactive Yellow 3 (RY3) were performed. In order to examine the effects of initial Fe2+ concentration, oxidant/catalyst molar ratio and oxidant type on TOC reduction and color removal, the following reactants were used: classic Fenton's reagent (Fe2+/H2O2) and modified Fenton's reagent, where potassium peroxodisulfate, alone and in combination with hydrogen peroxide, was selected as oxidant. Response surface methodology (RSM), particularly D-optimal design, was used for the purpose.
+                  This research contributed in several ways: (i) evaluation of more effective Fenton oxidant on pollutant content reduction, in terms of TOC and color removal, (ii) assessment of the optimal reactant doses, (iii) describing the RV2 kinetic behavior in applied systems and (iv) determining the apparent rate constants. Mineralization was described by pseudo-first-order kinetics with observed rate constant k
+                     
+                        m
+                     
+                     =0.0133min−1. A kinetic model describing discoloration was composed of two first-order in-series reactions with discoloration rates; k
+                     1
+                     =0.9447min−1 and k
+                     2
+                     =0.0236min−1, at optimal operating conditions and with the highest initial organic load.

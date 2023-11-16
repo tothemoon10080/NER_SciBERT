@@ -1,0 +1,11 @@
+Purpose
+                  To compare the firmess and stress distribution patterns in the implants of two experimental models: a humerus with shaft pseudoarthrosis stabilized with a plate, and a humerus with shaft nonunions stabilized with a locking nail.
+               
+                  Materials and methods
+                  The two fixation devices are attached to cadaver humerus bones; geometries are created with the CATIA 4.2 design software (IBM, Armonk, USA). Subsequently, these geometries were modelled with the MSC PATRAN® computer processor (IBM, Armonk, USA). Finally, the mechanical properties of the materials were established as well as the contour properties and the loads the models were subjected to.
+               
+                  Results
+                  The nailed model was firmer that the plated model as regards compression, traction and torsion. Nonetheless, as far as A/P and lateral-medial flexion and lateral-medial shear stresses were concerned, the plated model was firmer than the nailed model. Stress distribution was more heterogeneous in the nail than in the plate, the latter being the implant type supporting the highest stress levels in all the loading phases studied.
+               
+                  Conclusions
+                  For some stress levels, the nail proved to be more stable than the plate, although for other stress levels the opposite was the case. In any case, the nail provides a better stress distribution than the plate.

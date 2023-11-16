@@ -1,0 +1,14 @@
+Purpose
+                  The aim of this study was to compare several osteosynthesis techniques (intramedullary headless compression screws, T-plates, and Kirschner wires) for distal epiphyseal fractures of proximal phalanges in a human cadaveric model.
+               
+                  Methods
+                  A total of 90 proximal phalanges from 30 specimens (index, ring, and middle fingers) were used for this study. After stripping off all soft tissue, a transverse distal epiphyseal fracture was simulated at the proximal phalanx. The 30 specimens were randomly assigned to 1 fixation technique (30 per technique), either a 3.0-mm intramedullary headless compression screw, locking plate fixation with a 2.0-mm T-plate, or 2 oblique 1.0-mm Kirschner wires. Displacement analysis (bending, distraction, and torsion) was performed using optical tracking of an applied random speckle pattern after osteosynthesis. Biomechanical testing was performed with increasing cyclic loading and with cyclic load to failure using a biaxial torsion-tension testing machine.
+               
+                  Results
+                  Cannulated intramedullary compression screws showed significantly less displacement at the fracture site in torsional testing. Furthermore, screws were significantly more stable in bending testing. Kirschner wires were significantly less stable than plating or screw fixation in any cyclic load to failure test setup.
+               
+                  Conclusions
+                  Intramedullary compression screws are a highly stable alternative in the treatment of transverse distal epiphyseal phalangeal fractures. Kirschner wires seem to be inferior regarding displacement properties and primary stability.
+               
+                  Clinical relevance
+                  Fracture fixation of phalangeal fractures using plate osteosynthesis may have the advantage of a very rigid reduction, but disadvantages such as stiffness owing to the more invasive surgical approach and soft tissue irritation should be taken into account. Headless compression screws represent a minimally invasive choice for fixation with good biomechanical properties.

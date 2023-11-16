@@ -1,0 +1,11 @@
+Background
+                  Geographic altitude is a potent environmental factor for human microbiota and bone mineral density. However, little evidence exists in population-based studies with altitude diversity ranges across more than 3000 m. This study assessed the associations between a wide range of altitudes and bone mineral density, as well as the potential mediating role of microbiota in this relationship.
+               
+                  Methods
+                  A total of 99,556 participants from the China Multi-Ethnic Cohort (CMEC) study were enrolled. The altitude of each participant was extracted from global Shuttle Radar Topography Mission (SRTM) 4 data. Bone mineral density was measured by calcaneus quantitative ultrasound index (QUI). Stool samples were collected for 16S rRNA gene sequencing (n = 1384). The metabolites of gut microbiota, seven kinds of short-chain fatty acids (SCFAs), were detected by gas chromatography–mass spectrometry (GC-MS, n = 128). After screening, 73,974 participants were selected for the “altitude-QUI” analysis and they were placed into the low-altitude (LA) and high-altitude (HA) groups. Additionally, a subgroup (n = 1384) was further selected for the “altitude-microbiota-QUI” analysis. Multivariate linear regression models and mediation analyses were conducted among participants.
+               
+                  Results
+                  A significant negative association between high-altitude and QUI was obtained (mean difference = −0.373 standard deviation [SD], 95% confidence interval [CI]: −0.389, −0.358, n = 73,974). The same negative association was also observed in the population with microbiota data (mean difference = −0.185 SD, 95%CI: −0.360, −0.010, n = 1384), and a significant mediating effect of Catenibacteriumon on the association between altitude and QUI (proportion mediated = 25.2%, P = 0.038) was also noticed. Additionally, the acetic acid, butyric acid, and total amount of seven SCFAs of the low-altitude group were significantly higher than that of the high-altitude group (P < 0.05).
+               
+                  Conclusion
+                  High-altitude exposure may decrease bone mineral density in adults, thus increasing the risk of osteoporosis. The modulation of gut microbiota may be a potential strategy for alleviating the decrease of bone mineral density.

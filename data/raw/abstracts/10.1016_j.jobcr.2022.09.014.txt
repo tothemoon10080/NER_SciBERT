@@ -1,0 +1,11 @@
+Aim
+                  To evaluate the effect of New Pozzolan(Fly Ash) on physicomechanical properties, cell viability of human pulpal cells (DPSCs) and mineralization potential when incorporated in various concentration in MTA.
+               
+                  Methodology
+                  Groups were based on addition or absence of fly ash; FM (Fly ash modified MTA) and CM (Conventional MTA) respectively. The initial and final setting time, compressive strength and pH was evaluated using Gillmore needle, ISO 4012:1978 and pH meter at varying time intervals. The cell viability and mineralization potential was analyzed using MTT assay and ALP activity respectively at varying time intervals. Data was analyzed using Kruskall Wallis test followed by Dunn's Post Hoc test (p < 0.05).
+               
+                  Results
+                  0.5 FM showed lower final setting time (p < 0.05) compared to all the other groups. Significantly increased compressive strength was noted in all FM groups at 24 h compared to CM; but no significant difference at day 21. No significant difference was observed in pH at varying time intervals. At day 7, 0.5 FM had significantly higher cell viability compared to all the other groups, but no difference was noted at day 14 (p > 0.05). Significantly increased ALP activity in 0.5 FM compared to other groups (p < 0.05).
+               
+                  Conclusion
+                  An admixture of 0.5% fly ash incorporated MTA when compared with unmodified MTA, significantly increased cell viability and ALP activity (mineralization potential) with lesser setting time. Significant increase in compressive strength was obtained in all fly ash modified MTA with no variation in pH at different time intervals.

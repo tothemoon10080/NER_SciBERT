@@ -1,0 +1,13 @@
+Sulfate (SO4
+                     2−) concentrations in eutrophic lakes are continuously increasing; however, the effect of increasing SO4
+                     2− concentrations on organic carbon mineralization, especially the greenhouse gas emissions of sediments, remains unclear. Here, we constructed a series of microcosms with initial SO4
+                     2− concentrations of 0, 30, 60, 90, 120, 150, and 180 mg/L to study the effects of increased SO4
+                     2− concentrations, coupled with cyanobacterial blooms, on organic carbon mineralization in Lake Taihu. Cyanobacterial blooms promoted sulfate reduction and released a large amount of inorganic carbon. The SO4
+                     2− concentrations in cyanobacteria treatments significantly decreased and eventually reached close to 0. As the initial SO4
+                     2− concentration increased, the sulfate reduction rates significantly increased, with maximum values of 9.39, 9.44, 28.02, 30.89, 39.68, and 54.28 mg/L∙d for 30, 60, 90, 120, 150, and 180 mg/L SO4
+                     2−, respectively. The total organic carbon content in sediments (51.16–52.70 g/kg) decreased with the initial SO4
+                     2− concentration (R2 = 0.97), and the total inorganic carbon content in overlying water (159.97–182.73 mg/L) showed the opposite pattern (R2 = 0.91). The initial SO4
+                     2− concentration was positively correlated with carbon dioxide (CO2) emissions (R2 = 0.68) and negatively correlated with methane (CH4) emissions (R2 = 0.96). The highest CO2 concentration and lowest CH4 concentration in the 180 mg/L SO4
+                     2− treatment were 1688.78 and 1903 μmol/L, respectively. These biogeochemical processes were related to competition for organic carbon sources between sulfate reduction bacteria (SRB) and methane production archaea (MPA) in sediments. The abundance of SRB was positively correlated with the initial SO4
+                     2− concentration and ranged from 6.65 × 107 to 2.98 × 108 copies/g; the abundance of MPA showed the opposite pattern and ranged from 1.99 × 108 to 3.35 × 108copies/g. These findings enhance our understanding of the effect of increasing SO4
+                     2− concentrations on organic carbon mineralization and could enhance the accuracy of assessments of greenhouse gas emissions in eutrophic lakes.

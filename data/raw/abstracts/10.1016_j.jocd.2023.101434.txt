@@ -1,0 +1,11 @@
+Purpose
+                  The objective of the study was to assess the agreement between the Stratos (DMS) and QDR 4500A (Hologic) DXAs in determining whole body and regional aBMD, as well as whole body composition.
+               
+                  Methods
+                  Fifty-five individuals (46 women: 84%) with a mean age of 41 ± 13.0 years (range: 20 to 64) and a mean BMI of 31.9 ± 10 kg/m² (range: 12.2 to 49.5) were consecutively scanned on the same day using the two devices. Predictive equations for areal bone mineral density (aBMD) and whole body composition (WBC) were derived from linear regression of the data.
+               
+                  Results
+                  The two DXAs were highly correlated (p<0.001 for all parameters) with a correlation coefficient (r) ranging from 0.89 to 0.99 for aBMD (r=0.89 for whole body, r=0.92 for radius, r=0.95 for femoral neck, r=0.96 for total hip, and r=0.99 for L1-L4). For WBC, the r value was 0.98 for lean tissue mass (LTM) and 1.0 for fat mass (FM). Paired t-tests indicated a statistically significant bias between the two DXAs for the majority of measurements, requiring the determination of specific cross-calibration equations. Compared to QDR 4500A, Stratos underestimated whole body aBMD and LTM and overestimated neck and hip aBMD and whole body FM. Conversely, no significant bias was demonstrated for mean aBMD at L1-L4 and radius. For whole body aBMD and FM, the concordance between the two DXAs was influenced by BMI.
+               
+                  Conclusions
+                  Despite a high concordance between the two DXAs, the systematic bias for aBMD and WBC measurements illustrates the need to define cross-calibration equations to compare data across systems.

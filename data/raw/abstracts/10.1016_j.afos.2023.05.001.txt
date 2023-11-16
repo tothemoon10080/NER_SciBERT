@@ -1,0 +1,11 @@
+Objectives
+                  Graves' disease (GD) is the most common cause of thyrotoxicosis. There are many studies that have evaluated bone mineral density (BMD) in Graves’ disease. However, the strength of a bone also depends on its microarchitecture which can be assessed by various techniques. Trabecular bone score (TBS) is a new method for assessing bone microarchitecture that is non-invasive and easily performed.
+               
+                  Methods
+                  The present study was a cross-sectional study that involved 50 patients with active GD and 50 healthy controls. Both groups were subjected to an assessment of biochemical parameters followed by measurement of BMD and TBS on the same dual energy X-ray absorptiometry (DXA) machine.
+               
+                  Results
+                  The mean age of patients with active GD (N = 50) was 31.9 ± 10.9 years while that of controls was 31.2 ± 4.9 years (P = 0.640). The female: male ratio was the same for both groups (F = 31, M = 19). The mean lumbar spine BMD, femoral neck BMD, total hip BMD, and distal radius BMD were significantly reduced in GD when compared to that in controls. The mean absolute lumbar spine TBS in GD was 1.263 ± 0.101 while that in controls was 1.368 ± 0.073 (P < 0.001). On multivariate regression analysis, the factors that predicted TBS were serum thyroxine (T4) and L1-L4 BMD.
+               
+                  Conclusions
+                  Patients with Graves’ disease had reduced bone density at all sites and degraded microarchitecture. Long-term studies are required to understand the pattern of recovery of bone microarchitecture after the restoration of euthyroidism.

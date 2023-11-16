@@ -1,0 +1,11 @@
+Introduction
+                  The aim of the study was to evaluate the cytotoxicity, radiopacity, pH, and flow of a calcium silicate–based and an epoxy resin–based endodontic sealer, MTA Fillapex (Angelus, Londrina, PR, Brazil) and AH Plus (Dentsply, Konstanz, Germany), respectively.
+               
+                  Methods
+                  Cytotoxicity, radiopacity, and flow evaluation were performed following ISO requirements. The pH level was measured at periods of 3, 24, 72, and 168 hours. Cytotoxicity was evaluated by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide assay to check the Balb/c 3T3 cells viability at 1- to 4-week periods. Data were statistically analyzed by analysis of variance and the Tukey test with a significance level of 5%.
+               
+                  Results
+                  In all tested periods, MTA Fillapex was more cytotoxic than AH Plus (P < .05). Although AH Plus presented higher radiopacity than MTA Fillapex (P < .05), both sealers showed minimum required values. MTA Fillapex presented alkaline pH in all experimental times, whereas AH Plus cement showed a slightly neutral pH and a flow significantly lower than that of MTA Fillapex (P < .05).
+               
+                  Conclusions
+                  Although MTA Fillapex was more cytotoxic than AH Plus, it showed suitable physicochemical properties for an endodontic sealer.

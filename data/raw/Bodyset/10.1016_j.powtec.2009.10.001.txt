@@ -1,0 +1,63 @@
+A simple empirical dimensionless model to calculate the mineral gangue recovered per size class (R
+                     G,i
+                     ) by entrainment, in terms of the water recovery (R
+                     W), in an industrial flotation cell is presented. For modeling purposes, a dimensionless entrainment factor EF
+                     
+                        i
+                     , corresponding to the ratio (R
+                     G,i
+                     /R
+                     W), was defined for each particle size class. From experimental data measured in an industrial 130m3 flotation cell, it was found that EF
+                     
+                        i
+                      was well correlated with the dimensionless ratio (d
+                     P,i
+                     /δ) by
+                        
+                           
+                              
+                                 E
+                                 
+                                    F
+                                    i
+                                 
+                                 =
+                                 exp
+                                 
+                                    (
+                                    
+                                       −
+                                       0.693
+                                       
+                                          
+                                             (
+                                             
+                                                
+                                                   d
+                                                   
+                                                      P
+                                                      ,
+                                                      i
+                                                   
+                                                
+                                                δ
+                                             
+                                             )
+                                          
+                                          Φ
+                                       
+                                    
+                                    )
+                                 
+                              
+                           
+                        
+                     where d
+                     P,i
+                      is the particle size class “i”, and δ parameter corresponds to the mean particle size for EF
+                     
+                        i
+                     
+                     =0.5, Φ is a drainage parameter, which depends on the mineral characteristics and cell operating conditions (i.e. cell design and water recovery).
+                  The gangue recovery model was evaluated in a large industrial flotation cell, where the entrainment factor was calculated by direct measurement of the bubble load grade for non-selective froths (high water recovery), and by measuring the top of froth grade for selective froths (low water recovery). The model was also successfully tested using two different sets of industrial flotation data, taken from literature (Engelbrecht and Woodburn, 1975; Zheng et al., 2006).
+                  The particle entrainment model is a powerful tool for flotation process modeling and simulation, to explore the impact the water recovery has on the final concentrate grade.Froth flotation can be considered a resultant process of two consecutive operations, reaction and separation Separation occurs in the froth zone when particle–bubble aggregates enter the froth and the interstitial liquid and solids contained in this (mainly gangue) have the opportunity to drain back to the pulp zone. The preferential gangue drop-back allows for froth cleaning and increases the mineral grade reporting to the concentrate.  At present, one of the main problems in froth flotation process modeling is the estimation of free gangue recovery by entrainment, which reduces the grade of concentrate and decreases the process capacity particularly increasing the costs in cleaning stages. From review papers on gangue recovery (i.e. Livshits and Bezrodnaya Froth characteristics (i.e. froth structure, stability, bubble size, froth depth, and lip length) Froth rheology and interstitial slurry rheology Density difference between solid and liquid Particle size Solids percentage below interface level The first two factors affect the water recovery to the concentrate, A large number of studies have shown a strong correlation between gangue recovery and water recovery Experiments reported by Trahar Recently, Finch et al. For design and operating purposes, previous researchers Kirjavainen Savassi et al. Moys Fundamental or mechanistic models of complex systems (e.g. industrial flotation processes) demand a high effort in their formulation, and a large number of parameters which are difficult to evaluate are typically present. Empirical models are easier to obtain, but their applications are limited to the range of experimental data. According to Stevenson and Galvin From the above discussions, it is evident that the development of a more general expression that can be used for different systems would be valuable. A general model must be an expression with exclusively dimensionless parameters, in order to be validated. This approach was considered for gangue recovery modeling in this work. Thus, a dimensionless empirical model based on relevant physical variables was developed. For modelling purposes, a dimensionless parameter called “Entrainment Factor” From Eqs. Solids are transported in the froth by two mechanisms: true flotation (solids transport of bubble–particle aggregates on the bubble surface), and entrainment (by water transport). Thus, the solid mass balance in the concentrate can be represented in terms of floatable (and associated) valuable mineral and non-floatable minerals for each particle size class, by Assuming that the top of froth composition From Eqs. In a previous study, it was shown that bubble load grade and top of froth grade were similar if compared per size class For non-selective froths, it will be always better to use The feed mass balance in terms of the floatable and non-floatable minerals, for each particle size class, is Asumming the valuable species (i.e. Cu) of the floatable mineral in the feed mass flow rate, has the same grade as in the bubble load The previous assumption is not strictly valid because some valuable mineral in the feed is non-floatable. However, considering the maximum recovery of the valuable mineral is higher than 90%, the impact of this assumption will underestimate by less than 1% the value of Thus, the gangue recovery per size class The water recovery An alternative method for estimating the gangue and water recovery by entrainment was presented by Yianatos et al. A new methodology for estimating froth recovery from bubble load measurement and mass balance was suggested by Yianatos et al. It was assumed that the valuable mineral entering the froth, collected in the bubble swarm, keeps the same grade (e.g. copper) per particle size class (non selective process), until it leaves the cell before entering the concentrate. Thus, the valuable mineral grade per size class remains almost constant, while the overall grade can vary due to preferential detachment of coarser or less hydrophobic particles (selective process). Also, it was observed that the froth selectivity increases with residence time during the valuable mineral transport. In order to evaluate the effect that entrained valuable mineral grade has upon the froth recovery estimation, Yianatos et al. Based on the above discussion, the following assumptions are considered: The valuable mineral is recovered only by true flotation (valuable entrainment is negligible). The degree of gangue association in floatable minerals reporting to the concentrate can be estimated from bubble load grade (non-selective froth transport) or top of froth grade (selective froth transport) data. For simplification, a single floatable mineral was considered (i.e. equivalent copper mineral containing chalcopyrite, chalcocite, associated gangue, etc.) with mean grade Key parameters for gangue recovery estimation are the bubble load grade The experimental procedure and data analysis for bubble load measurement and characterization was described by Yianatos et al.  Tests were performed on site in four sampling campaigns from January 2005 to November 2007.         For modelling the particle entrainment in flotation froths, the liquid velocity, liquid/solid dispersion and particle settling must be characterized. The froth zone in industrial cells can be considered an anisotropic media Considering the above restrictions, in order to develop a practical entrainment model for non-attached particles, the froth zone was considered like a solid–liquid separation stage. In this approach, the separation efficiency is commonly represented by separation curves, e.g. the hydrocyclone efficiency curve, the partition curve in dense medium separation   This kind of dimensionless relationship has been used previously to correlate separation processes considering particle classification in a liquid medium, as a function of particle size In Eq. The following boundary conditions for the model proposed in Eq.  In order to validate the application of the new model, two different sets of industrial data, reported by Engelbrecht and Woodburn    So, for process modeling and simulation, the gangue recovery can be described as a function of the particle size distribution and the water recovery Thus plant testing for gangue recovery characterization (estimation of the Total mass balance and solids percentage: to calculate the mass flowrate split Top of froth grade or bubble load grade (for non-selective froth): to calculate the gangue recovery from Eqs. Graphical representation of entrainment factor Graphical representation of After parameters A simple empirical model to calculate the gangue recovery per size class ( In order to evaluate the gangue recovery model in a large industrial flotation cell, the entrainment factor The model was successfully tested to describe the gangue recovery under different operating conditions in a 130 It was observed that gangue recovery per size class is a complex function depending on the cell design characteristics, process operating conditions and froth characteristics. However, despite the complexity of the process and the large size of flotation cells, gangue recovery per size class was well predicted as a single function of the water recovery. Industrial data on gangue recovery versus water recovery showed the same non-linear trend as the data previously reported in a continuous pilot cell The model is a powerful tool for flotation process modeling and simulation, to explore the impact of water recovery and particle size on the final concentrate grade. The authors are grateful to El Teniente Division, CODELCO-Chile, for providing access to their plant and for valuable assistance in the experimental work. Funding for process modelling and control research is provided by

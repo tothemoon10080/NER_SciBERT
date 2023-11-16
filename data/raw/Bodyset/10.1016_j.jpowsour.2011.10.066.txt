@@ -1,0 +1,18 @@
+Ce-doped Li1+x
+                     Ce
+                        y
+                     V3−y
+                     O8 (0≤
+                     y
+                     ≤0.015) cathode materials have been prepared through a citrate sol–gel route followed by heating at 550°C in air. Demonstrated by XRD and elemental mapping, single-phase and homogeneous Li1+x
+                     Ce
+                        y
+                     V3−y
+                     O8 solid solutions are obtained at y
+                     ≤0.01, while CeVO4 impurity presents with increasing of y up to 0.015. The Li1+x
+                     Ce
+                        y
+                     V3−y
+                     O8 at y
+                     =0.01 delivers initial capacity of 262.33mAhg−1 and capacity retention of 98.9% within the first 50 cycles, much better than the pristine Li1+x
+                     V3O8 cathode (261.86mAhg−1 and 87.7% accordingly). Electrochemical analyses show that an appropriate dosage of Ce can significantly suppress the capacity fading arose from lithiation phenomena around 2.55 and 2.3V upon cycling. These interesting phenomena are mainly attributed to the stabilization of the microstructure of the material and the modification of their crystallinity and grain morphology, which lead to suppression of structural damage from the two-phase transformation around 2.55V upon cycling and the dissolution of active material in the electrolyte on the 2.3V phenomena.The lithium trivanadate Li Numerous researches have been devoted to improve the reversible capacity of Li Hetero-atom doping is an effective route to improve the electrochemical behaviors of cathode materials by modifying the crystal structure Cerium (Ce) has a big radius and high affinity for oxygen, and has been reported as an effective dopant for LiMn The starting materials used in the experiment were lithium hydroxide (LiOH·H Thermogravimetry and differential thermal analysis (TG-DTA, SDT Q600) were performed in air at a heating rate of 10 The cathode electrodes were prepared with the active materials, acetylene black and polyvinylidene fluoride (PVDF) binder in a weight ratio of 75:15:10. Electrochemical characterization of the products was performed in cells with metallic lithium as the negative electrode, a solution of 1 For determining the sintering temperature of the xerogel precursors, simultaneous TG-DTA analysis was carried out from ambition temperature to 700 As shown in It has been reported that Li The XRD patterns of the obtained Li The effect of the doping ions on the acceptor structure is also identified by the increase in the position shift of the (1 Note that the lattice parameters   Galvanostatic charge/discharge tests and cyclic voltammetry studies on Li  Comparing to the initial capacity of the pristine Li The capacity retention upon 50 cycles of the testing electrodes demonstrates a strong improvement on the cyclic performance of the samples by Ce doping in present experiment. Especially, the sample of In order to further discuss the effects of Ce doping on the electrode reactions of Li For the undoped sample, five peaks observed in the cathodic scan from 4.3 to 1.5 In the case of the Ce-doped samples, the cathodic peaks between 3.0 and 2.0 For the undoped sample shown in  As shown in Comparing the discharge voltage profiles between the 2nd and 50th cycles for the undoped sample, we can find that the plateaus of 2.8 and 2.7 Similarly to the case of undoped sample, the Ce doped samples also presented steady discharge plateaus at 2.8 and 2.7 Cathode materials Li Appropriate substitution of cerium for vanadium could significantly improve the cycliability of Li This work was financially supported by the

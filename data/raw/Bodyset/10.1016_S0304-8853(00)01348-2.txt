@@ -1,0 +1,9 @@
+Spin reorientation and magnetocrytalline anisotropy of (Nd1−x
+                     Dy
+                        x
+                     )2Fe14B (x=0.25,0.5,0.75) have been studied from mangetization curves of magnetically aligned powders. In (Nd1−x
+                     Dy
+                        x
+                     )2Fe14B, the spin reorientation temperature (T
+                     SR) decreases linearly on increasing Dy-substitution from 135 to 56K with the ratio of ΔT
+                     SR=−1.11K/Dyat% in the composition range of 0⩽x⩽0.75. The spin reorientation angle at 4.2K decreases on Dy-substitution from 30.4° at x=0 to 14.7° at x=0.75. From the investigation of the magnetocrystalline anisotropy at 4.2K, the disappearance of the spin reorientation for compositions x≳0.85 is expected.Nd In this paper, we report the effect of Dy-substitution on the spin reorientation and magnetocrytalline anisotropy in (Nd The alloys of (Nd  The SRA of (Nd Here,  The magnetocrystalline anisotropy constants Here, In the case of the experiments performed above  

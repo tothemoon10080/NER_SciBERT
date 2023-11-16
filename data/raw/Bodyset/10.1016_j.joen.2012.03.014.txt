@@ -1,0 +1,11 @@
+Introduction
+                  The lysyl oxidase (LOX) family is an emerging family of amine oxidases responsible for the formation of collagen fibrils in the extracellular matrix. To date, 5 LOX family genes have been identified in humans, encoding LOX and LOX-like proteins (LOXL, LOXL2, LOXL3, and LOXL4). The goal of this study was to evaluate the expression and function of the LOX family genes in odontoblastic differentiation of human dental pulp (HDP) cells.
+               
+                  Methods
+                  Expression of the LOX family genes was assessed by reverse transcriptase polymerase chain reaction analysis, and the amine oxidase activity of HDP cells was evaluated by peroxidase-coupled fluorometric assays. Mineral nodule formation and expression of odontoblastic marker genes were assessed in the presence and absence of specific small interfering RNAs (siRNAs) of the LOX family genes.
+               
+                  Results
+                  Among the LOX family genes, only LOX and LOXL showed prominent expression during odontoblastic differentiation of HDP cells. Suppression of LOX and LOXL expression by siRNA-induced interference substantially decreased the amine oxidase activity of the differentiating HDP cells. Furthermore, interference of LOX and LOXL expression inhibited mineral nodule formation and expression of odontoblastic marker genes during odontoblastic differentiation of HDP cells.
+               
+                  Conclusions
+                  These findings show for the first time that the LOX- and LOXL-mediated organization of collagen fibrils in extracellular matrices of HDP cells might be an important regulator for odontoblastic differentiation of HDP cells.

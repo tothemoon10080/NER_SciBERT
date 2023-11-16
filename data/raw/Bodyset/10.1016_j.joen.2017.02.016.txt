@@ -1,0 +1,11 @@
+Introduction
+                  The role of complement, especially through the C5a fragment, is well-known for the initiation of inflammation. Its involvement in regeneration has been shown more recently by the recruitment of mesenchymal stem cells. C5a can be produced locally by the pulp fibroblasts in response to injury or infection. This work aims to investigate the effect of different pulp capping biomaterials on complement activation and its possible influence on inflammatory and pulp stem cell recruitment.
+               
+                  Methods
+                  Conditioned media were prepared from 3 pulp capping biomaterials: Biodentine (Septodont, Saint-Maur-des-Fosses, France), TheraCal (BISCO, Lançon De Provence, France), and Xeno III (Dentsply Sirona, Versaille, France). Injured pulp fibroblasts were cultured with these conditioned media to analyze C5a secretion using an enzyme-linked immunosorbent assay. Dental pulp stem cells (DPSCs) were isolated from human third molar explants by magnetic cell sorting with STRO-1 antibodies. The expression of C5a receptor on DPSCs and inflammatory (THP-1) cells was investigated by immunofluorescence. The migration of both DPSCs and THP-1 cells was studied in Boyden chambers.
+               
+                  Results
+                  Pulp fibroblast production of C5a significantly increased when the cells were incubated with TheraCal- and Xeno III–conditioned media. The recruitment of cells involved in inflammation (THP-1 cells) was significantly reduced by Biodentine- and TheraCal-conditioned media, whereas the migration of DPSCs was reduced with TheraCal- and Xeno III–conditioned media but not with that of Biodentine. The involvement of C5a in cell recruitment is demonstrated with a C5a receptor–specific antagonist (W54011).
+               
+                  Conclusions
+                  After pulp injury, the pulp capping material affects complement activation and the balance between inflammation and regeneration through a differential recruitment of DPSCs or inflammatory cells.

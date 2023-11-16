@@ -1,0 +1,21 @@
+The effect of the Te for Se substitution in the Fe7Se8 compound having a layered NiAs-type structure has been studied by means of X-ray diffraction, scanning electron microscopy, thermal expansion, electrical resistivity and magnetization measurements. The growth of Te tellurium content in Fe7(Se1−y
+                     Te
+                        y
+                     )8 above y ∼ 0.15 is found to result in the phase segregation; besides the NiAs-type phase the superconducting tetragonal PbO-type phase appears in these samples. It has been observed that the crystal structure and composition of the hexagonal Fe7(Se,Te)8 phase (P63/mmc) transforms with increasing Te content to the CdI2-type phase (
+                        P
+                        
+                        
+                           3
+                           ¯
+                        
+                        
+                        m
+                        1
+                     ) and then to the monoclinic Fe3(Se,Te)4-type phase (I12/m1). The concentration intervals in which these NiAs-type phases coexist with the tetragonal phase have been determined. At y ≥ 0.4, the Fe7(Se1−y
+                     Te
+                        y
+                     )8 samples show bulk superconductivity with higher superconducting transition temperatures (T
+                     c up to 17.8 K) compared with single-phase samples of Fe(Se,Te). Such an enhancement is suggested to result from the interactions between the superconducting and non-superconducting phases coexisting in Fe7(Se1−y
+                     Te
+                        y
+                     )8.The transition metal chalcogenides exhibit a rich variety of crystal structures, phase transitions, electrical and magnetic properties which attracted substantial interest from scientific and practical point of view Bearing in mind the peculiarities of the Fe Polycrystalline samples with nominal compositions Fe  In the range 0.5 ≤ The Te solubility limit The appearance of the tetragonal phase after low-temperature annealing was detected in the Fe The variations of the crystal lattice parameters together the unit cell volume for the NiAs-type phases and tetragonal phase in Fe As follows from As to the tetragonal phase appeared in the Fe Fe From the X-ray data presented in shows an anomalous behavior of Since the lattice parameters of the tetragonal phase formed in the Fe Moreover, the variation of the resistivity with temperature is observed to depend on the heat treatment conditions and cooling rate of the samples. As follows from The coexistence of the magnetically ordered and superconducting phases in the Fe The shape of the The X-ray diffraction study of the Fe Such an enhancement of The present work was supported by

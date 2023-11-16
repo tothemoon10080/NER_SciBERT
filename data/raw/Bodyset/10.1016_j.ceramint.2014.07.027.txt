@@ -1,0 +1,107 @@
+Agglomerates lead to poor and unreproducible properties of ceramics. To ensure a reliable manufacturing process and final product properties, a batch needs to be well deagglomerated and also well mixed. This phenomenological study compares the application of a bimodal ball size distribution to monomodal ones of large or small balls in a tumbling mixer operated at 30rpm. The ball sizes were adapted to the agglomerated particle sizes using Bond׳s ball sizing relation. Additionally, the diameters of the small and the large balls were adjusted according to Furnas׳ densest packing theory. The used filling ratio was 33 vol% and the batch of zirconia and alumina filled the interstices between the balls. The agglomerated batch had a 
+                        
+                           
+                              d
+                           
+                           
+                              50
+                           
+                        
+                        =
+                        1.2
+                        
+                        μ
+                        m
+                      and a 
+                        
+                           
+                              d
+                           
+                           
+                              99
+                           
+                        
+                        =
+                        5.1
+                        
+                        μ
+                        m
+                     . The small balls 
+                        (
+                        
+                           
+                              d
+                           
+                           
+                              50
+                           
+                        
+                        =
+                        2.25
+                        
+                        mm
+                        )
+                      caused a good macroscopic mixing degree for conditioning 10–20min as investigated by specific surface area and true density. After initial deagglomeration, reagglomeration occurred for times 
+                        ≥
+                        10
+                        
+                        min
+                     . Conditioning with large balls 
+                        (
+                        
+                           
+                              d
+                           
+                           
+                              50
+                           
+                        
+                        =
+                        15
+                        
+                        mm
+                        )
+                      led to a comparatively large 
+                        
+                           
+                              d
+                           
+                           
+                              99
+                           
+                        
+                        =
+                        2.2
+                        
+                        μ
+                        m
+                      but reagglomeration was suppressed for times 
+                        ≥
+                        20
+                        
+                        min
+                     . The microscopic mixing degree was also good for times 
+                        ≥
+                        20
+                        
+                        min
+                      as evaluated by scanning electron microscopy and X-ray diffraction. The bimodal ball size distribution led to a time-insensitive 
+                        
+                           
+                              d
+                           
+                           
+                              99
+                           
+                        
+                        ≈
+                        2.0
+                        
+                        μ
+                        m
+                      between 10 and 40min. Consequently, the robustness of the deagglomeration process increased according to the approach of Taguchi. Therefore, the simultaneous optimization of mixing and deagglomeration was simplified to the mixing optimization. An excellent mixing degree was achieved for times 
+                        ≤
+                        10
+                        
+                        min
+                     . Therefore, the conditioning result by the bimodal ball size distribution was superior to applying monosized balls.Mixing of granular materials is of great concern in many industries such as ceramics, metallurgy, polymers, composites, pharmaceuticals, food processing, and agriculture In ceramic technology agglomerates influence the rheology To break down agglomerates and to mix fine particles, high energy and forces are applied by moving container or tools of the mixer Previous work in the field of dry conditioning has focused mainly on combined deagglomeration and comminution of fine powders. Ball milling is common for grinding fine powders because contamination by wear can be minimized by choosing the ball material according to the batch material More recently, compulsory mixers were studied for the preparation of nanoscale materials. Daumann et al. However, milling of fine powders consumes more energy than pure deagglomeration. To our knowledge, pure dry deagglomeration has been addressed only by few published studies. For example, Ferkel and Hellmig From milling technology it is known that a steady state of fragmentation and reagglomeration is reached depending on the process parameters Nevertheless, in the described studies only monosized balls of diameters between 10 and 25 The purpose of this study therefore is to investigate the influence of a bimodal ball size distribution adapted to the agglomerate size on the mixing and deagglomeration result of alumina and zirconia composite powders. Small balls, which initiate supposedly numerous microprocesses leading to an excellent dispersion, and large balls, inserting the necessary process energy for the deagglomeration, are applied to a tumbling mixer at three different conditioning times between 10 and 40 Firstly, the raw materials alumina and zirconia and the batch were analyzed before conditioning. Afterwards the process parameters as revolution speed, filling degree and ball material were chosen. Based on the characterization of the raw materials the small and large ball sizes and amounts as well as the amounts of powder to add were calculated. After mixing, the batch properties were measured to compare them in relation to the values before conditioning. The raw materials were alumina (Martoxid MR70, Martinswerk GmbH, Germany) and monoclinic zirconia (CS02, SEPR Saint-Gobain ZirPro, France) because both materials tend to agglomerate during storage. To determine the extent of the altering, measured particle size distributions and specific surface areas were compared to manufacturers׳ data ( The batch composition of 15 After conditioning, only the mix can be measured. To evaluate the influence of the different ball size distributions on the mixing and deagglomeration result, the powder properties had to be compared before and after conditioning. Consequently, the batch properties before mixing were calculated from the measured data of the raw materials. To evaluate the deagglomeration effect, particle size measurements and SEM investigations were performed. Agglomeration influences the mixing degree because it depends on the magnification Therefore, to analyse the mixing degree completely, different methods regarding different sample volumes were applied. The microscopic mixing degree was evaluated by SEM and by X-ray diffraction (XRD) (Philips PW1820, Cu–K- For the ball mixing experiments a tumbling mixer (Turbula System Schatz Type T2C, Willy A. Bachofen AG Maschinenfabrik Basel, Switzerland) was chosen due to the three-dimensional oloide mixing motion Eq. For the calculation of the relative revolution speed The selected small balls were smaller than the minimum calculated ball size because with proceeding conditioning the optimal ball size decreases. On the other hand the large balls were selected equal or greater than the maximum calculated ball size according to Eq. The ball material was selected according to the raw materials to minimize the impurification of the batch by ball wear. The used grinding media were small yttria-stabilized zirconia–silicon dioxide balls (ProCerox ZO 80, Proceram UG, Germany) and large yttria stabilized zirconia balls (YTZ Grinding Media, Tosoh Corporation, Japan). For efficient milling, the powder should fill the interstices between the balls The mass of the batch Subsequently, the container was precisely filled with the balls and the weighed raw materials (Eqs. After the mixing process, the powder was separated from the grinding media by screening through a 2 After mixing, the specific surface area, the particle size distribution, the true densities, SEM images and XRD were determined like before mixing to compare the results. For the SEM images of a suitably low magnification a gray value analyses was performed with the software GIMP As outlined in the Introduction, the present work compared deagglomeration and mixing results of monomodal ball size distributions with a bimodal one. For this purpose first the raw materials and the batch were characterized before mixing to calculate the input parameters for ball mixing. After mixing, the batch properties were measured and compared in relation to the values before conditioning. The raw materials were trigonal alumina and monoclinic zirconia as was determined by XRD. The measured specific values of the particle size distributions are listed in Supposedly, both raw materials were agglomerated. The alumina particles of From the SEM images it was observed that the alumina agglomerated in dense-looking ball structures while the zirconia built open clusters. Comparing The measured specific surface area of the zirconia and the one according to the manufacturer were substantially different ( The properties of the batch were calculated based on the measured data of the raw materials. The resulting particle size distribution is presented in Based on the agglomerate size distribution, the ball sizes were calculated. By using In For evaluating and discussing the deagglomeration, the particle size distribution measurements and SEM images were analysed.  When using only small balls the The deagglomeration by applying large balls needed more time. For mixing times of 20 and 40 The application of a densest bimodal ball size distribution combined the advantages of applying small and large balls. The steady state was reached for a time The SEM images in For investigating a possible comminution, the The mixing degree was investigated and evaluated by SEM, true density, XRD, and specific surface area. A gray value analysis was performed for the SEM images in   In general, the lowest deviations from the ideal value were obtained for 10 and 20 The mixing degree was evaluated by quantitative XRD by comparing the composition of a small sample volume to the ideal batch composition. Then, the percental difference of the zirconia amount The accurateness of the zirconia amount measured by XRD with the Rietveld method was assumed to be around 5%. Therefore the possible error of the percental difference is The data of the specific surface areas as measured on sample volumes of 4–5 For the large balls, the behaviour of the specific surface areas referring to the mixing degree was in remarkable agreement with the XRD data. The decreasing mixing degree when utilizing small balls is in line with the increasing agglomeration. Only for the bimodal distribution there was a high agreement with the true density data as a macroscale experiment. Although the investigated volume of the specific surface area technique was similar to the one of the true density method, the results correspond to microscopic changes and therefore to the microscopic influence of the agglomeration on the mixing degree Different sample volumes were tested by several measurement methods. Consequently, the mixing degrees were related to different levels of magnification like a microscopic mixing degree and a macroscopic mixing degree as outlined in This contribution investigated the deagglomeration and mixing results of fine cohesive powders by applying different ball size distributions in a tumbling mixer operated with a moderate revolution speed of 30 Conclusions from this study: A theoretical filling ratio of 33% as well as an initial filling ratio of about 50% appeared to be sufficient for tumbling mixers as well as for drum mixers. The application of bimodal distributed balls was superior to using either only small or large balls as the small balls caused a better macroscopic mixing but the large balls limited reagglomeration and therefore improved microscopic dispersion. By applying the bimodal ball size distribution deagglomeration became insensitive to the considered conditioning times. Consequently, the robustness of the deagglomeration process increased according to the approach of Taguchi Future studies will address other ball size distribution designs than densest ball packing which, for example, also consider the output rate in the optimization. By the application of a bimodal ball size distribution, possibly the device speed might be lowered without changing the deagglomeration and the simultaneous mixing results. Therefore, future work will address the influence of different ball size distributions as a function of the device speed. A reduced device speed would decrease contamination by wear, increase occupational safety and lower the (external) energy requirement of the process. The authors would like to thank the

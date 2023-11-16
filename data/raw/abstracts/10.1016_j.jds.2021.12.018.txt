@@ -1,0 +1,11 @@
+Background/purpose
+                  Tristrontium aluminate (S3A) is a hydraulic cement with setting behavior similar to that of mineral trioxide aggregate (MTA). This study examined the biological effects of S3A on mouse dental papilla cells (MDPs) in vitro and on rat exposed pulps in vivo.
+               
+                  Materials and methods
+                  Extracts of S3A and MTA were prepared by immersing each cement in ultrapure water. MDPs were cultured with S3A or MTA extracts, and cell proliferation was evaluated with a tetrazolium-salt assay. Attachment of MDPs on the set cements was examined with scanning electron microscopy (SEM). mRNA expression of bone morphogenic protein (Bmp2), osteocalcin (Oc) and osteopontin (Opn) in MDPs exposed to S3A or MTA extracts was determined with reverse transcription-quantitative polymerase chain reaction. Mineralized nodule formation was evaluated with Alizarin Red S staining. Simulated body fluid (SBF)-dipped S3A was examined with SEM and energy dispersive X-ray analysis (EDX). Exposed molar pulps of male Wistar rats capped with S3A or MTA were histologically examined.
+               
+                  Results
+                  S3A extract did not inhibit proliferation of MDPs. Set S3A and MTA exhibited attachment of MDPs on their surface. S3A extract showed significantly higher mineralized nodule formation and mRNA expression of Bmp2, Oc, and Opn than did MTA extract. SBF-dipped S3A exhibited formation of surface precipitates, which were composed of Ca, P, Sr, and Al. Direct pulp capping with S3A and with MTA induced mineralized tissue repair of the exposed pulp.
+               
+                  Conclusion
+                  S3A possesses biocompatibility and pro-mineralization effects comparable to those of MTA.

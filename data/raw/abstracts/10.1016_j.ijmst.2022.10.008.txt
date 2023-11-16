@@ -1,0 +1,12 @@
+A failure criterion fully considering the anisotropy and hydration of shale is essential for shale formation stability evaluation. Thus, a novel failure criterion for hydration shale is developed by using Jaeger’s shear failure criterion to describe the anisotropy and using the shear strength reduction caused by clay minerals hydration to evaluate the hydration. This failure criterion is defined with four parameters in Jaeger’s shear failure criterion (S
+                     1, S
+                     2, α and φ), three hydration parameters (k, ω
+                     sh and σ
+                     s) and two material size parameters (d and l
+                     0). The physical meanings and determining procedures of these parameters are described. The accuracy and applicability of this failure criterion are examined using the published experimental data, showing a cohesive agreement between the predicted values and the testing results, R
+                     2 = 0.916 and AAREP (average absolute relative error percentage) of 9.260%. The error (|D
+                     p|) is then discussed considering the effects of β (angle between bedding plane versus axial loading), moisture content and confining pressure, presenting that |D
+                     p| increases when β is closer to 30°, and |D
+                     p| decreases with decreasing moisture content and with increasing confining pressure. Moreover, |D
+                     p| is demonstrated as being sensitive to S
+                     1 and being steady with decrease in the data set when β is 0°, 30°, 45° and 90°.

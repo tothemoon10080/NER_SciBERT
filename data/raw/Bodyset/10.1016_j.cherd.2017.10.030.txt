@@ -1,0 +1,101 @@
+In the present study, a thorough investigation of the extraction rates and the extraction yields of 6 chemical elements (Ni, Mg, P, K, Fe and Mn) from Alyssum murale ashes is proposed. In this purpose, the impact of several parameters (temperature, stirring speed, acid concentration) on the extraction rates and on the extraction yields of each element was studied. Our first results showed that the acid leaching kinetics were neither limited nor controlled by external film diffusion. Depending on the chemical element, the impact of temperature and acid concentration were significant since the extraction yields and rates increased by increasing either the temperature or the acid concentration. All the data collected were of great consequence since it allows us to investigate and estimate the optimum conditions of selective leaching of nickel by using a Box-Behnken design of experiments. We also found that the nickel extraction rate can be perfectly estimated by the shrinking core model where only internal diffusion occurred; in this model, the apparent activation energy was estimated to be 60kJ/mol and the nickel extraction rate is expressed by the following equation:
+                  
+                     
+                        
+                           1
+                           −
+                           3
+                           
+                              
+                                 (
+                                 
+                                    1
+                                    −
+                                    
+                                       
+                                          X
+                                       
+                                       
+                                          N
+                                          i
+                                       
+                                    
+                                 
+                                 )
+                              
+                              
+                                 
+                                    
+                                       2
+                                    
+                                    
+                                       3
+                                    
+                                 
+                              
+                           
+                           +
+                           2
+                           
+                              (
+                              
+                                 1
+                                 −
+                                 
+                                    
+                                       X
+                                    
+                                    
+                                       N
+                                       i
+                                    
+                                 
+                              
+                              )
+                           
+                           =
+                           
+                              k
+                              
+                                 d
+                                 ,
+                                 s
+                              
+                           
+                           t
+                           =
+                           
+                              
+                                 630.10
+                              
+                              
+                                 3
+                              
+                           
+                           e
+                           x
+                           p
+                           
+                              (
+                              
+                                 −
+                                 
+                                    
+                                       
+                                          
+                                             60.10
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       R
+                                       T
+                                    
+                                 
+                              
+                              )
+                           
+                           tThe metal recovery from secondary resources, such as metal-containing soils, has become an increasing interest especially since the global demand for metals has been increasing for the last few decades ( Hyperaccumulator plants have been widely studied and present the specific property to achieve the bioaccumulation of heavy metals in their aerial parts ( One possible path to recover Ni from such plants consists in drying and burning them to produce ashes which can be considered as bio-ores ( To the best of our knowledge, the acid leaching of Ni-hyperaccumulator biomass ashes (as However, many studies have been published on kinetics of Ni extraction and the fate of Ni by acid leaching of some materials but only applied to industrial hazardous wastes or Ni-ores which are not produced from Ni hyperaccumulator biomass ( Hence, the aim of this work was (i) to investigate the extraction kinetics of the 6 main chemical elements in  The leaching experiments were performed in a 1 2 Solid samples (ca 0.15 The calibration of ICP-AES analysis was performed with PlasmaCAL custom standards (SCP Science) in a 5% X-ray diffraction analyses were performed with D8-Discover Bruker with cobalt probe and linear detection. Crystals were identified with the database PDF-02 (Powder Diffraction File of International Center for Diffraction Data). The Box-Behnken design with three factors (and three levels) was performed to optimize the Ni extraction (i.e. maximize the amount of extracted nickel and minimized the amount of other main elements) and study the effect of sulfuric acid concentration, temperature and time on Ni, Mg, Fe, K, and P extraction during the leaching procedure. 17 runs were necessary to achieve the Box-Behnken design (12+5 central points). Design Expert 9.0.3 (Stat-ease, Inc. Minneapolis, USA) was used to analyze the results, draw the different response surfaces, and model Ni, Fe, K, Mg, and P extraction fractions by generating and fitting second degree polynomial equations: The reaction system met in the leaching step is heterogeneous (liquid–solid). To determine the kinetic parameters and rate, the experimental results were analyzed and fitted with the shrinking core model (aka unreacted core model or shell and core model). We assume that the reaction is elementary (i.e. A(fluid) If the reaction rate is controlled by diffusion through the liquid film surrounding the particle, the expression of the rate is: (The reaction rate is a constant and thus the conversion is a linear function of time.) If the reaction rate is controlled by diffusion through the ash, hence the expression of the rate is: If the reaction rate is controlled by the surface chemical reaction, the expression of the rate is: For each case, the temperature dependence of each apparent rate constant was calculated by the Arrhenius law: 30 samples of a few g of ash were randomly collected, mineralized and analyzed by ICP-AES ( Elemental composition was in the same range as found by The stirring speed effect on the extraction rates was investigated (100–700  XRD analysis was performed on the leached ashes collected at the end of these experiments. Results showed that CaSO As illustrated in The impact of stirring speed on metal or metalloid extraction from hazardous wastes or different kind of ores has been reported by several teams ( The effect of the temperature on the extraction rate of each compound is illustrated in The impact of temperature on Mg recovery was reported by Özdemir et al. and Yoo et al. They also noticed a strong effect of the temperature on the Mg extraction rate which increased by increasing the temperature ( But it is not relevant to compare their extraction yield with ours since they did not use the same material as here (H The effect of acid concentration (in the range of 1–5 It was also noticed that the ash leachates obtained with acid concentrations of 5 The comparison of our results with known results ( Based on a Box-Behnken design, a statistical analysis was performed with ANOVA (ANAlysis Of VAriance) statistical test technique to draw three second degree polynomial equations which fit the best our experimental data ( The results of the variance analysis for each second-order polynomial (Eqs. For Ni and Mg, a high model F-value combined with a very low probability p-value ( The regression coefficients R Eq. Since K, Fe, P and Mg are potential impurities in the rest of the process ( As described previously (part 2.5), the reaction system met in the leaching step was heterogeneous and the shrinking core model was used here to model and investigate the step which controlled the global rate. In this work, the external mass transfer had no effect on the global rate as shown in As described in Section If the surface chemical reaction controls the reaction rate, hence the following equation is a linear function of time: The validity of the Eqs. Using these apparent rate constants, the natural logarithm of Arrhenius equation plotted versus (1/T) gave a straight line with a slope of (-Ea/R). Hence, the apparent activation energy of Ni extraction rate was calculated and was 60 Based on this study, the rate of nickel leaching from This study provides new insights into the leaching process of ashes of the hyperaccumulator plant A statistical analysis based on ANOVA was performed and showed that the optimal values of parameters (temperature and acid concentration) for which the relative extraction rate of Ni is the most important (compared to the concentration of the other elements) did not correspond to the parameters for which the extraction rate of Ni is the higher: the optimal extraction rate was 18.8% which is not enough in an industrial purpose based on previous researches ( The authors wish to thank the

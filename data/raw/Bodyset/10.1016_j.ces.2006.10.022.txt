@@ -1,0 +1,48 @@
+Impact attrition of limestone particles was investigated at temperatures from 25 to 
+                        580
+                        
+                           
+                              
+                           
+                           
+                              ∘
+                           
+                        
+                        C
+                      and 1atm pressure. Impacts changed the particle size distribution and mean particle diameter significantly for conveying gas velocities of 20–100m/s. With increasing temperature less attrition occurred due to a decrease in particle impact velocity and an increase in the threshold particle impact velocity. The activation energy for impact attrition was 
+                        (
+                        -
+                        5.1
+                        )
+                        –
+                        (
+                        -
+                        5.4
+                        )
+                        
+                        kJ
+                        /
+                        mol
+                     . The mean limestone particle diameter decreased with increasing number of impacts and increasing impact velocity. Two empirical equations give good agreement with the experiments. Based on the experimental observations and correlations, an impact mechanism is suggested, where the area of new surface generated is proportional to the total kinetic energy consumed, to the number of impact cycles and an exponential decrease with temperature. When particles break, each particle generally splits into 2–3 daughter particles. The threshold particle velocities for breaking limestone particles were found to be 
+                        ∼
+                        8.5
+                        –
+                        13.5
+                        
+                        m
+                        /
+                        s
+                      at 
+                        25
+                        –
+                        580
+                        
+                           
+                              
+                           
+                           
+                              ∘
+                           
+                        
+                        C
+                     , similar to the reported literature values.Calcium-based sorbents, e.g., limestone (CaCO In fluidized bed (bubbling and circulating) combustors and in cyclones, limestone particles collide with each other and with fixed surfaces. Two theories ( Particle attrition in bubbling and circulating fluidized-bed systems has been the subject of a number of studies.   A mechanistic model of impact attrition of particulate solids having a semi-brittle failure mode has been developed ( Comprehensive single particle impacts were conducted by Since particle impact is very important in circulating fluidized-bed systems, such as in impacts on the wall, on internal surfaces and in the cyclones, in this paper limestone particle attrition by batch impact experiments was investigated. This study is fundamental, focusing on the effects of the main operating conditions on limestone impact attrition related to circulating fluidized-bed combustion. The experiments were conducted at The experimental apparatus, shown schematically in Before each impact test, 100 Based on the experiments reported by As seen in To estimate the particle velocity using Eqs. (2)–(10), the dependence of gas properties on temperature was incorporated. For a group of particles with size distribution, a mean particle diameter was used as the representative size, and the particles were assumed to be spherical. Thus, the particle velocity in the acceleration tube is determined numerically, as shown in In this investigation the effects of three operating parameters were studied. The decrease of particle diameter due to impact attrition changes the particle velocity for the next impact cycle. Thus, the impact velocities for different particle diameters, operating gas velocities and temperatures were estimated as shown in The effect of limestone impact attrition cycles was first investigated at In order to quantitatively describe the impact process, the harmonic mean particle diameter  The mean particle size for each run at a given gas velocity was determined from the cumulative weight fraction curve and Eq. The effect of impact attrition temperature on limestone particle size distribution was investigated at As in the previous cases, the mean particle size for each run at different temperatures can be determined using the cumulative weight fraction curve and Eq. Above we have examined the effects of three parameters (number of impact cycles, conveying gas velocity and impact temperature). The experimental results show that there are relationships between these parameters and the particle impact performance. A single overall empirical Eq. In order to check the validity of the correlation, the predictions are compared with the experimental data in Examination of the above empirical correlation suggests an impact mechanism consistent with these experiments. Assume in a group of solid particles on each sieve that all the particles have the same mean diameter and that all particles are spherical. Then, before any impact, the total mass and total surface area of the original solid particles are given, respectively, by If the mass and weight fraction of particles on the Dividing Eq. In the above overall correlation, we have included a constant of 1 in Eq. Using the fitted parameters in At temperatures of 25, 130, 300 and The number of daughter particles can be estimated from the sieve analysis data. Since the mass of particles and average diameter were measured, the number of particles can be estimated, and therefore the number ratio of daughter to mother particles after each impact can be estimated. For the typical impact condition of gas velocity 55 Based on the above analysis, the primary mechanism of limestone particle impact may be represented as shown in Limestone particle impact attrition was investigated at 

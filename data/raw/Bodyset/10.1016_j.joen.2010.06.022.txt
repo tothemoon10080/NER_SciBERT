@@ -1,0 +1,11 @@
+Objectives
+                  The aim of this study was to investigate the cellular effects of newly developed calcium phosphate–based sealers (CAPSEAL I and II) using cultured human periodontal ligament cells (HPDLCs) compared with epoxy resin sealer (AH26; Dentsply, DeTrey, Konstanz, Germany), zinc oxide eugenol [ZOE] sealer (extended working time [EWT]; Kerr Corporation, Orange, CA), and CPC sealer (Sankin apatite sealer; Sankin-kogyo, Tokyo, Japan).
+               
+                  Methods
+                  Cell viability by -(4,5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazoliumbromide assay, cell attachment by scanning electron microscopy, osteoblastic differentiation and inflammatory mediators by reverse-transcriptase polymerase chain reaction, Western blotting, and alizarin red staining were evaluated.
+               
+                  Results
+                  The cytotoxicities of CAPSEAL I and II were less than those of AH 26 and EWT after 1 and 14 days. Cells on CAPSEAL I and II were spread better as compared with those on other sealers. Mineralization after 14 days and the expression of osteoblastic differentiation markers such as alkaline phosphate and osteonectin messenger RNA increased in CAPSEAL I- and II-exposed HPDLCs after 1 and 3 days, whereas the production of inflammatory mediators, including cyclooxygeanse-2, inducible nitric oxide synthetase, and reactive oxygen species (ROS), were lower than in other sealers.
+               
+                  Conclusions
+                  These results suggest that both CAPSEAL I and II show less cytotoxicity and inflammatory mediators compared with other sealers and have the potential to promote bone regeneration as root canal sealers.

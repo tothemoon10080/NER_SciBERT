@@ -1,0 +1,11 @@
+Purpose
+                  To compare the biomechanic stability of distal radius fracture fixation with a new internal radiocarpal-spanning 2.4-mm locking plate, which acts as an internal distal radius fixator, versus a standard distal radius external fixator. The number of locking screws necessary for adequate fracture fixation was also assessed.
+               
+                  Methods
+                  Ten cadaveric specimens were mounted in a loading fixture with cables attached to the 2 flexor and 3 extensor wrist tendons. A 1-cm osteotomy was created to simulate an unstable distal radius fracture. The radiocarpal-spanning locking plate was fixed to the radius and index metacarpal with 4 screws proximally and 4 distally. The specimen was incrementally loaded through the tendons. Motion at the fracture site was determined. Screws were sequentially removed from the construct, the specimen was again incrementally loaded, and fracture motion was measured. The fixation was then changed to an external fixator, and the loading tests were repeated.
+               
+                  Results
+                  Fracture fixation with the radiocarpal-spanning 2.4-mm locking plate was significantly more stable with 4 screws proximally and 4 screws distally (4 × 4) and with the 3 × 3 configuration than with the external fixator in both flexion and extension. The 4 × 4 screw configuration was not significantly different from the 3 × 3 screw configuration. The 4 × 4 screw configuration was significantly more stable than the 2 × 2 and 1 × 1 screw configurations in both flexion and extension. All internal fixator configurations and the external fixator showed more fracture displacement at increasingly higher loads.
+               
+                  Conclusions
+                  Fracture fixation with the new internal radiocarpal-spanning 2.4-mm locking plate is more stable than with a standard distal radius external fixator. Only three 2.4-mm locking screws proximally and three 2.4-mm locking screws distally are required for adequate fixation of the locking spanning plate.

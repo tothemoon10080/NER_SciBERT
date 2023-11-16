@@ -1,0 +1,81 @@
+Nitric acid pressure leaching (NAPL) of limonitic laterite is a recently developed technology by our group, which is in line with the concept of clean and sustainable development for the nickel industry. In this paper, an autoclave equipped with acid injection and sample withdrawal systems was used to investigate the behavior of nickel, iron, and mineral evolution during the leaching process. Afterward, a kinetic model was derived to describe the process of nickel dissolution. The results indicated that the temperature, acid concentration, and liquid–solid ratio were positively correlated with nickel extraction. Additionally, the dissolution process of goethite from a microscopic perspective was observed and confirmed, that the dissolution of goethite and the hydrolysis to produce hematite occurred simultaneously. Also, several kinetic models for characterizing the leaching of porous materials were tested. The grain model-pore diffusion control-cylindrical particle was chosen to describe nickel extraction. The kinetics equation can be summarized as 
+                        
+                           X
+                           +
+                           
+                              
+                                 
+                                    1
+                                    -
+                                    X
+                                 
+                              
+                           
+                           ln
+                           
+                              
+                                 
+                                    1
+                                    -
+                                    X
+                                 
+                              
+                           
+                           =
+                           
+                              
+                                 2
+                                 b
+                                 
+                                    F
+                                    
+                                       P
+                                    
+                                    2
+                                 
+                              
+                              
+                                 3
+                                 
+                                    R
+                                    
+                                       P
+                                    
+                                    2
+                                 
+                                 
+                                    ρ
+                                    m
+                                 
+                                 
+                                    
+                                       
+                                          1
+                                          -
+                                          ε
+                                       
+                                    
+                                 
+                              
+                           
+                           
+                              C
+                              
+                                 A
+                                 ,
+                                 a
+                                 v
+                                 e
+                              
+                           
+                           
+                              D
+                              
+                                 e
+                                 ,
+                                 A
+                              
+                           
+                           t
+                        
+                     , with an effective diffusivity of 4.59 × 10−10 m2/min at 210 °C. Consequently, it is concluded that the pores of goethite are the active sites and that the diffusion of the leaching agent within the pores is the controlling step of the reaction. This work serves the NAPL process for limonitic laterite and provides a foundation for more efficient extraction of nickel.

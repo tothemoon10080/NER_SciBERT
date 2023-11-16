@@ -1,0 +1,12 @@
+Novel phase contacting devices, with specific regard to gas-liquid, liquid-liquid and solid liquid systems, have been researched and are currently being developed at this institution. These high intensity jet reactors provide significant improvement over conventional phase contacting equipment due to the impingement of high velocity feed streams upon each other in relatively small reactor volumes, resulting in a highly turbulent mixture of phases. Due to this intimate contact between phases, mass transfer rates are increased dramatically.
+                  The chemical absorption of carbon dioxide (CO2) gas into sodium hydroxide (NaOH) solutions was chosen as a suitable chemical system to determine the mass transfer parameters of these new impinging stream jet reactors using different reactor configurations. Results showed that mass transfer coefficients (K
+                     
+                        L
+                     ) of up to 3 × 10−3 m/s could be realised, which, coupled with values of the specific interfacial area (a) of 2000 – 16 000 m2/m3, yielded values of the volumetric mass transfer coefficient (kLa) of up to 25 s−1. Compared to kLa values for conventional processes in the region of 0.025 – 1.25 s−1, these results represent more than order of magnitude improvement in reactor performance characteristics. These results can be compared to possible enhanced mass transfer rates when using oxygen and/or air as agitation during cyanidation.
+                  In this investigation, jet reactor technology was also applied to the leaching of gold from refractory ores. By bringing gold bearing ore into contact with cyanide, using a high-pressure jet reactor prior to agitation, gold recovery is increased, and leach time dramatically reduced. The increase in dissolution kinetics can be ascribed to the high-pressure jet stream, coupled with micro cracking of the particles due to the high velocity collisions within the reactor chamber. 1n initial tests a free milling ore with a head-grade of 5 g Au/ton and particle size of 80% passing 75μm was used When using the jet reactor, a gold recovery of 99% was achieved after only 2
+                           
+                              1
+                              2
+                           
+                        
+                      hours of contact time, as opposed to a recovery of only 91% after 24 hours of cyanidation alone under similar conditions.

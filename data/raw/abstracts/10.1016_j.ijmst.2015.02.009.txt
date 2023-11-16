@@ -1,0 +1,6 @@
+The settlement of particles is of great importance in many areas. The accurate determination of drag coefficient and settling velocity in wide Reynolds number (Re) range remains a problem. In this paper, a series of new formulas for drag coefficient of spherical particles based on theoretical laws, such as the Stokes law, the Oseen law, and the Goldstein law, were developed and fitted using 480 groups of experimental data (Re
+                     <2×105). The results show that the 2nd approximation of a rational function containing only one parameter can describe CD
+                     –Re relationship accurately over the whole Re range of 0–2×105. The new developed formulas containing five parameters show higher goodness over wide Re range than presently existing equations. The introduction of the Oseen law is helpful for improving the fitting goodness of the empirical formulas. On the basis of one of the Oseen-based CD
+                     –Re formulas giving the lowest sum of squared relative errors Q over the whole Re range (Re
+                     <2×105), a general formula for settling velocity ut
+                      based on dimensionless parameters was proposed showing high goodness.

@@ -1,0 +1,11 @@
+Introduction
+                  Elastinlike polypeptide (ELP) is 1 of the genetically engineered, protein-based polypeptides, which offers outstanding advantages such as superior biocompatibility, long-term stability, elasticity, and cost-effectiveness. This study aimed to investigate the effect of an ELP-based matrix on the physical properties and biocompatibility of mineral trioxide aggregate (MTA).
+               
+                  Methods
+                  The 2 types of ELPs were synthesized and mixed with the MTA powder in various liquid-to-powder ratios. The physical properties including compressive strength, microhardness and setting time, washout resistance, and biocompatibility were investigated for the ELP-incorporated MTA. The microstructure of the MTA was also analyzed using scanning electron microscopy and Fourier-transform infrared spectroscopy.
+               
+                  Results
+                  The ELP-based matrix enhanced the physical properties of MTA, including the compressive strength, microhardness, and washout resistance of MTA. The ELP incorporation showed no negative effect on biocompatibility. However, ELPs prolonged the setting time of MTA.
+               
+                  Conclusions
+                  These results suggested that the addition of the ELP-based matrix to MTA enhanced the physical properties without negatively affecting the chemical structure and biocompatibility of MTA. Further investigation is warranted to overcome a clinical challenge associated with the extended setting time caused by the addition of ELP.

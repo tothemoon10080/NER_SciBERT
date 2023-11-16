@@ -1,0 +1,40 @@
+The uptake of acetic acid (AcA) on natural Gobi dust is studied at room temperature and in the relative humidity range (<0.01–95% RH) using zero air as bath gas. The experiments were carried out in a U-shaped reactor coupled to a Selected-Ion Flow-Tube Mass Spectrometer (SIFT-MS) for gas-phase monitoring. The initial uptake coefficient, γ0, of AcA is found to decrease with RH according to the following expression 
+                        
+                           
+                              γ
+                              0
+                           
+                           =
+                           
+                              γ
+                              
+                                 d
+                                 r
+                                 y
+                              
+                           
+                           −
+                           
+                              (
+                              
+                                 1.3
+                                 ×
+                                 
+                                    10
+                                    
+                                       −
+                                       8
+                                    
+                                 
+                              
+                              )
+                           
+                           
+                              
+                                 R
+                                 H
+                              
+                              0.42
+                           
+                        
+                     , indicating a competition between AcA and water molecules for the same adsorption sites. AcA can be adsorbed both reversibly and irriversibly on Gobi dust. Interestingly, we evidenced that AcA uptake is reactive, especially at high levels of relative humidity (>30%) leading to the formation of oxygenated volatile organic compounds (OVOCs), such as methanol, acetaldehyde, and acetone. This is the first experimental study reporting the reactivity of AcA on natural mineral dust under ambient temperature and dark conditions. To unravel the kinetics, the uptake behavior, and reactivity of AcA on Gobi we also investigate the uptake of AcA on various mineral surogates SiO2, Al2O3, CaCO3, TiO2, Fe3O4. The results of the current study demonstrate the interest of studying heterogeneous processes at typical atmospheric levels of RH. Moreover we estimate that under atmospherically-relevant conditions, around 4% of the adsorbed AcA leads to OVOCs formation pointing at an unexplored but significant atmospheric process.

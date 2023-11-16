@@ -1,0 +1,19 @@
+Introduction
+                  Metaphyseal comminution is widely considered as a key radiographic parameter that predicts fracture instability for distal radius fractures. However, no quantitative parameter is available to measure this degree of comminution. To quantify metaphyseal comminution objectively, the authors devised and validated the metaphyseal collapse ratio, a new radiographic index.
+               
+                  Materials and methods
+                  Seventy-four cases of distal radius fracture in the elderly were included in this analysis. After closed reduction, a strictly lateral plain radiograph was obtained and digitally adjusted. The metaphyseal collapse ratio (MCR) was calculated expressing the maximal radiolucent extent as a percentage of the inter-cortical distance. Furthermore, correlations between MCR and age, gender, DXA scores, and other radiographic parameters, namely, radial shortening, volar tilt, radial inclination, and the presence of an associated ulnar fracture were investigated.
+               
+                  Results
+                  Mean metaphyseal collapse ratio in the cohort was calculated to be 51.7 % by one observer and 53.7 % by a second, showing good inter-observer and mean intra-observer reliability (0.812, P
+                     <0.001 and 0.826, P
+                     <0.001, respectively). MCR was found to be significantly correlated with conventionally accepted radiographic parameters of fracture instability, that is, radial shortening (P
+                     <0.001), volar tilt (P
+                     <0.001), and radial inclination (P
+                     =0.002), but not with age, gender, DXA scores, and the presence of a combined ulnar fracture.
+               
+                  Conclusions
+                  Metaphyseal collapse ratio, a novel radiographic parameter, was found to provide a reliable measure of metaphyseal comminution, and to be significantly correlated with other radiographic parameters that predict distal radius fracture instability.
+               
+                  Level of evidence
+                  Level III, Diagnostic.

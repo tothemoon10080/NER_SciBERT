@@ -1,0 +1,11 @@
+Purpose
+                  We used a method for quantitative measurement of articular surface area based on 3-dimensional computed tomography (CT) images to test the hypothesis that among volar shearing fractures of the distal radius, complete articular fractures have on average larger volar fracture fragments than partial articular fractures.
+               
+                  Methods
+                  We analyzed 25 adult patients with a quantitative 3-dimensional CT scan of a volar shearing fracture of the distal radius. We identified 3 major fracture patterns: 10 fractures were complete articular fractures (AO C-type; complete dorsal fracture line); 8 fractures had an intact dorsal lunate facet (radial dorsal fracture line; labeled transitional type B fractures); and 7 fractures had no dorsal fracture (true AO type B partial articular fractures).
+               
+                  Results
+                  All of the type C and transitional type B fractures, but only one of the true type B fractures had a split (fragmentation) in the dorsal articular surface (p < .001). Four of 10 type C, 6 of 8 partial type B and 2 of 7 type B fractures had fragmentation of the volar articular surface (p = .19). The articular surface area of the volar fragments in type B fractures tended to be larger (average 56%; range, 38% to 78% of the total articular surface area) compared with partial type B (average 42; range, 28% to 51%) and type C (47%; range, 25% to 68%) fractures although the differences were not statistically significant with the numbers available.
+               
+                  Conclusions
+                  We identified 3 major volar shearing fracture patterns (complete, transitional partial, and partial articular). Although the differences in the average volar fractures surface area were not statistically significant with the numbers available, complete fractures and transitional partial fractures (intact dorsal lunate facet) were significantly more likely to have dorsal comminution.

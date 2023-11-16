@@ -1,0 +1,1 @@
+Physical models of slope failure analysis have been made since the 2011 using sandstone material. The analysis was emphasized on the effect of vibration, height slope, and slope angle, but have not been analyzed the failure probability (FP). Hence, this paper analyzes a failure probability using Monte Carlo method.

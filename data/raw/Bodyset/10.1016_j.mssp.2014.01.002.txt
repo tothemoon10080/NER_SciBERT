@@ -1,0 +1,25 @@
+In this paper, the effect of ion sizes of cations and anions on the charge storage capability of graphite nanosheets is investigated. Electrochemical properties of prepared electrodes are studied using cyclic voltammetry (CV) and electrochemical impedance spectroscopy (EIS) techniques, in 3M NaCl, NaOH and KOH electrolytes. A scanning electron microscope (SEM) is used to characterize the microstructure and nature of prepared electrodes. SEM images and XRD patterns confirm the layered structure (12nm thickness) of the used graphite with an interlayer distance of 3.36Å. The electrochemical results and the ratio of 
+                        
+                           
+                              q
+                           
+                           
+                              O
+                           
+                           
+                              ⁎
+                           
+                        
+                        /
+                        
+                           
+                              q
+                           
+                           
+                              T
+                           
+                           
+                              ⁎
+                           
+                        
+                      confirm a better charge storage and charge delivering capability of prepared electrodes in 3M NaCl electrolyte. The charge/discharge cycling test shows a good reversibility and confirms that the solution resistance will increase after 500 cycles.Recently, electrochemical capacitors have attracted worldwide research interest. Depending on charge storage mechanisms, capacitors can be classified into three types: electrochemical double layer capacitors (EDLCs), faradaic pseudocapacitors and hybrid capacitors In this paper, the effect of ion size on charge storage, charge delivering capability and reversibility of graphite electrodes was investigated using cyclic voltammetry and electrochemical impedance spectroscopy techniques. The morphology and nature of the prepared electrodes were investigated employing a scanning electron microscope. Graphite nanopowder (12 Electrochemical behavior of prepared electrodes was characterized using CV and EIS tests. Electrochemical measurements were performed using an Autolab (Netherlands) Model PGSTAT302N. CV tests were performed within the range of −0.55 and +0.3 Ion size and diffusion of anions and cations are effective parameters of specific capacitance. When the KCl and NaCl electrolytes are compared, the pronounced difference is of cation nature. Ionic radii of K Specific surface area and conductivity are two important parameters to prepare highly efficient electrodes for capacitors. But only a part of the surface is always accessible by electrolyte ions to be adsorbed. This would increase the solution resistance. The capacitance of each electrode was calculated from the  As scan rate increases ( Regarding the practical applications, the cyclic stability of supercapacitors is a crucial parameter. The life cycles of both conducting polymers and metal oxides, as candidates for pseudocapacitive materials, are much shorter than those of the carbon based materials because of the loss of active materials. In the case of graphite nanosheets, the cyclic stability was evaluated by repeating the CV at a scan rate of 100 In this case, a good coating attributed to the proper applied pressure was one of the reasons for good cyclic stability. Although applying a higher pressure may increase the cyclic stability due to the better adhesion of coating on the substrate, capacitance would decrease dramatically. During the 500 charge/discharge cycles the equivalent series resistance increased ( In summary, studies confirmed the presence of flat and porous (having about 3.36

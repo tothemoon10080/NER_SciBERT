@@ -1,0 +1,79 @@
+The synergistic effect of mixed Cyanex 572 and n-octyl diphenyl phosphate for Th(IV) extraction from nitric acid solution has been investigated in this paper. The effect of acidity together with mole fraction of extractant on the synergistic effect was studied. Based on the obtained results, the maximal synergistic enhancement coefficient reaches 12.40 at a ratio of 1:2 of Cyanex 572 and n-octyl diphenyl phosphate. Under the experimental conditions, the phase separation performance, stripping property and selectivity of Th and REE in the mixed extraction system are better than those from individual Cyanex 572 or n-octyl diphenyl phosphate system. The synergistic extraction mechanism for Th(IV) in nitric acid medium is proposed as 
+                        
+                           Th
+                           aq
+                           
+                              4
+                              +
+                           
+                        
+                        +
+                        
+                           
+                              
+                                 
+                                    HA
+                                 
+                                 2
+                              
+                           
+                           org
+                        
+                        +
+                        2.5
+                        
+                           B
+                           org
+                        
+                        +
+                        3
+                        
+                           
+                              
+                                 NO
+                                 3
+                                 −
+                              
+                           
+                           aq
+                        
+                        
+                           ↔
+                           
+                              K
+                              ex
+                           
+                        
+                        
+                        
+                           
+                              
+                                 Th
+                                 
+                                    
+                                       
+                                          NO
+                                          3
+                                       
+                                    
+                                    3
+                                 
+                                 
+                                    HA
+                                    2
+                                 
+                                 
+                                    B
+                                    2.5
+                                 
+                              
+                           
+                           org
+                        
+                        +
+                        
+                           H
+                           aq
+                           +
+                        
+                     . The mixed extraction system is successfully used for the separation of Th(IV) and REE(III) from the industrial feed solution leached from ion-absorbed type rare earth mineral waste residue. Lower stripping acid, stronger extraction ability, better phase separation performance and selectivity provide the synergistic extraction system with good application prospects.As an important natural radioactive element, Thorium (Th) is widely distributed in the earth's crust ( The recovery and separation of Th from REEs is an important task in hydrometallurgy, which leads to larger amount of investigation on Th separation in the past few years ( Recently, more and more attentions have been paid for developing new and efficient extraction systems for Th extraction. Synergistic extraction is an important research field in solvent extraction. Owing to its unique advantages like better extraction efficiency, selectivity, phase separation and stripping properties ( Cyanex 572 were obtained from Cytec Industries Inc. (USA), which was used without further purification and saponification ( Thermo scientific iCAP 6500 series inductively coupled plasma-atomic emission spectroscopy (ICP-OES) instrument was used to determine the concentration of metal ions in the aqueous phase. IR spectra were recorded with a Nicolet iS50 spectrometer. The pH values of aqueous solution were determined by PHSJ-4F made by INESA scientific instrument CO., Ltd. or acid-base titration. All the extraction experiments were performed at 298 K by equilibrating equal volumes (5 mL) of organic and aqueous phases in a thermostatic air bath oscillator for 40 min. After centrifugation at 2500 rpm for 5 min, the aqueous phase was separated, and the concentration of Th(IV) in the aqueous phase was determined using ICP-OES. The concentration of Th(IV) extracted to the organic phase was calculated by mass balance. The stripping experiments were conducted by equilibrating 5 mL organic phase loaded with Th(IV) with 5 mL of different stripping reagents for 40 min in a thermostatic air bath oscillator. After centrifugation at 2500 rpm for 5 min, the aqueous phase was separated, and the concentration of Th(IV) in stripping acid was determined using ICP-OES. The concentration of Th(IV) in the organic phase was calculated by mass balance. The extraction efficiency (E), distribution ratio (D), synergy coefficient (R), stripping rate (S) and separation factor (β) are defined as follows: Th(IV) complexes for IR spectra were prepared by equilibrating equal volume of aqueous phase containing 1 × 10 The effect of aqueous acidity on Th(IV) extraction efficiency was obtained by the extraction experiments of Cyanex 572, ODP and their mixture. It is observed from For investigating the synergistic effect of Th(IV) in the mixture system, the extraction behaviors of Th(IV) using Cyanex 572, n-octyl diphenyl phosphate and their mixture in n-heptane are studied. The total concentration of Cyanex 572 and n-octyl diphenyl phosphate is fixed at 5.5 × 10 In order to assess the synergistic extraction effect of mixed Cyanex 572 and n-octyl diphenyl phosphate for Th(IV), synergistic enhancement coefficients (R) are calculated and listed in As mentioned in our previous studies, the extraction reactions of Th(IV) by single Cyanex 572 and n-octyl diphenyl phosphate can be expressed by the Eqs. If the synergistic extraction equation of Th(IV) in nitric acid medium with the mixture of Cyanex 572 and n-octyl diphenyl phosphate is expressed by the Eq. Eq. Taking logarithms of Eq. The conventional slope analysis method was used to determine the stoichiometry including x, y and m in the synergistic extraction system. IR spectra was studied to further confirm the extraction mechanism of Th(IV) in synergistic extraction system. The result was shown in For investigating the stripping properties of above mentioned extraction system, the organic phases loaded with Th(IV) were prepared by equilibrating 5 mL of organic phases containing 5 × 10 The effect of temperature on the synergistic extraction of Th(IV) is studied by varying the temperature (298 K – 328 K) while keeping the other conditions constant. The plot of Log D versus 1000/T is shown in The value of log K in 298 K is calculated according to Eq. Industrial feed solution leached from the ion-absorbed type rare earth mineral waste residue is applied to test selectivety of the mixed Cyanex 572 and n-octyl diphenyl phosphate. As shown in In this paper, a novel synergistic extraction system of mixed n-octyl diphenyl phosphate and Cyanex 572 was investigated for the Th(IV) extraction. Comparing the extraction of Th(IV) with individual n-octyl diphenyl phosphate, individual Cyanex 572 and mixed n-octyl diphenyl phosphate and Cyanex 572, it is found that the mixed extraction system presents significant synergistic effect on Th(IV) and better phase separation performance. This can be probably attributed to the greater hydrophobicity and stability of extracted species in the organic phase. The maximal synergistic enhancement coefficient reaches 12.40 at a ratio of 1:2 of Cyanex 572 and n-octyl diphenyl phosphate. In addition, the addition of Cyanex 572 to n-octyl diphenyl phosphate can avoid the emulsification in individual n-octyl diphenyl phosphate extraction system. By slopes analysis method and IR spectra analysis, the extraction mechanim of Th(IV) from nitric acid medium with the mixed n-octyl diphenyl phosphate and Cyanex 572 system is investigated. The synergistic extracted complexes are confirmed to be Th(NO This work was supported by

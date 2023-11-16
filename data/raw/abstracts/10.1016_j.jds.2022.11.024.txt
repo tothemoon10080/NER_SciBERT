@@ -1,0 +1,11 @@
+Background/purpose
+                  Fortilin is a multi-functional protein involved in several cellular processes. It has been shown promising potential to be a bioactive molecule that can be incorporated in the dental materials. This study aimed to compare the biocompatibility and mineralization activities of modified glass ionomer cement (Bio-GIC) and Biodentine by direct and indirect method on human dental pulp stem cells (hDPSCs).
+               
+                  Materials and methods
+                  Conventional glass ionomer cement (GIC), Bio-GIC (GIC supplemented with chitosan, tricalcium phosphate, and recombinant fortilin from Fenneropenaeus merguiensis), and Biodentine were examined in this study. Recombinant fortilin was purified and tested for its cytotoxicity by 3-[4,5-dimethylthiazol-2-yl]-2,5 diphenyltetrazolium bromide (MTT) assay. Human DPSCs were treated with different material eluate for particular time intervals. At given time points, viability of hDPSCs was examined using MTT assay and calcium deposition was assessed by Alizarin red staining assay. Comparisons of the data among groups were analyzed by analysis of variance and Tukey's multiple comparisons.
+               
+                  Results
+                  All test materials demonstrated no cytotoxicity. In addition, Bio-GIC promoted cell proliferation at 72 h. For direct and indirect method, cells treated with Bio-GIC demonstrated significantly higher calcium deposition than other groups (P < 0.05).
+               
+                  Conclusion
+                  Bio-GIC and Biodentine are not cytotoxic to hDPSCs. Bio-GIC demonstrates enhanced calcium deposition comparable to Biodentine. Bio-GIC may be further developed as a bioactive material for dentin regeneration.

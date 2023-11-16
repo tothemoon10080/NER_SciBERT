@@ -1,0 +1,11 @@
+Introduction
+                  Mineral trioxide aggregate (MTA) can induce differentiation of the dental pulp cells into odontoblast-like cells and generate a dentin-like mineral structure. The mechanisms underlying MTA-induced odontoblastic differentiation in human dental pulp cells (HDPCs) are not completely understood. The purpose of this study was to evaluate the effect of nifedipine as calcium channel blocker on MTA-induced odontoblastic differentiation in HDPCs.
+               
+                  Methods
+                  HDPCs extracted from maxillary supernumerary incisors and third molars were directly cultured on MTA with or without nifedipine in the culture medium. Cell growth and expression of odontoblastic differentiation markers were determined by using methyl-thiazol-diphenyl-tetrazolium assay and reverse transcription–polymerase chain reaction analysis, respectively. Phosphorylation of mitogen-activated protein kinase was measured by Western blotting, and calcium deposition was assessed by using alizarin red S staining.
+               
+                  Results
+                  MTA at a concentration of 1 mg/mL significantly up-regulated the expression of dentin sialophosphoprotein and dentin matrix protein-1 and enhanced mineralized nodule formation. However, nifedipine attenuated the MTA-induced odontoblastic differentiation in HDPCs. In addition, MTA-induced mineralization was blocked by inhibition of extracellular signal-regulated kinase (ERK), p38, and Jun N-terminal kinase (JNK) by using U0126, SB203580, and SP600125, respectively. Furthermore, phosphorylation of ERK and JNK in response to MTA was inhibited when the medium was supplemented with nifedipine.
+               
+                  Conclusions
+                  This study showed that calcium ions released from MTA play an important role in odontoblastic differentiation of HDPCs via modulation of ERK and JNK activation.

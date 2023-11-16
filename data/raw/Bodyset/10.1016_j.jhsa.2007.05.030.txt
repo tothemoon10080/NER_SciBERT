@@ -1,0 +1,11 @@
+Purpose
+                  Internal fixation has become a well-established alternative to casting for acute scaphoid fractures. Screw design has evolved, and several different types of screws of varying sizes are now available. The purpose of this study was to establish morphometric data for the human scaphoid, document variation in scaphoid dimensions between genders, and to evaluate symmetry in scaphoid measurements between the two sides.
+               
+                  Methods
+                  We measured length, width, and morphology of the scaphoid in 30 paired cadaveric specimens with reference to the long axis of the scaphoid from the proximal pole to the distal articular surface. The width of the bone was compared with diameters of commercially available screws.
+               
+                  Results
+                  When measured along an axis from proximal pole to the distal articular surface, male scaphoids (31.3 mm ± 2.1) were significantly longer than female specimens (27.3 mm ± 1.7). The male scaphoid was also significantly wider than the female specimen when measured perpendicular to the long axis 2 mm from the proximal pole (4.5 mm ± 1.4 vs 3.7 mm ± 0.5) and at the waist (13.6 mm ± 2.6 vs 11.1 mm ± 1.2). There was no significant difference in the distal pole diameter measured 2 mm from the tip between genders (7.2 mm ± 1.0 vs 7.2 mm ± 1.2). The diameters of most commercially available standard screws were larger than the proximal pole of the female scaphoid.
+               
+                  Conclusions
+                  Allowing for countersinking of the screw 2 mm beneath either pole, our data suggest the usual screw length will be 27 mm and 23 mm for male and female scaphoids, respectively. The small width of the proximal pole of the female scaphoid will not accommodate standard-sized screws from most manufacturers, and consideration must be given to distal to proximal screw placement or use of “mini” screws if the implant is to be inserted in a proximal to distal direction.

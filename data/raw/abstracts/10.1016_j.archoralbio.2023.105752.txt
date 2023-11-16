@@ -1,0 +1,11 @@
+Objective
+                  Variation in enamel and dentine mineral concentration and total effective density can be reliably collected using Micro-CT scans. Both variables are suggested to reflect mechanical properties such as hardness and elastic modulus in dental tissues, meaning Micro-CT methods allow relative composition and mechanical properties to be collected non-destructively.
+               
+                  Design
+                  16 lower molars from 16 Catarrhine primates were Micro-CT scanned alongside hydroxyapatite phantoms using standardized settings and methods to calculate mineral concentration and total effective density. Mineral concentration, total effective density and thickness of dentine and enamel were calculated for four cusps, representing each 'corner' of the tooth and four lateral crown positions (i.e., mesial, buccal, lingual and distal).
+               
+                  Results
+                  The results show mean mineral concentration and total effective density values were higher in areas of thicker enamel, while the opposite was observed for dentine. Buccal positions had significantly higher mineral concentration and total effective density values than lingual areas. Cuspal positions had higher mean values than lateral enamel, for both dentine (mineral concentration cuspal: 1.26 g/cm3; lateral: 1.20 g/cm3) and enamel (mineral concentration cuspal: 2.31 g/cm3; lateral: 2.25 g/cm3). Mesial enamel had significantly lower values than other locations.
+               
+                  Conclusions
+                  These common patterns across Catarrhine taxa may be linked to functional adaptations related to optimization of mastication and tooth protection. Variation in mineral concentration and total effective density may also be associated with wear and fracture patterns, and can be used as baseline information to investigate the effect of diet, pathological changes and aging on teeth through time.

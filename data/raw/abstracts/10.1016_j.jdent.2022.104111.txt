@@ -1,0 +1,14 @@
+Objectives
+                  Self-assembling peptide P11-4 is amphiphilic and pH-triggered, effective on repairing early enamel carious lesions and dentin remineralization. However, P11-4 effects on dentin biomineralization and repair ability remain unexplored. Thus, cytocompatibility and effectiveness of P11-4 on inducing mineralization and migration of odontoblast-like cells (MDPC-23) were investigated.
+               
+                  Methods
+                  MDPC-23 were seeded in contact with P11-4 (0.5 and 1 µg/ml), Dentin Matrix Protein 1 (DMP1 0.5 and 1 µg/ml) or Calcium hydroxide (Ca(OH)2 100 µg/ml) solutions. Cell viability was verified using MTT (n = 6/group). Mineral deposition was tested using Alizarin Red (n = 4/group). Cell migration was assessed by light microscopy (n = 2/group). MTT and Alizarin Red data were compared using Kruskal-Wallis and Mann-Whitney (α=0.01).
+               
+                  Results
+                  P11-4 (0.5 and 1 µg/ml) and DMP1 (0.5 and 1 µg/ml) resulted the highest cell viability; Ca(OH)2 presented the lowest. 1 µg/ml DMP1 and 1 µg/ml P11-4 promoted the highest mineral deposition. Ca(OH)2 presented lower values of mineral deposits than DMP1 1 µg/ml (p < 0.01), but similar to P11-4 1 µg/ml. P11-4 and DMP1 at 0.5 µg/ml induced lesser mineral precipitation than P11-4 and DMP1 at 1 µg/ml (p < 0.01), with no difference to Ca(OH)2. All materials stimulated cell migration, however, lower concentrations of DMP1 and P11-4 demonstrated a higher migration potential.
+               
+                  Conclusion
+                  P11-4 did not affect cell viability, induces mineral deposition and MDPC-23 migration like DMP1.
+               
+                  Clinical significance
+                  Self-assembling peptide P11-4 does not affect the cell viability and induces mineral deposition comparable to native protein involved in biomineralization. Combined with its ability to bind type I collagen, P11-4 is a promising bioinspired molecule that provides native-tissue conditions and foster further studies on its ability to form dentin bridges in pulp-capping strategies.

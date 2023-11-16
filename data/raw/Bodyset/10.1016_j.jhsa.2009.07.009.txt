@@ -1,0 +1,14 @@
+Purpose
+                  This study tests the hypothesis that 3-dimensional computed tomography (CT) reconstructions improve interobserver agreement on classification and treatment of coronoid fractures compared with 2-dimensional CT.
+               
+                  Methods
+                  A total of 29 orthopedic surgeons evaluated 10 coronoid fractures on 2 occasions (first with radiographs and 2-dimensional CT and then with radiographs and 3-dimensional CT), separated by a minimum of 2 weeks. Surgeons classified fractures according to the classifications of Regan and Morrey and of O'Driscoll et al., identified specific characteristics, recommended the most appropriate treatment approach, and made treatment recommendations. The kappa multirater measure (κ) was calculated to estimate agreement between observers.
+               
+                  Results
+                  Regardless of the imaging modality used, there was fair to moderate agreement for most of the observations. Three-dimensional CT improved interobserver agreement in Regan and Morrey's classsication (κ3-dimensional = 0.51 vs κ2-dimensional = 0.40; p < .001) and O'Driscoll et al.'s classifications (κ3-dimensional = 0.48 vs κ2-dimensional = 0.42; p = .009). There were trends toward better reliability for 3-dimensional reconstruction in recognition of coronoid tip fractures (κ3-dimensional = 0.19, κ2-dimensional = 0.03; p = .268), comminution (κ3-dimensional = 0.41 vs κ2-dimensional = 0.29; p = .133), and impacted fragments (κ3-dimensional = 0.39 vs κ2-dimensional = 0.27; p = .094), and in surgeons' opinions on the need for something other than screws or plate for surgical fixation (κ3-dimensional = 0.31 vs κ2-dimensional = 0.15; p = .138). Interobserver agreement on treatment approach was better with 2-dimensional CT (κ3-dimensional = 0.27, κ2-dimensional = 0.32; p = .015).
+               
+                  Conclusions
+                  Three-dimensional CT reconstructions improve interobserver agreement with respect to fracture classification compared with 2-dimensional CT.
+               
+                  Type of study/level of evidence
+                  Diagnostic III.

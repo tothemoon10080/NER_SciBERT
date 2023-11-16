@@ -1,0 +1,14 @@
+Purpose
+                  Shift of the distal fragment of a distal radius fracture (DRF) in the coronal plane (coronal shift) may compromise the contributions of the distal oblique bundle (DOB) of the interosseous membrane to distal radioulnar joint (DRUJ) stability. The purpose of the study was to test our hypothesis that coronal shift of the distal fragment would increase dorsal-volar DRUJ displacement in response to applied load.
+               
+                  Methods
+                  A distal radius osteotomy was performed proximal to the sigmoid notch base and the ulnar styloid was cut (to simulate triangular fibrocartilage complex detachment) in 10 cadaveric specimens. A volarly placed plate was used to shift the distal radius fragment radially in 2-mm increments. A mechanical testing apparatus applied a 20 N load to the distal fragment perpendicular to the volar cortex with the forearm in neutral, 60° pronation, and 60° supination. Dorsal-volar displacement of the radius relative to the fixed ulna was measured in the control state (DRF and ulnar styloid anatomically fixed) and in 3 positions (anatomical reduction, 2-mm coronal shift, 4-mm coronal shift) with ulnar styloid displacement. The specimens were dissected post hoc to evaluate for a distinct DOB (thickness, > 0.5 mm). Dorsal-volar DRUJ displacement was compared among testing and control states using analysis of variance.
+               
+                  Results
+                  In specimens with a distinct DOB, 2-mm coronal shift significantly increased dorsal-volar DRUJ displacement. However, there was no difference in DRUJ displacement between 4-mm coronal shift and control state. Coronal shift did not affect dorsal-volar DRUJ displacement in specimens without a distinct DOB.
+               
+                  Conclusions
+                  In the setting of an ulnar styloid fracture, a 2-mm (but not a 4-mm) coronal shift of the DRF is associated with increased dorsal-volar DRUJ displacement in specimens with a distinct DOB, but not in specimens without a distinct DOB.
+               
+                  Clinical relevance
+                  Awareness of the importance of coronal shift may aid in prevention of DRUJ instability associated with DRF, especially in patients with a DOB.

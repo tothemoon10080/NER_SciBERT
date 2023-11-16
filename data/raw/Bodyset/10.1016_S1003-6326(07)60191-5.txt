@@ -1,0 +1,7 @@
+Ce0.8Ca0.2O1.8 (CDC82) anode material was prepared by glycine-nitrate process(GNP). Thermogravimetric(TG) analysis and differential scanning calorimetric(DSC) methods were adopted to characterize the reaction process of CDC82 material. X-ray diffractometry(XRD), scanning electron microcopy(SEM), direct current four probe (four-probe DC) and temperature process reduce(TPR) techniques were adopted to characterize the properties of CDC82 material. After the precursor was sintered at 750 °C for 4 h, CDC82 material with pure-fluorite structure and nanometer size was obtained. The total conductivity of CDC82 changes little with temperature in air at 50–850 °C, and the maximum value is 0.04 S/cm at 750 °C. The total conductivity wholly becomes larger when the atmosphere changes from air to hydrogen, which greatly increases with increasing temperature and reaches the maximum value of 1.09 S/cm at 850 °C. Some impurities such as CeMg and La2O3 exist after the mixture of CDC82 anode and La1-x
+                     Sr
+                        x
+                     Ga1-y
+                     Mg
+                        y
+                     O3-δ (LSGM) electrolyte material is sintered at 1 200 °C for 15 h. The CDC82 material as anode material has excellent catalytic property for hydrogen and methane.

@@ -1,0 +1,9 @@
+The degradation of p-nitrophenol (pNP) was investigated in the chemical-less UVC/VUV process (Advanced Oxidation/Reduction Process, AORP), the packed bed bioreactor (PBR), and the hybrid of AORP/PBR system. The control UVC/VUV process degraded and mineralized pNP with rate constants of 0.098 and 0.032 min−1, respectively, at neutral initial pH. Operating the UVC/VUV process in a fluidized bed reactor improved the rate of pNP degradation by 21 % at a packing ratio of 0.5 %. The fluidized bed AORP was operated under continuous-flow mode, where 79 % degradation and 28 % mineralization of pNP were obtained along a significant improvement in the biodegradability (41 %) at a hydraulic retention time of 20 min. The oxidation with HO and reduction with 
+                        
+                           
+                              e
+                              aq
+                              −
+                           
+                        
+                      simultaneously contributed to the degradation of pNP in the UVC/VUV process. In comparison, degradation and mineralization of pNP in a single PBR process (without pretreatment) was found to be 84.7 % and 47.2 %, respectively, during 30 h biotreatment. Coupling the fluidized bed UVC/VUV with the PBR attained complete biodegradation of the residual pNP within 1 h and over 89 % of TOC reduction during 3 h post treatment in the PBR. Accordingly, the hybrid, fluidized bed UVC/VUV reactor coupled with the PBR is an efficient and promising technology for treating toxic environmental contaminants.

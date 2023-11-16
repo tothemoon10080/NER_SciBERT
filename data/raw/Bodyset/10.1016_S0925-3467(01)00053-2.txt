@@ -1,0 +1,9 @@
+VO
+                        x
+                      films were fabricated on thermally grown SiO2 layers by reactive r.f. sputtering at room temperature. The working pressure was 5 mTorr, adjusted by changing Ar and O2 flow from 1:1 to 10:1. Post annealing was performed at the temperatures of 200°C, 300°C, 400°C, 450°C, and 500°C. Electrical resistivities of VO
+                        x
+                      films were measured at various temperatures from 25°C to 80°C and the temperature coefficient of resistance (TCR) was calculated for each film. The resistivity decreases with the increase of the annealing temperature and shows two steps of critical drops at 300°C and 450°C, respectively. This is attributed to the phase transitions of the as-deposited VO
+                        x
+                      as characterized by X-ray diffraction (XRD). Considering both the TCR and resistivities, it is concluded that the optimum oxygen concentration, x in the VO
+                        x
+                      films approaches to 2.25 (V4O9).Among many phases of vanadium oxide compounds, V The chamber was evacuated to a base pressure of 1.5×10  The VO In order to achieve an optimum active layer for IR thermal detector, the low resistance is one property to be required. However, the low resistance usually comes with the low TCR (responsivity). VO The work has been supported by the Brain Korea 21 project.

@@ -1,0 +1,23 @@
+The absorption characteristics of single-layer ceramics under oblique incident microwave irradiation were investigated by evaluating the effect of microwave incident angle (θ
+                     
+                        i
+                     ) on reflection losses (RL) for both transverse electric (TE) and transverse magnetic (TM) polarizations. The materials investigated were a high-loss SiC layer and a low-loss Al2O3 layer with impedance matching thicknesses of 0.0054 and 0.923m, respectively. The reflection losses of the ceramic layers over the incident angle ranging from 0° to 90° were determined using equations derived from transmission line theory. From the RL patterns obtained, SiC exhibits a much smaller minimum reflection loss (RL
+                     
+                        min
+                     ) at a higher θ
+                     
+                        i
+                      for TM polarization compared with the equivalent for TE polarization. This difference is believed to be a result of the effect of Brewster׳s angle. For Al2O3 at room temperature, there is a negligible difference of RL
+                     
+                        min
+                      between TE and TM polarizations due to the low dielectric loss of Al2O3. When temperature increases to 1379°C, the Al2O3 
+                     RL
+                     
+                        min
+                      values for TE polarization show frequent fluctuations in the entire temperature range, indicating the difficulty in predicting absorption in low-loss materials for TE polarization during microwave heating. For TM polarization, reflection loss of Al2O3 varies monotonically with θ
+                     
+                        i
+                      as the temperature is increased that is shown by a decreasing RL
+                     
+                        min
+                      value when the corresponding incident angle increases. These results indicate that TM-polarized microwaves help reduce reflection losses of both high- and low-loss ceramics. Power absorption in ceramics throughout the heating process can be improved by modifying the angle of incidence and polarization type of microwaves.Microwave processing of both high-loss and low-loss ceramic materials (e.g., SiC and Al Recent work indicates that reflection loss ( The present work is aimed at achieving the maximum microwave absorption in single-layer ceramic absorbers under oblique incident microwave irradiation by studying reflection losses of a high-loss SiC layer and a low-loss Al The microwave reflection loss of a material depends on various factors, including microwave permittivity, permeability, microwave frequency and material thickness. The traditional formula for determining reflection loss of a single-layer microwave absorber backed by a metallic cavity wall under microwave irradiation (perpendicular incidence, For an oblique incidence of microwaves (plane waves), the incident angle influences reflection and refraction of microwaves on the interface between air and the absorber so both TE and TM polarizations should be considered. According to transmission line theory, reflection losses for TE and TM polarizations are given by As suggested by Eqs. As aforementioned, the reflection loss depends on the ceramic absorber thickness. To evaluate the variation of microwave reflection loss with incident angle it is necessary to select an appropriate thickness, or the impedance matching thickness, at which high microwave absorption in the ceramics can be achieved Compared with SiC, microwave absorption in Al Many ceramics exhibit a strong temperature dependence of microwave absorption, suggesting that ceramics subjected to oblique incident microwave irradiation should be examined at high temperatures. The characteristics of microwave absorption in single-layer ceramics under oblique incident microwave irradiation have been studied by exploring the impact of incident angle on microwave reflection losses of a high-loss SiC layer and of a low-loss Al This work was supported by the

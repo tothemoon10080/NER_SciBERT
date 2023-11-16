@@ -1,0 +1,26 @@
+The energetically favorable facet orientation of GaAs pyramids for InAs quantum dot (QD) growth was studied in terms of a crystallographic matching perspective. The predicted apparent interface is (5.611)GaAs, which agrees well with the best substrate (511)GaAs in previous experimental observations. This allows close-packed planes, (111)InAs and (
+                        
+                           
+                              
+                                 1
+                              
+                              
+                                 ¯
+                              
+                           
+                           
+                           1
+                           
+                           1
+                        
+                     )GaAs, with their edges meeting at the interface. The dependence of preferred facet orientation on the indium ratio of In
+                        x
+                     Ga1−
+                     
+                        x
+                     As QDs is also studied, which provides a new way to fabricate high-quality In
+                        x
+                     Ga1−
+                     
+                        x
+                     As QDs. A number of questions arising from the above experimental results are: (i) why do the In The crystallographic matching analysis in the present work is conducted using the edge-to-edge matching (E2EM) model that was originally developed for predicting and understanding the crystallographic features of diffusional phase transformations in solids InAs has a face-centred cubic lattice and zinc blende structure, with a lattice parameter of Based on the lattice constants, the interatomic spacing misfit along the direction pairs, Given a pair of matching directions, [   Although the above crystallographic analysis is carried out in InAs/GaAs system, the similar approach can also be extended to In  In summary, a preferential high-index interface between the InAs QDs and the GaAs substrate has been successfully predicted based on the E2EM model. The calculated interface oriented at {5.6 1 1} 

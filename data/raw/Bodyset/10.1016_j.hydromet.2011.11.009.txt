@@ -1,0 +1,108 @@
+The effects of metal ions, minerals, temperature, thiocyanate concentration, activated carbon, and pH on the rate of thiocyanate oxidation were determined. The rate of ferrous ion generation from the redox reaction between thiocyanate and ferric ion was found to be significant at 50°C. The reaction constant (k) at 25°C was found to be 1.43×10−5
+                     L0.4
+                     mol−0.4
+                     min−1. Ferric oxidation of thiocyanate was sensitive to temperature with an activation energy of 76.4kJ/mol, typical of homogenous chemical reactions. Based on the kinetic data, the empirical rate equation for thiocyanate consumption and/or ferrous ion generation was found to have the following form:
+                        
+                           
+                              
+                                 
+                                    
+                                       d
+                                       [
+                                       F
+                                       
+                                          e
+                                          
+                                             2
+                                             +
+                                          
+                                       
+                                       ]
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 −
+                                 8
+                                 
+                                    
+                                       d
+                                       [
+                                       S
+                                       C
+                                       
+                                          N
+                                          −
+                                       
+                                       ]
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 k
+                                 
+                                    
+                                       [
+                                       S
+                                       C
+                                       
+                                          N
+                                          −
+                                       
+                                       ]
+                                    
+                                    1.36
+                                 
+                                 
+                                    
+                                       [
+                                       F
+                                       
+                                          e
+                                          
+                                             3
+                                             +
+                                          
+                                       
+                                       ]
+                                    
+                                    0
+                                 
+                                 
+                                    
+                                       [
+                                       
+                                          H
+                                          +
+                                       
+                                       ]
+                                    
+                                    0
+                                 
+                                 =
+                                 k
+                                 
+                                    
+                                       [
+                                       S
+                                       C
+                                       
+                                          N
+                                          −
+                                       
+                                       ]
+                                    
+                                    1.36
+                                 
+                              
+                           
+                        
+                     
+                  
+                  Oxide minerals did not have a profound effect on the oxidation of thiocyanate by ferric ion. Sulfide minerals, especially pyrite and galena catalyzed the redox reaction. The addition of cupric ion resulted in the oxidation of thiocyanate and formation of an insoluble cuprous thiocyanate compound.As previously discussed in part (I) of this series of papers, gold can be dissolved in acid thiocyanate solution (for instance, at pH 1.5) according to Reactions (1) and (2) Whether species Au(SCN) All process alternatives to cyanidation for gold recovery from ores and/or concentrates exhibit high reagent consumption, which limits their application. As such, it is necessary to understand the nature of these reagent decomposition reactions under actual leaching conditions in order to reduce their consumption and improve their potential use by industry. Under the oxidation/leaching potentials required for gold dissolution, thiocyanate is thermodynamically unstable and can be oxidized according to the following Reactions ((3) and (4)). These intermediates, thiocyanogen (SCN) Similarly, trithiocyanate can be hydrolyzed to the same reaction products as listed in Reaction (5). At gold leaching potentials, the oxidation of cyanic acid, HCN, produced from the above hydrolysis reaction to carbonate and ammonium ions is thermodynamically favorable. In this way, the overall reaction for thiocyanate oxidation (pH 1–2) is likely to be as follows (Reaction (6)). For gold leaching in acidic thiocyanate solution, ferric sulfate is usually used as an oxidant. Of course, thiocyanate oxidation by ferric ion is expected to occur in acid thiocyanate solution since the range of half cell potentials significantly exceeds the half cell potential for thiocyanate oxidation. The standard potential for the ferric/ferrous half cell is well known (Reaction (7)): If complexation between the ferric/ferrous ion and thiocyanate is considered, the standard potential for the Fe (III)–SCN/Fe (II)–SCN complex ion pair is calculated to be 0.44 Thus, it is not unexpected that thiocyanate oxidation by ferric ion will be one of the most important factors causing thiocyanate consumption. However, very few investigators have dealt with the kinetics of the redox reaction between thiocyanate and ferric ion. Even though The thermodynamics and chemistry of the thiocyanate system and also the leaching kinetics of gold were discussed in parts (I) and (II) of this sequence of papers, respectively. In this part (III), the rate of thiocyanate decomposition in the presence of ferric sulfate was measured under different conditions and important parameters for the redox reaction kinetics were determined. The experiments for thiocyanate decomposition in the presence of ferric sulfate were carried out in a 1 The experiments for the determination of thiocyanate oxidation kinetics by ferric sulfate were divided into two parts. The oxidation rate was first measured by titration of residual thiocyanate concentration using AgNO The rate was determined by titration of ferrous ions produced in-situ from the redox reaction between ferric ion and thiocyanate. Before ferrous ion analysis by titration using potassium permanganate, a sample solution (20 Reaction rates were determined by fitting the rate data to a regression equation. Similarly, the reaction order and the apparent activation energy for this reaction were deduced by a best-fit statistical analysis of the experimental data. Sodium thiocyanate (99.0%, Mallinckrodt), ferric sulfate (Merck), cupric sulfate (CuSO Pyrite (Zacatecas, Mexico) and hematite (Mesabi District, Ironton, Minnesota, USA) were purchased from Ward's National Science Establishment, Inc. Chalcopyrite, galena, sphalerite, and quartz were obtained from specimens at the University of Utah. The sources were unknown. These mineral samples were crushed and screened to the required particle sizes for thiocyanate decomposition experiments. For some experiments, a synthetic hematite sample was used for examination of its influence on the rate of thiocyanate oxidation since it was found by chemical analysis that the natural hematite sample had 2.2 Before the decomposition experiments, these minerals were pre-leached with 1 The effects of common gold leaching system variables on thiocyanate oxidation were examined. These included thiocyanate concentration, ferric ion concentration, pH, temperature and the presence of typical minerals as well as cupric ion addition. From these experiments kinetic parameters were determined. The effect of initial thiocyanate concentration An explicit solution for the rates of complex decomposition (redox reactions for Fe (III)/SCN complexes) is not possible; however, analysis with this incomplete data set suggests that the Fe(SCN) The results shown in A plot of the logarithm of the ferrous generation rate versus the logarithm of the corresponding initial thiocyanate concentration is presented in Under the conditions investigated, the number of thiocyanate ligands complexed with ferric ion varies from 1 to 4 with an increase in thiocyanate concentration from 0.05 As noted from the above results, the rate of ferrous ion generation is approximately one and a half order with respect to thiocyanate concentration. This phenomenon suggests that the probability of thiocyanate oxidation by ferric ion for each thiocyanate in thiocyanate–ferric ion complexes would be higher at a higher ligand number than at a lower ligand number. In other words, the complex of thiocyanate and ferric ion becomes more labile with an increase in molar ratio of thiocyanate to ferric ion. The effect of ferric ion concentration (0.05 to 0.2 The independence of the initial rate of ferrous production on the initial ferric concentration is somewhat surprising but might be explained by the complex equilibria, which includes both thiocyanate and sulfate ligands. The rate of ferrous ion generation was determined with pH variation from 1 to 2 at an initial thiocyanate concentration of 0.1 The insensitivity to pH would be expected if the ferrous production is due to the instability of the ferric complex ions, such as FeSCN The effect of temperature (25 to 50 The logarithm of the generation rate deduced from the results presented in The reaction between thiocyanate and cupric ion is expected to be as follows: The equilibrium constant for Reaction (10) is 1.46 While high cupric concentrations had a pronounced effect on the stability of the ferric/thiocyanate complexes, small amounts of cupric ion had a negligible effect on complex stability. The effect of 100 The effect of some minerals such as pyrite, chalcopyrite, galena, and hematite was examined on the oxidation of thiocyanate. The experimental results showed that pyrite (FeS The contribution of ferrous ion production from the pyrite is negligible under the experimental conditions, as compared to the ferrous ion produced by ferric oxidation of thiocyanate (  The initial rate of reaction was calculated as 2 It is clear that activated carbon increases the rate of ferrous production driving the reduction of ferric essentially to completion. The results suggest that ferric complexes are adsorbed and their redox decomposition is catalyzed by activated carbon. The initial rates of thiocyanate oxidation under different experimental conditions, which were discussed above, are compared in Based on thermodynamic analysis, thiocyanate is found to be unstable under oxidation conditions. Some experimental results indicated that the rate of thiocyanate oxidation by ferric sulfate is rather slow, probably due to the formation of intermediate products, thiocyanogen (SCN) According to the experimental results, the kinetic response is significantly dependent on thiocyanate concentration and temperature. However, other results show that the thiocyanate oxidation rate is not sensitive to ferric concentration and pH variation in the range 1–2 and temperature of 50 The above equation is valid at initial thiocyanate concentrations of 0.05 to 0.4 From the aforementioned experimental results, it was found that thiocyanate oxidation by ferric ion in acid solution was slow at room temperature (25 Sulfide minerals were observed to catalyze the redox reaction rate. The reaction constant (k) at 25 According to the results, pyrite and activated carbon had the most pronounced effect on the rate of thiocyanate oxidation. A comparison of the initial reaction rates in the presence of pyrite and activated carbon indicates that while the rate of thiocyanate oxidation was five times faster in the presence of pyrite, the rate of thiocyanate oxidation was twenty five times faster in the presence of activated carbon. This shows that the activated carbon had a more pronounced effect on the rate of thiocyanate oxidation (see The faster oxidation of thiocyanate in the presence of pyrite and activated carbon could be attributed to the stronger adsorption of ferric/thiocyanate complexes at the surface of pyrite and activated carbon. The authors would like to thank Newmont Mining Corporation for providing financial support for this project and the permission to publish this paper. Also, the contributions of Dr. Rong Yu Wan, now deceased, are recognized for her enthusiastic support of hydrometallurgy research, in general, and this thiocyanate research, in particular. Special thanks go to Ms. Dorrie Spurlock for proofreading the manuscript, and providing great suggestions. Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of Newmont Mining Corporation.

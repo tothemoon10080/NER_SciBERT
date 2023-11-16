@@ -1,0 +1,127 @@
+This research aims to develop a new approach replacing a centrifugal separator with a hydrocyclone in a tapioca starch production process. The studied hydrocyclone was designed on the basis of Bradley's geometry, which is suitable for starch–water separation according to a small density difference and small diameters of starch particles. Three factors, i.e., pressure drop across the hydrocyclone (ΔP), feed concentration [C], and apex diameter (D
+                     u), were varied into three levels at 2, 4 and 6kg/cm2; 3, 7, and 11% weight by volume; and 1.5, 2.1, and 4.0mm, respectively. The hydrocyclone's performance indices (i.e., % solid recovery (%R), % split (%R
+                     v), reduced efficiency (E′)) and cut size diameter (d
+                     50) were determined. The experimental results were used to construct empirical models predicting hydrocyclone efficiencies from the pressure drop, feed concentration, and apex diameter. The models for three indices were: 
+                        
+                           %
+                           R
+                           =
+                           70.71
+                           
+                              
+                                 (
+                                 
+                                    Δ
+                                 
+                                 P
+                                 )
+                              
+                              
+                                 0.15
+                              
+                           
+                           ⋅
+                           
+                              
+                                 [
+                                 C
+                                 ]
+                              
+                              
+                                 −
+                                 0.09
+                              
+                           
+                           ⋅
+                           
+                              D
+                              u
+                              
+                                 0.17
+                              
+                           
+                        
+                     , 
+                        
+                           %
+                           
+                              R
+                              v
+                           
+                           =
+                           30.69
+                           
+                              
+                                 (
+                                 
+                                    Δ
+                                 
+                                 P
+                                 )
+                              
+                              
+                                 −
+                                 0.09
+                              
+                           
+                           ⋅
+                           
+                              
+                                 [
+                                 C
+                                 ]
+                              
+                              0
+                           
+                           ⋅
+                           
+                              D
+                              u
+                              
+                                 0.47
+                              
+                           
+                        
+                     , and 
+                        
+                           
+                              E
+                              ′
+                           
+                           =
+                           54.95
+                           
+                              
+                                 (
+                                 
+                                    Δ
+                                 
+                                 P
+                                 )
+                              
+                              
+                                 0.31
+                              
+                           
+                           ⋅
+                           
+                              
+                                 [
+                                 C
+                                 ]
+                              
+                              
+                                 −
+                                 0.17
+                              
+                           
+                           ⋅
+                           
+                              D
+                              u
+                              
+                                 0.19
+                              
+                           
+                        
+                     .Thailand produces approximately 2 million tons of tapioca starch per year with a domestic demand of 35% and an export demand of 65% Hydrocyclone, a well-known separation equipment in mineral processing industry, utilizes centrifugal force to separate solid from liquid streams For the solid–liquid separation, a particle at any point within the flow in a hydrocyclone is basically subjected to two forces: one from the external and internal field of accelerations (i.e., gravity and centrifugal forces) and the other from the drag exerted on the particle by the flow. The gravity effect is normally neglected in hydrocyclone, so that only centrifugal and drag forces are taken into account. If the centrifugal force acting on a particle exceeds the drag, the particle moves radically outwards, and if the drag is grater, the particle is carried inwards ( Many researchers have tried to improve a hydrocyclone efficiency for solid–liquid separation The simplest and most obvious way to calculate mass efficiency of a hydrocyclone is to relate it to the mass flow rates of fine and coarse fractions. The relative amounts of material in different products can be defined as a total efficiency. In the fine fraction, the total fine efficiency is Other than the total coarse efficiency or solid recovery (% Total coarse efficiency or solid recovery (% Water recovery, % Reduced efficiency, The This research aimed to enhance our understanding on the hydrocyclone's design concept for the starch–water separation for future development of the mini-hydrocyclone network in the tapioca starch production. The specific objectives of this research were (1) to study the effects of apex diameter of the Bradley's hydrocyclone for increasing tapioca starch concentration in a separation unit and (2) to develop the empirical equations for predicting the hydrocyclone efficiency and performance. This research studied a separation unit for increasing tapioca starch concentration using a hydrocyclone instead of a centrifugal separator. A Bradley's geometry was used in designing the hydrocyclone The calculation of hydrocyclone dimension starts with defining a cut size diameter (i.e., 8.5 The hydrocyclone diameter was calculated to be 3.00 Three factors, i.e., apex diameter (designing factor), pressure drop across the hydrocyclone, and starch concentration (operating parameter), were studied. The apex diameter was varied at 1.5, 2.1, and 4.0  The flow rates at the overflow and underflow outlets were measured when the system reached steady state. Triplicated samples were collected to record the weight and total volume. The samples were then kept in the moisture cans and put in the oven at 55–60 Particle size distribution was determined using a customized code in MATLAB program. The 0.5 To define the hydrocyclone performance, the parameters of interest, i.e., pressure drop, feed concentration, and apex diameter, were interrelated and estimated for correlations. The empirical equations for the performance indices were developed using the regression model on the experimental data Volume split is the ratio of the underflow to overflow rate. This value expresses the chance of starch slurry removed through underflow or overflow. The increasing of feed concentration provided a smaller volume split. The viscosity of starch slurry, depending on the concentration of the solution, was the main effect. At a higher concentration, the slurry was more viscous due to the rising cohesion and adhesion, so that starch slurry flow rate was reduced. However, both overflow and underflow flow rates were reduced simultaneously yielding in an insignificant difference of the volume split. The volume split increased with increasing width of the apex diameter. At a wider apex diameter, the volume split increased, because starch particles discharged easier through a wider apex of the underflow than through the narrower one. With a narrower apex diameter, the underflow flow rate was reduced. Starch particles agglomerated at a conical section of the hydrocyclone. % The photographs in %  Particle size distribution is the value expressing the amount of various particle sizes in starch slurry. The particle size distribution was analyzed using a customized code in MATLAB program.  Since three parameters of interest, i.e.,  The % Among three performance indices, the most influence parameter on % To summarize, as Δ Three performance indices, i.e., % The authors would like to thank the Starch Engineering and Process Optimization (SEPO) Program, National Center Genetic Engineering and Biotechnology (BIOTEC) for the research grant. We gratefully acknowledge the technical assistances of Mr. Tit Aytung and Ms. Ratchaneeporn Aytung in Department of Food Engineering, King Mongkut's University of Technology Thonburi (KMUTT).  feed concentration (%, w/v) cut size diameter (m) hydrocyclone diameter (m) feed inlet diameter (m) vortex finder diameter (m) apex diameter (m) reduced efficiency performance indices liquid density (kg/m particle density (kg/m pressure drop across hydrocyclone (kg/m feed flow rate (m percentage of recovery percentage of split liquid viscosity (kg/m

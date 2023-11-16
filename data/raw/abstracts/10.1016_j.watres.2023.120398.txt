@@ -1,0 +1,14 @@
+Nitrate-nitrogen (NO3
+                     −-N) loss is a significant contributor to water quality degradation in agricultural catchments. The amount of nitrogen (N) fertilizer input in citrus orchard is relatively large and results in significant NO3
+                     −-N loss, compared to cropland. To promote sustainable N fertilizer management, it is crucial to identify the sources of runoff NO3
+                     −-N loss in citrus orchards catchments. Particularly, we poorly know the sources of NO3
+                     −-N and the mitigation mechanisms in these areas, which are highly polluted with NO3
+                     −-N in water bodies. In this study conducted in central China, we conducted a field experiment with four treatments (CK: no N fertilizer; CF: conventional N fertilizer, 371.3kg N ha−1 yr−1 urea; OM: CF with organic manure; GM: CF with legume green manure) and a catchment-scale experiment in two citrus orchards (34.3%; 51.6%) catchments. To determine the source of runoff NO3
+                     −-N loss, we used the dual isotope tracer method (δ15N and δ18O of NO3
+                     −) to identify the sources of NO3
+                     −-N, and a 15-day incubation experiment to determine the potential and rate of soil N mineralization. Our findings revealed that soil organic nitrogen (SON) mineralization was the primary contributor to runoff NO3
+                     −-N loss, and soil N mineralization potential (0.65⁎⁎⁎) and rate (0.54⁎⁎⁎) were the key factors impacting NO3
+                     −-N loss. Interestingly, organic manure significantly increased 29.0% of NO3
+                     −-N loss derived from SON in the runoff by enhancing soil N mineralization potential (+36.6%) and rate (+77.1%). But green manure mulching significantly reduced the soil N mineralization rate (-18.6%) compared to organic manure application, making it the most effective measure to reduce NO3
+                     −-N loss (-12.4%). Our study highlights the critical role of regulating SON mineralization in controlling NO3
+                     −-N pollution in surface waters in citrus orchard catchments.

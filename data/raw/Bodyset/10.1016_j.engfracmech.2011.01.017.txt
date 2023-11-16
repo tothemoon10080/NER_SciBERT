@@ -1,0 +1,23 @@
+The main purpose of this technical note is to present a relationship between J-integral and averaged strain-energy density (
+                        
+                           
+                              
+                                 W
+                              
+                              
+                                 ¯
+                              
+                           
+                        
+                     ) in U-notches under Mode I loading for brittle or quasi-brittle materials. In this work, control volume includes the rectilinear edge of the notch in addition to semi-circular arc of the notch root. A dimensionless function (f) between J and 
+                        
+                           
+                              
+                                 W
+                              
+                              
+                                 ¯
+                              
+                           
+                        
+                      has been presented in this paper. Finite element analysis has been used for verification. It is found that this relationship is identical for tension or bending loading.the parameter of Eq. notch depth thickness of the specimen Young’s modulus strain energy over the control volume dimensionless relationship between  fracture toughness the parameter of Eq. semi-circular root of the notch function control volume boundary function the rectilinear edge of the notch function critical radius span length in TPB specimen averaged strain-energy density width of the specimen Poisson’s ratio intersection angle between control volume boundary and notch root critical value of intersection angle notch root radius maximum stress at the notch tip ultimate tensile strength control volume Fracture of U- and V-shaped (sharp and blunt) notches has been assessed by some researchers The effect of the notch acuity (notch depth to notch radius) on the For large control volumes, the relations expressed in Two cases of control volume ( According to For U- and blunt V-notches, the strain-energy density under Mode I loading can be expressed in the form of By defining parameter A as The angle In brittle materials, control radius ( Control volume may be calculated in the form of; After some mathematical calculations the following equation is obtained to evaluate the control volume: The variation of the control volume with respect to The control volume in case two can be easily calculated by an approximate formula, Eq. For In case two of control volume, the strain energy can be calculated as: After integration, the following equation is obtained to evaluate the strain energy: Finally, the averaged strain-energy density can be calculated by Eq. The relationship between the Since the maximum stress at the notch tip ( For a constant specimen geometry (constant notch depth, notch root radius, width, length, and thickness), the averaged strain-energy density reduces by increasing the control radius ( The degree of accuracy of Eq. The span length, width, thickness, notch depth, and notch root radius were kept 200, 50, 25, 20, and 0.05 The results obtained from FE solution and that calculated by Eq. The variation of the In this work, a relationship between

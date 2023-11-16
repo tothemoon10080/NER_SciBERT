@@ -1,0 +1,11 @@
+Introduction
+                  No clinical studies have examined the effect of mineral trioxide aggregate (MTA) obturation levels on the outcome of endodontic retreatment. This retrospective study examined treatment outcomes in three cohorts that compared overfilling, flush filling, and underfilling after orthograde retreatment using MTA.
+               
+                  Methods
+                  Two hundred fifty patients with 264 teeth diagnosed with previously treated root canals and apical periodontitis retreated in a private endodontic practice were included. All teeth received MTA obturation and the extent of the final filling level was measured in relation to the major apical foramen. After 6-month follow-ups, all nonhealing cases were treated surgically. After 24- to 72-month reviews, the effect of preoperative lesion size and the degree of MTA obturation level were assessed. Multiple linear regression and time-to-event analysis using Stata 17 software (StataCorp LLC, College Station, TX) were used to evaluate the data.
+               
+                  Results
+                  Within the three cohorts, 99 out of 108 overfilled teeth (91.7%), 90 out of 103 flush fills (87.4%), and 10 out of 53 underfilled teeth (18.9%) healed and were successfully retreated without surgery at 48-months. When surgical outcomes were included, the combined healed proportion was 93.2%. Preoperative lesion size was found to be an important predictor for retreatment nonhealing. A 1-mm increase in lesion size at baseline resulted in an estimated 11% (95% CI 1.04, 1.18)–38% (95% CI 1.22, 1.58) increase in the risk of surgery. Compared to overfilling and flush filling, underfilling was associated with an approximately three-fold increase in requiring surgery and characterized by delayed healing.
+               
+                  Conclusion
+                  MTA obturation is a viable retreatment option for teeth with nonhealing endodontic treatment. MTA overfills or flush fillings do not adversely affect healing outcomes. However, MTA underfilling increases the chances for nonhealing and surgical intervention.

@@ -1,0 +1,40 @@
+The local critical coalescence concentration l-CCC presents a relationship between frother concentration and the gas flow rate 
+                        
+                           
+                              
+                                 Q
+                              
+                              
+                                 g
+                              
+                              
+                                 ′
+                              
+                           
+                        
+                      at which coalescence starts to occur at a capillary tube. Such a relationship is used in this work to determine frother concentration. The solution with unknown frother concentration is tested to determine 
+                        
+                           
+                              
+                                 Q
+                              
+                              
+                                 g
+                              
+                              
+                                 ′
+                              
+                           
+                        
+                      and the concentration is determined from a reference l-CCC curve that has been previously determined for the frother to be tested. The technique is simple, and easy to implement. The determination of the reference l-CCC curve takes 1h or less, after which the measurements are very quick, taking no more than 5min per sample. The technique was validated against the total organic carbon (TOC) method for a series of samples of unknown frother concentration, for three different frothers, with a correlation coefficient 
+                        
+                           
+                              
+                                 R
+                              
+                              
+                                 2
+                              
+                           
+                        
+                      equal to 0.997. The measurements are not affected by the presence of xanthate in the system, when using MIBC as a frother, which suggests the possibility of using it, combined with TOC analysis to determine both frother and xanthate concentration by mass balancing.Frothers are used to stabilise froths and to reduce bubble size in flotation ( The technique consists of determining a reference Once the reference The technique is simple, and easy to implement. The determination of the reference The experimental set-up is the same that was used by Three frothers were used: an alcohol, MIBC (Sigma Aldrich); a polyglycol, Oreprep F549 (Cytec); and a blend corresponding to an industrial sample of MIBC and DF250 (5:1). The industrial blend was provided by a Chilean sulphide copper flotation plant, located near Santiago. All the tests were run with Santiago tap water. In order to test the effect of collector on the technique, sodium isopropyl xanthate (Cytec) was also used in a series of tests. Frother solutions were prepared with concentrations ranging from 0 to 25 The difference observed at the starting point of the curves for the industrial blend and the other frothers (MIBC, and Oreprep F549) is explained because the measurements were performed with different capillary tubes (the capillary broke between experiments). This confirms that the reference For the same range of concentrations, 0–25 It can be observed that there is a relationship between the total organic carbon (TOC) and the frother concentration. For each reagent a linear curve was fitted, which allows determining the frother concentration from TOC data. In order to validate the technique with samples of unknown concentration, a series of 30 tests were run in a laboratory flotation column of 10 feet height and 3 in inner diameter. For each frother, 10 tests were run in the column, varying the reagent concentration between 5 and 25  Since frothers are not the only reagents in flotation, it is of interest to test how a common collector, such as xanthate, affects the results obtained with frother alone. In order to do this, a series of measurements were performed with solutions containing MIBC and different concentrations of sodium isopropyl xanthate (0–15 According to The results suggest the possibility of using the two techniques, An indirect technique to measure frother concentration was presented. The technique is simple, and easy to implement. It is based on local critical coalescence concentration ( The authors would like to acknowledge the Supplementary data associated with this article can be found, in the online version, at 

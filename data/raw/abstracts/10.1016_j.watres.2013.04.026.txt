@@ -1,0 +1,18 @@
+Continuous DT MSMPR (Draft Tube Mixed Suspension Mixed Product Removal) crystallizer was provided with typical wastewater from phosphorus mineral fertilizers industry (pH < 4, 0.445 mass % of 
+                        
+                           
+                              
+                                 
+                                    
+                                       PO
+                                    
+                                    4
+                                 
+                              
+                              
+                                 3
+                                 −
+                              
+                           
+                        
+                     , inorganic impurities presence), dissolved substrates (magnesium and ammonium chlorides) and solution alkalising the environment of struvite MgNH4PO4·6H2O reaction crystallization process. Research ran in constant temperature 298 K assuming stoichiometric proportions of substrates or 20% excess of magnesium ions. Influence of pH (8.5–10) and mean residence time (900–3600 s) on product size distribution, its chemical composition, crystals shape, size–homogeneity and process kinetics was identified. Crystals of mean size ca. 25–37 μm and homogeneity CV 70–83% were produced. The largest crystals, of acceptable homogeneity, were produced using 20% excess of magnesium ions, pH 9 and mean residence time 3600 s. Under these conditions nucleation rate did not exceed 9 × 107 1/(s m3) according to SIG (Size Independent Growth) MSMPR kinetic model. Linear crystal growth rate was 4.27 × 10−9 m/s. Excess of magnesium ions influenced struvite reaction crystallization process yield advantageously. Concentration of phosphate(V) ions decreased from 0.445 to 9.2 × 10−4 mass %. This can be regarded as a very good process result. In product crystals, besides main component – struvite, all impurities from wastewater were detected analytically.

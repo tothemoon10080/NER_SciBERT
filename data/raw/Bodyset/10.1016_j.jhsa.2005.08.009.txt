@@ -1,0 +1,11 @@
+Purpose
+                  External fixation and open reduction and internal fixation have been the traditional techniques for surgical fixation of unstable distal radius fractures. The existing literature has not identified which is superior, primarily because of the lack of comparative trials. We performed a comprehensive systematic review and meta-analysis of the current literature on external fixation and internal fixation of distal radius fractures to determine the dominant strategy based on available scientific evidence.
+               
+                  Methods
+                  We searched MEDLINE and EMBASE for English-language articles published between 1980 and 2004 that satisfied predetermined inclusion and exclusion criteria. The outcomes of internal and external fixation were compared using continuous measures of grip strength, wrist range of motion, and radiographic alignment and categoric measures of pain, physician-rated outcome scales, and complication rates. Outcomes were pooled by random-effects meta-analysis and meta–regression analysis was used to control for patient age, presence of intra-articular fracture, duration of follow-up period, and date of publication. Sensitivity analyses were used to test the stability of the meta-analysis results under different assumptions.
+               
+                  Results
+                  Forty-six articles were included in the review with 28 (917 patients) external fixation studies and 18 (603 patients) internal fixation studies. Meta-analysis did not detect clinically or statistically significant differences in pooled grip strength, wrist range of motion, radiographic alignment, pain, and physician-rated outcomes between the 2 treatment arms. There were higher rates of infection, hardware failure, and neuritis with external fixation and higher rates of tendon complications and early hardware removal with internal fixation. Considerable heterogeneity was present in all studies and adversely affected the precision of the meta-analysis.
+               
+                  Conclusions
+                  The current literature offers no evidence to support the use of internal fixation over external fixation for unstable distal radius fractures. Comparative trials using appropriately sensitive and validated outcome measurements are needed to guide treatment decisions.

@@ -1,0 +1,88 @@
+About 90% of the titanium deposits in China are located in the Panzhihua area. The dissolution of Panzhihua ilmenite in sulfuric acid was investigated. The kinetic experiments were carried out with an initial acid/ilmenite (wt.) ratio of 500:15, a sulfuric acid concentration of 15.4 M and temperatures from 100 to 198 °C. The results show that the leaching kinetics can be described by shrinking core model. Both surface reaction and diffusion through the product layer are effective on the leaching rate. The kinetics can be expressed by the following equation:
+                        
+                           
+                              t
+                              =
+                              [
+                              0.00766
+                              /
+                              (
+                              2.74
+                              ×
+                              
+                                 10
+                                 7
+                              
+                              
+                                 e
+                                 
+                                    −
+                                    72575
+                                    /
+                                    R
+                                    ⁢
+                                    T
+                                 
+                              
+                              )
+                              ]
+                              [
+                              1
+                              −
+                              (
+                              1
+                              −
+                              x
+                              
+                                 )
+                                 
+                                    1
+                                    /
+                                    3
+                                 
+                              
+                              ]
+                              {
+                              1
+                              +
+                              (
+                              11
+                              −
+                              0.016
+                              ⁢
+                              T
+                              )
+                              [
+                              1
+                              +
+                              (
+                              1
+                              −
+                              x
+                              
+                                 )
+                                 
+                                    1
+                                    /
+                                    3
+                                 
+                              
+                              −
+                              2
+                              (
+                              1
+                              −
+                              x
+                              
+                                 )
+                                 
+                                    2
+                                    /
+                                    3
+                                 
+                              
+                              ]
+                              }
+                           
+                        
+                     The apparent activation energy was estimated to be 72.6 kJ/mol. This kinetic relationship was used to simulate non-isothermal and the pseudo-adiabatic experiments under industrial conditions. The simulated values were consistent with the experimental data.Pigment grade titanium dioxide is commercially manufactured by either a sulfate or chlorine route. The sulfate process still produces about 50% of global production; however, in China, more than 90% is produced by the sulfate method. In the sulfate process, the ilmenite ore is dissolved in sulfuric acid solution to prepare a titanium sulfate solution. This solution is further purified and hydrolyzed to produce pure TiO The digestion of ilmenite is operated in batch style in most of TiO   In this work, the leaching of Panzhihua ilmenite was investigated at temperatures of 80–200 °C. Kinetic model was obtained by data fitting according to the isothermal experiments and the model was checked with the experimental data by simulating the non-isothermal and pseudo-adiabatic reaction experiments. The ilmenite ore used was provided by Panzhihua Iron and Steel (Group) Cooperation, Titanium Company, Sichuan, China. The ore was concentrated by floatation and crushed to a size of 37–47 μm. Its composition was analyzed with an X-ray fluorescence spectrometer (Philips PW/480) and is listed in Sulfuric acid with concentrations from 11.5 to 16.7 M was filled into a cylindrical 2 L reactor. Once the reactor was at 140 °C, ilmenite was added at an acid/ore (wt.) ratio of 1.5:1. The reactant mixture was agitated by a gas flow bubbling through reaction slurry. The effect of agitation was checked with variable rotation speed and the experimental error was calibrated by parallel tests. The kinetic experiments were conducted in a thermostatted 1000 mL four-neck round bottom flask. A thermometer, a condenser, and a mechanical agitator were fixed into the glass reactor through three of its openings. The final opening was used to feed reactants and withdraw samples. In isothermal kinetic experiments, 500 mL of 15.4 M sulfuric acid solution was introduced into the reactor and heated up to a given temperature. When the temperature stabilized, 15 g of ilmenite ore was added. The reaction temperature remained within 2 °C of the set point due to the limited amount of ilmenite. Solution heating became significant with increasing amounts of ilmenite. Non-isothermal experiments were designed to detect the temperature change for different ilmenite dosages. The sulfuric acid was firstly heated to 140 °C and then 15, 30, 60 or 90 g of ilmenite ore was fed in, respectively. The temperature of the reactant mixture was recorded continuously during reaction. A pseudo-adiabatic reaction was carried out in a thermos using 500 mL of 15.4 M sulfuric acid heated to >140 °C. The hot acid was immediately added to the thermos and when the temperature stabilized at 140 °C, ilmenite was fed in whilst mechanically stirred. The temperature change of the reactant mixture was recorded continuously. A series of dosages, 15, 30, 60 and 90 g of ilmenite ore, were tested. Chemical titration was used to analyze the dissolution of titanium. 5 mL slurry was sampled periodically from the reactor with a pipette in the reaction process. The sample was diluted to 50 mL. The unreacted ore particles were filtered out and the titanium content in the diluted solution determined by reduction–oxidation titration ( It is well established that acid concentration has a great effect on the dissolution rate of ilmenite. Experimental results reported by The commercial sulfate process is started using an initial acid concentration of 16.7–18.4 M. Preliminary tests were carried out under the similar conditions as commercial process. The heat capacity of reactant mixture was much lower compared with the reaction heat due to the low acid/ore ratios. Once the reaction started the temperature rose rapidly to a maximum within a few minutes. The reactants were converted to a porous plaster-like solid mass composed largely of soluble titanium and iron sulfate. The solid product was cooled and then leached with dilute acid and water at 70 °C. The results listed in The rising temperature strongly accelerates the reaction and high reaction temperature resulted in the evaporation of water and formation of a dense solid product. When the reaction temperature reached 200 °C, some hard grains were found in the product. They were insoluble in either water or dilute acid. Large insoluble agglomerates are often observed in commercial operation when the operating temperature reaches over 200 °C, these lead to a reduction in the extent of leaching. The hard grains were analyzed by both chemical titration and X-ray diffraction. The analysis results showed that the hard grains were unreacted ilmenite enclosed by a product layer composed of titanium and iron sulfates formed at high temperature and high acid concentration. The sulfate product layer had been observed with an optical microscope. The sulfates, which formed in 15.4 M sulfuric acid at an initial acid/ilmenite ratio of 500 mL:15 g, exhibit transparent crystallites on the surface of the unreacted ilmenite. No significant change in particle size was observed under a scanning electron microscope (SEM) for samples of different reaction times. This is consistent with the results of The formation of insoluble surface layer prevents the further dissolution of the enclosed ilmenite. Therefore, an operating temperature over 200 °C should be avoided and the kinetic experiments in this work were designed to use 15.4 M sulfuric acid and temperatures below 200 °C. To eliminate the influence of mixing and mass transfer on the kinetic results, mechanical agitation was used in the kinetic experiments. Mechanical agitation speed was determined by the curve plotting digestion degree vs. agitation speed. The experimental results showed that dissolution rate of ilmenite significantly increased with agitation speed up to 1500 rpm but was unaffected at 2000 rpm. Parallel experiments were conducted to check the accuracy of the kinetic measurements. The results show that the experimental error was below 3%. At 298 K, the thermochemical reactions taking place for ilmenite dissolution in sulfuric acid can be represented by: Transport of the sulfuric acid through the solution and the product layer to the unreacted solid–solution interface; Reaction of sulfuric acid with ilmenite on the surface of unreacted solid; Formation of the solid products on the surface layer of the reaction zone and transport of the soluble products from the interface into the bulk of solution. If it is assumed that the crushed ore was spherical with initial radius The diffusion flux of sulfuric acid through any spherical shell between   So, the kinetic equation for leaching Panzhihua ilmenite with 15.4 M sulfuric acid solution at temperatures from 100 to 198 °C can be expressed in the following differential form: Temperature profiles in the non-isothermal reaction runs are illustrated in Heat balance of the reactor is: For simplification, the capacity of the oil bath is considered to be large enough to keep the temperature Similarly, the pseudo-adiabatic test was also simulated based on the kinetic Digestion of ilmenite with sulfuric acid is a temperature dependent reaction where the reaction rate increases rapidly with temperature, the optimum temperature range is 160–200 °C. The concentration of sulfuric acid also affects the reaction with 15.4 M acid, a reasonable initial acid concentration. The kinetics of leaching Panzhihua ilmenite in 15.4 M sulfuric acid with an initial acid/ilmenite ratio of 500 mL:15 g can be described with a shrinking core model. The activation energy was estimated to be 72.6 kJ/mol and the relationship between digestion conversion and reaction time at temperatures from 100 to 198 °C can be expressed as: moles of reactants referring to single particle (mol) reaction time (min) rate constant for first-order chemical reaction (1/mm concentrations of sulfuric acid in the bulk of solution, on the surface of unreacted core, and at any radius effective diffusion coefficient of sulfuric acid through the product layer (mm contents of FeTiO density of the ilmenite (g/mm molecular weights of FeTiO conversion of the ilmenite in terms of the amount of titanium stoichiometric coefficients of FeTiO original moles of the oxides of titanium, iron(III), and magnesium in the ilmenite, respectively (mol) reaction heat of the oxides of titanium, iron(III) and magnesium, with sulfuric acid, respectively (kJ/mol) The authors would like to express appreciation to the Panzhihua Titanium Company, Panzihua Iron and Steel (Group), PR China, for providing the samples and for partial financial support of the research project.

@@ -1,0 +1,5 @@
+The adsorption mechanism of cysteine on pyrite was studied by amounts adsorbed, FTIR and XRD measurements. The results obtained by adsorption experiment suggest that as the mass ratio of mineral to cysteine m
+                     p/m
+                     c is greater than 5, the amounts adsorbed on mineral is stable after adsorption for 15 min and cysteine adsorbing with m
+                     p/m
+                     c shows the same tendency. It can be inferred by its Langmuir-type adsorption isotherm that chemical interaction governs the entire adsorption process. The results from FTIR and XRD prove that the functional groups of cysteine appear with blue shift of their characteristic adsorption peak in FTIR spectrum; meanwhile, the lattice constant obviously decreases and the widening of crystal planes such as (210), (220) and (211) is found after cysteine adsorbing on mineral.

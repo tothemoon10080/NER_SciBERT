@@ -1,0 +1,17 @@
+The biooxidatíon of ferrous iron in solution has industrial applications in the regeneration of ferric iron as a leachíng agent for non-ferrous metallic sulphides and in the treatment of acid mine drainage. The aim of this work was the study of several variables (pH, temperature, particle size, bacterial support material and type of air distributor) for the design of a packed bed bioreactor for ferrous iron biooxidation. The basic criteria of design have been the following. 
+                        
+                           •
+                           Maximum residence time of the liquid for a minimum-sized reactor. Flooded packed bed reactors have been used in order to meet this requirement.
+                        
+                        
+                           •
+                           The solid material that acts as bacterial support must allow a rapid and permanent biofilm formation and show a good chemical resistance to ferric sulphate and sulphuric acid.
+                        
+                        
+                           •
+                           Constant and homogeneous air supply in the whole bed.
+                        
+                     
+                  
+                  The bioreactor consisted of a column randomly packed with solid particles, fed with an acidic solution of ferrous sulphate. Air and fresh solution were fed in at the bottom of the column from where they flooded the reactor. The inoculum consisted of a mixed culture of bacteria isolated from Riotinto mines drainage waters, and adapted to pH 1.25 in the laboratory, composed mainly of Thiobacillus ferrooxidans and Leptospirillum ferrooxidans.
+                  A methodology for biofilm formation was established. Maximum ferric iron productivity was 11.1 g l−1 h−1. The type of air diffusor has been an important parameter to be taken into account in the design, as the oxygen dissolved in the liquid medium limits the ferrooxidant activity of bacteria.Maximum residence time of the liquid for a minimum-sized reactor. Flooded packed bed reactors have been used in order to meet this requirement. The solid material that acts as bacterial support must allow a rapid and permanent biofilm formation and show a good chemical resistance to ferric sulphate and sulphuric acid. Constant and homogeneous air supply in the whole bed.

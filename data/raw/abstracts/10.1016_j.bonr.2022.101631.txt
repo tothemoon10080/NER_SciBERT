@@ -1,0 +1,11 @@
+Objective
+                  This study aimed to compare the effects of moderate- and high-intensity resistance and impact training (MiRIT and HiRIT, respectively) on changes in bone mineral density (BMD) in postmenopausal women with osteoporosis.
+               
+                  Methods
+                  Randomized controlled trials that compared the intervention effects of MiRIT and HiRIT were used as selection criteria to assess study patients with osteoporosis or an osteoporotic condition. Database searches were conducted on August 25, 2022, using CENTRAL, PubMed, CINAHL Web of Science, EMBASE, and MEDLINE. A risk of bias assessment was performed using Revised Cochrane risk of bias tool for the assessment of randomized controlled trials. Point estimates and 95 % confidence intervals of change in BMD derived using dual-energy X-ray absorptiometry were collected as outcomes, and a meta-analysis was performed using the amount of change in BMD before and after the intervention. Adverse event data were also collected.
+               
+                  Results
+                  The search yielded six studies (391 patients, mean age 53–65 years) that met the inclusion criteria. The intervention duration ranged from 24 weeks to 13 months. Compared with the MiRIT group, the HiRIT group showed significantly improved BMD of the lumbar spine (standardized mean difference 2.37 [0.10–4.65]). However, a high degree of heterogeneity was observed for three studies (154 patients, I2 = 98 %). Almost all studies reported minimal adverse events. The certainty of evidence was extremely low because of the risk of bias, inconsistency among studies, and imprecision in terms of sample size.
+               
+                  Conclusion
+                  Postmenopausal women with osteoporosis may achieve more significantly improved lumbar spine BMD with HiRIT than with MiRIT.

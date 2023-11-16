@@ -1,0 +1,93 @@
+Instrument of IR spectrometer and methods of saturation, equimolar series change and slope were applied to study the extraction mechanism of Cyanex272-P507 impregnated resin for heavy rare earths from hydrochloric acid solution. The results show that the molar ratio of Cyanex272-P507 to rare earth in the extraction complex is 3. Chlorine ions do not participate in coordination. The extraction reaction can be expressed as 
+				
+                        
+                           
+                              
+                                 RE
+                              
+                              
+                                 3
+                                 +
+                              
+                           
+                           
+                              (
+                              a
+                              )
+                           
+                           +
+                           
+                              3
+                              2
+                           
+                           HA
+                           
+                              (
+                              r
+                              )
+                           
+                           +
+                           
+                              3
+                              2
+                           
+                           HL
+                           
+                              (
+                              r
+                              )
+                           
+                           +
+                           
+                              3
+                              2
+                           
+                           HL
+                           
+                              (
+                              r
+                              )
+                           
+                           =
+                           
+                              [
+                              
+                                 
+                                    
+                                       REA
+                                    
+                                    
+                                       3
+                                       /
+                                       2
+                                    
+                                 
+                                 
+                                    L
+                                    
+                                       3
+                                       /
+                                       2
+                                    
+                                 
+                              
+                              ]
+                           
+                           
+                              (
+                              r
+                              )
+                           
+                           +
+                           3
+                           
+                              H
+                              +
+                           
+                           
+                              (
+                              a
+                              )
+                           
+                        
+                      (where HA represents Cyanex272 and HL represents P507). The synergic extractant formed in extraction chromatography is in a form of monopolymer and with a chemical structure of REA3/2L3/2.

@@ -1,0 +1,33 @@
+Abstract
+                  Calcium sulphoaluminate (3CaO·3Al2O3·CaSO4, abbreviated as C4A3S) was synthesized by sintering at 1375 °C for 2 h with analytically pure carbonate calcium, alumina and dihydrate calcium sulfate. The crystal structure of C4A3S was characterized by XRD, SEM and TEM. Alumina leaching properties in Na2CO3 solution were studied, and the leaching mechanism was investigated by means of Raman spectrum and XRD. The results show that C4A3S has porous morphology. The polycrystallines and single crystals coexist in C4A3S and grow along different directions. The alumina leaching rate of C4A3S is 98.41%, which is higher than that of 12CaO·7Al2O3 under the optimal condition. The aluminum and sulfur elements exist in the leaching solution in the form of
+				
+                        
+                           Al
+                           
+                              
+                                 
+                                    (
+                                    
+                                       OH
+                                    
+                                    )
+                                 
+                              
+                              4
+                              −
+                           
+                        
+                      and
+				
+                        
+                           S
+                           
+                              O
+                              4
+                              
+                                 2
+                                 −
+                              
+                           
+                        
+                     , respectively, and the calcium exists as CaCO3 in the leaching residues.

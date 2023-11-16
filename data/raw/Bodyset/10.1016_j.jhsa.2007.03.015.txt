@@ -1,0 +1,11 @@
+Purpose
+                  A biomechanic study using a cadaver model of a dorsally unstable distal radius fracture was used to compare the stability of percutaneous pinning and volar fixed-angle plating. Among the many surgical options for treating distal radius fractures are percutaneous pinning and internal plate fixation. Although percutaneous pin fixation requires less soft-tissue trauma and has low complication rates, plate fixation allows for early active movement with good clinical results. The biomechanic stability of these 2 methods was studied by using a cadaver model of a dorsally unstable intra-articular distal radius fracture.
+               
+                  Methods
+                  This study was performed on 7 fresh-frozen cadaver arms, in each of which an unstable intra-articular fracture with dorsal comminution was created. The fracture was first fixed with 0.062-mm K-wires inserted in standard crossed fashion and was tested in a pneumatic loading device that indirectly loaded the wrists through the 5 motor tendons 3 times at each level of force in flexion and extension. Testing was then repeated after removal of the pins and fixation with a fixed-angle DVR distal volar radius plate system (Hand Innovations, Inc., Miami, FL). Testing was performed in flexion up to 68 N and in extension up to 100 N, and the distance across the fracture site was measured.
+               
+                  Results
+                  Volar plating was significantly more stable than pinning, with an average movement across the fracture site of 2.51 mm for pin fixation and 1.07 mm for plate fixation. The pins also showed a substantial degree of slipping after repeated stressing, but the plates remained stable.
+               
+                  Conclusions
+                  These results show the superior biomechanic stability of internal fixation using plates for dorsally comminuted intra-articular distal radius fractures in this cadaver model. Further clinical correlations are needed.

@@ -1,0 +1,11 @@
+Introduction
+                  We aimed i) to investigate the effects of a concurrent (aerobic plus strength) exercise intervention during pregnancy on placental mtDNA copy number, proportion of deleted mtDNA, and on the content of some trace and ultra-trace minerals with coenzymatic relevance; ii) to explore the association of such mitochondrial markers with the concentration of these minerals.
+               
+                  Methods
+                  For the present study specific aims, 47 placentas were randomly selected from women that participated in the GESTAFIT project into exercise (n = 24) or control (n = 23) groups. The exercise group followed a concurrent aerobic and strength training program, three 60-min sessions/week, from the 17th gestational week until birth. Placenta tissue was collected and processed for minerals determination by the inductively coupled plasma mass spectrometry technique. RT-PCR was used to determine placentas mtDNA copy number and ND1/ND4 deletion.
+               
+                  Results
+                  After adjusting for potential confounders, the mothers who participated in the exercise program had placentas with greater mtDNA copy number (p = 0.04) and lower mtDNA deletion (p = 0.003). Placentas from mothers in the exercise group presented higher manganese content than those from the controls (0.26 ± 0.03 mg/dL vs. 0.13 ± 0.03 mg/dL, p = 0.003). Placenta manganese content was significantly associated with lower mtDNA deletions (r = −0.382) and greater mtDNA copy number (r = 0.513). Iron content was associated with higher mtDNA copy number (r = 0.393). Selenium content was associated with lower mtDNA deletion (r = −0.377) and greater mtDNA copy number (r = 0.442). Finally, zinc and magnesium content were associated with higher mtDNA copy number (r = 0.447 and r = 0.453, respectively).
+               
+                  Discussion
+                  This concurrent exercise training program induced a better placental status, which might be mediated through an improvement of mitochondrial bioenergetics and antioxidative capacity.

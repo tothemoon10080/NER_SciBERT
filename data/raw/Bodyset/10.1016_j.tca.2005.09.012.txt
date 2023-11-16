@@ -1,0 +1,182 @@
+Heat capacities of PbBi12O19(s) and ϕ-Pb5Bi8O17(s) were measured by differential scanning calorimetry in the temperature range 280–820K and 280–660K, respectively. PbBi12O19(s) and ϕ-Pb5Bi8O17(s) showed order–disorder transitions whose onset temperatures are 520K and 700K, respectively. The measured heat capacities of PbBi12O19(s) and ϕ-Pb5Bi8O17(s) as a function of temperature are expressed as:
+                        
+                           
+                              
+                                 
+                                    C
+                                    p
+                                 
+                                 <
+                                 PbB
+                                 
+                                    i
+                                    
+                                       12
+                                    
+                                 
+                                 
+                                    O
+                                    
+                                       19
+                                    
+                                 
+                                 >
+                                 (
+                                 J
+                                  
+                                 
+                                    K
+                                    
+                                       −
+                                       1
+                                    
+                                 
+                                  
+                                 mo
+                                 
+                                    l
+                                    
+                                       −
+                                       1
+                                    
+                                 
+                                 )
+                                 =
+                                 791.68
+                                 +
+                                 112.18
+                                 ×
+                                 
+                                    
+                                       10
+                                    
+                                    
+                                       −
+                                       3
+                                    
+                                 
+                                  
+                                 T
+                                 −
+                                 13.58
+                                 ×
+                                 
+                                    
+                                       10
+                                    
+                                    6
+                                 
+                                  
+                                 
+                                    T
+                                    
+                                       −
+                                       2
+                                    
+                                 
+                                  
+                                  
+                                 (
+                                 280
+                                 −
+                                 820
+                                  
+                                 K
+                                 )
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+                                 
+                                    C
+                                    p
+                                 
+                                 <
+                                 ϕ
+                                 -P
+                                 
+                                    b
+                                    5
+                                 
+                                 B
+                                 
+                                    i
+                                    8
+                                 
+                                 
+                                    O
+                                    
+                                       17
+                                    
+                                 
+                                 >
+                                 (
+                                 J
+                                  
+                                 
+                                    K
+                                    
+                                       −
+                                       1
+                                    
+                                 
+                                  
+                                 mo
+                                 
+                                    l
+                                    
+                                       −
+                                       1
+                                    
+                                 
+                                 )
+                                 =
+                                 700.02
+                                 +
+                                 161.58
+                                 ×
+                                 
+                                    
+                                       10
+                                    
+                                    
+                                       −
+                                       3
+                                    
+                                 
+                                  
+                                 T
+                                 −
+                                 12.85
+                                 ×
+                                 
+                                    
+                                       10
+                                    
+                                    6
+                                 
+                                  
+                                 
+                                    T
+                                    
+                                       −
+                                       2
+                                    
+                                 
+                                  
+                                  
+                                 (
+                                 280
+                                 −
+                                 660
+                                  
+                                 K
+                                 )
+                              
+                           
+                        
+                     Enthalpy increments, entropies and Gibbs energy functions were derived from the measured heat capacity data.Liquid lead and lead–bismuth eutectic (LBE) alloy are currently being explored for service as spallation target and coolant in accelerator driven systems (ADS) In the present work, heat capacities of PbBi Ternary compounds PbBi A heat flux differential scanning calorimeter, model number DSC821e/700 of M/s. Mettler Toledo GmbH, Switzerland was used in this study. The samples for DSC measurements were pelletised and hermetically sealed in 40 High temperature X-ray diffraction studies were done with a Philips-X’pert Pellets of PbBi The heat capacity of PbBi Electrical conductivity measurements were carried out in the range 473–753 Since the order–disorder transition does not affect the The standard error of the fit is ±4.21 The heat capacity of PbBi The experimental heat capacity of ϕ-Pb High temperature X-ray diffraction studies and electrical conductivity measurements were also carried out for this compound to characterise the phase transition. XRD patterns obtained at 623 Because of the large monotonous increase in The standard error of the fit is ±1.60 The authors acknowledge Ms. P.C. Clinsha, Mahatma Gandhi University, Kottayam for her help during DSC measurements and Mr. Santosh Bobade, Department of Metallurgical Engineering and Materials Science, IIT Bombay for his help in recording high temperature X-ray diffraction data. The authors also acknowledge Dr. K.V.G. Kutty for helpful discussions.

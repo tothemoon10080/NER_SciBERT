@@ -1,0 +1,30 @@
+The degradation of 100mL of 244mgL−1 of the azo dye Acid Red 29 (AR29) has been studied by photoelectro-Fenton (PEF) using an undivided cell containing a boron-doped diamond (BDD) anode and an air-diffusion cathode under UVA irradiation. The effect of current density, concentration of catalytic Fe2+ and pH on the process was examined. Quick decolorization and almost total mineralization were achieved due to the synergistic action of UVA light and oxidant hydroxyl radicals formed in the bulk from Fenton’s reaction between electrogenerated H2O2 at the cathode and added Fe2+, as well as in the BDD surface from water oxidation. Optimum PEF conditions were found for 0.5–1.0mM Fe2+ and pH 3.0. Comparable electro-Fenton (EF) degradations in the dark yielded much poorer mineralization. The decay kinetics of AR29 followed a pseudo-first-order reaction with similar rate for EF and PEF. The azo dye disappeared much more rapidly than solution color, suggesting the formation of colored conjugated products with λ
+                     max similar to that of AR29. Ion-exclusion HPLC allowed the detection and quantification of tetrahydroxy-p-benzoquinone, oxalic, oxalacetic, tartronic, tartaric, oxamic, malonic and fumaric acids as intermediates in the PEF process. Oxalic acid, accumulated in large extent, was quickly destroyed by the efficient photolysis of Fe(III)–oxalate complexes with UVA light, whereas tartronic and oxamic acids were the most persistent byproducts because of the larger stability of their Fe(III) complexes. The mineralization of the initial N of the azo dye yielded 
+                        
+                           
+                              
+                                 NH
+                              
+                              
+                                 4
+                              
+                              
+                                 +
+                              
+                           
+                        
+                      ion and 
+                        
+                           
+                              
+                                 NO
+                              
+                              
+                                 3
+                              
+                              
+                                 -
+                              
+                           
+                        
+                      ion in smaller proportion.Over the last decade, electrochemical advanced oxidation processes (EAOPs) based on Fenton’s reaction chemistry such as electro-Fenton (EF) and photoelectro-Fenton (PEF) have received increasing attention for the degradation of toxic and/or biorefractory organics in waters ( Efficient carbonaceous cathodes for H In EF, the oxidation ability of electrogenerated H In PEF, the mineralization of the contaminated solution under EF conditions is enhanced by simultaneous irradiation with either artificial UVA light ( Recent work has reported an enhancement of PEF treatment when it is combined with TiO More than 10 This paper reports the results obtained for the degradation of 244 Reagent grade azo dye AR29 (98.2% purity) was supplied by Carbone Scientific and used for the electrochemical experiments as received. Tetrahydroxy- All electrolytic experiments were conducted in an open and undivided cylindrical cell of 150 Comparative EF and PEF treatments of 100 The solution pH was measured on a Crison 2000 pH meter. The aliquots withdrawn from treated solutions were alkalinized to pH near 8 to stop the degradation process by precipitating the iron species as hydroxides and filtered with 0.45 The decolorization of AR29 solutions was monitored from the absorbance decay at the maximum wavelength ( The mineralization of solutions was monitored from their TOC decay using a Shimadzu VCSN TOC analyzer. Total nitrogen (TN) in final treated solutions was obtained with a Shimadzu TNM-1 unit coupled to the TOC analyzer. Reproducible TOC and TN values with an accuracy of ±1% were always found by injecting 50 The AR29 decay was followed by reversed-phase HPLC using a Shimadzu 10Avp LC fitted with a Spherisorb ODS 5 Released inorganic nitrogen ions were quantified by ionic chromatography with the above LC coupled to a Shimadzu CDD 10Avp conductivity detector. The Several electrolyses were made to assess the influence of current density on the decolorization and degradation rates of a 244  The effect of current density on both EAOPs was even more apparent for the mineralization process of the azo dye solution. As can be seen in It can be assumed that the overall mineralization of AR29 involves its conversion into carbon dioxide and sulfate and ammonium ions from the following reaction:  The influence of Fe  The effect of pH between 2.0 and 6.0 on the mineralization of the 244 The generation of The above findings corroborate that The decay kinetics for AR29 during the EAOPs treatments was followed by reversed-phase HPLC, where it displayed a well-defined peak at retention time (  The AR29 concentration in treated solutions can be estimated, as a first approach, from the absorbance decay at Analysis by ion-exclusion HPLC of the AR29 solution with 0.5 Ion-exclusion chromatograms of the above treated solution also displayed peaks related to carboxylic acids such as oxalic ( The evolution of detected carboxylic acids is shown in The conversion of the initial N (14.6 It has been found that PEF yielded fast decolorization and almost total mineralization of 244 The authors thank financial support from MICINN (Ministerio de Ciencia e Innovación, Spain) under the Project CTQ2010-16164/BQU, co-financed with FEDER funds. The Grants awarded to S. Garcia-Segura by MEC (Ministerio de Educación y Ciencia, Spain) and L.C. Almeida by CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico, Brazil) are also acknowledged.

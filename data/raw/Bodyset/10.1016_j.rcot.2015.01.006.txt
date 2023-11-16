@@ -1,0 +1,18 @@
+Background
+                  The optimal treatment of midshaft clavicle fractures remains controversial. Nonunion is usually considered to be an uncommon complication following a non-operatively treated clavicle fracture.
+               
+                  Hypothesis
+                  Not every midshaft clavicular fracture shares the same risk of developing nonunion after non-operative treatment. The present study was performed to identify the intrinsic and extrinsic independent factors that are independently predictive of nonunion in patients with midshaft clavicular fractures after non-operative treatment.
+               
+                  Materials and methods
+                  We performed a retrospective study of a series of 804 patients (391 men and 413 women with a median age of 51.3years) with a radiographically confirmed midshaft clavicle fracture, which was treated non-operatively. There were 96 patients who underwent nonunion. Putative intrinsic (patient-related) and extrinsic (injured-related) risk factors associated with nonunion were determined with use of bivariate and multivariate statistical analyses.
+               
+                  Results
+                  By bivariate analysis, the risk of nonunion was significantly increased by several intrinsic risk factors including age, sex, and smoking and extrinsic risk factors including displacement of the fracture and the presence of comminution (P
+                     <0.05 for all). On multivariate analysis, smoking (OR=4.16, 95% CI: 1.01, 14.16), fracture displacement (OR=7.81, 95% CI: 2.27, 25.38) and comminution of fracture (OR=3.86, 95% CI: 1.16, 13.46) were identified as independent predictive factors.
+               
+                  Conclusion
+                  The risk factors for nonunion after non-operative treatment of midshaft clavicle fractures are multifactorial. Smoking, fracture displacement and comminution of fracture are independent predictors for an individual likelihood of nonunion. Further studies are still required to evaluate these factors in the future.
+               
+                  Level of evidence
+                  Level III, case-control study.

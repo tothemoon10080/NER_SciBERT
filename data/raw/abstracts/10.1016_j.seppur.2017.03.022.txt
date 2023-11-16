@@ -1,0 +1,6 @@
+Acetaminophen (ACT) is widely used as an important antipyretic drug around the world and is frequently found in the water as an emerging contaminant. The focus of this study was on demonstrating the degradation and mineralization of ACT using the UVC/S2O8
+                     2− process in a cylindrical photoreactor under different experimental conditions. The results indicated that the ACT degradation increased from 7% to 83% within 60min when the solution pH was decreased from 10 to 3. The pseudo-first-order rate constant of ACT degradation at initial concentrations of 25, 50 and 100mg/L in aqueous solution observed to be 1.20, 1.35 and 1.5mg/Lmin, respectively, at optimum solution pH of 3 and S2O8
+                     2− dosage of 0.36g/L. The mineralization degree of min 50mg/L ACT in the UVC/S2O8
+                     2− process within 90min under optimum operational conditions was 84.3% in distilled water and 78.5% in tap water. The oxidation by sulfate radical was the main mechanism involved in the degradation of ACT in the UVC/S2O8
+                     2− process. Accordingly, it can be concluded that the UVC/S2O8
+                     2− process is an efficient process for degradation and mineralization of such pharmaceutical compounds as ACT.

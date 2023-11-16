@@ -1,0 +1,184 @@
+The three-dimensional predominance volume diagrams (PVDs) for the system Cu-As-S-O were constructed at 900 K using 
+                        
+                           P
+                           
+                              
+                                 
+                                    A
+                                    s
+                                 
+                                 4
+                              
+                              
+                                 O
+                                 6
+                              
+                               
+                              
+                                 g
+                              
+                           
+                        
+                        ,
+                         
+                        
+                           P
+                           
+                              
+                                 O
+                                 2
+                              
+                               
+                              
+                                 g
+                              
+                           
+                        
+                        ,
+                         
+                        a
+                        n
+                        d
+                         
+                        
+                           P
+                           
+                              S
+                              
+                                 O
+                                 2
+                              
+                               
+                              
+                                 g
+                              
+                           
+                        
+                      as independent coordinates. The constant total pressure surface was used to identify the equilibrium phases that are stable at 0.25 atm total pressure. The isobaric surface superimposed on the predominance diagram provides useful insights into the roasting of complex copper sulfosalts such as enargite (
+                        
+                           
+                              C
+                              u
+                           
+                           3
+                        
+                        A
+                        s
+                        
+                           S
+                           4
+                        
+                     ) and tennantite (
+                        
+                           
+                              C
+                              u
+                           
+                           12
+                        
+                        
+                           
+                              A
+                              s
+                           
+                           4
+                        
+                        
+                           S
+                           13
+                        
+                     ). There are nine interior invariant points each with four associated condensed phases at 900 K. The expanded diagrams showing the stability volumes of each individual phase are presented. According to the PVD for the Cu-As-S-O system, the transformation of enargite to copper sulfate follows the 
+                        
+                           
+                              C
+                              u
+                           
+                           3
+                        
+                        A
+                        s
+                        
+                           S
+                           4
+                        
+                        →
+                        C
+                        u
+                        S
+                        →
+                        C
+                        u
+                        S
+                        
+                           O
+                           4
+                        
+                      or 
+                        
+                           
+                              C
+                              u
+                           
+                           3
+                        
+                        A
+                        s
+                        
+                           S
+                           4
+                        
+                        →
+                        
+                           
+                              C
+                              u
+                           
+                           2
+                        
+                        S
+                        →
+                         
+                        C
+                        u
+                        S
+                        →
+                        C
+                        u
+                        S
+                        
+                           O
+                           4
+                        
+                      sequence when the pressure of 
+                        
+                           
+                              A
+                              s
+                           
+                           4
+                        
+                        
+                           O
+                           6
+                        
+                         
+                        
+                           g
+                        
+                      is extremely low. At high 
+                        
+                           
+                              A
+                              s
+                           
+                           4
+                        
+                        
+                           O
+                           6
+                        
+                         
+                        
+                           g
+                        
+                      pressures however, enargite can directly transform to copper sulfate.The desired products of the oxidative roasting of sulfide minerals depend on the subsequent processing strategy; i.e. high temperature carbothermic reduction as for the roasting of galena and sphalerite or leaching followed by electrolytic reduction as is commonly done with copper sulfides. The products of the roasting process at thermodynamic equilibrium are determined by the consideration of the roasting reactions. The authors have previously reviewed and described the practice of using two-dimensional predominance area diagrams (PADs) [ In metal-sulfur-oxygen (M-S-O) ternary systems, it is relatively convenient to determine the products of roasting by considering the equilibrium relations. However, the addition of a volatile component such as arsenic significantly complicates the phase relations. In the four-component Cu-As-S-O system, the predominance diagram becomes a predominance volume diagram (PVD). The six faces of this diagram were presented elsewhere [ The degrees of freedom in a chemical system are determined by the Gibbs Phase Rule as follows [ For the M-As-S-O system at a fixed temperature, If a gas phase is always assumed present, then  To construct the PVD diagram for the Cu-As-S-O system, three independent gases must be selected that satisfy the following conditions: They provide sources of As, S, and O They are independent (i.e. none of the gases can be formed from the other two) In this work the independent gases selected were O The thermodynamic data for the species considered in this study are same as presented elsewhere [ The form of the Log of the equilibrium constant used was as follows Six two-dimensional PADs that bound the three-dimensional isothermal PVD in the Cu-As-S-O system were presented by Safarzadeh and Howard [   The presence of sinnerite (Cu It can be seen from The total pressure surface was determined by using the following criterion The value of P  There are 54 invariant points in the system with the prescribed boundaries (9 interior, 18 face, 18 edge, and 8 corners). Every invariant point has four associated lines except for corners, which have three associated lines. This leads to 104 line segments connecting the points. It should be noted that the condensed phases not containing Cu will not appear in the PVD for the Cu-As-S-O system. These phases include condensed arsenic or its oxides and sulfides such as As However, if all condensed phases contain a common species (for example As), there is no need for As to be an independent coordinate and the diagram is reduced by one dimension; therefore, such a system is adequately represented by the two-dimensional PAD in On the other hand, if a predominance diagram for the system Cu-As-S-O were to be made to include all condensed phases, a Cu coordinate would need to be added and in that case condensed phases do not need to contain Cu. This would result in a four-dimensional predominance diagram as shown in Adding a fourth dimension to render four-dimensional predominance diagrams would not modify in any way the fundamental constraints of the Gibbs Phase Rule; however, it would make an additional independent variable available, for example chemical potential of Cu, The PVD diagram for the Cu-As-S-O system presented in this paper may be used to better understand the roasting processes since the roasting process will tend towards the isobaric surface. The roasting path will approach the isobaric surface since it represents equilibrium conditions. Using this PVD diagram, it is possible to predict what phases might be eliminated during roasting of enargite and tennantite since roasting processes may approach but not penetrate the isobaric surface; however, the prediction of the phases formed is not certain because the path also depends on kinetic factors. The condensed phases in the quaternary system Cu-As-S-O were located in three-dimensional space defined by gaseous species

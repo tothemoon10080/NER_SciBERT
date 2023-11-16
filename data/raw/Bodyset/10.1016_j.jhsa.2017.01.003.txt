@@ -1,0 +1,14 @@
+Purpose
+                  Metacarpal fractures are commonly treated by a variety of means including casting or open reduction internal fixation when unacceptable alignment is present following attempted closed reduction. Dorsal plating with either single-row 2-dimensional or double-row 3-dimensional plates has been proposed. This study's purpose was to determine if there are any differences in fixation construct stability under cyclic loading and subsequent load to failure between the lower profile 3-dimensional and the larger 2-dimensional plates in a metacarpal fracture gap sawbone model.
+               
+                  Methods
+                  Thirty metacarpal cortico-cancellous synthetic bones were cut with a 1.75-mm gap between the 2 fragments simulating mid-diaphyseal fracture comminution. Half of the metacarpals were plated with 2.0-mm locking 2-dimensional plates and half with 1.5-mm locking 3-dimensional plates. The plated metacarpals were mounted into a materials testing apparatus and cyclically loaded under cantilever bending for 2,000 cycles at 70 N, then 2,000 cycles at 120 N, and finally monotonically loaded to failure. Throughout testing, fracture gap sizes were measured, failure modes were recorded, and construct strength and stiffness values were calculated.
+               
+                  Results
+                  All 3-dimensional constructs survived both cyclic loading conditions. Ten (67%) 2-dimensional constructs survived both loading conditions, whereas 5 (33%) failed the 120-N loading at 1377 ± 363 cycles. When loaded to failure, the 3-dimensional constructs failed at 265 N ± 21 N, whereas the 2-dimensional constructs surviving cyclic loading failed at 190 N ± 17 N.
+               
+                  Conclusions
+                  The shorter, thinner 3-dimensional metacarpal plates demonstrated increased resistance to failure in a cyclic loading model and increased load to failure compared with the relatively longer, thicker 2-dimensional metacarpal plates.
+               
+                  Clinical relevance
+                  The lower-profile 3-dimensional metacarpal plate fixation demonstrated greater stability for early postoperative resistance than the thicker 2-dimensional fixation, whereas the smaller size and lower profile of the 3-dimensional plates potentially reduces soft tissue stripping, implant prominence, and risk of extensor tendon irritation.

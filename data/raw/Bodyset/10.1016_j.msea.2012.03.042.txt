@@ -1,0 +1,95 @@
+The hypereutectic Al–Si (A390) matrix composite reinforced with TiB2 particles was successfully prepared by Al melt reaction method. In the composite, TiB2 particles have a size range from 0.5 to 1.5μm and a block-like morphology. Some TiB2 particles are inside the primary Si, suggesting that they were engulfed during solidification. It is considered that TiB2 particles tend to be adsorbed into the primary Si, because of their high surface energy and strong adsorbability. Crystallographic analysis of TiB2 and Si was carried out with the edge-to-edge model. It is found that there exists good lattice matching coherence, which belongs to the matching planes and directions, 
+                        
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                             1
+                                              
+                                             1
+                                              
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       Si
+                                    
+                                 
+                              
+                              /
+                              
+                                 
+                                    
+                                       
+                                          
+                                             1
+                                              
+                                             0
+                                              
+                                             
+                                                1
+                                                ¯
+                                             
+                                              
+                                             0
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          TiB
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     , 
+                        
+                           
+                              
+                                 
+                                    
+                                       {
+                                       1
+                                        
+                                       1
+                                        
+                                       1
+                                       }
+                                    
+                                    
+                                       Si
+                                    
+                                 
+                              
+                              /
+                              
+                                 
+                                    
+                                       {
+                                       0
+                                        
+                                       0
+                                        
+                                       0
+                                        
+                                       1
+                                       }
+                                    
+                                    
+                                       
+                                          TiB
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                           .
+                        
+                      Furthermore, with 3wt% TiB2 particles addition, the mechanical properties of the base alloy, including the ultimate tensile strength at 300°C, percentage elongation and wear resistance, have been obviously improved.Hypereutectic Al–Si alloys containing additional alloying elements of Ni, Cu, Mg are widely used in piston production, due to their low coefficient of thermal expansion, excellent casting performance, high specific strength and wear resistance TiB During the solidification of metal melt containing second phase particles, some special interactions exist between the advancing solidification fronts and the particles. The reinforcing particles will be pushed or engulfed by the primary phase, which is also commonly observed in metal matrix composite systems Four groups of alloys were prepared using Al melt reaction method and were henceforth designated as alloy 1, alloy 2, alloy 3 and alloy 4. The compositions of the alloys are listed in The test bars were machined to ‘dog-bone’ type specimens shown in Specimens for metallography microstructure observation were cut from the text bars. The analysis was performed using JXA-8840 electron probe microanalysis (EPMA) and field emission scanning electron microscope (FESEM) equipped with an energy-dispersive spectroscopy detector (EDS).  Yu et al. Many models have been developed to explain the transition between engulfing and pushing particles of the solidification fronts of many systems Edge-to-edge matching model was originally proposed by Zhang and Kelly to examine the actual atom matching across an interface between any two phases The lattice parameter of The five close packed or nearly close packed directions of TiB As mentioned above, the occurrence of engulfment of TiB   The factors influencing the ultimate tensile strength, hardness, and wear resistance are complex and inter-related. Several variables, such as the distribution of the particles in the matrix, the mechanical property of the matrix, and the bonding between the matrix and reinforcement, are reported to strongly influence the mechanical properties of the particles reinforced composites The decrease of ductility of particles reinforced metal matrix composite has been reported by many researchers  The TiB From the edge-to-edge model, it is found that there exists a good lattice matching coherence relationship between TiB The mechanical properties of the A390 alloy are significantly improved after the addition of TiB The authors gratefully acknowledge the support of the

@@ -1,0 +1,18 @@
+Abstract
+                  The effect of cooling rate on the microstructure and transformation textures of high strength hot-rolled steels was investigated. Heat treated samples subjected to different cooling conditions were characterized by optical and scanning electron microscopes using orientation imaging microscopy (OIM). The experimental results demonstrate that there is a significant effect of cooling rate on microstructures and textures resulting from phase transformation. Slow cooling rates lead to the appearance of the cube (001) [0
+                        
+                     0], rotated cube (001) [
+                        
+                     0]/(001) [1
+                        
+                     0], Goss (110)[001] and rotated Goss (110) [1
+                        
+                     0] components. In contrast, textures developed at rapid cooling rates are preferably of Cu (112)[11
+                        
+                     ], Br (110) [11
+                        
+                     ], transformed Cu (113) [1
+                        
+                     0] and transformed Br (332) [113]/(112) [1
+                        
+                     1]. These texture changes are attributed to the selective character of the phase transformation. The OIM technique was used to have a better understanding of the formation of phases and their relationship between microstructure and processing conditions. The volume fraction of micro-constituents resulting from phase transformation such as bainite, martensite and different types of ferrite, can be measured satisfactorily by this technique correlating image quality of EBSD patterns to specific phases.

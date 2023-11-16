@@ -1,0 +1,41 @@
+Froth flotation of high-iron marmatite particles activated by ammoniacal copper(II) solution has been studied in this work. This study was performed on single marmatite mineral of 76–125μm in size and 20% iron content by using micro-flotation. The results have shown that ammoniacal copper(II) solution effectively activated high-iron marmatite particles in the flotation with xanthate as the collector, being much better than copper sulfate, a traditional activator for sphalerite and marmatite flotation. Also, the maximum activation by ammoniacal copper(II) solution in the flotation appeared around pH 9, compared with pH 13–14 by copper sulfate. Therefore, the substitution of ammoniacal copper(II) solution for copper sulfate in high-iron marmatite flotation would increase the separation efficiency and would allow large savings on the consumptions of lime and xanthate. Based on the species distribution diagram for copper(II)–ammonia system, it has been found that the activation of ammoniacal copper(II) solution in high-iron marmatite flotation might be originated from copper(II)–ammonia complexes, 
+                        
+                           
+                              
+                                 CuNH
+                              
+                              
+                                 3
+                              
+                              
+                                 2
+                                 +
+                              
+                           
+                        
+                      and 
+                        
+                           Cu
+                           (
+                           
+                              
+                                 NH
+                              
+                              
+                                 3
+                              
+                           
+                           
+                              
+                                 )
+                              
+                              
+                                 2
+                              
+                              
+                                 2
+                                 +
+                              
+                           
+                        
+                     , through the adsorption on the mineral surface.Marmatite (Zn It is known that marmatite is worse than sphalerite but is better than pyrite and pyrrhotite to respond to froth flotation when an alkyl xanthate is used as collector. If a marmatite contains higher iron, the flotability of the marmatite is closer to that of pyrite. Therefore, it is not easy to separate a high-iron marmatite from pyrrhotite and pyrite through a froth flotation. Usually, an appropriate activator, say Cu Actually, the commonly used activator in marmatite flotation is copper sulfate. Early in 1970s, There are a little of information on marmatite flotation, including electrochemical flotation of marmatite ( The pure high-iron marmatite sample used in this work was collected from the Dulong mine, which is located in Yunnan province, China. The chunk marmatite was crushed by a hand hammer, and then was purified by hand sorting. After that, it was ground dryly by using a ceramic ball mill, followed by screening to obtain the final sample in the size fraction of 76–125 In this work, the copper sulfate (CuSO 2 The micro-flotation of the high-iron marmatite particles was performed in a Hallimond flotation tube with nitrogen as bubble source. First, 1 g of the marmatite sample was mixed with 50  The flotation kinetics of the high-iron marmatite particles with butyl xanthate as the collector and ammoniacal copper(II) solution as the activator at various pHs is illustrated in It is much better to realize high-iron marmatite flotation in a weak alkaline medium than in a strong alkaline medium. First, in the flotation, high-iron marmatite particles would be strongly depressed in a strong alkaline medium due to the formation of ferric hydroxide on the mineral surface, which leads to a higher consumption of collector (xanthate). Secondly, less lime is consumed. High lime consumption causes high reagent costs and strong corrosion to flotation cells and stirring tanks, leading to high operation costs. As already stated, marmatite flotation activated by copper sulfate has to be realized in a strong alkaline medium, say pH 13. Therefore, the substitution of ammoniacal copper(II) solution for copper sulfate as the activator in high-iron marmatite flotation would allow large savings on reagent costs and operation costs in the flotation circuit.  The flotation of the high-iron marmatite particles with butyl xanthate as the collector and copper sulfate as the activator was also experimentally studied in this work. The flotability as the function of slurry pH is illustrated in  The formation of copper(II)–ammonia complexes and the equilibrium constants (log Based on the equations and the equilibrium constants, the species distribution of copper(II)–ammonia complexes as function of pH has been calculated at [Cu(II)] In addition, it can be noted from The experimental study in this work has shown that high-iron marmatite flotation can be effectively activated by ammoniacal copper(II) solution. This activation might be originated from the adsorption of the copper(II)–ammonia complexes, The substitution of ammoniacal copper(II) solution for copper sulfate as the activator in high-iron marmatite flotation not only increases greatly the separation efficiency (flotability and flotation rate), but also allows large savings on the consumption of lime and xanthate because the flotation is realized in a weakly alkaline medium. The financial support from the National Natural Science Foundation of China under the grant 50464003 is gratefully acknowledged.

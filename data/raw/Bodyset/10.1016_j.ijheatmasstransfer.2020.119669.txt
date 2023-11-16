@@ -1,0 +1,33 @@
+Vapor bubble coalescence in saturated pool boiling of nanofluids containing moderately hydrophilic nanoparticles 
+                        
+                           (
+                           θ
+                           =
+                           
+                              33
+                              ∘
+                           
+                           ∼
+                           
+                              51
+                              ∘
+                           
+                           )
+                        
+                      is investigated numerically by a single component multiphase particle suspension lattice Boltzmann model. It is shown that the vapor bubble coalescence time in a nanofluid is prolonged by the presence of moderately hydrophilic nanoparticles adsorbed at vapor bubble interfaces comparing with those in a base fluid. The prolonged bubble coalescence time is owing to the following three reasons: (i) the adsorbed nanoparticles deform the liquid film interface between two closely adjacent bubbles, resulting in a capillary pressure in the liquid film which resists the liquid drainage pressure (P
+                     gas bubble-P
+                     liquid film). (ii) The nanoparticles, confined in the liquid film between the closely adjacent bubbles, block the passage for liquid drainage between the two vapor bubbles, and (iii) the rigidity of vapor bubble interfaces is strengthened by the adsorbed nanoparticles at bubble interfaces. The prolonged bubble coalescence time is more effective for more hydrophilic nanoparticles with contact angle in the range of 
+                        
+                           θ
+                           =
+                           
+                              33
+                              ∘
+                           
+                           ∼
+                           
+                              51
+                              ∘
+                           
+                        
+                     . Since the prolonged bubble coalescence time would lead to smaller bubble size, the bubble size in pool boiling of a nanofluid with moderately hydrophilic nanoparticles is smaller than those in a base fluid, which is in agreement with results of our previous pool boiling experiments of a nanofluid.Gas bubble coalescence is a prevalent phenomenon in a foaming process The related problem of coalescence of gas bubbles in a liquid in the presence of colloidal particles (as shown in Denkov et al. In the maximum capillary pressure theory [ Recently, Cheng and co-workers [ In this paper, we simulate vapor bubble coalescence and the subsequent oscillation in saturated pool boiling of a nanofluid with moderately hydrophilic nanoparticles adsorbed at bubble interface by combining the solid-liquid lattice Boltzmann model by Aidun et al. The dynamics of vapor inside the bubble and the surrounding liquid are described by fluid density distribution function The density of fluid If the internal/external interaction force term Δ In the process of vapor bubble coalescence with particles, not only interaction forces The pressure The interaction force After the interaction forces of In the present simulation, solid nanoparticles are all assumed to be spherical, and the translational and rotational motions of nanoparticles are described by the Newton's second law: where Periodic boundary conditions are applied at each boundary of the simulation domain, and no-slip boundary conditions are applied at the nanoparticles surface. The density distribution functions of fluid nodes which are adjacent to a solid nanoparticle are calculated in a modified half-way bounce back scheme given by Aidun et al. Computations are carried out in a computational domain of The dimensionless parameter Ohnesorge number We first simulate two saturated vapor bubble coalescence in saturated pool boiling of water at the temperature of 0.85 Since Because the liquid film between two vapor bubble ruptures instantaneously when it decreases to a critical thickness of To investigate effects of adsorbed moderately hydrophilic nanoparticles at bubble interface on vapor bubbles coalescence in our previous nanofluid pool boiling experiments Before the coalescence of two closely adjacent vapor bubbles, velocity fields in the passage of liquid film drainage in saturated pool boiling of pure water at To investigate wettability effects of nanoparticles on bubble coalescence time The vapor bubble coalescence time versus different nanoparticle contact angles in the range of  After the liquid film between two vapor bubbles ruptures, the neck bridge connecting the two bubbles evolves under a capillary force, the adsorbed nanoparticles To compare the first oscillation period and first amplitude of a coalescent vapor bubble without/with moderately hydrophilic nanoparticles adsorbed at bubble interfaces, the neck bridge radius and the simulation time are normalized as In this paper, we have combined the solid-liquid lattice Boltzmann model by Aidun et al. Moderately hydrophilic nanoparticles, adsorbed at vapor bubble interfaces, prolong bubble coalescence time. The prolonged bubble coalescence time leads to less bubble coalescence in pool boiling of a nanofluid and smaller bubble size. This is in agreement with results of our previous pool boiling experiments in nanofluids [ The reasons that moderately hydrophilic nanoparticles can prolong bubble coalescence time can be attributed to: (i) nanoparticles at vapor bubble interfaces deform liquid film interface between two vapor bubbles, which generates a capillary pressure in the liquid film, resisting liquid drainage pressure; (ii) nanoparticles immersed in the liquid film between two vapor bubbles increase liquid drainage resistance, and (iii) nanoparticles at vapor bubble interfaces increase the rigidity of vapor bubble interfaces. Moderatley hydrohilic nanoparticles with smaller contact angles inhibit liquid film drainage and prolong vapor bubble coalescence time more significantly, due to larger portions of the nanoparticles immersed in the liquid film. The rotational motion of spherical-shape nanoparticles has negligible effects on vapor bubble coalescence time in pool boiling of a nanofluid. The vapor bubble coalescence time is estimated to be no more than 3% higher, if nanoparticle’s rotational motion is not taken into consideration.  We declare that we have no any financial, personal or other relationships with other people or organizations that could inappropriately influence the manuscript entitled " The authors would like to thank the support of this work by

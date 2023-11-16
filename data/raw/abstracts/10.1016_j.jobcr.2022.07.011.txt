@@ -1,0 +1,11 @@
+Background
+                  Alendronate is a drug for the treatment of excessive bone resorption. Alendronate reduces osteoblast viability and mineralization in a dose-dependent manner. Other views of alendronate could affect mineralization. Therefore, the effects of timing and duration of alendronate treatment on mineralization were investigated.
+               
+                  Materials and methods
+                  MC3T3 cells were treated with alendronate at different time periods ranging from 1 to 3 weeks. Mineralization was quantified using image analysis. Cell viability was measured by Thiazolyl Blue Tetrazolium Bromide assay.
+               
+                  Results
+                  At low concentration (1 μM), 2–3 weeks of alendronate addition decreased mineralized area and staining intensity. Longer exposure to alendronate had more effect than short exposure. At moderate to high concentrations (5–10 μM), every alendronate treatment timing inhibited mineralization. Week 3 treatment of alendronate showed less reduction of mineralization than other time treatments. Furthermore, 10 μM alendronate reduced osteoblast viability at week 1, week 1–2, and week 1–3.
+               
+                  Conclusion
+                  Timing and duration of alendronate addition inhibited total mineralization. Longer period of treatment reduced mineralization more than short period of treatment. In addition, reduction of total mineralization depended upon both osteoblast viability and function.

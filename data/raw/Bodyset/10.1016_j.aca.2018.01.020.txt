@@ -1,0 +1,22 @@
+A novel “turn-on” fluorescence probe (HHC)
+                     
+                        2
+                     
+                     -Cu
+                     
+                        2+
+                      for sulfide (S2−) was synthesized and characterized based on dihydroxyhemicyanine-Cu2+ complex. The probe displayed high sensitivity and selectivity for S2− over other analytes, including biothiols, NaCN, reactive oxygen species (ROS) and reactive nitrogen species (RNS) in aqueous solution, which was attributed to the large association constant and the fast kinetics of precipitation of CuS. The probe (HHC)
+                     
+                        2
+                     
+                     -Cu
+                     
+                        2+
+                      can be regenerated and reversibly detected with S2− with a remarkable red-fluorescent change by alternating the addition of S2− and Cu2+. Fluorescent spectra of (HHC)
+                     
+                        2
+                     
+                     -Cu
+                     
+                        2+
+                      toward S2− showed a high selectivity, a good linearity, a low limit of detection at 0.12 μM, a rapid response time (less than 30 s), and a wide pH range of 7–10. Importantly, the probe was successfully applied to detect the low level of S2− in waste water samples, corrupt blood samples, and living cells.Sulfide (S Various kinds of testing techniques have been studied for S In this study, we report a Cu The compound Stock solutions of compound According to a previous methods [ Cell imaging was observed by using a fluorescence microscope. For fluorescence microscopy experiments, HeLa cells were incubated with The interaction study between ligand The complexing stoichiometry of 2:1 was confirmed by using fluorescence titration ( As we all know, selectivity is one of the most important properties of fluorescence probe. In In addition, the anti-interference ability of fluorescent probe is also an important property in the detection of actual samples. Therefore, the competition experiments of Next, fluorescent titrations of the probe The pH-dependent research of ( The regeneration of the probe was very valuable for chemosensors in actual practice; therefore, the regeneration of the probe ( Given the good performance of the probe ( The expected application potential of ( In addition, when blood becomes corrupt, a great deal of corruption will be formed, including hydrogen sulfide, thiol, sulfide, ammonia, methane, and carbon dioxide; the probe ( In summary, we have developed a “turn-on” fluorescent probe for S This research was supported by the technology research project of the The following is the supplementary data related to this article: Supplementary data related to this article can be found at

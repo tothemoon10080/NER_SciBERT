@@ -1,0 +1,87 @@
+Based on the extensive insights gained from the acid bake–leach reaction from our previous experiments, a rigorous experimental plan was designed to investigate the effects of time, temperature, particle size, nitrogen flow rate, sulfuric acid concentration and dosage, and reaction surface area on the extraction of Cu and As from a high-quality enargite sample through sulfuric acid baking and leaching. The baking experiments in the temperature range of 170–200°C over 1–4h revealed almost complete Cu and As extraction after 4h baking at 200°C, a sulfuric acid to enargite weight ratio (S/E) of 4, nitrogen flow rate ~100mL/min, and particle size P100
+                     =−45μm, and no arsenic was lost to the gas phase. The following reaction is suggested for the sulfuric acid baking of enargite:
+                        
+                           
+                              
+                                 4
+                                 
+                                    Cu
+                                    3
+                                 
+                                 
+                                    AsS
+                                    4
+                                 
+                                 
+                                 +
+                                 
+                                 28
+                                 
+                                    H
+                                    2
+                                 
+                                 
+                                    SO
+                                    4
+                                 
+                                 
+                                 =
+                                 
+                                 3
+                                 CuO
+                                 •
+                                 
+                                    CuSO
+                                    4
+                                 
+                                 
+                                 +
+                                 
+                                 6
+                                 
+                                    CuSO
+                                    4
+                                 
+                                 
+                                 +
+                                 
+                                 2
+                                 
+                                    As
+                                    2
+                                 
+                                 
+                                    O
+                                    3
+                                 
+                                 
+                                 +
+                                 
+                                 28
+                                 
+                                    H
+                                    2
+                                 
+                                 O
+                                 
+                                 +
+                                 
+                                 19.5
+                                 
+                                    SO
+                                    2
+                                 
+                                 
+                                    g
+                                 
+                                 
+                                 +
+                                 
+                                 15.5
+                                 S
+                              
+                           
+                        
+                     
+                  
+                  Lack of a systematic dependence of reaction rate on particle size and the significant dependence of the rate on sulfuric acid concentration suggest that the rate of the baking reaction is controlled by the internal surface area of cracks at which surface the baking reaction occurs. It is expected that these cracks are formed as a result of a major volume increase during the baking reaction. High nitrogen flow rates encouraged arsenic loss to the gas phase. Decreasing the S/E ratio from 4 to 2 resulted in a decrease in the rate of reaction, while increasing sulfuric acid concentration enhanced the rate. Excess sulfuric acid was found to be necessary for both acceptable reaction rates and also for maximum As retention in the condensed phase. Doubling the reaction surface area did not affect the extraction of Cu and As.It was established in Part II of this series of papers ( The same high-quality enargite specimen from the Julcani Mine in Peru, used in Part II ( The effects of temperature and time on the extraction of Cu and As were studied over the temperature range of 170–200 Also based on the previous experience, a high sulfuric acid to enargite weight ratio (S/E) was used. The results of Cu and As extraction from the enargite powder with a particle size of − The results indicate that ~ Based on the initial rates of extraction for Cu and As, Arrhenius plots were established for these metals. The results are shown in In terms of reaction stoichiometry, sulfuric acid consumption, the amount of SO To study the reaction stoichiometry, it is appropriate to determine the values indicated in Taking into account these values, the following reactions can be considered. The molar ratios of measured experimental values are compared to the theoretical molar ratios based on the following reactions as shown in It is noted that all of the considered reactions involve water as a reaction product. This generated water may dilute the sulfuric acid concentration and thereby negatively affect the rate of the baking reaction. Of course, the dilution effect should be carefully balanced against the water loss at the baking temperature, which is directly proportional to its vapor pressure. This effect will be analyzed in Based on the fact that copper sulfate and oxysulfate were both detected in the baked enargite, the results of which were reported in Part II of this series of papers ( In the next section, the effect of particle size on the extraction of Cu and As will be studied. This will provide some evidence for the calculated activation energy and the reaction mechanism. The effect of particle size on the extraction of Cu and As was studied at the baking temperature of 200  Even though the lack of dependence of reaction rate on the particle size was established, it was decided to examine the experimental data against the shrinking core model for mono-size enargite particles to validate our conclusion. To that end, a new series of experiments were performed with 63 The effects of temperature and time on the extraction of Cu and As were studied over the temperature range of 170–200 Based on the initial rates of extraction for Cu and As, Arrhenius plots were established for these metals. The results are shown in  To study the reaction stoichiometry, the information corresponding to the enargite baked at 200 In Part II ( Nitrogen flow rate was varied over the range 100 Therefore, a slow nitrogen flow rate is preferred for maximum arsenic retention in the condensed phase. Another parameter which appeared to have an effect on the As loss to the gas phase was the amount of sulfuric acid. Considering this fact, the effect of sulfuric acid dosage on the extraction of Cu and As and also As loss are reported in the next section. In view of the fact that only ~ Sulfuric acid consumption and the molar ratio of Cu to As in the PLS, the amount of SO According to Detecting water during the sulfuric acid baking reaction would be difficult because of its small vapor pressure at 200 To examine the dilution effect of water on the rate of the baking reaction, it is appropriate to study the effect of sulfuric acid concentration, which is the subject of the next section. The effect of sulfuric acid concentration on the rate of Cu and As extraction was investigated using three concentration levels, i.e. 80%, 90%, and 96.5%. The results of Cu and As extraction are shown in Sulfuric acid consumption and the molar ratio of Cu to As in the PLS, the amount of SO According to No significant effect was observed upon doubling the surface area of the particle bed used for the baking reaction. It is well known that the rate of heterogeneous reactions, or in other words, the chemical reactivity of solid particles is proportional to their surface area. The surface area of solid particles is directly proportional to their size rather than to their mass. To that end, the specific surface area is defined as the ratio of area to the mass of the particle ( However, it was already established that the rate of sulfuric acid baking of enargite particles is independent of their particle size. This implies that none of the mechanisms taken into account by the shrinking core model (film diffusion, product layer diffusion, chemical reaction) control the rate of the baking reaction. This situation is very rare, but often indicates that an excess surface area is available for the reaction. This excess surface area could originate from the cracks/pores generated inside the mineral particle and thereby the rate of the reaction will be controlled by the surface reactions inside the particles. Perhaps the internal area created by cracks is independent of particle size. Consequently the reaction occurs at the internal crack surface, the area of which does not change with time or at least there are compensating effects. Fick's first law applies for a crack as follows: Considering reaction (3), the change in molar volume for the solid phases involved in the reaction can be calculated. Taking into account the molar volume of enargite (88.45 Based on this series of papers ( The baking reaction can be performed in a rotary kiln, where crushed pyrite or quartz can be used as a carrier rock ( It is worth noting that because of the high solubility of copper sulfate and arsenic trioxide in water, it is possible to use very high pulp densities to minimize the water consumption and also the extraction stages during the SX process. This process flowsheet provides a direct electrowinning scenario which will produce part of the sulfuric acid required for baking. The process should be examined at a pilot scale and the techno-economic figures should be evaluated before a full-scale plant can be operated. The generation of SO Process simplicity, Lower capital and operational costs, Retaining all of the arsenic in the condensed phase, The partial reaction of pyrite that in turn provides some dissolved iron for arsenic fixation, Elimination of the costs associated with regrinding of enargite concentrates, Leaching of enargite in a sulfate-based system which is the most convenient in hydrometallurgical operations, and Regeneration of part of the sulfuric acid from SO The effects of time, temperature, particle size, nitrogen flow rate, sulfuric acid dosage, reaction surface area, and sulfuric acid concentration on the extraction of Cu and As from a high-quality enargite sample through sulfuric acid baking and water leaching were studied. Results from baking experiments in the temperature range of 170–200 Based on the experimental values of the parameters obtained (sulfuric acid consumption, the amount of SO The acid bake–leach experiments with a mono size enargite powder (63 Consistent with previous findings ( The authors would like to thankfully acknowledge the support of the Newmont Mining Corporation during the course of this project at the University of Utah. The high-quality enargite specimens used in this research were provided through the help of Mr. Quintin Sahratian, which is greatly appreciated. The helpful discussions with Professor Erich Petersen (Department of Geology and Geophysics, University of Utah) regarding the mineralogical characterizations, and his collaboration during this project is appropriately recognized. Last, but not least, the authors would like to acknowledge Ms. Dorrie Spurlock for her proofreading of the manuscript.

@@ -1,0 +1,11 @@
+Introduction
+                  The incidence of osteopenia and osteoporosis is of concern in adults with Prader-Willi syndrome (PWS). Walking generates reaction forces that could stimulate bone mineralization and is popular in people with PWS. This study compared bone parameters and ground reaction forces (GRF) during gait between young adults with PWS and without PWS and explored associations between bone and GRFs during gait.
+               
+                  Methods
+                  10 adults with PWS, 10 controls with obesity (OB) and 10 with normal weight (NW) matched on sex participated. Segmental and full body dual-energy x-ray absorptiometry scans provided femoral neck, spine, total body minus the head bone mineral density (BMD), bone mineral content (BMC). Vertical GRF, vertical impulse, posterior force and negative impulse were measured during 5 walking trials at a self-selected speed along a 10 m runway.
+               
+                  Results
+                  Multivariate analyses of variance showed that adults with PWS (n = 7–8) had hip and body BMD and BMC comparable (p > .050) to NW and lower (p < .050) than OB. Adults with PWS showed slower speed than NW (p < .050) but similar to OB (p > .050). Adults with PWS presented lower absolute vertical GRF, vertical impulse and negative impulse than OB (p < .050). Pearson r correlations (p < .050) in those with PWS (n = 7–8) indicated that femoral neck BMC was associated with vertical GRF (r = 0.716), vertical impulse (r = 0.780), posterior force (r = −0.805), and negative impulse (r = −0.748). Spine BMC was associated with speed (r = 0.829) and body BMD was associated with speed (r = 0.893), and posterior force (r = −0.780).
+               
+                  Conclusions
+                  Increased BMC in the femoral neck and body were associated with larger breaking forces during walking, a phenomenon normally observed at greater gait speeds. Faster walking speed was associated with greater BMC in the spine and body. Our preliminary results suggest that young adults with PWS could potentially benefit from faster walking for bone health; however, larger prospective studies are needed to confirm this.

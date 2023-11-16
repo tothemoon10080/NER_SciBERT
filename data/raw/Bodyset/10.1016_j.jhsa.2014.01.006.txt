@@ -1,0 +1,14 @@
+Purpose
+                  To determine the percentage of AO B3 distal radius fractures that lose reduction after operative fixation and to see whether fracture morphology, patient factors, or fixation methods predict failure. We hypothesized that initial fracture displacement, amount of lunate facet available for fixation, plate position, and screw fixation would be significant risk factors for loss of reduction.
+               
+                  Methods
+                  A prospective, observational review was conducted of 51 patients (52 fractures) with AO B3 (volar shearing) distal radius fractures treated operatively between January 2007 and June 2012. We reviewed a prospective distal radius registry to determine demographic data, medical comorbidities, and physical examination findings. Radiographs were evaluated for AO classification, loss of reduction, length of volar cortex available for fixation, and adequacy of stabilization of the lunate facet fragment with a volar plate. Preoperative data were compared between patients who maintained radiographic alignment and those with loss of reduction. A multivariate logistic regression analysis was completed to determine significant predictors of loss of reduction.
+               
+                  Results
+                  Volar shearing fractures with separate scaphoid and lunate facet fragments (AO B3.3), preoperative lunate subsidence distance, and length of volar cortex available for fixation were significant predictors for loss of reduction; the latter was significant in multivariate analysis. Plate position and number of screws used to stabilize the lunate facet were not statistically different between groups.
+               
+                  Conclusions
+                  Patients with AO B3.3 fractures with less than 15 mm of lunate facet available for fixation, or greater than 5 mm of initial lunate subsidence, are at risk for failure even if a volar plate is properly placed. In these cases, we recommend additional fixation to maintain reduction of the small volar lunate facet fracture fragments in the form of plate extensions, pins, wires, suture, wire forms, or mini screws.
+               
+                  Type of study/level of evidence
+                  Therapeutic III.

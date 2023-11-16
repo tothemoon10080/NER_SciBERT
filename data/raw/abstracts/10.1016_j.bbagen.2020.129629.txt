@@ -1,0 +1,14 @@
+Backgound
+                  Vascular smooth muscle cells (VSMCs) transdifferentiated ectopically trigger vascular calcifications, contributing to clinical cardiovascular disease in the aging population. AnxA5 and TNAP play a crucial role in (patho)physiological mineralization.
+               
+                  Methods
+                  We performed affinity studies between DPPC and 9:1 DPPC:DPPS-proteoliposomes carrying AnxA5 and/or TNAP and different types of collagen matrix: type I, II, I + III and native collagenous extracellular matrix (ECM) produced from VSMCs with or without differentiation, to simulate ectopic calcification conditions.
+               
+                  Results
+                  AnxA5-proteoliposomes had the highest affinity for collagens, specially for type II. TNAP-proteoliposomes bound poorly and the simultaneous presence of TNAP in the AnxA5-proteoliposomes disturbed interactions between AnxA5 and collagen. DPPC AnxA5-proteoliposomes affinities for ECM from transdifferentiating cells went up 2-fold compared to that from native VSMCs. The affinities of DPPC:DPPS-proteoliposomes were high for ECM from VSMCs with or without differentiation, underscoring a synergistic effect between AnxA5 and DPPS. Co-localization studies uncovered binding of proteoliposomes harboring AnxA5 or TNAP+AnxA5 to various regions of the ECM, not limited to type II collagen.
+               
+                  Conclusion
+                  AnxA5-proteoliposomes showed the highest affinities for type II collagen, deposited during chondrocyte mineralization in joint cartilage. TNAP in the lipid/protein microenvironment disturbs interactions between AnxA5 and collagen. These findings support the hypothesis that TNAP is cleaved from the MVs membrane just before ECM binding, such facilitating MV anchoring to ECM via AnxA5 interaction.
+               
+                  General significance
+                  Proteoliposomes as MV biomimetics are useful in the understanding of mechanisms that regulate the mineralization process and may be essential for the development of novel therapeutic strategies to prevent or inhibit ectopic mineralization.

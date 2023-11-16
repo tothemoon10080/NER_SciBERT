@@ -1,0 +1,63 @@
+The CO2 mineralization is an economical route to reduce CO2 emission for the production of high-value carbonate products. The performance of CO2 indirect mineralization of 
+                        
+                           MgSO
+                           4
+                        
+                      by 
+                        
+                           
+                              (
+                              
+                                 NH
+                                 4
+                              
+                              )
+                           
+                           2
+                        
+                        
+                           CO
+                           3
+                        
+                      solution was studied systematically. The effects of process parameters on the reaction performance and morphology of 
+                        
+                           MgCO
+                           3
+                        
+                        ·
+                        3
+                        
+                           H
+                           2
+                        
+                        O
+                      were investigated. In the reaction process, three stages were observed, including nucleation induction, solid phase growth and equilibrium stage. The nucleation induction period and equilibrium time are shortened with the increase of reaction temperature, initial reactants concentration, stirring speed and 
+                        
+                           
+                              (
+                              
+                                 NH
+                                 4
+                              
+                              )
+                           
+                           2
+                        
+                        
+                           CO
+                           3
+                        
+                        /
+                        
+                           MgSO
+                           4
+                        
+                      molar ratio. These parameters also play a vital role in the morphology of products. It was found that the difference between crystal growth rate and mass transfer rate has a significant impact on crystal morphology. A kinetic model was derived from the solid phase growth rate. The estimated activation energies of forward and reverse reaction are 30.37 
+                        kJ
+                        /
+                        mol
+                      and 32.71 
+                        kJ
+                        /
+                        mol
+                     , respectively.Greenhouse gases emitted by human activities are the main causes of global warming and related climate and environmental problems [ In order to overcome the disadvantages of traditional CCS for CO The CO The indirect mineralization process involves several steps. The reactive components, usually aqueous solution containing Ca Li et al. [  Unfortunately, the study about the kinetics is insufficient. The kinetic is very important and useful to help controlling the structure or morphology of products. The industrial implementation of the process also requires accurate kinetics. In this study, the reaction performances of Magnesium sulfate heptahydrate ( A 150 mL During the indirect CO Per the sensitivity studies in The second stage is solid phase growth stage. The crystal nucleus formed in the nucleation induction period is the crystal center. The solute in the solution diffuses to the surface of the crystal and is adsorbed, and then is embedded in the crystal lattice by a certain way. Therefore, the formation process of solid phase product includes the following steps [ Diffusion of solute to crystal surface; Adsorption of solute on crystal surface; Construction of solute in crystal lattice; Dissolution or dissociation of crystals in liquid phase. When the rate of solute diffusion Step (i) is very fast, a large amount of solute is nowhere to be attached, and more crystal nucleus are further generated, thereby producing many tiny crystal particles. This is consistent with the fact that the higher the stirring speed, the smaller the size of the obtained crystal products. When the rate of Step (ii) is much higher than that of Step (iii), a large number of solutes are physically adsorbed on the crystal surface, resulting in crystal growing in a stacked manner, and forming loose globular aggregates. When the rate of Step (iii) is much higher than the rate of Step (i) and Step (ii), the solute transferred to the crystal surface is adsorbed and embedded into the corresponding lattice, so that the crystal nucleus grows according to the specific structure, which makes it possible to produce the crystal with desired morphology From the analysis of the aforementioned steps, it can be found that Step (i) is the controlling step for the reaction rate, namely solid phase formation rate. The rate of Step (ii) and Step (iii) have a great impact on the morphology of the product, but they do not affect the solid phase formation rate. Obviously, the liquid composition and pH will change with time at the solid growth stage. Therefore, the kinetics can be obtained by monitoring the composition and pH of the liquid phase. Step (iv) is the dissolution or dissociation of the crystal in the liquid phase. When the solid phase formation rate is the same as the dissociation rate, they reach the equilibrium. That is the third stage called equilibrium stage. The final composition of the saturated solution depends on the equilibrium state. At this time, the formation rate from the liquid phase to the solid phase is the same as the solid phase dissociation rate in the liquid phase. The solution composition and pH value are relatively stable. Based on the analysis in Section According to the homogeneous reaction theory, the reaction rate of Among them, Since the reaction process is at constant volume, the conversion of Thus Eq. Since the crystal formation rate is almost zero in the initial induction nucleation stage, the reaction can only be monitored when there are enough volume and quantity of crystal nucleus, and this period is represented by The initial condition is given by  Integrating Eq. Substituting Eq. Where The change of solute concentration and pH with time in solution visually reflects the reaction process and solid crystal growth process [ The effects of reaction temperature on the reaction performance and morphology of the final products were studied experimentally at stirring speed of 300 rpm. The initial concentrations of It can be found that the pH change is related to the reaction occurring in the solution and the pH decreases with the increase of reaction temperature due to the hydrolytic reaction presenting in the solution. Since Eq. When the reaction temperature increases from 20 °C to 50 °C, the nucleation induction period is shortened from 145 min to 8 min which is consistent with the typical trend, since the ion interaction is accelerated and the nucleation rate increases with the increase of reaction temperature. Furthermore, the time to reach equilibrium is shortened from 480 min to 72 min, as well which implies higher chemical reaction rate at higher reaction temperature. Actually, the reaction rate constant increases from 0.027 The XRD shows that all the patterns are similar without any extra diffraction peaks when the reaction temperature raises from 20 °C to 50 °C, indicating that all the products are The effect of initial reactants concentration on the crystallization process and morphology of the products were investigated at the reaction temperature of 30 °C, stirring speed of 300 rpm and equimolar reactants of As can be seen from Similarly, when the initial reactants concentration increases from 0.2 M to 0.5 M, the nucleation induction period reduces from 45 min to 8 min. Also, the time to reach equilibrium shortens from 206 min to 78 min, and the reaction rate constant improves significantly from 0.094 The XRD diffraction patterns of products obtained at different initial reactants concentrations indicate that all the products are The effect of stirring speed on the crystallization process and morphology of the products were studied at initial reactants concentration of 0.2  The XRD diffraction patterns of the products obtained at different stirring speeds shows that all the products are The effect of initial  The XRD characterization of the products obtained at different initial According to the aforementioned analysis, the formation rate of the solid product is the controlling step and represents the macroscopic reaction rate of the investigated system. Therefore, the kinetics is essentially focused on the solid phase growth stage. The derived kinetic equation, Eq. In order to obtain more accurate kinetic parameters, further reaction temperature sensitivity study was conducted at 30 °C, 35 °C, 40 °C, 45 °C, 50 °C and 55 °C, respectively. These experiments were completed at comparatively optimal reaction conditions with the stirring speed of 500 rpm, and the initial The reaction rate constants.  The CO When the formation rate of solid product is controlled by the rate of crystal growth, the kinetic equation is: The authors are grateful for the financial support of the Supplementary material related to this article can be found, in the online version, at doi: The following is Supplementary data to this article:

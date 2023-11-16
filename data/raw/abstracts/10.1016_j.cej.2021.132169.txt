@@ -1,0 +1,9 @@
+Synthetic phenolic antioxidants (SPAs) are usually used during the processes of worldwide production, manufacturing and biological sciences and ubiquitously occur in many environmental media. However, studies on the removal efficiencies and mechanisms of SPAs are extremely limited. In this work, tert-butylhydroquinone (TBHQ) was selected as a representative of commonly used SPAs, and its transformation behaviors were first investigated in Fe(VI) treatment, with emphasis on the roles of inorganic ions on the removal efficiencies, transformation pathways and mineralization during reactions. The results showed that TBHQ removal improved with increasing Fe(VI) dosage and decreased pH at low initial TBHQ concentrations. Its reaction rate constants (k
+                     app) were 182.7–6346.5 M−1 s−1 in the studied pH range. The addition of 5 mM NO2
+                     − and HSO3
+                     − strongly suppressed the reaction, which is in line with of the low mineralization degree data; although no obvious effect of NH4
+                     + was obtained, a 0% mineralization degree of this group indicated NH4
+                     + limited the mineralization of oxidative intermediates of TBHQ by changing the nature of the high-valent iron species reactions. Nine intermediates were identified, and four routes, including direct oxidation, oxygen transfer, oxidation rearrangement and coupling, were deduced and was supported by the theoretical calculation. An extra route, namely, radical addition initiated by the generated ·NO2 and ·SO3
+                     − radicals, was also observed with the addition of NO2
+                     − and HSO3
+                     − in the Fe(VI) system. These findings can provide the basis for the removal and transformation trends of SPAs from drinking and wastewater.

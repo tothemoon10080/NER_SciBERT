@@ -1,0 +1,156 @@
+Dynamic elastic parameters of coal are closely linked to crack characteristics and are lithology indicators in seismic exploration. This experimental study measured ultrasonic wave velocity of coal samples considering both parallel (90°) and perpendicular (0°) to bedding planes, and then calculated the dynamic elastic parameters (Ed
+                      and μd
+                     ) and their anisotropy values (
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       d
+                                    
+                                 
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       μ
+                                    
+                                    
+                                       d
+                                    
+                                 
+                              
+                           
+                        
+                     ). The variations of Ed
+                      and μd,
+                      as well as 
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       d
+                                    
+                                 
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       μ
+                                    
+                                    
+                                       d
+                                    
+                                 
+                              
+                           
+                        
+                      were analyzed under various confining stresses. The results show that: Firstly, a critical confining pressure exists, and significant variation in the parameters can be seen below this point and weak variation appears above it. Secondly, a positive correlation exists between Ed
+                      and the square of P-wave velocity (VP
+                        2
+                     ), and between 
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       d
+                                    
+                                 
+                              
+                           
+                        
+                      and the P-wave velocity anisotropy (
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       P
+                                    
+                                 
+                              
+                           
+                        
+                     ) as well; however, there is no clear correlation between μd
+                      and P-wave velocity (VP
+                     ). Thirdly, according to the major controlling factors of anisotropy, the coal samples with different Ed
+                      and μd
+                      as well as 
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       d
+                                    
+                                 
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 A
+                              
+                              
+                                 
+                                    
+                                       μ
+                                    
+                                    
+                                       d
+                                    
+                                 
+                              
+                           
+                        
+                      can be divided into two types: one is mainly controlled by bedding and cracks and the other one is mainly controlled by differences of mineral compositions in directions. Consequently, this study can provide theoretical basis for future research on the dynamic elastic parameters and anisotropy of coal.

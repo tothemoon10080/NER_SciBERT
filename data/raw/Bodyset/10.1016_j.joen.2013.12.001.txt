@@ -1,0 +1,11 @@
+Introduction
+                  Pulp repair is less likely to occur when dentin or pulpal tissue remains infected after caries excavation. Yet there are currently few options to kill residual bacteria without damaging resident cells. The current study has evaluated the effect of 3 blue light–activated chemicals on the viability of lactobacilli, odontoblast-like cells (MDPC-23), undifferentiated pulp cells (OD21), and human embryonic stem cells (hESC H1).
+               
+                  Methods
+                  Bacteria were incubated for 15 minutes with curcumin, eosin Y, or rose bengal and then irradiated with blue light (240 seconds). Bacteria were labeled with LIVE/DEAD BacLight Bacterial Viability kit, and viability was assessed by fluorescence-activated cell sorting. Cytotoxicity assays were performed on MDPC-23 cells, OD21, and hESC H1 cells grown in 24-well plates and exposed to the same photosensitizer-light combination. After 24 hours, cellular response was measured by using the methyl-thiazol-diphenyl-tetrazolium assay. Results were statistically analyzed by using one-way analysis of variance and Tukey multiple comparison intervals (α = 0.05).
+               
+                  Results
+                  Bacterial viability was significantly reduced after exposure to different combinations of light and photosensitizers; mitochondrial activity of cultured cells remained unaffected when exposed to the same conditions, suggesting a good therapeutic index in vitro.
+               
+                  Conclusions
+                  Blue light–mediated disinfection is promising for the development of new treatment strategies designed to promote pulp repair after carious exposure.

@@ -1,0 +1,11 @@
+Objectives
+                  This study aimed to synthesize and characterize an environmentally friendly nanohydroxyapatite (n-HA) and evaluate its impact on enamel mineral content when incorporated into a Pistachio oleo gum resin (Saqqez) bio-chewing gum for in-situ models. We compared the effects of this green nano-hydroxyapatite (G n-HA) with those of a commercially available synthetic nano-hydroxyapatite (S n-HA).
+               
+                  Methods
+                  Various analytical techniques were employed including XRD, FESEM, FT-IR, EDX/SEM and TGA/DTA to characterize the crystallinity, size and composition of the G n-HA powder. Three chewing gum groups were formulated: (1) Saqqez gum containing 10% wt G n-HA, (2) Saqqez gum containing 10% wt S n-HA, and (3) pure Saqqez gum. In order to evaluate the impact of these chewing gums on enamel, intraoral appliances were fabricated, each containing six enamel specimens. Participants were instructed to chew the gums while wearing these appliances. The calcium (Ca+2) and phosphorus (P) levels in enamel specimens, both with and without exposure to an acid challenge, were quantified using EDX/SEM. FE-SEM was employed to capture the microstructure of the enamel surface. In terms of the statistical analysis, one-way ANOVA and Tukey's post hoc tests were utilized to compare the data, where the significance level (α) was set at 0.05.
+               
+                  Results
+                  The characterization tests confirmed the successful synthesis of G n-HA. Furthermore, EDX/SEM analysis of the enamel specimens from the intraoral appliance revealed significant variations in calcium (Ca+2) content among the enamel specimens (P = 0.000). The S n-HA group, in particular, exhibited the highest Ca+2 content, while the pure Saqqez group displayed the lowest. Nonetheless, there was no statistically significant differences in phosphorus (P) content observed among the three groups (P = 0.27).
+               
+                  Conclusions
+                  Saqqez gum can be considered a wholesome natural chewing gum that serves, as a carrier for delivering remineralization agents to the tooth surfaces. This was evident in the groups containing n-HA, exhibiting elevated Ca+2 levels. It's noteworthy that G n-HA demonstrated less efficacy in enamel remineralization compared to S n-HA.

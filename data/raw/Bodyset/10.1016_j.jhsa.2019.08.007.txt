@@ -1,0 +1,14 @@
+Purpose
+                  A paucity of evidence exists regarding the optimal treatment of open fractures of the distal radius. The purpose of this study was to compare short-term complication rates between various treatment options following open fractures of the distal radius.
+               
+                  Methods
+                  We performed a retrospective review of all open fractures of the distal radius at a single level 1 trauma center over a 10-year period. The primary outcome measure was the number of minor and major complications. Demographic and clinical characteristics of patients across treatment and outcome groups were compared and models were used to describe the relationships between outcome and treatment.
+               
+                  Results
+                  Ninety patients met the inclusion criteria for evaluation. An even distribution between high-energy (n = 45) and low-energy (n = 45) injuries was seen with 61 fractures Gustilo I (67%), 19 Gustilo II (22%), and 10 Gustilo III (11%). The majority of fractures were intra-articular (n = 48 AO type C vs n = 42 AO type A/B). Fractures were treated with immediate open reduction internal fixation (ORIF) in 67 cases (74%), external fixation in 12 (13%), initial external fixation followed by ORIF at a later time in 8 (9%), or closed reduction and percutaneous pinning in 3 (4%). We observed 33 complications (37%) of which 24 were major and 9 minor. Mechanism of injury and type of treatment were the only variables shown to correlate with an increased rate of complications.
+               
+                  Conclusions
+                  We conclude that open fractures of the distal radius treated by immediate ORIF at the time of index debridement can result in satisfactory outcomes compared with other forms of treatment.
+               
+                  Type of study/level of evidence
+                  Therapeutic IV.

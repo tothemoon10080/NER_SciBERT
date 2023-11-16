@@ -1,0 +1,27 @@
+In this study, bisphenol A (BPA), an endocrine disrupter, was removed by ozonation process. During ozonolysis, degradation kinetics and degradation intermediates of BPA were determined and degradation stoichiometry was also calculated. The degradation of BPA was found to be optimal at pH 3.0 and BPA solution with 0.509mM concentration was completely degraded after 25min ozonation time. The stoichiometric ratio between ozone and BPA were calculated to be 10.30. The pseudo-first order degradation rate constant, kObs
+                     , decreased in the range of 19.3–13.3s−1 when the initial concentration of BPA was raised from 0.051 to 0.509mM. In addition, the second order rate constant, kapp
+                     
+                     (
+                     
+                        BPA
+                     
+                     ), was also calculated in the range of 2.18×104–3.56×104
+                     M−1
+                     s−1. Henry’s constant, kH
+                     , increased as 5.5% depending on growth of ionic strength of BPA solution during ozonation. As a result of the increase of kH
+                     , dissolved ozone reduced throughout the ozonation. Ten different intermediates occurred during the ozonation of BPA and were identified via GC–MS and LC–MS/MS. Malonic and oxalic acids were observed among the intermediates in the first 5min of ozonation and taken as markers of mineralization. 
+                        
+                           
+                              
+                                 k
+                              
+                              
+                                 TOC
+                              
+                              
+                                 ′
+                              
+                           
+                        
+                      value was calculated as 2.11M−1
+                     min−1 for BPA mineralization and the mineralization of ozonation was achieved about 30% at the end of 25min ozonation.2,2-Bis(4-hydroxyphenyl)propane (bisphenol A, BPA) is a dimer of two A number of methodologies based on physical and chemical treatment processes are currently continued to apply the removal of BPA Recently, the degradation of BPA using ozonation has been described by several researchers Bisphenol A (99%, BPA) was supplied from Riedel-de Haen AG (Germany). Potassium iodide (KI), sodium thiosulfate (Na The BPA solutions were prepared in the range of 0.051–0.509 Ozonation experiments were carried out with 0.5 O One The intermediates occurred during ozonolysis of BPA were determined by GC–EI–MS (Shimadzu, 2010) combined with a RESTEK Rtx-5MS (0.25 To determine the degradation products of BPA, the ozone was fed into the reaction mixture by diffusion after 0.5 The degradation products of BPA were also analyzed using LC–UV and LC–ESI–MS/MS. LC–UV analyses performed on an ODS-3 C18 column (4.6 The ozonation experiments were carried out with 0.509 The effect of pH on the reaction between ozone and substrate is well known. The reaction of organics with ozone is directed in two ways by pH. One of them is direct attack or electrophilic attack (at acidic pH) and the other is mainly free radical attack (at basic pH) In this section, the stoichiometric relationship between ozone and BPA was examined for degradation of each initial BPA concentration and the obtained results were demonstrated in The formed intermediates during ozonation of BPA were silylated to derivatize the non-volatile organics and then identified via GC–MS. The results are demonstrated in The decrease of BPA concentration in solution was followed by LC–UV at 278 The identification of two more degradation products (PN10 and PN11) which was not observed by GC–EI–MS was achieved with LC–ESI–MS/MS ( The reaction of molecular ozone with carbon–carbon double bonds yields the ozonides formed via addition of ozone in double bond. Ozonides are well known unstable intermediates and degraded rapidly to carbonyl groups The effect of initial BPA concentrations on the ozonolytic degradation of BPA was investigated in the BPA concentration range from 0.051 to 0.509 As mentioned before, the ozone first attacks BPA for addition and cleavage of the double bonds to produce various intermediates then also began to react with these degradation intermediates containing double bonds in their chemical structures ( At pH 3.0, the concentrations of [BPA On the other hand, the O Since only dissolved ozone in reaction mixture reacted with BPA, the effective ozone concentration in a liquid phase depended on partial pressure and the Henry constant. Accordingly, dissolved ozone could be calculated as shown in the following equation: When On the other hand, BPA-ozone degradation rate can be calculated using the following equation: As simply indicated in Eq. Finally, when k value is replaced in Eq. The The mineralization of BPA was measured using TOC analyzer. After 25 When this equation was integrated, Eq. When the ozonation time was taken a constant for 25 In this study, the optimum decomposition pH was determined as 3.0 for BPA ozonation and the stoichiometric ratio between ozone and BPA was calculated to be 10.30 at this pH. Ten different intermediates formed during ozonation of BPA were identified by GC–MS and LC–MS/MS. The presence of malonic and oxalic acids after an ozonation time of 5
