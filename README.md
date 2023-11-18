@@ -9,6 +9,10 @@
 
 1. 克隆仓库：`git clone [仓库链接]`
 2. 安装依赖：`pip install -r requirements.txt`
+## 数据集
+
+使用了Kaggle数据集来预训练SciBERT模型
+https://www.kaggle.com/datasets/tothemoon08/dataset-of-papers-in-mineral-processing
 
 ## 使用
 
