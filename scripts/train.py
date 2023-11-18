@@ -14,6 +14,7 @@ sys.path.append(str(project_dir / 'src'))
 from models.scibertBilstmCrf import create_model
 from data.NER_preprocess import process_dataset
 from utils.F1Score import F1Score, F1ScoreCallback
+
 # 标签到ID的映射
 label_map  = {
     'O': 0,
@@ -30,7 +31,6 @@ label_map  = {
     'B-OCH': 11,
     'I-OCH': 12,
 }
-
 
 model_path = os.path.join('models','saved_bert_model')
 dataset_path = os.path.join('data','raw','Labeled_dataset.txt')

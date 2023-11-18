@@ -117,7 +117,7 @@ def mask_dataset(input_ids_np, attention_masks_np, tokenizer, mask_probability=0
     return input_ids_tf, attention_masks_tf, labels_tf
 
 #创建MLM数据集
-def creat_mlm_dataset(max_length, data_dir, tokenizer=BertTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')):
+def creat_mlm_dataset(data_dir, max_length=256, tokenizer=BertTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')):
 
     """
     创建用于BERT模型掩码语言模型（MLM）任务的数据集。
@@ -128,7 +128,7 @@ def creat_mlm_dataset(max_length, data_dir, tokenizer=BertTokenizer.from_pretrai
     最后，这些编码后的数据被传递给mask_dataset函数来生成最终的MLM任务数据集，包括输入ID、注意力掩码和MLM任务的标签。
 
     参数:
-    - max_length: 每个文本片段的最大长度。默认值为512。
+    - max_length: 每个文本片段的最大长度。默认值为256。
     - data_dir: 包含文本文件的文件夹路径。默认为'data/raw/abstracts'。
     - tokenizer: 用于编码文本的分词器。默认为SciBERT分词器。
 
