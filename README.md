@@ -1,7 +1,7 @@
 # NER_SciBERT
 
 本项目是一个基于 SciBERT 的命名实体识别（NER）系统。它旨在提供一个高效、准确的NER模型，专门针对科学文献。
-
+并允许在专业领域论文上进一步预训练SciBert模型
 
 ## 安装
 
@@ -18,10 +18,11 @@ https://www.kaggle.com/datasets/tothemoon08/dataset-of-papers-in-mineral-process
 
 要使用 NER_SciBERT，运行以下脚本之一：
 
+- 预训练：`python scripts/pretrain.py`
 - 训练模型：`python scripts/train.py`
 - 进行预测：`python scripts/predict.py`
 - 评估模型：`python scripts/evaluate.py`
-- 预训练：`python scripts/pretrain.py`
+
 ## 项目结构
 
 <details>
