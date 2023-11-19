@@ -10,7 +10,7 @@
 
 要安装和运行 NER_SciBERT，请按照以下步骤操作：
 
-1. 克隆仓库：`git clone [仓库链接]`
+1. 克隆仓库：`git clone [仓库链接](https://github.com/tothemoon10080/NER_SciBERT.git)`
 2. 安装依赖：`pip install -r requirements.txt`
 
 ## 数据集
