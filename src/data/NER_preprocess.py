@@ -36,7 +36,10 @@ def process_dataset(dataset_path, tokenizer, label_map, max_length=128):
                     # 将标签转换为张量并进行填充
                     tag_tensor = tf.convert_to_tensor([label_map.get(l, label_map["O"]) for l in temp_labels], dtype=tf.int32)
                     padding_size = max_length - tf.shape(tag_tensor)[0]
-                    tag_tensor = tf.pad(tag_tensor, [[0, padding_size]], constant_values=label_map["O"])
+                    if padding_size > 0:
+                        tag_tensor = tf.pad(tag_tensor, [[0, padding_size]], constant_values=label_map["O"])
+                    else:
+                        tag_tensor = tag_tensor[:max_length]
 
                     input_ids = input_ids.write(index, encoded_input['input_ids'][0])
                     attention_masks = attention_masks.write(index, encoded_input['attention_mask'][0])

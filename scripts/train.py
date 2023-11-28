@@ -34,10 +34,10 @@ label_map  = {
 
 model_path = os.path.join('models','saved_bert_model')
 dataset_path = os.path.join('data','raw','Labeled_dataset.txt')
-max_len = 128
+max_len = 64
 tokenizer = AutoTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')
 
-input_ids, tag_ids, attention_masks = process_dataset(dataset_path, tokenizer, label_map)
+input_ids, tag_ids, attention_masks = process_dataset(dataset_path, tokenizer, label_map,max_length=max_len)
 
 # 将 TensorFlow 张量转换为 NumPy 数组
 input_ids_np = input_ids.numpy()
@@ -76,4 +76,5 @@ history = model_with_crf.fit(
     batch_size=32,
     # callbacks=[f1_callback]
 )
+
 print(history.history)
