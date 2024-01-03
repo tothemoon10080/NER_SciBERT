@@ -1,3 +1,0 @@
-A basic evaluation of the entire NH4-salts pH swing mineral carbonation process steel slag based system including CO2 capture, ammonia absorption and regeneration of additives, has been investigated to evaluate its feasibility at industrial scale.
-                  Heat released from mineral dissolution, pH adjustment and precipitation of impurities, carbonation reaction and CO2 capture was
-                  2.3 MWh/tCO2 and could be recovered using heat exchangers and reused within the mineralization process to heat-up the incoming streams of steel slag, ammonium sulphate and water. Heat required, mainly from water evaporation and regeneration of additives, is reported to be 20 MWh/tCO2.

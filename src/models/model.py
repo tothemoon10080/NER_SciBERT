@@ -26,4 +26,4 @@ class SciBertBiLSTMCRF(nn.Module):
             loss = -self.crf(emissions_transposed, labels_transposed, mask=attention_mask_transposed)
             return loss
         else:
-            return self.crf.decode(emissions, mask=attention_mask_transposed)
+            return self.crf.decode(emissions=emissions_transposed, mask=attention_mask_transposed)

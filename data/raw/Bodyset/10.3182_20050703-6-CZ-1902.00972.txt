@@ -1,4 +1,0 @@
-A methodology for modelling and designing H
-                     ∞ controllers for an experimental pilot-scale flotation column plant is described. Experimental results, including the modelling procedure and an H
-                     ∞ design, are presented. For this purpose, different models, for different operating conditions, are determined, by means of system identification techniques. A strategy to get the uncertainty model, using a multiplicative nonstructured norm bounded uncertainty is also defined. The complete model is used for an H
-                     ∞ design using the mixed sensitivity approach. All the results have been tested in a real pilot-scale flotation column operating in a water air system.

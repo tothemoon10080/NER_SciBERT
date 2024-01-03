@@ -1,7 +1,0 @@
-The shear failure of rocks under both a static triaxial stress and a dynamic disturbance is common in deep underground engineering and it is therefore essential for the design of underground engineering to quantitively estimate the dynamic Mode Ⅱ fracture toughness K
-                     ⅡC of rocks under a triaxial stress state. However, the method for determining the dynamic K
-                     ⅡC of rocks under a triaxial stress has not been developed yet. With an optimal sample preparation, the short core in compression (SCC) method was designed and verified in this study to measure the dynamic K
-                     ⅡC of Fangshan marble (FM) subjected to different hydrostatic pressures through a triaxial dynamic testing system. The formula for calculating the dynamic K
-                     ⅡC of the rock SCC specimen under hydrostatic pressures was obtained by using the finite element method in combination with secondary cracks. The experimental results indicate that the failure mode of the rock SCC specimen under a hydrostatic pressure is the shear fracture and the K
-                     ⅡC of FM increases as the loading rate. In addition, at a given loading rate the dynamic rock K
-                     ⅡC is barely affected by hydrostatic pressures. Another important observation is that the dynamic fracture energy of FM enhances with loading rates and hydrostatic pressures.

@@ -1,3 +1,0 @@
-The extraction of CuII and FeIII from sulfate media by LIX 1104SM (a modified hydroxamic acid) has been investigated at various experimental conditions: temperature, aqueous pH value, metal concentration, etc.; the extraction order is FeIII>CuII.
-                  Slope analysis of experimental data showed that LIX 1104SM formed species of the nature MeL2(HL) with copper. The stripping of copper is accomplished using sulfuric acid solutions, whereas FeIII is not stripped in these conditions but using hydrochloric acid solutions.
-                  Since LIX 1104SM extracts these two elements from acidic solutions, it seems useful for the removal of FeIII and/or CuII from other base metals. Iron and copper can be separated by co-extraction and selective stripping.

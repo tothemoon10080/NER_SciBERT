@@ -1,1 +1,0 @@
-This paper considers the identification of the dynamics and the inverse dynamics of a simulated grinding circuit, using feedforward neural networks. Various control strategies based on the plant and plant inverse neural models, with and without adaptation, are presented. Finally, the results of some control strategies are evaluated and discussed.

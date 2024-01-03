@@ -1,9 +1,0 @@
-The complete mineralization of acetic acid in wastewater through a biodegradation process is difficult due to the α-position methyl coordinated with the carboxyl group, and this work explored the oxidation performance of acetic acid by catalytic ozonation with metal oxides supported on γ-Al2O3. It was found that MnO2/γ-Al2O3 catalyst achieved superior mineralization performance to Co/Fe/CeOx supported on γ-Al2O3 for acetic acid wastewater treatment. The effects of MnO2 loading, catalyst dosage, acetic acid concentration, O3 concentration, ozonation temperature, and initial pH value of the acetic acid solution were investigated. Typically, the mineralization of acetic acid over 1.0 wt.% MnO2/γ-Al2O3 catalyst was as high as 88.4% after 300 min ozonation of 1.0 g·L‒1 acetic acid at 25 °C with the highest energy efficiency around 15 g·kWh‒1. By contrast, the mineralization of acetic acid could only reach 43.2% in the absence of the catalyst, with an energy efficiency of 5.1 g·kWh−1. Radical quenchers and indicated that ·OH radical, 
-                        
-                           
-                              O
-                           
-                           2
-                           −
-                        
-                      species originated from ozone played an important role in the catalytic ozonation of acetic acid into CO2 and H2O. Besides, the catalytic ozonation mechanism of acetic acid over MnO2/γ-Al2O3 was carefully proposed based on the in situ DRIFTS results.

@@ -20,11 +20,8 @@
 
 ## 使用
 
-要使用 NER_SciBERT，运行以下脚本之一：
-- 预训练：`python scripts/pretrain.py`
+要使用 NER_SciBERT，运行以下脚本：
 - 训练模型：`python scripts/train.py`
-- 进行预测：`python scripts/predict.py`
-- 评估模型：`python scripts/evaluate.py`
 
 ## 项目结构
 
@@ -41,9 +38,6 @@
     - utils/
   - scripts/
     - train.py
-    - predict.py
-    - evaluate.py
-  - models/
   - logs/
   - requirements.txt
   - setup.py

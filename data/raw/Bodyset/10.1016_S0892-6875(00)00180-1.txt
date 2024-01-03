@@ -1,4 +1,0 @@
-Mathematical models for the calculation of gas holdup in liquid-gas systems from experimental measures of the electrical conductance at several frother levels are presented in this paper.
-                  Experimental data were taken by a computer connected to conductance electrodes fixed in an acrylic transparent pilot flotation column.
-                  In the first stage of data analysis a relationship between the relative conductance and gas holdup on constant frother concentration was established. In the second stage, variable frother concentration was introduced. Finally, a relationship between the relative conductance, the gas holdup and the interaction between gas holdup and the square root of frother concentration was determined.
-                  Alternative models are statistically analyzed.

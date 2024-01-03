@@ -1,1 +1,0 @@
-Circuit analysis is applied to the general optimization of mineral processing circuits. Four functions are defined: feed, selectivity, composition and criteria. After defining the criteria function that is to be optimized, the general method of optimization is shown in closed form. Two examples are given. That optimum grade and recovery do not coincide is proven.

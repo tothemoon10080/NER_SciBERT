@@ -1,3 +1,0 @@
-The electrochemical reaction of xanthate on the surface of pyrite was studied using cyclic voltammogrametry, chronopotentiometry and rotating-disc electrode measurements. Experimental results demonstrate that the first step in the reaction is electrochemical adsorption of xanthate ion, and then the adsorbed ion associates with a xanthate ion from the solution and forms a dixanthogen on the pyrite electrode surface. The diffusion coefficient of butyl xanthate on pyrite electrode surface can be determined to be about 1.09×10−6 cm2/s. Using the galvanostatic technique, the kinetic parameters of oxidation of the butyl xanthate ion on the pyrite surface are calculated as J
-                     a = 200 μA/cm2, β = 0.203 and J
-                     0=27.1 μA/cm2.

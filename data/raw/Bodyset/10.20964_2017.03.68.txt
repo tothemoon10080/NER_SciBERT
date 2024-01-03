@@ -1,8 +1,0 @@
-Open circuit potential, potentiodynamic polarization plots and electrochemical impedance spectroscopy for pyrite in 0.1 M sulfuric acid in the temperature range of 200 to 350 °C and pressure range of 25 to 40 MPa were measured, with the aid of a self-designed electrochemical measurement set-up which can operate at high temperature and high pressure. Results show that increased temperatures benefit the oxidation of pyrite: at 40 MPa, when the temperature was rised from 200 to 350 °C, corrosion potential (E
-                     corr) decreased from -199.83 to -778.78 mV, corrosion current density (i
-                     corr) increased from 4.33 to 22.16 mA/cm2, polarization resistance (R
-                     p) decreases from 34.11 to 3.85 Ω·cm2, resistance of the passive layer (R
-                     pl) decreased from 42.16 to 2.48 Ω·cm2. Effects of pressure were also considered, at 300 °C, when pressure was increased from 25 to 40 MPa, E
-                     corr decreased from -621.48 to -713.25 mV, however, i
-                     corr and R
-                     p rarely changed.

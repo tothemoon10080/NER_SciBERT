@@ -1,3 +1,0 @@
-A process of recovering Ge by chlorinating roasting was put forward. GeCl4 was separated and recovered from lignite ash because of its low boiling point. Kinetic analysis indicates that the chlorinating roasting process fits with the unreacted-core shrinking model and the reaction rate equation corresponds to 1 − 2a/3 − (1 − a)2/3 = kt. The apparent activation energy E
-                     a is calculated to be 22.36 kJ·mol−1. The diffusion of product layer serves as the rate-controlling step in this process. When the roasting temperature is 250°C, the roasting time is 60 min, the concentration of hydrochloric acid is 10 mol/L, and the ratio of liquid to solid is 10 (m
-                     HCl/ash = 10), and 90% Ge in lignite ash can be recovered.

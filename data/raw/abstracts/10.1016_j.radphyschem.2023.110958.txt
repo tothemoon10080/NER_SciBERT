@@ -1,6 +1,0 @@
-In this study, the degradation of ciprofloxacin (CIP) was investigated in the synergetic system of electron beam irradiation (EBI) combined with graphite carbon nitride/carbon nanodots (g-C3N4/CDs). The results suggested that the presence of g-C3N4/CDs could not only promote the degradation of CIP but also significantly enhanced the mineralization ratio. At 25 kGy, the mineralization ratio increased from 18.1% to 69.0% while g-C3N4/CDs was added. Regeneration experiments revealed that the g-C3N4/CDs composite possessed good reusability. In addition to finding that the presence of CO3
-                     2−, HCO3
-                     −, NO3
-                     − and NO2
-                     − obviously restrained the radiolysis process of CIP, the adding of Cl− and SO4
-                     2− could also have slight inhibitory effects. The effect of various water matrices in EBI&g-C3N4/CDs systems suggested that the degradation efficiency decreased in lake and tap water. Moreover, the studies in the presence of different radical scavengers suggested that ·OH was the main reactive species in the degradation process. The possible degradation pathway of CIP was proposed in the light of intermediate products using Liquid chromatograph-mass spectrometer (LC–MS) analysis coupled with DFT calculations.

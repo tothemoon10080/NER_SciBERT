@@ -1,4 +1,0 @@
-A chemical model, based on Pitzer activity coefficient model, is developed with a speciation approach to describe the solubility and chemistry of nesquehonite in concentrated chloride solutions. The chemical equilibrium constants for nesquehonite and aqueous species, i.e. MgCO0
-                     3, MgHCO+
-                     3, and MgOH+, are precisely calculated as a function of temperature according to the Van't Hoff equation by use of standard Gibbs free energy, standard formation enthalpy and heat capacity. The most recent solubility data are regressed to obtain new Pitzer parameters with good agreement. The predictive ability of the new model is improved significantly in comparison with previous models. The behavior of speciation chemistry for nesquehonite in various chloride media is explained through this modeling work on the basis of the Mg/CO2−
-                     3 bearing species distribution, activity coefficient and pH changes.

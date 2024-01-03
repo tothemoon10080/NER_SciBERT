@@ -1,6 +1,0 @@
-A transient numerical model was applied to simulating the axial-directional crystallization purification (ADCP) process of gallium (Ga) raw material at different coolant temperatures (T
-                     c), and the evolutions of melt/crystal (m/c) interface shape, temperature distribution and thermal stresses were simulated and analyzed. The results showed that the m/c interface shape, temperature distribution, and thermal stress in the Ga material were determined by the T
-                     c in the crystallizer during the ADCP process. The temperature gradient and thermal stress in the grown Ga crystal increased with decreasing T
-                     c. At T
-                     c=15 °C, the m/c interface shape was flat, and the temperature gradient was ideal. Therefore, the Ga materials with lower thermal stresses and suitable m/c interface shape, and an ideal efficiency of impurity removal were obtained. The purity of Ga reached 6N standard by using ADCP process repeated 6 times at T
-                     c of 15 °C. The results of the simulation showed good agreement with the experimental results.

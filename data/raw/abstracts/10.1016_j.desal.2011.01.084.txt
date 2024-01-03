@@ -1,5 +1,0 @@
-Potential application of gas hydrate-based desalination was suggested with a novel apparatus design. The equipment continuously produces and pelletizes CO2 hydrates by a squeezing operation of a dual cylinder unit, which is able to extract hydrate pellets from the reactor containing hydrate slurries. Removal efficiencies for each dissolved mineral from seawater samples was also tested by Inductively Coupled Plasma Atomic Emission Spectroscopy (ICP-AES) analysis. In a single-stage hydrate process, 72–80% of each dissolved mineral was removed in the following order: K+
-                     >Na+
-                     >Mg2+
-                     >B3+
-                     >Ca2+. Our results also showed that ion rejection by the hydrate process strongly depends on the ionic size and charge. This study illustrates that the suggested method and apparatus may solve the separation difficulty between hydrate crystals and concentrated brine solutions, thus it can be applied for more effective desalination processes.

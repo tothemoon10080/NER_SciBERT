@@ -1,6 +1,0 @@
-Bubble surface area flux has been related to flotation performance and advocated as a key “machine variable”. Analysis of available data suggests that bubble surface area flux (Sb) and gas holdup (ε
-                     g) are related by Sb ∼ 5.5 ε
-                     g. This was the case for flotation columns and mechanical cells, both laboratory and plant scale, over the approximate range Sb < 130s−1 and ε
-                     g < 25%. A relationship is expected given their similar dependence on gas rate and bubble size (both increase as gas rate increases and bubble size decreases). Reasons that a relationship may be obscured, especially in full size units because of the difficulty in defining the overall Sb and ε
-                     g, are discussed. The possibility to replace Sb by ε
-                     g as the machine variable has the advantage that gas holdup is easier to measure.

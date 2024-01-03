@@ -1,6 +1,0 @@
-Experimental study of the kinetics of mechanosynthesis of TlCl nanoparticles in the reaction 2NaCl + Tl2SO4 + zNa2SO4 = = (z + 1)Na2SO4 + 2TlCl with z = z
-                     *
-                     1 = z
-                     * = 11.25 and comparison of kinetic parameters for this reaction with those determined theoretically for the model reaction KBr + TlCl + zKCl = (z + 1)KCl + TlBr with z = z
-                     *
-                     1 = 13.5 made it possible to estimate the mass transfer (mixing of particles) coefficient in a mechanochemical reactor by the mobile milling tools.

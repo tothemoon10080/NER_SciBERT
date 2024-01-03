@@ -1,4 +1,0 @@
-Ultrasonic speeds, densities and viscosities in binary liquid mixtures of quinoline with methanol at temperatures T=(303.15,308.15,313.15 and 318.15)K have been measured over the entire molefraction range. Ultrasonic velocities theoretically have been determined with the help of Nomoto relation (UNOM), Impedance relation (UIMP), Van-Dael and Vangeel relation (UVDV), Junjie relation (UJUN) and Rao’s specific velocity relation (URAO). Later experimentally measured values of velocities and theoretical evaluated values of velocities are compared with each other and it is found to be in a good agreement with each other. Also U2
-                     EXP
-                     / U2
-                     IMX has been obtained for non-ideality and molecular interactions in present liquids are discussed with this comparison

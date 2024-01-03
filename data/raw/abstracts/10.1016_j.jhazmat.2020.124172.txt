@@ -1,8 +1,0 @@
-In this study, the degradation of norfloxacin was investigated by ionizing radiation combined with Fenton-like oxidation in order to enhance the degradation and mineralization of norfloxacin. The result showed that the removal efficiency of norfloxacin was 100%, 81.8%, 64.5%, 51.9%, and 45.6% at 0.4 kGy radiation when its concentration was 5, 10, 20, 30, and 40 mg/L. Norfloxacin could be completely degraded over pH range of 3.06–10.96 at 2 kGy radiation. The presence of inorganic anions had obvious influence on the degradation of norfloxacin, which decreased from 89.4% to 59.0%, 76.9%, 86.9%, 88.7% and 83.9% in the presence of 10 mmol/L CO3
-                     2–, HCO3
-                     –, NO3
-                     –, SO4
-                     2
-                     –, Cl–, HPO4
-                     2
-                     –. The removal efficiency of norfloxacin decreased from 100% to 11.8%, 27.6% and 89.3% in the presence of peptone, glucose, and humic acid. The addition of Fenton-like catalysts, such as magnetite and goethite, could improve the mineralization ratio of norfloxacin because they could decompose hydrogen peroxide generated during the radiation process, to form hydroxyl radicals, leading to the enhancement of removal efficiency of norfloxacin. Finally, the intermediate products of norfloxacin degradation were analyzed by ultra-performance liquid chromatography-quadrupole time-of-flight mass spectrometry (UPLC-QTOF), and the degradation pathway was proposed.

@@ -1,1 +1,0 @@
-The authors regret that in the Acknowledgements section, it reads: “The authors wish to thank to ROHM & HAAS and CYTEC for the free samples of amines used”. The correct text should read: “The authors wish to thank to ROHM & HAAS and COGNIS for the free samples of amines used.”

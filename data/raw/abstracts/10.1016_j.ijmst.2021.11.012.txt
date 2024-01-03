@@ -1,4 +1,0 @@
-Marcasite (FeS2) is widespread in nature, its oxidation plays a vital role in acid mine drainage, mineral resource recovery, and photoelectric material applications. In this paper, the oxidation mechanism of marcasite has been studied for the first time using density functional theory (DFT). It is found that, unlike the oxidation of pyrite, the oxidation of marcasite merely occurs at surface S atoms. Under the coexistence of water and oxygen, S atoms around surface Fe atoms are replaced by O atoms. The surface S sites are initially oxidized to form S==O bonds, and continue to adsorb oxygen to gradually generate SO3
-                     2−, SO4
-                     2− species, and eventually FeSO4. In this process, H2O molecules participate in neither oxidation nor dissociation, and they are adsorbed on surface Fe sites in the form of molecules, i.e., all O atoms in SO4
-                     2− derive from oxygen rather than water molecules.

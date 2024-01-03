@@ -1,8 +1,0 @@
-Facilitated transport of silver and copper from cyanide solutions through a supported liquid membrane (SLM) containing K+-crown ether as a carrier is described. The SLM used is a thin porous polypropylene (Celgard 2500, 2400) membrane impregnated with dibenzo-18-crown-6 (DB18C6), diaza-18-crown-6 (DA18C6), hexathia-18- crown-6 (HT18C6) and hexaaza-18-crown-6 (HA18C6) dissolved in a mixture of ethanol/chloroform (v/v). K−
-                     +-crown ether showed a high efficiency to carry silver and copper as Ag(CN)3
-                     2− and Cu(CN)4
-                     3− species through the SLM. However, the mass flux of both silver and copper ions decreases when concentration of cyanide ions in the feed phase increases due to the difference in stability of the complexes M(CN)
-                        n
-                     
-                     
-                        n−(M=Ag, Cu) when n increases from 2 to 4. This was related to the partition of the species in the aqueous phase using a theoretical model.

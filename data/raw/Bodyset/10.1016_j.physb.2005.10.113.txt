@@ -1,6 +1,0 @@
-It is shown that charge transport in substituted manganites (La1/3Sm2/3)0.67Ba0.33−
-                     
-                        x
-                     Sr
-                        x
-                     MnO3 (x=0.0, 0.1, 0.2 and 0.33) is through polarons which are formed through electron–phonon interaction whose strength determines the mobility of the charge carrier. For weak coupling, the free phonon mode is only slightly affected but in strong coupling, the free phonon mode disappears and ‘displaced’ phonon modes appear. This is seen directly in IR spectra.The nature of the charge carriers and the mechanism of transport in (R Ramakrishnan Zener obtained a relation between electrical conductivity and double exchange which is similar to Einstein expression for a diffusion species with a temperature-independent diffusion constant, We treat the charge carriers as small polarons and describe them by the Holstein Hamiltonian used in Ref. Here, The detailed analysis of Franck–Condon transitions shows that polarons at one site interact with that at the neighbouring site and hopping can occur only if one site is occupied and the other is vacant. This gives a factor sech The scattering by phonons is proportional to lattice strain, For With the same parameters 

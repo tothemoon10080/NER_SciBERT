@@ -1,6 +1,0 @@
-A new composite two component grout comprised of modified urea–formaldehyde resin and cement was formulated to take account of the advantages and disadvantages of both the cement grout and the chemical grout. The new grout is designed for water blocking by reinforcing as well as seepage control by bore grouting. The A component consists of a modified urea–formaldehyde resin A component, some cement, and some water. The B component is an alkaline coagulant. An orthogonal test of four factors at three levels showed that gel time increased with increased water content and with urea–formaldehyde resin content. Gel time decreased at increased levels of alkaline coagulant. The A component of this new composite grout is stable over time. A mixed cross-over test showed that as the volume ratio of A to B increases the gel time falls at first but then increases. The solid strength decreases with increasing levels of the B component. The solid strength increases over time and becomes stable by the 28th day after mixing. The viscosity increases with increasing levels of resin A component. The increase is exponential and may be fit to: μ
-                     =8.162e
-                     0.0286
-                     
-                        x
-                     .

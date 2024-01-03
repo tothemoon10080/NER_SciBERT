@@ -1,7 +1,0 @@
-Based on screening analysis, laser size analysis, grindability and rigidity tests of samples collected on line from a cement and a power plant, a simulation of the grinding process in vertical roller mills was carried out. The simulation calculation used a breakage function, 
-                        B
-                     . The results indicate that the breakage function, 
-                        B
-                     , and the selection function, 
-                        S
-                     , in the form of a matrix, can be used to express the probability of the material breaking during the grinding process. This allows the size distribution of the product to be numerically estimated. The simulation results also show that the simulated size distribution curves fit the actual experimental product curves quite well. The model provides a good starting point for simulation of the grinding process. Further research is needed to determine the proper breakage function and the matrix value of the selection function.

@@ -1,9 +1,0 @@
-Background: Recovery from osteoporosis in anorexia nervosa (AN) is uncertain.
-                  
-                     Objective: The purpose of this study was to understand the changes in bone mineral density (BMD) in women with AN and the mechanisms of recovery from osteopenia.
-                  
-                     Design: We studied BMD and markers of bone formation and resorption, osteocalcin and N-telopeptide (NTX), in patients with AN (n = 28) who were following a behavioral weight-gain protocol.
-                  
-                     Results: Anorexic patients experienced significant percentage increases in BMD (4.38 ± 7.48% for spine; 3.77 ± 8.8% for hip; P< 0.05 for both) from admission until recovery of 90% ideal body weight, achieved over 2.2 mo. NTX concentrations were higher in patients with AN at admission than in healthy control subjects (n =11; 69.0 ± 31.09 and 48.3 ± 14.38 nmol/mmol creatinine, respectively; P< 0.05) and in reference control subjects (n = 30; 69.0 ± 31.09 and 37.0±6.00 nmol/mmol creatinine, respectively; P< 0.001). In weight-recovered subjects with AN, osteocalcin increased (from 8.0 ± 3.05 to 11.2 ± 6.54 ng/mL; P< 0.05), whereas NTX remained elevated (from 69.0 ± 31.09 to 66.7 ± 45.5 nmol/mmol creatinine; NS). A decrease in NTX (from 70.7 ± 40.84 to 45.9 ± 22.72 nmol/mmol creatinine; NS) occurred only in the subgroup of subjects who regained menses with weight recovery.
-                  
-                     Conclusions: Nutritional rehabilitation induces a powerful anabolic effect on bone. However, a fall of NTX and a shift from the dominant resorptive state, which we postulate involves full recovery, may involve a hormonal mechanism and require a return of menses. Nutritional rehabilitation appears to be critical to bone recovery and may explain the ineffectiveness of estrogen treatment alone on BMD in the cachectic state.

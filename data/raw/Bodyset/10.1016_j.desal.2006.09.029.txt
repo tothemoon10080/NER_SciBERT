@@ -1,6 +1,0 @@
-The transport of selected carboxylic acids [acetic (AA), citric (CA), lactic (LA), oxalic (OA) and tartaric (TA)] through an anion-exchange membrane Neosepta-AMH in a two-compartment continuous dialyzer has been investigated. Mass transfer rate has been quantified by permeability of the membrane for the individual carboxylic acids (P). This transport characteristic has been determined from the concentrations of the streams entering and leaving the dialyzer. For that purpose, a set of ordinary differential equations describing the concentration fields in both the compartments of the dialyzer has been numerically solved in connection with an optimizing procedure. The model used has considered mass transfer resistances in liquid films on both the sides of the membrane. All the experiments carried out at steady state have revealed that permeability of the Neosepta-AMH membrane is in the range from 7.50×10−9 to 3.57×10−7 m s−1 and it corresponds to the following series: PCA
-                      < PLA
-                      < PTA
-                      < PAA
-                      < POA
-                     .

@@ -1,1 +1,0 @@
-The surface tension of liquid Bi-Sn alloys has been calculated using the thermochemical application library ChemApp and thermodynamic data, which are usually applied to calculate various thermodynamic functions and phase equilibria, in a program, ChemSurf, for the calculation of surface tension.

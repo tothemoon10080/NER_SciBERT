@@ -1,7 +1,0 @@
-It is pretty challenging and difficult to quantitatively evaluate the intensity of dynamic disasters in deep mining engineering. Based on the uniaxial loading-unloading experiments for five types of rocks, this paper investigated the energy evolution characteristics, and identified the damage and crack propagation thresholds. Also, the fragment size distributions of the rocks after failure were analyzed. The energy release rate (G
-                     e) and energy dissipation rate (G
-                     d) were then proposed to describe the change of energies per unit volume and per unit strain. Results demonstrated that the more brittle rocks had the shorter stage of unstable crack growth and the lower induced damage at crack damage thresholds. The evolution characteristics of the strain energy rates can be easily identified by the crack propagation thresholds. The failure intensity index (FI
-                     d), which equals to the values of G
-                     e/G
-                     d at the failure point, was further put forth. It can account for the brittleness of the rocks, the intensity of rock failure as well as the degree of rock fragmentation. It was revealed that a higher FI
-                     d corresponded to a lower fractal dimension and stronger dynamic failure.

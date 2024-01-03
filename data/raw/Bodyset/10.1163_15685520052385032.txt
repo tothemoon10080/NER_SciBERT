@@ -1,3 +1,0 @@
-Abstract
-                  Preheating of gibbsite at 250°C brought about a phase transition to boehmite and an increase in the specific surface area as a consequence of partial dehydration. The preheated sample amorphizes completely by milling with a planetary ball mill for 2 h. Faster activation of preheated gibbsite is demonstrated by the integral heat of hydration, ΔHh, with Ca(OH)2 in an aqueous milieu. By using preheated gibbsite after milling for 1 h, δHh
-                      is almost the same as that by using gibbsite after milling for 3 h without preheating. Judging from ΔHh, continuous milling of gibbsite without cooling reduces the degree of activation down to 1/10. In contrast, no such reduction is observed when gibbsite is preheated.

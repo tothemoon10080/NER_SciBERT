@@ -1,6 +1,0 @@
-The photo-activated persulfate oxidation technology for efficient mineralization of 2,2,3,3-tetrafluoro-1-propanol (TFP) was investigated. The chemical bonds of TFP molecule could be efficiently broken by the sulfate radicals (SO4
-                     −
-                     ) with high redox potential (E
-                     0
-                     =2.6V) produced from persulfate (S2O8
-                     2−) photolysis. The initial pH value insignificantly influenced the treatment's efficiency, while the UV intensity and oxidant dosage which affected the generation of sulfate radicals could greatly enhance the TOC removal. Under UV irradiation (254nm, 13W×3 lamps) and with an initial persulfate/TFP molar ratio about 4, above 99.5% TOC was reduced in 60min. All sulfur species in the reaction solution were eventually transformed to sulfate ions. According to the fluoride ion releasing in advance of TOC removal, UV/persulfate was supposed to initially decompose TFP into intermediates with lower fluorinated forms, which were then mineralized in following reactions.

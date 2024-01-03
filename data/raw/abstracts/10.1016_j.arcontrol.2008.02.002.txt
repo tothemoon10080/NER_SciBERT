@@ -1,1 +1,0 @@
-This paper examines the opportunities arising from the use of optimization in the fields of mining, metal and mineral (MMM) processing. A brief overview of optimization is given. Our main goal in this paper is to raise awareness to the use of optimization as a key enabling technology in the MMM field.

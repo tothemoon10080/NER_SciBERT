@@ -1,7 +1,0 @@
-The internal mechanism of the high hydrophobicity of the coal samples from the Pingdingshan mining area was studied through industrial, element, and surface functional group analysis. Laboratory testing and molecular dynamics simulations were employed to study the impact of three types of surfactants on the surface adsorption properties and wettability of highly hydrophobic bituminous coal. The results show that the surface of highly hydrophobic bituminous coal is compact, rich in inorganic minerals, and poorly wettable and that coal molecules are dominated by hydrophobic functional groups of aromatic rings and aliphatic structures. The wetting performance of surfactants as the intermediate carrier to connect coal and water molecules is largely determined by the interaction force between surfactants and coal (F
-                     s
-                     -
-                     c) and the interaction force between surfactants and water (F
-                     s
-                     -
-                     w), which effectively improve the wettability of modified coal dust via modifying its surface electrical properties and surface energy. A new type of wetting agent with a dust removal rate of 89% has been developed through discovery of a compound wetting agent solution with optimal wetting and settling performance. This paper provides theoretical and technical support for removing highly hydrophobic bituminous coal dust in underground mining.

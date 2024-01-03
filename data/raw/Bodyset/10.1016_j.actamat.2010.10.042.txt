@@ -1,1 +1,0 @@
-The authors regret that there is an error in Eq. (3); namely, a division by two was somehow omitted. The correct version of Eq.

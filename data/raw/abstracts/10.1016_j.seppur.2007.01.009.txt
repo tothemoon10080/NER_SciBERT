@@ -1,7 +1,0 @@
-This study deals with the mineralization of N-methyl-2-pyrolidone (NMP) by ozonation in a semi-batch lab scale reactor. NMP degradation was not inhibited in the presence of hydroxyl scavengers at acidic medium (pH 3), which indicated that the degradation was only due to ozone. The direct reaction rate constant (k
-                     D) was found to be 1.99M−1
-                     s−1. The Effect of various physicochemical operating conditions for efficient mineralization was investigated. Total organic carbon (TOC) removal was efficient at pH 10 and 34.5% of TOC enhancement was noted when the solution pH increases from 3 to 10, which confirmed that radical induced mineralization was more efficient. The effect of various influent ozone gas dosages shows that 18.4mg/(lmin) was found to be optimum and further increase in the ozone dosage did not enhance the TOC removal rate. When the ozone gas flow rate increases from 100ml/min to 300ml/min, the volumetric mass transfer coefficient (k
-                     L
-                     a) increased as well. Increase in the reaction temperature from 5°C to 50°C enhances the TOC removal rate and the removal rate was not significant above 25°C. The TOC removal and nitrate formation efficiencies of NMP at various advanced oxidation processes (AOPs) were in the following order UV/O3
-                     >O3
-                     >UV/H2O2.

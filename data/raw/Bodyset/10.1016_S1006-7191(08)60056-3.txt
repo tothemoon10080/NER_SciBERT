@@ -1,1 +1,0 @@
-The mixing enthalpies of 23 binary liquid alloys are calculated by molecular interaction volume model (MIVM), which is a two-parameter model with the partial molar infinite dilute mixing enthalpies. The predicted values are in agreement with the experimental data and then indicate that the model is reliable and convenient.

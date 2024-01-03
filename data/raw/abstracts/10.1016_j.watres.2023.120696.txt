@@ -1,8 +1,0 @@
-Superoxide radical (•O2
-                     −) is capable of degrading perfluorinated compounds that are persistent in nature and cannot be removed by biological or advanced oxidation treatments, but the inherent drawback is the negligible reactivity of •O2
-                     −in aqueous phases due to the hydration effect. Here, we explored an innovative way to make use of •O2
-                     − by modulating a partial hydration state through spatial confinement control. We demonstrated this idea by conducting heterogeneous Fenton reaction with layered iron oxychloride (FeOCl) catalyst, wherein •O2
-                     −radicals produced and confined within the catalyst structure (interlayer spacing of 7.92 Å) showed defluorination effect dealing with perfluorooctanoic acid (PFOA) as model compound. The defluorination combined with advanced oxidation achieved mineralization. Mechanism study revealed that the confinement frustrated the hydration shell of •O2
-                     −with coordination number reduced from 3.3 (for bulk phase) to 1.89, and thereby changed its orbital electron properties and enhanced the nucleophilic ability. We further demonstrated a compact FeOCl membrane reactor with highly efficient degradation of PFOA (k
-                     obs up to 1.2 min−1) and cost-effective mineralization (2 × 10−6 $ per mgC), operated under ultrafiltration reaction mode. Our findings highlight the great interest of developing spatial confinement technology to modulate •O2
-                     −-based reactions, as well as the feasibility of combining confinement catalyst structures with heterogeneous Fenton reaction to achieve the mineralization treatment goal.

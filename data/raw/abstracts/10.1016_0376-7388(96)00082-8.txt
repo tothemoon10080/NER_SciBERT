@@ -1,8 +1,0 @@
-This paper investigates the possibility of finding periodic flow regimes consisting of alternate phases of filtration and membrane cleaning leading to large steady state permeate fluxes, at least when the flux decline is mostly due to the deposited cake layer on the membrane surface. This technique was tested on microfiltration of CaCO3 suspensions (100 g/l) at 30°C with 0.1 μm pores tubular ceramic membranes. Cleaning phases were carried out at zero transmembrane pressures (P
-                     tm) and normal velocities (4 m/s) while during the filtration phasesthe P
-                     tm was raised to get a time average (
-                        P
-                        
-                           tm
-                        
-                     ) of 3.2 bar in all the test and the velocity reduced to 0.5 m/s. Optimal durations of these phases were found to be in the vicinity of 0.5 s for cleaning and 10 s for filtration. The hydraulic energies were computed by integrating pressure and flow signals and compared with the hydraulic energy required to produce the same permeate flux (700 1/h m2) at steady flow. Since a velocity of 6.3 m/s was required in this case, the intermittent filtration technique dramatically reduces the specific hydraulic energy required.

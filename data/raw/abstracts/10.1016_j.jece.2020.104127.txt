@@ -1,9 +1,0 @@
-In this work, UV-based and electrochemical processes were proposed for formic acid (FA) mineralization, from an effluent generated on the nitrate catalytic reduction reaction. The results show that although direct photolysis (DP) does not have the ability to mineralize FA, heterogeneous photocatalysis (HP), photo-assisted electrochemical oxidation (PEO) and electrochemical oxidation (EO) have. In fact, it has been shown that FA mineralization is governed by the electrochemical process. When nitrate was added in the FA solution, all process exhibited an increase in FA mineralization, mainly for DP. For UV-based process, this fact can be linked to the nitrate photolysis generating hydroxyl radicals (
-                        
-                           
-                              H
-                              O
-                           
-                           •
-                        
-                     ). On the other hand, the mineralization increase observed on the EO process, is associated with the increase in charge transfer, considering that the generation of oxidants is a rate-limiting-step, showing pseudo-zero-order constants for DP and HP, and pseudo-first-order for PEO and EO. The best results of FA mineralization with the smallest energy consumption was obtained by the electrochemical process. Besides, EO was not negatively influenced by the addition of nitrate.
