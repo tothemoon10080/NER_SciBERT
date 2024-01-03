@@ -18,6 +18,7 @@
 1. 使用了Kaggle数据集：[Mineral Processing Research](https://www.kaggle.com/datasets/tothemoon08/dataset-of-papers-in-mineral-processing
 ) 来预训练SciBERT模型
 2. 为了创建 NER 数据集，我收集了约500篇与矿物加工高度相关的英文论文，对其中约100篇论文的摘要部分进行了实体标注。此数据集可在.data文件夹下找到。
+3. 模型在conll2003数据集上表现良好
 
 ## 使用
 
