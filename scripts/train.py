@@ -71,7 +71,6 @@ model = SciBertBiLSTMCRF(bert_model, hidden_dim=128, num_tags=len(label_map))
 optimizer = torch.optim.Adam(model.parameters(), lr=5e-5)
 epochs = 5
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
-# device = torch.device('cpu')
 model = model.to(device)
 
 def flat_accuracy(preds, labels):
@@ -153,3 +152,8 @@ for epoch in range(epochs):
 
     print("Validation Accuracy: {}".format(eval_accuracy))
     print("Validation F1-Score: {}".format(f1))
+
+# 保存模型的状态字典
+save_path = os.path.join(project_dir, 'models', 'finetuned_scibert_bilstm_crf.pth')
+torch.save(model.state_dict(), save_path)
+print(f"Model saved to {save_path}")
