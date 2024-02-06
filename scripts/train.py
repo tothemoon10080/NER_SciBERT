@@ -7,7 +7,6 @@ from tqdm import tqdm
 from sklearn.metrics import f1_score
 from pathlib import Path
 from transformers import AutoTokenizer
-from sklearn.utils.class_weight import compute_class_weight
 
 current_dir = Path(__file__).resolve().parent
 project_dir = current_dir.parent
