@@ -6,7 +6,6 @@
 2. 从预训练任务中移除了下一句预测(NSP)，这会有效提高下流任务的性能。
 3. 采用SciBERT-BiLSTM-CRF架构在NER任务中表现出色。
 	
-1/3/2024 更新后预训练SciBert模型部分代码被移除
 ## 安装
 
 要安装和运行 NER_SciBERT，请按照以下步骤操作：
@@ -40,6 +39,7 @@
     - utils/
   - scripts/
     - train.py
+    - pertraing.py
   - logs/
   - requirements.txt
   - setup.py
